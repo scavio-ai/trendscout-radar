@@ -29,9 +29,9 @@ dev = ["pytest>=8,<9"]
 trendscout = "trendscout.cli:main"
 
 [project.urls]
-Homepage = "https://trends.scavio.dev"
-Source = "https://github.com/scavio-ai/trendscout"
-Issues = "https://github.com/scavio-ai/trendscout/issues"
+Homepage = "https://scavio-ai.github.io/trendscout-radar/"
+Source = "https://github.com/scavio-ai/trendscout-radar"
+Issues = "https://github.com/scavio-ai/trendscout-radar/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["trendscout"]

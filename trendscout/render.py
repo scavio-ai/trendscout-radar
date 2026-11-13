@@ -17,7 +17,7 @@ from .model import Item, normalize
 from .alerts import PLATFORM_NAMES, detail
 from .rank import Entry, Report
 
-REPO_URL = "https://github.com/scavio-ai/trendscout"
+REPO_URL = "https://github.com/scavio-ai/trendscout-radar"
 SCAVIO_URL = "https://scavio.dev/?utm_source=github&utm_medium=report&utm_campaign=trendscout"
 
 

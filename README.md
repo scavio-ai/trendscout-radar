@@ -1,10 +1,10 @@
 # TrendScout
 
-[![ci](https://github.com/scavio-ai/trendscout/actions/workflows/ci.yml/badge.svg)](https://github.com/scavio-ai/trendscout/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)
+[![ci](https://github.com/scavio-ai/trendscout-radar/actions/workflows/ci.yml/badge.svg)](https://github.com/scavio-ai/trendscout-radar/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)
 
 **An open-source trend radar for TikTok, YouTube, Reddit, Google, X and the news.** Tell it the topics you care about. It checks every trending list and the news on your schedule, and pings you on Telegram, Discord, Slack, email or your phone when something new shows up. Runs on your own computer or free on GitHub Actions.
 
-**See it live: [trends.scavio.dev](https://trends.scavio.dev)**, what is trending right now on TikTok, Google, X, Reddit and Hacker News, rebuilt every 3 hours by this repo's own workflow.
+**See it live: [scavio-ai.github.io/trendscout-radar](https://scavio-ai.github.io/trendscout-radar/)**, what is trending right now on TikTok, Google, X, Reddit and Hacker News, rebuilt every 3 hours by this repo's own workflow.
 
 Three ways to run it:
 
@@ -27,7 +27,7 @@ Three ways to run it:
 - **A real app, no YAML needed.** A setup wizard, a live preview of your next alert, a test button for every channel, and starter topic sets for AI, e-commerce, beauty, fitness and gaming.
 - **Keeps working in the background.** On macOS and Linux it can start at login and keep scanning on your schedule.
 - **Your data stays with you.** Plain JSON files on your disk (or in your GitHub repo). No database, no account with us.
-- **A public trend page if you want one.** On GitHub Pages it publishes a page like [trends.scavio.dev](https://trends.scavio.dev), with an RSS feed, and leaves out anything with profanity or adult content.
+- **A public trend page if you want one.** On GitHub Pages it publishes a page like [this one](https://scavio-ai.github.io/trendscout-radar/), with an RSS feed, and leaves out anything with profanity or adult content.
 
 ## Compared with
 
@@ -138,7 +138,7 @@ Why a key for TikTok, Reddit and X? None of them has a free public API that work
 
 It then runs every day at 13:17 UTC; change the cron line in `.github/workflows/radar.yml` for another schedule. History is committed to a `radar-data` branch of your fork.
 
-**Publish a report page:** add a repository variable `PAGES` = `true` and set *Settings, Pages, Source* to *GitHub Actions*. Your report appears at `https://<you>.github.io/trendscout/`, and alerts link to it. Using your own domain? Set it under *Settings, Pages* and add a variable `SITE_URL` with the full address.
+**Publish a report page:** add a repository variable `PAGES` = `true` and set *Settings, Pages, Source* to *GitHub Actions*. Your report appears at `https://<you>.github.io/trendscout-radar/`, and alerts link to it. Using your own domain? Set it under *Settings, Pages* and add a variable `SITE_URL` with the full address.
 
 The page is built to be shared and found:
 

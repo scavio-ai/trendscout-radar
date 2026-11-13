@@ -16,7 +16,7 @@ const TOKEN_KEY = "trendscout-token";
 })();
 const TOKEN = localStorage.getItem(TOKEN_KEY) || "";
 
-const REPO_URL = "https://github.com/scavio-ai/trendscout";
+const REPO_URL = "https://github.com/scavio-ai/trendscout-radar";
 const SCAVIO_URL = "https://scavio.dev/?utm_source=github&utm_medium=ui&utm_campaign=trendscout";
 const PLATFORMS = { tiktok: "TikTok", youtube: "YouTube", reddit: "Reddit", google: "Google", x: "X", hackernews: "Hacker News", news: "News" };
 const TRENDING_SOURCES = new Set(["tiktok_searches", "tiktok_videos", "tiktok_sounds", "google_trending", "google_trends_rss", "x_trends", "reddit_trending", "reddit_popular", "hackernews"]);

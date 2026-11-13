@@ -5,7 +5,7 @@ Thanks for helping. Bug reports, new sources and fixes are all welcome.
 ## Set up
 
 ```bash
-git clone https://github.com/scavio-ai/trendscout && cd trendscout
+git clone https://github.com/scavio-ai/trendscout-radar && cd trendscout-radar
 uv venv && uv pip install -e ".[dev]"
 pytest
 trendscout ui          # the app, on http://127.0.0.1:8765

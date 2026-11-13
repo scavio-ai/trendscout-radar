@@ -71,8 +71,14 @@ jobs:
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
-          SITE_URL: ${{ vars.SITE_URL || (vars.PAGES == 'true' && format('https://{0}.github.io/{1}/', github.repository_owner, github.event.repository.name) || '') }}
-        run: trendscout run --state-dir state
+          SITE_URL: ${{ vars.SITE_URL }}
+          PAGES: ${{ vars.PAGES }}
+        run: |
+          # default page address: https://<owner>.github.io/<repo>/ (scheduled runs carry no repository payload)
+          if [ -z "$SITE_URL" ] && [ "$PAGES" = "true" ]; then
+            export SITE_URL="https://${GITHUB_REPOSITORY_OWNER}.github.io/${GITHUB_REPOSITORY#*/}/"
+          fi
+          trendscout run --state-dir state
 
       - name: Save history
         working-directory: state

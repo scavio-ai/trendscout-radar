@@ -52,7 +52,7 @@ def make_http() -> httpx.Client:
     return httpx.Client(
         timeout=30,
         follow_redirects=True,
-        headers={"User-Agent": f"trendscout/{__version__} (+https://github.com/scavio-ai/trendscout)"},
+        headers={"User-Agent": f"trendscout/{__version__} (+https://github.com/scavio-ai/trendscout-radar)"},
     )
 
 

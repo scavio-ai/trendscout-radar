@@ -1,0 +1,103 @@
+# Runs the radar on a schedule, keeps its history on the `radar-data` branch,
+# and (optionally) publishes the report page to GitHub Pages.
+#
+# Setup: Settings -> Secrets and variables -> Actions
+#   Secret   SCAVIO_API_KEY        unlocks TikTok, YouTube, Reddit and X (optional; free sources run without it)
+#   Secrets  TELEGRAM_BOT_TOKEN + TELEGRAM_CHAT_ID, DISCORD_WEBHOOK_URL, SLACK_WEBHOOK_URL,
+#            NTFY_TOPIC, WEBHOOK_URL, SMTP_HOST + SMTP_PORT + SMTP_USER + SMTP_PASSWORD + EMAIL_FROM + EMAIL_TO
+#   Secret   LLM_API_KEY, variables LLM_MODEL (+ LLM_BASE_URL) for the optional AI briefing
+#   Variable PAGES = true to publish the report page (also set Settings -> Pages -> Source: GitHub Actions)
+#   Variable SITE_URL = https://your.domain/ if the page has a custom domain (default: the github.io address)
+#   Variable SCAN_EVERY_3_HOURS = true to scan every 3 hours instead of once a day (about 8x the credits)
+
+name: radar
+
+on:
+  schedule:
+    - cron: "17 13 * * *" # every day at 13:17 UTC; add lines for more runs
+    - cron: "17 1,4,7,10,16,19,22 * * *" # the other 3-hourly scans; skipped unless SCAN_EVERY_3_HOURS is true
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
+jobs:
+  run:
+    if: github.event_name != 'schedule' || github.event.schedule == '17 13 * * *' || vars.SCAN_EVERY_3_HOURS == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install
+        run: pip install .
+
+      - name: Check out history (radar-data branch)
+        run: |
+          git config user.name "trendscout"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git fetch --depth=1 origin radar-data 2>/dev/null; then
+            git worktree add -B radar-data state FETCH_HEAD
+          else
+            git worktree add --orphan -b radar-data state
+          fi
+
+      - name: Run radar
+        env:
+          SCAVIO_API_KEY: ${{ secrets.SCAVIO_API_KEY }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_MODEL: ${{ vars.LLM_MODEL }}
+          LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_SERVER: ${{ vars.NTFY_SERVER }}
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          SITE_URL: ${{ vars.SITE_URL || (vars.PAGES == 'true' && format('https://{0}.github.io/{1}/', github.repository_owner, github.event.repository.name) || '') }}
+        run: trendscout run --state-dir state
+
+      - name: Save history
+        working-directory: state
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nothing new to save."
+          else
+            git commit -q -m "radar $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push -q origin radar-data
+          fi
+
+      - name: Upload page
+        if: vars.PAGES == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: state/site
+
+  pages:
+    if: vars.PAGES == 'true'
+    needs: run
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4

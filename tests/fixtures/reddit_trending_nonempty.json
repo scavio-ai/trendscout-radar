@@ -1,0 +1,34 @@
+{
+ "data": {
+  "trending": [
+   {
+    "query": "General Motors $220 Million OnStar Settlement",
+    "raw_query": "General Motors $220 Million OnStar Settlement"
+   },
+   {
+    "query": "UC San Diego AI Town Hall",
+    "raw_query": "UC San Diego AI Town Hall"
+   },
+   {
+    "query": "Vanderbilt University Cybersecurity Incident",
+    "raw_query": "Vanderbilt University Cybersecurity Incident"
+   },
+   {
+    "query": "Trinidad and Tobago Anti-Gay Laws Overturned",
+    "raw_query": "Trinidad and Tobago Anti-Gay Laws Overturned"
+   },
+   {
+    "query": "Qualcomm November Layoffs",
+    "raw_query": "Qualcomm November Layoffs"
+   },
+   {
+    "query": "PWHL Expansion Team Branding Reveal",
+    "raw_query": "PWHL Expansion Team Branding Reveal"
+   }
+  ],
+  "total_count": 6
+ },
+ "response_time": 1001,
+ "credits_used": 1,
+ "credits_remaining": 68309
+}

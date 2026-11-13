@@ -1,0 +1,31 @@
+name: Bug report
+description: Something does not work as described
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, what you expected and what you saw. Paste errors as text.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: The output of `trendscout --version`
+    validations:
+      required: true
+  - type: dropdown
+    id: where
+    attributes:
+      label: Where it runs
+      options: [My computer (trendscout ui), Command line, GitHub Actions, Docker]
+    validations:
+      required: true
+  - type: textarea
+    id: config
+    attributes:
+      label: config.yaml
+      description: The relevant part. Keys and webhook URLs are never in this file, but check before pasting.
+      render: yaml

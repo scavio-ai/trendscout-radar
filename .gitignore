@@ -1,0 +1,16 @@
+# Local run output (on GitHub, history lives on the radar-data branch)
+/data/
+/reports/
+/site/
+/state/
+
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+.trendscout-token
+trendscout.log

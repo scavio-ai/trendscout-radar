@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if indexable %}{{ page.title }}{% else %}Trends on {{ r.taken_at | when }} (archive){% endif %}</title>
+<meta name="description" content="{{ page.description }}">
+{% if indexable %}
+<meta name="robots" content="index, follow, max-image-preview:large">
+{% if page.url %}<link rel="canonical" href="{{ page.url }}">{% endif %}
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{ page.title }}">
+<meta property="og:description" content="{{ page.description }}">
+{% if page.url %}<meta property="og:url" content="{{ page.url }}">{% endif %}
+{% if page.image %}<meta property="og:image" content="{{ page.image }}">
+<meta property="og:image:width" content="1280">
+<meta property="og:image:height" content="640">
+<meta property="og:image:alt" content="TrendScout: what is trending on TikTok, Google, X, Reddit and Hacker News">{% endif %}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ page.title }}">
+<meta name="twitter:description" content="{{ page.description }}">
+{% if page.image %}<meta name="twitter:image" content="{{ page.image }}">{% endif %}
+<link rel="alternate" type="application/rss+xml" title="What's trending today" href="{{ (page.url or '') ~ 'feed.xml' }}">
+<script type="application/ld+json">{{ page.jsonld | safe }}</script>
+{% else %}
+<meta name="robots" content="noindex, follow">
+{% endif %}
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%232563eb' stroke-width='2.4' stroke-linecap='round'%3E%3Cpath d='M12 3a9 9 0 1 0 9 9M12 7a5 5 0 1 0 5 5M12 12l7-7'/%3E%3C/svg%3E">
+<style>
+  * { box-sizing: border-box; }
+  body { margin: 0; background: #fafafa; color: #1f2937; font: 15px/1.55 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  a { color: #1d4ed8; }
+  .page { padding: 28px 16px 60px; }
+  .card { max-width: 760px; margin: 0 auto; background: #fff; border: 1px solid #e5e7eb; border-radius: 10px; overflow: hidden; }
+  .header { padding: 26px 26px 20px; border-bottom: 1px solid #e5e7eb; }
+  .header h1 { font-size: 26px; line-height: 1.25; margin: 0; color: #111827; letter-spacing: -0.01em; }
+  .updated { margin: 6px 0 0; color: #4b5563; font-size: 14px; }
+  .intro { margin: 14px 0 0; color: #374151; max-width: 62ch; }
+  .cta { margin: 14px 0 0; padding: 12px 14px; border-left: 3px solid #2563eb; background: #f8fafc; color: #1f2937; font-size: 14px; max-width: 62ch; }
+  .cta a { font-weight: 600; }
+  .jump { margin: 16px 0 0; display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 13px; }
+  .jump span { color: #6b7280; }
+  .body { padding: 0 26px 26px; }
+  .briefing { margin-top: 20px; padding: 12px 14px; border-radius: 8px; background: #f9fafb; border: 1px solid #e5e7eb; white-space: pre-line; }
+  .group { margin-top: 28px; scroll-margin-top: 12px; }
+  .group-head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; padding-bottom: 10px; border-bottom: 1px solid #ececec; }
+  .group-head h2 { font-size: 18px; line-height: 1.3; font-weight: 700; color: #111827; margin: 0; }
+  .count { font-size: 13px; font-weight: 700; color: #4b5563; margin-left: 8px; }
+  .count.hot { color: #b91c1c; }
+  .index { font-size: 12px; color: #6b7280; white-space: nowrap; }
+  ol.items { list-style: none; margin: 0; padding: 0; }
+  .item { display: flex; gap: 12px; padding: 13px 0; border-bottom: 1px solid #f3f4f6; }
+  .num { flex: none; width: 24px; height: 24px; border-radius: 50%; background: #f3f4f6; color: #4b5563; font-size: 12px; font-weight: 700; display: grid; place-items: center; }
+  .content { min-width: 0; }
+  .meta { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-bottom: 3px; }
+  .source { color: #4b5563; font-size: 12px; font-weight: 600; }
+  .rank { color: #fff; background: #4b5563; font-size: 11px; font-weight: 700; padding: 1px 7px; border-radius: 10px; }
+  .rank.top { background: #b91c1c; }
+  .rank.high { background: #c2410c; }
+  .time { color: #6b7280; font-size: 12px; }
+  .times { color: #15803d; font-size: 12px; font-weight: 600; }
+  .new { color: #fff; background: #1d4ed8; font-size: 11px; font-weight: 700; padding: 1px 6px; border-radius: 4px; }
+  .plat { font-size: 12px; font-weight: 600; color: #374151; background: #f3f4f6; padding: 1px 8px; border-radius: 999px; }
+  .title { font-size: 15px; font-weight: 500; color: #1d4ed8; text-decoration: none; line-height: 1.4; overflow-wrap: anywhere; }
+  a.title:hover { text-decoration: underline; }
+  span.title { color: #111827; }
+  .evidence { font-size: 13px; color: #4b5563; margin-top: 3px; }
+  .evidence a { color: #374151; }
+  .part { margin: 36px 0 0; font-size: 13px; font-weight: 600; color: #4b5563; }
+  .faq { margin-top: 36px; }
+  .faq h2 { font-size: 18px; margin: 0 0 6px; color: #111827; }
+  .faq h3 { font-size: 15px; margin: 18px 0 4px; color: #111827; }
+  .faq p { margin: 0; color: #374151; max-width: 66ch; }
+  .footer { padding: 18px 26px; background: #f8f9fa; border-top: 1px solid #e5e7eb; color: #4b5563; font-size: 13px; }
+  .footer a { color: #374151; }
+  .archive { margin-top: 6px; font-size: 12px; }
+  .archive a { color: #4b5563; margin-right: 8px; }
+  @media (max-width: 560px) {
+    .page { padding: 0 0 40px; }
+    .card { border-radius: 0; border-left: 0; border-right: 0; }
+    .header, .body { padding-left: 16px; padding-right: 16px; }
+    .header h1 { font-size: 22px; }
+  }
+</style>
+</head>
+<body>
+{% macro rank_badge(best, worst) -%}
+<span class="rank{% if best <= 5 %} top{% elif best <= 10 %} high{% endif %}">#{{ best }}{% if worst != best %}-{{ worst }}{% endif %}</span>
+{%- endmacro %}
+{% macro title_link(text, url) -%}
+{% if url %}<a class="title" href="{{ url }}" rel="nofollow noopener" target="_blank">{{ text[:200] }}</a>{% else %}<span class="title">{{ text[:200] }}</span>{% endif %}
+{%- endmacro %}
+{% set topics_with_hits = r.topics | selectattr("hits") | list %}
+{% set total_groups = topics_with_hits | length + (1 if r.cross else 0) + r.sections | length %}
+<div class="page"><main class="card">
+  <header class="header">
+    <h1>{% if indexable %}What's trending today{% else %}Trends on {{ r.taken_at | when }}{% endif %}</h1>
+    <p class="updated">Updated {{ page.updated }}{% if r.previous_at %}. {{ r.new_count }} new since the update before{% endif %}.</p>
+    {% if indexable %}
+    <p class="intro">The trending lists of {{ page.platforms or "the web" }}, side by side and refreshed on a schedule. NEW marks what appeared since the last update; the number is the position on that platform's own list.</p>
+    <p class="cta">Want this for your own topics? <a href="{{ repo_url }}">TrendScout</a> is free and open source. It runs on GitHub Actions or your own computer and sends what is new to Telegram, Discord, Slack or email.</p>
+    {% else %}
+    <p class="intro"><a href="../">See what is trending now</a>.</p>
+    {% endif %}
+    {% if r.sections or topics_with_hits %}
+    <nav class="jump" aria-label="On this page"><span>On this page:</span>
+      {% if r.cross %}<a href="#cross-platform">On several platforms</a>{% endif %}
+      {% for section in r.sections %}<a href="#{{ section.source | replace('_', '-') }}">{{ page.headings[section.source] }}</a>{% endfor %}
+      {% if topics_with_hits %}<a href="#topics">Topics</a>{% endif %}
+      {% if indexable %}<a href="#questions">Questions</a>{% endif %}
+    </nav>
+    {% endif %}
+  </header>
+  <div class="body">
+    {% if r.summary %}<div class="briefing">{{ r.summary }}</div>{% endif %}
+    {% set ns = namespace(n=0) %}
+
+    {% if r.cross %}{% set ns.n = ns.n + 1 %}
+    <section class="group" id="cross-platform">
+      <div class="group-head"><h2>Trending on more than one platform<span class="count hot">{{ r.cross | length }}</span></h2><span class="index">{{ ns.n }}/{{ total_groups }}</span></div>
+      <ol class="items">
+      {% for s in r.cross %}
+      <li class="item"><div class="num" aria-hidden="true">{{ loop.index }}</div><div class="content">
+        <div class="meta">{% for p in s.platforms %}<span class="plat">{{ platform_name(p) }}</span>{% endfor %}{% if s.status == "new" %}<span class="new">NEW</span>{% endif %}</div>
+        {{ title_link(s.title, s.lead.url) }}
+        {% for it in s.items[1:3] %}<div class="evidence">{{ platform_name(it.platform) }}: {% if it.url %}<a href="{{ it.url }}" rel="nofollow noopener" target="_blank">{{ it.title[:110] }}</a>{% else %}{{ it.title[:110] }}{% endif %}</div>{% endfor %}
+      </div></li>
+      {% endfor %}
+      </ol>
+    </section>
+    {% endif %}
+
+    {% for section in r.sections %}{% set ns.n = ns.n + 1 %}
+    <section class="group" id="{{ section.source | replace('_', '-') }}">
+      <div class="group-head"><h2>{{ page.headings[section.source] }}<span class="count">{{ section.entries | length }}</span></h2><span class="index">{{ ns.n }}/{{ total_groups }}</span></div>
+      <ol class="items">
+      {% for e in section.entries %}
+      <li class="item"><div class="num" aria-hidden="true">{{ loop.index }}</div><div class="content">
+        <div class="meta">
+          {# The heading names the platform and the circle is the rank; show the rank only when filtering left a gap. #}
+          {% if e.item.rank != loop.index %}{{ rank_badge(e.item.rank, e.item.rank) }}{% endif %}
+          {% set m = metric_text(e.item) %}{% if m %}<span class="time">{{ m }}</span>{% endif %}
+          {% if e.status == "new" %}<span class="new">NEW</span>{% elif e.status == "up" %}<span class="times">up {{ e.change }}</span>{% endif %}
+        </div>
+        {{ title_link(e.item.title, e.item.url) }}
+      </div></li>
+      {% endfor %}
+      </ol>
+    </section>
+    {% endfor %}
+
+    {% if topics_with_hits %}
+    <p class="part" id="topics">Topics this radar follows</p>
+    {% for tr in topics_with_hits %}{% set ns.n = ns.n + 1 %}
+    <section class="group">
+      <div class="group-head"><h2>{{ tr.topic.name }}<span class="count{% if tr.new_count %} hot{% endif %}">{% if tr.new_count %}{{ tr.new_count }} new{% else %}{{ tr.total }}{% endif %}</span></h2><span class="index">{{ ns.n }}/{{ total_groups }}</span></div>
+      <ol class="items">
+      {% for h in tr.hits %}
+      <li class="item"><div class="num" aria-hidden="true">{{ loop.index }}</div><div class="content">
+        <div class="meta">
+          <span class="source">{{ platform_name(h.item.platform) }}</span>
+          {% if h.trending %}{{ rank_badge(h.seen.best if h.seen else h.item.rank, h.seen.worst if h.seen else h.item.rank) }}{% endif %}
+          {% set d = hit_detail(h) %}{% if d and not h.trending %}<span class="time">{{ d }}</span>{% endif %}
+          {% if h.trending and h.seen %}<span class="time">{{ h.seen.first | hm }}{% if (h.seen.last | hm) != (h.seen.first | hm) %}~{{ h.seen.last | hm }}{% endif %}</span>{% if h.seen.count > 1 %}<span class="times">{{ h.seen.count }} times</span>{% endif %}{% endif %}
+          {% if h.new %}<span class="new">NEW</span>{% endif %}
+        </div>
+        {{ title_link(h.item.title, h.item.url) }}
+      </div></li>
+      {% endfor %}
+      </ol>
+    </section>
+    {% endfor %}
+    {% endif %}
+
+    {% if indexable %}
+    <section class="faq" id="questions">
+      <h2>Questions</h2>
+      {% for a in page.faq %}
+      <h3>{{ a.q }}</h3>
+      <p>{{ a.a }}{% if loop.last %} <a href="{{ repo_url }}">Get TrendScout on GitHub</a>.{% endif %}</p>
+      {% endfor %}
+    </section>
+    {% endif %}
+  </div>
+  <footer class="footer">
+    Made with <a href="{{ repo_url }}">TrendScout</a>, an open-source trend radar. Data from <a href="{{ scavio_url }}">Scavio</a>{% if indexable %} and public feeds. <a href="{{ (page.url or '') ~ 'feed.xml' }}">RSS feed</a>{% endif %}.
+    {% if r.errors %}<div class="archive">Sources that failed this time: {% for k in r.errors %}{{ k }}{% if not loop.last %}, {% endif %}{% endfor %}</div>{% endif %}
+    {% if archive %}<div class="archive">Earlier updates: {% for a in archive[:14] %}<a href="archive/{{ a }}.html">{{ a }}</a>{% endfor %}</div>{% endif %}
+  </footer>
+</main></div>
+</body>
+</html>

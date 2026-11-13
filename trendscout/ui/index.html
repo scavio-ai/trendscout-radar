@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="referrer" content="no-referrer">
+  <title>TrendScout</title>
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/app.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#/report">
+      <svg viewBox="0 0 24 24" aria-hidden="true" class="icon brand-icon"><path d="M12 3a9 9 0 1 0 9 9M12 7a5 5 0 1 0 5 5M12 12l7-7"/></svg>
+      <span class="brand-name">TrendScout</span>
+    </a>
+    <div class="topbar-right">
+      <nav class="views" aria-label="Main" hidden>
+        <a href="#/report" data-route="report">Report</a>
+        <a href="#/settings" data-route="settings">Settings</a>
+      </nav>
+      <span class="scan-status" id="scan-status" aria-live="polite"></span>
+      <button class="btn btn-blue" id="scan-now" hidden>Scan now</button>
+    </div>
+  </header>
+  <main id="view" tabindex="-1"><div class="boot" aria-label="Loading"><span></span><span></span><span></span><span></span></div></main>
+  <div class="toasts" id="toasts" role="status" aria-live="polite"></div>
+</body>
+</html>

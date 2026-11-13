@@ -1,0 +1,112 @@
+# TrendScout configuration.
+# Secrets (API keys, webhook URLs) never go in this file: set them as
+# environment variables, or as GitHub Actions secrets when you run on GitHub.
+
+# Two-letter country code for Google Trending, Google News and X trends.
+# TikTok and Reddit trending lists are global (US-weighted).
+country: {{ c.country | y }}
+language: {{ c.language | y }}
+
+# Topics you follow. Every scan checks all trending lists for each topic and
+# searches Google News and Hacker News for it. An item belongs to a topic when
+# its title contains any of the `match` words (the topic name if you give none),
+# all of the `must` words and none of the `exclude` words.
+# Per topic: `search` also searches some of youtube, tiktok and reddit (`true`
+# means all three); `news: false` and `hackernews: false` turn those searches
+# off; `notify` picks its alert channels (an empty list means only in the app);
+# `schedule` gives it its own alert times.
+{% if c.topics %}
+topics:
+{% for tp in c.topics %}
+{% if not tp.match and not tp.must and not tp.exclude and not tp.search and tp.news and tp.hackernews and tp.notify is none and not tp.schedule %}
+  - {{ tp.name | y }}
+{% else %}
+  - name: {{ tp.name | y }}
+{% if tp.match %}
+    match: {{ tp.match | flow }}
+{% endif %}
+{% if tp.must %}
+    must: {{ tp.must | flow }}
+{% endif %}
+{% if tp.exclude %}
+    exclude: {{ tp.exclude | flow }}
+{% endif %}
+{% if tp.search | length == 3 %}
+    search: true
+{% elif tp.search %}
+    search: {{ tp.search | flow }}
+{% endif %}
+{% if not tp.news %}
+    news: false
+{% endif %}
+{% if not tp.hackernews %}
+    hackernews: false
+{% endif %}
+{% if tp.notify is not none %}
+    notify: {{ tp.notify | flow }}
+{% endif %}
+{% if tp.schedule %}
+    schedule: {{ tp.schedule | schedule }}
+{% endif %}
+{% endif %}
+{% endfor %}
+{% else %}
+topics: []
+{% endif %}
+
+# What alerts contain. send: new (only what appeared since the last scan; no
+# alert when nothing did), summary (everything that matched today), every (the
+# current matches after every scan). A term trending on this many platforms at
+# once is sent as a breakout even when it matches no topic.
+alerts:
+  send: {{ c.alerts.send }}
+  breakout_platforms: {{ c.alerts.breakout_platforms }}
+
+# When scans run while TrendScout is running (the app, `trendscout ui`, or in
+# the background). Either `every: 3h` or fixed times in your local time zone.
+# On GitHub Actions the cron line in .github/workflows/radar.yml decides instead.
+schedule:
+  enabled: {{ c.schedule.enabled | y }}
+{% if c.schedule.every %}
+  every: {{ c.schedule.every }}
+{% else %}
+  at: {{ c.schedule.at | flow }}
+{% endif %}
+  days: {{ c.schedule.days | flow }}
+
+# Turn individual sources on or off. Without a SCAVIO_API_KEY only the free
+# sources run (Hacker News, Google Trends and Google News).
+sources:
+{% for name, on in c.sources.items() %}
+{{ ("  " ~ name ~ ": " ~ (on | y) ~ " ").ljust(28) }}# {{ source_notes[name] }}
+{% endfor %}
+
+# TikTok returns about 6 trending videos per call; more calls, wider sample.
+tiktok_video_calls: {{ c.tiktok_video_calls }}
+
+# How many Hacker News top stories to read.
+hackernews_limit: {{ c.hackernews_limit }}
+
+# Safety limit on paid calls in one scan.
+max_credits_per_run: {{ c.max_credits_per_run }}
+
+# Items shown per section.
+top_n: {{ c.top_n }}
+
+# Where history and reports are written (committed back to the repo on GitHub).
+data_dir: {{ c.data_dir | y }}
+reports_dir: {{ c.reports_dir | y }}
+site_dir: {{ c.site_dir | y }}
+keep_days: {{ c.keep_days }}
+
+# Optional: public URL of your report page, linked from notifications.
+# On GitHub Pages this is filled in for you.
+{% if c.site_url %}
+site_url: {{ c.site_url | y }}
+{% else %}
+# site_url: https://your-name.github.io/trendscout/
+{% endif %}
+
+# The public page (site/) leaves out items with profanity or adult content.
+# Add more words to hide there; reports and the app still show everything.
+site_exclude: {{ c.site_exclude | flow }}

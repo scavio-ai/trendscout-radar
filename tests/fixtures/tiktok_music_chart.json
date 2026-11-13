@@ -1,0 +1,179 @@
+{
+ "data": {
+  "chart_info": {
+   "id": 6683795023030390000,
+   "update_time": 1794355200
+  },
+  "cover_image_url": "https://p16-common.tiktokcdn-us.com/musically-maliva-obj/aYEtwug5GpgCWyoddsge4wO5MiUGit.jpeg~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=d9a4d84e&idc=useast8",
+  "cursor": 20,
+  "extra": {
+   "fatal_item_ids": [],
+   "logid": "20261111192736430AA25577CDBD156E98",
+   "now": 1794425256000
+  },
+  "has_more": 1,
+  "log_pb": {
+   "impr_id": "20261111192736430AA25577CDBD156E98"
+  },
+  "msg": "success",
+  "music_list": [
+   {
+    "id": 6683795023030390000,
+    "music_info": {
+     "id_str": "6919100601457215489",
+     "title": "Ramalama (Bang Bang)",
+     "author": "R\u00f3is\u00edn Murphy",
+     "album": "Ruby Blue",
+     "user_count": 858358,
+     "theme_tags": [
+      "Dance"
+     ],
+     "is_commerce_music": false
+    },
+    "trend": 4
+   },
+   {
+    "id": 6683795023030390000,
+    "music_info": {
+     "id_str": "7066194878719363074",
+     "title": "Time (2011 Remastered Version)",
+     "author": "Pink Floyd",
+     "album": "The Dark Side Of The Moon (2011 Remastered Version)",
+     "user_count": 161640,
+     "theme_tags": [
+      "Autumn"
+     ],
+     "is_commerce_music": true
+    },
+    "trend": 4
+   },
+   {
+    "id": 6683795023030390000,
+    "music_info": {
+     "id_str": "7698515848231372806",
+     "title": "Gangster Bxtch",
+     "author": "Additup",
+     "album": "Gangster Bxtch",
+     "user_count": 5581,
+     "theme_tags": [
+      "Party"
+     ],
+     "is_commerce_music": true
+    },
+    "trend": 4
+   },
+   {
+    "id": 6683795023030390000,
+    "music_info": {
+     "id_str": "7211105586333632514",
+     "title": "Beauty School Dropout - From \u201cGrease\u201d",
+     "author": "Frankie Avalon",
+     "album": "Grease - The Original Motion Picture Soundtrack",
+     "user_count": 20306,
+     "theme_tags": [
+      "Wedding"
+     ],
+     "is_commerce_music": true
+    },
+    "trend": 4
+   },
+   {
+    "id": 6683795023030390000,
+    "music_info": {
+     "id_str": "223332957908934657",
+     "title": "Rechazame",
+     "author": "Prince Royce",
+     "album": "Number 1's",
+     "user_count": 133592,
+     "theme_tags": [
+      "Love",
+      "Summer"
+     ],
+     "is_commerce_music": true
+    },
+    "trend": 4
+   },
+   {
+    "id": 6683795023030390000,
+    "music_info": {
+     "id_str": "7370364561877321729",
+     "title": "Stolen From Each Other",
+     "author": "Nova Charisma",
+     "album": "Metropolitan",
+     "user_count": 17372,
+     "theme_tags": [
+      "Autumn",
+      "Travel"
+     ],
+     "is_commerce_music": true
+    },
+    "trend": 4
+   },
+   {
+    "id": 6683795023030390000,
+    "music_info": {
+     "id_str": "7609830978302887953",
+     "title": "Bounce it",
+     "author": "Biggs money",
+     "album": "Bounce it",
+     "user_count": 422396,
+     "theme_tags": [
+      "Party"
+     ],
+     "is_commerce_music": false
+    },
+    "trend": 4
+   },
+   {
+    "id": 6683795023030390000,
+    "music_info": {
+     "id_str": "7690864823584065542",
+     "title": "Acting Like You Kanye",
+     "author": "Raud",
+     "album": "Acting Like You Kanye",
+     "user_count": 1724,
+     "theme_tags": [
+      "Party"
+     ],
+     "is_commerce_music": false
+    },
+    "trend": 4
+   },
+   {
+    "id": 6683795023030390000,
+    "music_info": {
+     "id_str": "7646573656474961936",
+     "title": "Can I Ride",
+     "author": "SIDEPIECE & 95 South",
+     "album": "Can I Ride",
+     "user_count": 464831,
+     "theme_tags": [
+      "Danceable"
+     ],
+     "is_commerce_music": true
+    },
+    "trend": 4
+   },
+   {
+    "id": 6683795023030390000,
+    "music_info": {
+     "id_str": "7585687637122631696",
+     "title": "DIP ON EM",
+     "author": "SouthMemphisHypeman",
+     "album": "SHAWT THE WORLD DOWN",
+     "user_count": 282006,
+     "theme_tags": [
+      "Party"
+     ],
+     "is_commerce_music": false
+    },
+    "trend": 4
+   }
+  ],
+  "status_code": 0,
+  "status_msg": ""
+ },
+ "response_time": 604,
+ "credits_used": 1,
+ "credits_remaining": 68181
+}

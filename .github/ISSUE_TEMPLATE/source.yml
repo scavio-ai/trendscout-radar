@@ -1,0 +1,21 @@
+name: New source
+description: Suggest a trending list or feed TrendScout should read
+labels: [source]
+body:
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: The platform and the list, for example "Product Hunt daily top products"
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Where the data comes from
+      description: A public feed, API endpoint or page URL, if you know one
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it helps
+      description: Who would use it, and for what kind of topics

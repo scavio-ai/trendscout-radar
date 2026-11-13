@@ -1,0 +1,82 @@
+# TrendScout configuration.
+# Secrets (API keys, webhook URLs) never go in this file: set them as
+# environment variables, or as GitHub Actions secrets when you run on GitHub.
+
+# Two-letter country code for Google Trending, Google News and X trends.
+# TikTok and Reddit trending lists are global (US-weighted).
+country: US
+language: en
+
+# Topics you follow. Every scan checks all trending lists for each topic and
+# searches Google News and Hacker News for it. An item belongs to a topic when
+# its title contains any of the `match` words (the topic name if you give none),
+# all of the `must` words and none of the `exclude` words.
+# Per topic: `search` also searches some of youtube, tiktok and reddit (`true`
+# means all three); `news: false` and `hackernews: false` turn those searches
+# off; `notify` picks its alert channels (an empty list means only in the app);
+# `schedule` gives it its own alert times.
+topics:
+  - name: AI agents
+    match: [ai agents, ai agent, agentic ai]
+  - name: Skincare
+    match: [skincare, skin care, retinol, sunscreen]
+  - Creatine
+
+# What alerts contain. send: new (only what appeared since the last scan; no
+# alert when nothing did), summary (everything that matched today), every (the
+# current matches after every scan). A term trending on this many platforms at
+# once is sent as a breakout even when it matches no topic.
+alerts:
+  send: new
+  breakout_platforms: 3
+
+# When scans run while TrendScout is running (the app, `trendscout ui`, or in
+# the background). Either `every: 3h` or fixed times in your local time zone.
+# On GitHub Actions the cron line in .github/workflows/radar.yml decides instead.
+schedule:
+  enabled: true
+  at: ['08:00', '18:00']
+  days: [mon, tue, wed, thu, fri, sat, sun]
+
+# Turn individual sources on or off. Without a SCAVIO_API_KEY only the free
+# sources run (Hacker News, Google Trends and Google News).
+sources:
+  tiktok_searches: true     # ~90 trending TikTok search terms
+  tiktok_videos: true       # a sample of trending videos (see tiktok_video_calls)
+  tiktok_sounds: true       # Viral 50 sound chart
+  google_trending: true     # Google Trending Now (free RSS without a key)
+  x_trends: true            # X trending topics for your country
+  reddit_trending: false    # Reddit trending searches (often empty; off by default)
+  reddit_popular: true      # r/popular front page
+  hackernews: true          # Hacker News top stories
+  youtube_keyword: true     # for topics that search youtube
+  tiktok_keyword: true      # for topics that search tiktok
+  reddit_keyword: true      # for topics that search reddit
+  news_keyword: true        # Google News for every topic
+  hackernews_keyword: true  # Hacker News search for every topic
+
+# TikTok returns about 6 trending videos per call; more calls, wider sample.
+tiktok_video_calls: 2
+
+# How many Hacker News top stories to read.
+hackernews_limit: 30
+
+# Safety limit on paid calls in one scan.
+max_credits_per_run: 60
+
+# Items shown per section.
+top_n: 10
+
+# Where history and reports are written (committed back to the repo on GitHub).
+data_dir: data
+reports_dir: reports
+site_dir: site
+keep_days: 30
+
+# Optional: public URL of your report page, linked from notifications.
+# On GitHub Pages this is filled in for you.
+# site_url: https://your-name.github.io/trendscout/
+
+# The public page (site/) leaves out items with profanity or adult content.
+# Add more words to hide there; reports and the app still show everything.
+site_exclude: []

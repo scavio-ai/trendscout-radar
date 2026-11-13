@@ -1,7 +1,7 @@
 {
  "schema": "trendscout.report/2",
- "taken_at": "2026-11-13T18:51:28+00:00",
- "previous_at": null,
+ "taken_at": "2026-11-13T18:57:18+00:00",
+ "previous_at": "2026-11-13T18:51:28+00:00",
  "summary": null,
  "cross_platform": [],
  "sections": [
@@ -10,7 +10,24 @@
    "label": "Google Trends",
    "entries": [
     {
-     "status": "first",
+     "status": "new",
+     "change": 0,
+     "source": "google_trends_rss",
+     "platform": "google",
+     "title": "gerry griffith arista records vp",
+     "rank": 2,
+     "url": "https://trends.google.com/trends/explore?q=gerry+griffith+arista+records+vp",
+     "metrics": {
+      "searches": 500.0
+     },
+     "keyword": null,
+     "published_at": "2026-11-13T10:30:00-08:00",
+     "extra": {
+      "headline": "Gerry Griffith, Whitney Houston Discoverer, Dead at 87"
+     }
+    },
+    {
+     "status": "steady",
      "change": 0,
      "source": "google_trends_rss",
      "platform": "google",
@@ -27,15 +44,15 @@
      }
     },
     {
-     "status": "first",
+     "status": "steady",
      "change": 0,
      "source": "google_trends_rss",
      "platform": "google",
      "title": "pentagon 90 day grid warning",
-     "rank": 2,
+     "rank": 3,
      "url": "https://trends.google.com/trends/explore?q=pentagon+90+day+grid+warning",
      "metrics": {
-      "searches": 500.0
+      "searches": 1000.0
      },
      "keyword": null,
      "published_at": "2026-11-13T10:20:00-08:00",
@@ -44,12 +61,12 @@
      }
     },
     {
-     "status": "first",
+     "status": "steady",
      "change": 0,
      "source": "google_trends_rss",
      "platform": "google",
      "title": "mlb free agency",
-     "rank": 3,
+     "rank": 4,
      "url": "https://trends.google.com/trends/explore?q=mlb+free+agency",
      "metrics": {
       "searches": 500.0
@@ -61,12 +78,12 @@
      }
     },
     {
-     "status": "first",
+     "status": "steady",
      "change": 0,
      "source": "google_trends_rss",
      "platform": "google",
      "title": "egypt vs malawi",
-     "rank": 4,
+     "rank": 5,
      "url": "https://trends.google.com/trends/explore?q=egypt+vs+malawi",
      "metrics": {
       "searches": 1000.0
@@ -78,12 +95,12 @@
      }
     },
     {
-     "status": "first",
+     "status": "steady",
      "change": 0,
      "source": "google_trends_rss",
      "platform": "google",
      "title": "el nino",
-     "rank": 5,
+     "rank": 6,
      "url": "https://trends.google.com/trends/explore?q=el+nino",
      "metrics": {
       "searches": 1000.0
@@ -95,12 +112,12 @@
      }
     },
     {
-     "status": "first",
+     "status": "steady",
      "change": 0,
      "source": "google_trends_rss",
      "platform": "google",
      "title": "rockstar gta vi",
-     "rank": 6,
+     "rank": 7,
      "url": "https://trends.google.com/trends/explore?q=rockstar+gta+vi",
      "metrics": {
       "searches": 1000.0
@@ -112,12 +129,12 @@
      }
     },
     {
-     "status": "first",
+     "status": "steady",
      "change": 0,
      "source": "google_trends_rss",
      "platform": "google",
      "title": "willson contreras",
-     "rank": 7,
+     "rank": 8,
      "url": "https://trends.google.com/trends/explore?q=willson+contreras",
      "metrics": {
       "searches": 1000.0
@@ -129,12 +146,12 @@
      }
     },
     {
-     "status": "first",
+     "status": "steady",
      "change": 0,
      "source": "google_trends_rss",
      "platform": "google",
      "title": "elijah higgins",
-     "rank": 8,
+     "rank": 9,
      "url": "https://trends.google.com/trends/explore?q=elijah+higgins",
      "metrics": {
       "searches": 500.0
@@ -146,12 +163,12 @@
      }
     },
     {
-     "status": "first",
+     "status": "steady",
      "change": 0,
      "source": "google_trends_rss",
      "platform": "google",
      "title": "philip rivers",
-     "rank": 9,
+     "rank": 10,
      "url": "https://trends.google.com/trends/explore?q=philip+rivers",
      "metrics": {
       "searches": 2000.0
@@ -161,23 +178,6 @@
      "extra": {
       "headline": "NC State officially hires Philip Rivers as football coach"
      }
-    },
-    {
-     "status": "first",
-     "change": 0,
-     "source": "google_trends_rss",
-     "platform": "google",
-     "title": "jake bauers",
-     "rank": 10,
-     "url": "https://trends.google.com/trends/explore?q=jake+bauers",
-     "metrics": {
-      "searches": 20000.0
-     },
-     "keyword": null,
-     "published_at": "2026-11-13T09:40:00-08:00",
-     "extra": {
-      "headline": "Sources - Jake Bauers, Red Sox agree to 4-year, $58M deal"
-     }
     }
    ]
   },
@@ -186,7 +186,43 @@
    "label": "Hacker News",
    "entries": [
     {
-     "status": "first",
+     "status": "new",
+     "change": 0,
+     "source": "hackernews",
+     "platform": "hackernews",
+     "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+     "rank": 15,
+     "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
+     "metrics": {
+      "points": 3.0,
+      "comments": 0.0
+     },
+     "keyword": null,
+     "published_at": null,
+     "extra": {
+      "discussion": "https://news.ycombinator.com/item?id=50487605"
+     }
+    },
+    {
+     "status": "up",
+     "change": 5,
+     "source": "hackernews",
+     "platform": "hackernews",
+     "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
+     "rank": 17,
+     "url": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
+     "metrics": {
+      "points": 19.0,
+      "comments": 1.0
+     },
+     "keyword": null,
+     "published_at": null,
+     "extra": {
+      "discussion": "https://news.ycombinator.com/item?id=50487522"
+     }
+    },
+    {
+     "status": "steady",
      "change": 0,
      "source": "hackernews",
      "platform": "hackernews",
@@ -194,8 +230,8 @@
      "rank": 1,
      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
      "metrics": {
-      "points": 500.0,
-      "comments": 143.0
+      "points": 508.0,
+      "comments": 148.0
      },
      "keyword": null,
      "published_at": null,
@@ -204,34 +240,16 @@
      }
     },
     {
-     "status": "first",
-     "change": 0,
-     "source": "hackernews",
-     "platform": "hackernews",
-     "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
-     "rank": 2,
-     "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
-     "metrics": {
-      "points": 357.0,
-      "comments": 255.0
-     },
-     "keyword": null,
-     "published_at": null,
-     "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50482379"
-     }
-    },
-    {
-     "status": "first",
-     "change": 0,
+     "status": "steady",
+     "change": 1,
      "source": "hackernews",
      "platform": "hackernews",
      "title": "After 600 experiments, here's what I discovered about JEPA world models",
-     "rank": 3,
+     "rank": 2,
      "url": "https://haddyalchaer.com/jepa",
      "metrics": {
-      "points": 35.0,
-      "comments": 2.0
+      "points": 40.0,
+      "comments": 3.0
      },
      "keyword": null,
      "published_at": null,
@@ -240,7 +258,25 @@
      }
     },
     {
-     "status": "first",
+     "status": "steady",
+     "change": 0,
+     "source": "hackernews",
+     "platform": "hackernews",
+     "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+     "rank": 3,
+     "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+     "metrics": {
+      "points": 360.0,
+      "comments": 258.0
+     },
+     "keyword": null,
+     "published_at": null,
+     "extra": {
+      "discussion": "https://news.ycombinator.com/item?id=50482379"
+     }
+    },
+    {
+     "status": "steady",
      "change": 0,
      "source": "hackernews",
      "platform": "hackernews",
@@ -248,7 +284,7 @@
      "rank": 4,
      "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
      "metrics": {
-      "points": 118.0,
+      "points": 120.0,
       "comments": 45.0
      },
      "keyword": null,
@@ -258,7 +294,7 @@
      }
     },
     {
-     "status": "first",
+     "status": "steady",
      "change": 0,
      "source": "hackernews",
      "platform": "hackernews",
@@ -266,8 +302,8 @@
      "rank": 5,
      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
      "metrics": {
-      "points": 129.0,
-      "comments": 16.0
+      "points": 136.0,
+      "comments": 18.0
      },
      "keyword": null,
      "published_at": null,
@@ -276,7 +312,7 @@
      }
     },
     {
-     "status": "first",
+     "status": "steady",
      "change": 0,
      "source": "hackernews",
      "platform": "hackernews",
@@ -284,8 +320,8 @@
      "rank": 6,
      "url": "https://isometricsf.com/",
      "metrics": {
-      "points": 22.0,
-      "comments": 10.0
+      "points": 27.0,
+      "comments": 11.0
      },
      "keyword": null,
      "published_at": null,
@@ -294,34 +330,16 @@
      }
     },
     {
-     "status": "first",
-     "change": 0,
-     "source": "hackernews",
-     "platform": "hackernews",
-     "title": "6-11X speedup running Qwen3.6 on my RTX 4090, full repo.",
-     "rank": 7,
-     "url": "https://github.com/me-farza/lightreason/tree/main",
-     "metrics": {
-      "points": 4.0,
-      "comments": 0.0
-     },
-     "keyword": null,
-     "published_at": null,
-     "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50487861"
-     }
-    },
-    {
-     "status": "first",
-     "change": 0,
+     "status": "steady",
+     "change": 1,
      "source": "hackernews",
      "platform": "hackernews",
      "title": "Lonewolf 0.3 – A standalone XMPP server written in Rust",
-     "rank": 8,
+     "rank": 7,
      "url": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
      "metrics": {
-      "points": 87.0,
-      "comments": 17.0
+      "points": 92.0,
+      "comments": 19.0
      },
      "keyword": null,
      "published_at": null,
@@ -330,39 +348,21 @@
      }
     },
     {
-     "status": "first",
+     "status": "steady",
      "change": 0,
      "source": "hackernews",
      "platform": "hackernews",
-     "title": "Gnomon. Git for Postgres data, built for agents",
-     "rank": 9,
-     "url": "https://github.com/bitsinfra/gnomon",
+     "title": "6-11X speedup running Qwen3.6 on my RTX 4090, full repo.",
+     "rank": 8,
+     "url": "https://github.com/me-farza/lightreason/tree/main",
      "metrics": {
       "points": 9.0,
-      "comments": 7.0
+      "comments": 0.0
      },
      "keyword": null,
      "published_at": null,
      "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50486480"
-     }
-    },
-    {
-     "status": "first",
-     "change": 0,
-     "source": "hackernews",
-     "platform": "hackernews",
-     "title": "Why Zig over C for Systems Programming",
-     "rank": 10,
-     "url": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
-     "metrics": {
-      "points": 188.0,
-      "comments": 140.0
-     },
-     "keyword": null,
-     "published_at": null,
-     "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50483611"
+      "discussion": "https://news.ycombinator.com/item?id=50487861"
      }
     }
    ]
@@ -371,10 +371,54 @@
  "topics": [
   {
    "name": "AI agents",
-   "total": 111,
-   "new": 0,
+   "total": 110,
+   "new": 2,
    "search": [],
    "hits": [
+    {
+     "new": true,
+     "trending": false,
+     "source": "news_keyword",
+     "platform": "news",
+     "title": "Salesforce Expands Agent Fabric with AI Agent Monitoring and Cost Controls",
+     "rank": 99,
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaFR5WGFvM1NGbTdzSTFmcjhfRVB5QjVSbDk5b25zWHF4NE1YQ2lFWU1iZnhxbTZsUFNBN1gxUy1pYVoyT1VtY2NOekwzV2gwbnpnQ1FvOG5XVV9VYkV3Sm9FN09OY2E0OGRDOW1jbGdzckNYYW90RUVsc29Sd0dMWkkyY0F3TC0tbEx3NU9NLVlMekJuZGVMS3pfcDZxWUhYc2xHT2Q1VV9DQUp6THpPYllpUzd4QQ?oc=5",
+     "metrics": {},
+     "keyword": "AI agents",
+     "published_at": "2026-11-13T12:30:00+00:00",
+     "extra": {
+      "publisher": "Cloud Wars"
+     },
+     "seen": {
+      "first": "2026-11-13T18:57:18+00:00",
+      "last": "2026-11-13T18:57:18+00:00",
+      "count": 1,
+      "best": 99,
+      "worst": 99
+     }
+    },
+    {
+     "new": true,
+     "trending": false,
+     "source": "news_keyword",
+     "platform": "news",
+     "title": "Microsoft (MSFT) Unveiled An Enterprise AI Agent Platform",
+     "rank": 100,
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNREd0ZG9TTld2YTFiYWVaQzZWMDA5YS1kQUl2Q1hSUXBjcm95eFN6aGthdU9zcVVSMWlMaHpaQWxiTFFqZ0hnbW1Bc3BZSzNsanJsMHlWM3F3OUpGOFU5WXpxeHJWWmNERkNSWFpvQ0xtTUxQV3VvVkJUa1dETUpXdGpiU2h3R2dQZVE5cmE0aw?oc=5",
+     "metrics": {},
+     "keyword": "AI agents",
+     "published_at": "2026-11-13T05:15:00+00:00",
+     "extra": {
+      "publisher": "Yahoo! Finance Canada"
+     },
+     "seen": {
+      "first": "2026-11-13T18:57:18+00:00",
+      "last": "2026-11-13T18:57:18+00:00",
+      "count": 1,
+      "best": 100,
+      "worst": 100
+     }
+    },
     {
      "new": false,
      "trending": false,
@@ -394,8 +438,8 @@
      },
      "seen": {
       "first": "2026-11-13T18:51:28+00:00",
-      "last": "2026-11-13T18:51:28+00:00",
-      "count": 1,
+      "last": "2026-11-13T18:57:18+00:00",
+      "count": 2,
       "best": 1,
       "worst": 1
      }
@@ -419,8 +463,8 @@
      },
      "seen": {
       "first": "2026-11-13T18:51:28+00:00",
-      "last": "2026-11-13T18:51:28+00:00",
-      "count": 1,
+      "last": "2026-11-13T18:57:18+00:00",
+      "count": 2,
       "best": 2,
       "worst": 2
      }
@@ -444,8 +488,8 @@
      },
      "seen": {
       "first": "2026-11-13T18:51:28+00:00",
-      "last": "2026-11-13T18:51:28+00:00",
-      "count": 1,
+      "last": "2026-11-13T18:57:18+00:00",
+      "count": 2,
       "best": 3,
       "worst": 3
      }
@@ -469,8 +513,8 @@
      },
      "seen": {
       "first": "2026-11-13T18:51:28+00:00",
-      "last": "2026-11-13T18:51:28+00:00",
-      "count": 1,
+      "last": "2026-11-13T18:57:18+00:00",
+      "count": 2,
       "best": 4,
       "worst": 4
      }
@@ -494,8 +538,8 @@
      },
      "seen": {
       "first": "2026-11-13T18:51:28+00:00",
-      "last": "2026-11-13T18:51:28+00:00",
-      "count": 1,
+      "last": "2026-11-13T18:57:18+00:00",
+      "count": 2,
       "best": 5,
       "worst": 5
      }
@@ -519,8 +563,8 @@
      },
      "seen": {
       "first": "2026-11-13T18:51:28+00:00",
-      "last": "2026-11-13T18:51:28+00:00",
-      "count": 1,
+      "last": "2026-11-13T18:57:18+00:00",
+      "count": 2,
       "best": 6,
       "worst": 6
      }
@@ -544,8 +588,8 @@
      },
      "seen": {
       "first": "2026-11-13T18:51:28+00:00",
-      "last": "2026-11-13T18:51:28+00:00",
-      "count": 1,
+      "last": "2026-11-13T18:57:18+00:00",
+      "count": 2,
       "best": 7,
       "worst": 7
      }
@@ -569,77 +613,49 @@
      },
      "seen": {
       "first": "2026-11-13T18:51:28+00:00",
-      "last": "2026-11-13T18:51:28+00:00",
-      "count": 1,
+      "last": "2026-11-13T18:57:18+00:00",
+      "count": 2,
       "best": 9,
       "worst": 9
-     }
-    },
-    {
-     "new": false,
-     "trending": false,
-     "source": "hackernews_keyword",
-     "platform": "hackernews",
-     "title": "Show HN: AI agents that barter your stuff for things you want",
-     "rank": 10,
-     "url": "https://barterpilot.com/",
-     "metrics": {
-      "points": 7.0,
-      "comments": 4.0
-     },
-     "keyword": "AI agents",
-     "published_at": "2026-11-10T21:36:17Z",
-     "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50446649"
-     },
-     "seen": {
-      "first": "2026-11-13T18:51:28+00:00",
-      "last": "2026-11-13T18:51:28+00:00",
-      "count": 1,
-      "best": 10,
-      "worst": 10
-     }
-    },
-    {
-     "new": false,
-     "trending": false,
-     "source": "hackernews_keyword",
-     "platform": "hackernews",
-     "title": "No, AI agents did not discover a previously unknown Maya site",
-     "rank": 11,
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-     "metrics": {
-      "points": 7.0,
-      "comments": 1.0
-     },
-     "keyword": "AI agents",
-     "published_at": "2026-11-13T02:28:29Z",
-     "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50477335"
-     },
-     "seen": {
-      "first": "2026-11-13T18:51:28+00:00",
-      "last": "2026-11-13T18:51:28+00:00",
-      "count": 1,
-      "best": 11,
-      "worst": 11
      }
     }
    ]
   },
   {
    "name": "Skincare",
-   "total": 99,
-   "new": 0,
+   "total": 98,
+   "new": 1,
    "search": [],
    "hits": [
+    {
+     "new": true,
+     "trending": false,
+     "source": "news_keyword",
+     "platform": "news",
+     "title": "The 6 Skincare Lessons Every Middle-Aged Man Should Know",
+     "rank": 2,
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc29Sc2Rnc2xYUmNoR2hhZnlsWndvak5BcmVZRWd4MWpjazVDeXZjTUFLWVdMOEtGM3NiX000OGtFdGZ6TmxZZ2pPOElOeUcwM0gwVFhUMDlZbC1rTFhZT3FUb1RIM3ZDdVl4LTNLdm1lTm5mUDdNZnFuSTRXTmpBSHpCSEg3dmdkU1E?oc=5",
+     "metrics": {},
+     "keyword": "Skincare",
+     "published_at": "2026-11-13T18:54:30+00:00",
+     "extra": {
+      "publisher": "Esquire"
+     },
+     "seen": {
+      "first": "2026-11-13T18:57:18+00:00",
+      "last": "2026-11-13T18:57:18+00:00",
+      "count": 1,
+      "best": 2,
+      "worst": 2
+     }
+    },
     {
      "new": false,
      "trending": false,
      "source": "news_keyword",
      "platform": "news",
      "title": "Winter must-haves for skincare and more",
-     "rank": 3,
+     "rank": 4,
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSFRDekhVLXhBVTNrUHlNRkFUV1FEZ0Y0MzlCeDVJOG9McTc3TjlPLXJKaFZDRTR3bm00Rll4dFpJUGt2dmh1ekRQZWNoT3dxVXVfLW1ZQ3k3SV9RVml0NDFTenN5WjlHdGd6Zi1ZaWhSX3k2c3VKSEkta1k4ZEtaX2RNWFU?oc=5",
      "metrics": {},
      "keyword": "Skincare",
@@ -649,10 +665,10 @@
      },
      "seen": {
       "first": "2026-11-13T18:51:28+00:00",
-      "last": "2026-11-13T18:51:28+00:00",
-      "count": 1,
+      "last": "2026-11-13T18:57:18+00:00",
+      "count": 2,
       "best": 3,
-      "worst": 3
+      "worst": 4
      }
     },
     {
@@ -671,8 +687,8 @@
      },
      "seen": {
       "first": "2026-11-13T18:51:28+00:00",
-      "last": "2026-11-13T18:51:28+00:00",
-      "count": 1,
+      "last": "2026-11-13T18:57:18+00:00",
+      "count": 2,
       "best": 23,
       "worst": 23
      }
@@ -683,7 +699,7 @@
      "source": "news_keyword",
      "platform": "news",
      "title": "Weak skincare regulation puts consumers at risk, experts warn",
-     "rank": 38,
+     "rank": 37,
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOEgwdUs2Mkp0ajJfdjFobEZuNmx2RzkydmFzZEZqLThIeEsyN2dVWFM4ZXpLdUh3R3JyUHlmSkRIUFhoajQ5YjMwc1AyZzR4MkJmWHJZYkowckRFSjlxS095UDQtTWRxR2FmLUhweFhJU1ZKVEhUbzhrWE5tTGRCWmJ5b2FZRGUxNXV4ei1QU2dtWXpzeENWdm0teDY1NGs2Ync?oc=5",
      "metrics": {},
      "keyword": "Skincare",
@@ -693,9 +709,9 @@
      },
      "seen": {
       "first": "2026-11-13T18:51:28+00:00",
-      "last": "2026-11-13T18:51:28+00:00",
-      "count": 1,
-      "best": 38,
+      "last": "2026-11-13T18:57:18+00:00",
+      "count": 2,
+      "best": 37,
       "worst": 38
      }
     },
@@ -704,30 +720,8 @@
      "trending": false,
      "source": "news_keyword",
      "platform": "news",
-     "title": "Don't Miss The Thanksgiving Offer with Plexaderm!",
-     "rank": 11,
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdDUzUHZob0NCSWJjWkI3V2t5VS1lUHlhWnJiQUxrN0JPLW5xZldLaE8yeFZFXzUyeElfY1hFNjkwS09xc3hDUzFJMjN4N05WaWFoMWhzMDlfclJXV19ZV0ZQNWFIS0o0OU5vNzhLeW1FTFVUWHJaUmdGYzVWM0xIN3BVOTZVSFN3QkVWbFpQVnNVUHBnTWRRaHJFTnlWUnItaWh5eDdIRW1tZw?oc=5",
-     "metrics": {},
-     "keyword": "Skincare",
-     "published_at": "2026-11-13T18:02:58+00:00",
-     "extra": {
-      "publisher": "WSET"
-     },
-     "seen": {
-      "first": "2026-11-13T18:51:28+00:00",
-      "last": "2026-11-13T18:51:28+00:00",
-      "count": 1,
-      "best": 11,
-      "worst": 11
-     }
-    },
-    {
-     "new": false,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
      "title": "Boots’s showstopper box is back – here’s why it’s better than the advent calendar for £60 less",
-     "rank": 70,
+     "rank": 58,
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdk1taXNJNkRndXEyaWNpdnhMOWN4OUIzYWxMVDI0anVSdUZ1d3oxdThzOVl5X0NKN1I4VncxZ21qUmUzS3JuT1ZKXzV6alNKU2xETkF6MkY0X3dCSUxjSGMtQXhyWFFEeFhvSUZXckpGTlkwbnc3UGFkN2gwNldtd29rX1ltV003aDU4ZlVxTVNUQlhHTnV3Y2hRLUNBNWVXTUNJUklEVVBJUVIxVC1VZWQ1R01iTkZx?oc=5",
      "metrics": {},
      "keyword": "Skincare",
@@ -737,9 +731,9 @@
      },
      "seen": {
       "first": "2026-11-13T18:51:28+00:00",
-      "last": "2026-11-13T18:51:28+00:00",
-      "count": 1,
-      "best": 70,
+      "last": "2026-11-13T18:57:18+00:00",
+      "count": 2,
+      "best": 58,
       "worst": 70
      }
     },
@@ -759,8 +753,8 @@
      },
      "seen": {
       "first": "2026-11-13T18:51:28+00:00",
-      "last": "2026-11-13T18:51:28+00:00",
-      "count": 1,
+      "last": "2026-11-13T18:57:18+00:00",
+      "count": 2,
       "best": 61,
       "worst": 61
      }
@@ -781,8 +775,8 @@
      },
      "seen": {
       "first": "2026-11-13T18:51:28+00:00",
-      "last": "2026-11-13T18:51:28+00:00",
-      "count": 1,
+      "last": "2026-11-13T18:57:18+00:00",
+      "count": 2,
       "best": 15,
       "worst": 15
      }
@@ -793,7 +787,7 @@
      "source": "news_keyword",
      "platform": "news",
      "title": "She showed us some of her incredible products and how she makes it",
-     "rank": 5,
+     "rank": 6,
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON3pQb2o5XzJPMndTVHFITVNCUWV0VGpSeDk1RHNHNE1OeDg0ZVpfWjhvVjRpWlA3eXhORWo1eWNITU1XUEFScTBManZoREpXOE1KSU5JX284Wk8yeWZKbjFYVmFRRVZrRy1PVHdzYzFSMWtZSV9PMmozQ2NIOGJWQmhCd3lFRlhrZlQ1Z1VwSWFnMkItMGEyZnRCSkRpY0tLTEZmSEJGZHMySHEzZWF5SVVwVk5QSC1TbmhlSDBseE5qazBO?oc=5",
      "metrics": {},
      "keyword": "Skincare",
@@ -803,10 +797,10 @@
      },
      "seen": {
       "first": "2026-11-13T18:51:28+00:00",
-      "last": "2026-11-13T18:51:28+00:00",
-      "count": 1,
+      "last": "2026-11-13T18:57:18+00:00",
+      "count": 2,
       "best": 5,
-      "worst": 5
+      "worst": 6
      }
     },
     {
@@ -825,8 +819,8 @@
      },
      "seen": {
       "first": "2026-11-13T18:51:28+00:00",
-      "last": "2026-11-13T18:51:28+00:00",
-      "count": 1,
+      "last": "2026-11-13T18:57:18+00:00",
+      "count": 2,
       "best": 14,
       "worst": 14
      }
@@ -847,8 +841,8 @@
      },
      "seen": {
       "first": "2026-11-13T18:51:28+00:00",
-      "last": "2026-11-13T18:51:28+00:00",
-      "count": 1,
+      "last": "2026-11-13T18:57:18+00:00",
+      "count": 2,
       "best": 29,
       "worst": 29
      }
@@ -880,8 +874,8 @@
      },
      "seen": {
       "first": "2026-11-13T18:51:28+00:00",
-      "last": "2026-11-13T18:51:28+00:00",
-      "count": 1,
+      "last": "2026-11-13T18:57:18+00:00",
+      "count": 2,
       "best": 3,
       "worst": 3
      }
@@ -905,8 +899,8 @@
      },
      "seen": {
       "first": "2026-11-13T18:51:28+00:00",
-      "last": "2026-11-13T18:51:28+00:00",
-      "count": 1,
+      "last": "2026-11-13T18:57:18+00:00",
+      "count": 2,
       "best": 2,
       "worst": 2
      }
@@ -930,8 +924,8 @@
      },
      "seen": {
       "first": "2026-11-13T18:51:28+00:00",
-      "last": "2026-11-13T18:51:28+00:00",
-      "count": 1,
+      "last": "2026-11-13T18:57:18+00:00",
+      "count": 2,
       "best": 4,
       "worst": 4
      }
@@ -955,8 +949,8 @@
      },
      "seen": {
       "first": "2026-11-13T18:51:28+00:00",
-      "last": "2026-11-13T18:51:28+00:00",
-      "count": 1,
+      "last": "2026-11-13T18:57:18+00:00",
+      "count": 2,
       "best": 1,
       "worst": 1
      }
@@ -977,8 +971,8 @@
      },
      "seen": {
       "first": "2026-11-13T18:51:28+00:00",
-      "last": "2026-11-13T18:51:28+00:00",
-      "count": 1,
+      "last": "2026-11-13T18:57:18+00:00",
+      "count": 2,
       "best": 1,
       "worst": 1
      }
@@ -999,8 +993,8 @@
      },
      "seen": {
       "first": "2026-11-13T18:51:28+00:00",
-      "last": "2026-11-13T18:51:28+00:00",
-      "count": 1,
+      "last": "2026-11-13T18:57:18+00:00",
+      "count": 2,
       "best": 3,
       "worst": 3
      }
@@ -1021,8 +1015,8 @@
      },
      "seen": {
       "first": "2026-11-13T18:51:28+00:00",
-      "last": "2026-11-13T18:51:28+00:00",
-      "count": 1,
+      "last": "2026-11-13T18:57:18+00:00",
+      "count": 2,
       "best": 9,
       "worst": 9
      }
@@ -1043,8 +1037,8 @@
      },
      "seen": {
       "first": "2026-11-13T18:51:28+00:00",
-      "last": "2026-11-13T18:51:28+00:00",
-      "count": 1,
+      "last": "2026-11-13T18:57:18+00:00",
+      "count": 2,
       "best": 4,
       "worst": 4
      }
@@ -1065,8 +1059,8 @@
      },
      "seen": {
       "first": "2026-11-13T18:51:28+00:00",
-      "last": "2026-11-13T18:51:28+00:00",
-      "count": 1,
+      "last": "2026-11-13T18:57:18+00:00",
+      "count": 2,
       "best": 18,
       "worst": 18
      }
@@ -1087,8 +1081,8 @@
      },
      "seen": {
       "first": "2026-11-13T18:51:28+00:00",
-      "last": "2026-11-13T18:51:28+00:00",
-      "count": 1,
+      "last": "2026-11-13T18:57:18+00:00",
+      "count": 2,
       "best": 17,
       "worst": 17
      }

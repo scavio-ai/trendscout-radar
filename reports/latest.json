@@ -1,7 +1,7 @@
 {
  "schema": "trendscout.report/2",
- "taken_at": "2026-11-14T18:46:18+00:00",
- "previous_at": "2026-11-14T16:38:17+00:00",
+ "taken_at": "2026-11-14T23:01:49+00:00",
+ "previous_at": "2026-11-14T18:46:18+00:00",
  "summary": null,
  "cross_platform": [],
  "sections": [
@@ -14,16 +14,16 @@
      "change": 0,
      "source": "google_trends_rss",
      "platform": "google",
-     "title": "shane gillis",
+     "title": "xrp price",
      "rank": 1,
-     "url": "https://trends.google.com/trends/explore?q=shane+gillis",
+     "url": "https://trends.google.com/trends/explore?q=xrp+price",
      "metrics": {
-      "searches": 1000.0
+      "searches": 2000.0
      },
      "keyword": null,
-     "published_at": "2026-11-14T10:30:00-08:00",
+     "published_at": "2026-11-14T14:40:00-08:00",
      "extra": {
-      "headline": "Shane Gillis Addresses ‘SNL’ Monologue Backlash After Controversial Joke About Women at the Gym"
+      "headline": "What XRP Did the Last Time It Fell Below $1"
      }
     },
     {
@@ -31,16 +31,16 @@
      "change": 0,
      "source": "google_trends_rss",
      "platform": "google",
-     "title": "kennesaw st vs sam houston",
+     "title": "jeffery simmons chicago bears trade",
      "rank": 2,
-     "url": "https://trends.google.com/trends/explore?q=kennesaw+st+vs+sam+houston",
+     "url": "https://trends.google.com/trends/explore?q=jeffery+simmons+chicago+bears+trade",
      "metrics": {
       "searches": 500.0
      },
      "keyword": null,
-     "published_at": "2026-11-14T10:20:00-08:00",
+     "published_at": "2026-11-14T14:40:00-08:00",
      "extra": {
-      "headline": "Kennesaw State vs Sam Houston Prediction, Picks & Odds | 14 Nov 2026"
+      "headline": "What Stood Out to DT Jeffery Simmons After Joining the Chicago Bears"
      }
     },
     {
@@ -48,16 +48,16 @@
      "change": 0,
      "source": "google_trends_rss",
      "platform": "google",
-     "title": "bo jackson",
+     "title": "gold",
      "rank": 3,
-     "url": "https://trends.google.com/trends/explore?q=bo+jackson",
+     "url": "https://trends.google.com/trends/explore?q=gold",
      "metrics": {
       "searches": 500.0
      },
      "keyword": null,
-     "published_at": "2026-11-14T10:20:00-08:00",
+     "published_at": "2026-11-14T14:40:00-08:00",
      "extra": {
-      "headline": "Bo Jackson explains broken bats at Louisville Slugger Museum & Factory"
+      "headline": "Grandmother mistakes medieval gold cross for costume jewelry before learning its five-figure value"
      }
     },
     {
@@ -65,16 +65,16 @@
      "change": 0,
      "source": "google_trends_rss",
      "platform": "google",
-     "title": "northern iowa vs south dakota",
+     "title": "joe jonas",
      "rank": 4,
-     "url": "https://trends.google.com/trends/explore?q=northern+iowa+vs+south+dakota",
+     "url": "https://trends.google.com/trends/explore?q=joe+jonas",
      "metrics": {
-      "searches": 500.0
+      "searches": 200.0
      },
      "keyword": null,
-     "published_at": "2026-11-14T10:20:00-08:00",
+     "published_at": "2026-11-14T14:40:00-08:00",
      "extra": {
-      "headline": "South Dakota Football's 16 Seniors Will Be Honored On Saturday"
+      "headline": "Joe Jonas and Girlfriend Tatiana Gabriela Split After 1 Year of Dating: ‘Things Shifted’"
      }
     },
     {
@@ -82,16 +82,67 @@
      "change": 0,
      "source": "google_trends_rss",
      "platform": "google",
-     "title": "depaul vs notre dame",
+     "title": "boa grand nationals 2026",
      "rank": 5,
-     "url": "https://trends.google.com/trends/explore?q=depaul+vs+notre+dame",
+     "url": "https://trends.google.com/trends/explore?q=boa+grand+nationals+2026",
+     "metrics": {
+      "searches": 1000.0
+     },
+     "keyword": null,
+     "published_at": "2026-11-14T14:40:00-08:00",
+     "extra": {
+      "headline": "See who's competing in 2026 BOA Grand National Championships semifinals"
+     }
+    },
+    {
+     "status": "new",
+     "change": 0,
+     "source": "google_trends_rss",
+     "platform": "google",
+     "title": "querétaro vs monterrey",
+     "rank": 6,
+     "url": "https://trends.google.com/trends/explore?q=quer%C3%A9taro+vs+monterrey",
+     "metrics": {
+      "searches": 2000.0
+     },
+     "keyword": null,
+     "published_at": "2026-11-14T14:30:00-08:00",
+     "extra": {
+      "headline": "Querétaro vs Monterrey: ¿Cómo afecta a Pumas y Liguilla?"
+     }
+    },
+    {
+     "status": "new",
+     "change": 0,
+     "source": "google_trends_rss",
+     "platform": "google",
+     "title": "juan diaz",
+     "rank": 7,
+     "url": "https://trends.google.com/trends/explore?q=juan+diaz",
+     "metrics": {
+      "searches": 1000.0
+     },
+     "keyword": null,
+     "published_at": "2026-11-14T14:30:00-08:00",
+     "extra": {
+      "headline": "Nació en Perú, vivió su adolescencia en la Argentina, escucha a La Mona y a Ulises y va por su segunda pelea en la UFC"
+     }
+    },
+    {
+     "status": "new",
+     "change": 0,
+     "source": "google_trends_rss",
+     "platform": "google",
+     "title": "faizon brandon",
+     "rank": 8,
+     "url": "https://trends.google.com/trends/explore?q=faizon+brandon",
      "metrics": {
       "searches": 500.0
      },
      "keyword": null,
-     "published_at": "2026-11-14T10:20:00-08:00",
+     "published_at": "2026-11-14T14:30:00-08:00",
      "extra": {
-      "headline": "No. 13 Notre Dame Set For SoFi Shamrock Classic Against DePaul"
+      "headline": "George MacIntyre injury update: Tennessee QB leaves Texas A&M game"
      }
     },
     {
@@ -99,67 +150,16 @@
      "change": 0,
      "source": "google_trends_rss",
      "platform": "google",
-     "title": "algeria vs togo",
-     "rank": 6,
-     "url": "https://trends.google.com/trends/explore?q=algeria+vs+togo",
-     "metrics": {
-      "searches": 200.0
-     },
-     "keyword": null,
-     "published_at": "2026-11-14T10:20:00-08:00",
-     "extra": {
-      "headline": "Algeria vs Togo: Africa Cup of Nations Qualification stats & head-to-head"
-     }
-    },
-    {
-     "status": "new",
-     "change": 0,
-     "source": "google_trends_rss",
-     "platform": "google",
-     "title": "rob ezell",
-     "rank": 7,
-     "url": "https://trends.google.com/trends/explore?q=rob+ezell",
-     "metrics": {
-      "searches": 200.0
-     },
-     "keyword": null,
-     "published_at": "2026-11-14T10:20:00-08:00",
-     "extra": {
-      "headline": "NC State officially hires Philip Rivers as football coach"
-     }
-    },
-    {
-     "status": "new",
-     "change": 0,
-     "source": "google_trends_rss",
-     "platform": "google",
-     "title": "david montgomery",
-     "rank": 8,
-     "url": "https://trends.google.com/trends/explore?q=david+montgomery",
-     "metrics": {
-      "searches": 200.0
-     },
-     "keyword": null,
-     "published_at": "2026-11-14T10:20:00-08:00",
-     "extra": {
-      "headline": "David Montgomery (groin) working out at practice"
-     }
-    },
-    {
-     "status": "new",
-     "change": 0,
-     "source": "google_trends_rss",
-     "platform": "google",
-     "title": "sd state vs southern il",
+     "title": "high potential",
      "rank": 9,
-     "url": "https://trends.google.com/trends/explore?q=sd+state+vs+southern+il",
+     "url": "https://trends.google.com/trends/explore?q=high+potential",
      "metrics": {
-      "searches": 1000.0
+      "searches": 200.0
      },
      "keyword": null,
-     "published_at": "2026-11-14T10:10:00-08:00",
+     "published_at": "2026-11-14T14:30:00-08:00",
      "extra": {
-      "headline": "Week 12: SDSU at Southern Illinois - What I'm watching"
+      "headline": "High Potential Reveals Season 3 Premiere Date on ABC"
      }
     },
     {
@@ -167,16 +167,16 @@
      "change": 0,
      "source": "google_trends_rss",
      "platform": "google",
-     "title": "lol worlds",
+     "title": "paramount",
      "rank": 10,
-     "url": "https://trends.google.com/trends/explore?q=lol+worlds",
+     "url": "https://trends.google.com/trends/explore?q=paramount",
      "metrics": {
-      "searches": 1000.0
+      "searches": 2000.0
      },
      "keyword": null,
-     "published_at": "2026-11-14T10:10:00-08:00",
+     "published_at": "2026-11-14T14:20:00-08:00",
      "extra": {
-      "headline": "Worlds 2026: BLG Knight vs Gen.G Chovy"
+      "headline": "Johnny Depp Pic ‘Ebenezer’ Hoping For $20M+ U.S. – Saturday AM Box Office Update"
      }
     }
    ]
@@ -190,17 +190,17 @@
      "change": 0,
      "source": "hackernews",
      "platform": "hackernews",
-     "title": "Lovable apps expose passport details and more than 200K private messages",
-     "rank": 1,
-     "url": "https://www.crissyfield.de/research/lovable-en/",
+     "title": "SpaceX Catches the Starship to end Flight 15",
+     "rank": 2,
+     "url": "https://x.com/i/broadcasts/2brajgZlOKRMka",
      "metrics": {
-      "points": 114.0,
-      "comments": 31.0
+      "points": 401.0,
+      "comments": 227.0
      },
      "keyword": null,
      "published_at": null,
      "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50499017"
+      "discussion": "https://news.ycombinator.com/item?id=50500963"
      }
     },
     {
@@ -208,17 +208,17 @@
      "change": 0,
      "source": "hackernews",
      "platform": "hackernews",
-     "title": "A Family Tree of Software Job Titles",
-     "rank": 4,
-     "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+     "title": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",
+     "rank": 6,
+     "url": "https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/",
      "metrics": {
-      "points": 21.0,
-      "comments": 10.0
+      "points": 62.0,
+      "comments": 33.0
      },
      "keyword": null,
      "published_at": null,
      "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50499038"
+      "discussion": "https://news.ycombinator.com/item?id=50471874"
      }
     },
     {
@@ -226,71 +226,17 @@
      "change": 0,
      "source": "hackernews",
      "platform": "hackernews",
-     "title": "The VHDL standard's float package gets sqrt(2) wrong",
-     "rank": 7,
-     "url": "https://github.com/lmtlssss/speedrunpapi/tree/main/hardware/audit/ieee-float-pkg",
+     "title": "Possible Futures",
+     "rank": 10,
+     "url": "https://borretti.me/article/possible-futures",
      "metrics": {
-      "points": 9.0,
-      "comments": 2.0
-     },
-     "keyword": null,
-     "published_at": null,
-     "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50499188"
-     }
-    },
-    {
-     "status": "new",
-     "change": 0,
-     "source": "hackernews",
-     "platform": "hackernews",
-     "title": "Reverse engineering a vintage diode-transistor logic chip",
-     "rank": 9,
-     "url": "https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
-     "metrics": {
-      "points": 37.0,
-      "comments": 1.0
-     },
-     "keyword": null,
-     "published_at": null,
-     "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50416011"
-     }
-    },
-    {
-     "status": "new",
-     "change": 0,
-     "source": "hackernews",
-     "platform": "hackernews",
-     "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-     "rank": 11,
-     "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-     "metrics": {
-      "points": 39.0,
-      "comments": 1.0
-     },
-     "keyword": null,
-     "published_at": null,
-     "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50497589"
-     }
-    },
-    {
-     "status": "new",
-     "change": 0,
-     "source": "hackernews",
-     "platform": "hackernews",
-     "title": "Will We Put Data Centers in Space?",
-     "rank": 12,
-     "url": "https://www.forethought.org/research/will-we-really-put-data-centers-in-space",
-     "metrics": {
-      "points": 7.0,
+      "points": 27.0,
       "comments": 19.0
      },
      "keyword": null,
      "published_at": null,
      "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50498945"
+      "discussion": "https://news.ycombinator.com/item?id=50464467"
      }
     },
     {
@@ -298,17 +244,89 @@
      "change": 0,
      "source": "hackernews",
      "platform": "hackernews",
-     "title": "Seagate's new hybrid drive raises some old questions",
-     "rank": 17,
-     "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+     "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
+     "rank": 12,
+     "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
      "metrics": {
-      "points": 5.0,
+      "points": 152.0,
+      "comments": 69.0
+     },
+     "keyword": null,
+     "published_at": null,
+     "extra": {
+      "discussion": "https://news.ycombinator.com/item?id=50499723"
+     }
+    },
+    {
+     "status": "new",
+     "change": 0,
+     "source": "hackernews",
+     "platform": "hackernews",
+     "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+     "rank": 14,
+     "url": "https://retrocomputing.stackexchange.com/questions/17957",
+     "metrics": {
+      "points": 3.0,
+      "comments": 0.0
+     },
+     "keyword": null,
+     "published_at": null,
+     "extra": {
+      "discussion": "https://news.ycombinator.com/item?id=50501594"
+     }
+    },
+    {
+     "status": "new",
+     "change": 0,
+     "source": "hackernews",
+     "platform": "hackernews",
+     "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
+     "rank": 17,
+     "url": "https://projectzero.google/2026/11/disclosure-policy.html",
+     "metrics": {
+      "points": 116.0,
+      "comments": 23.0
+     },
+     "keyword": null,
+     "published_at": null,
+     "extra": {
+      "discussion": "https://news.ycombinator.com/item?id=50496051"
+     }
+    },
+    {
+     "status": "new",
+     "change": 0,
+     "source": "hackernews",
+     "platform": "hackernews",
+     "title": "Dartmouth (Guarini) will not admit math PhD cohort this year",
+     "rank": 18,
+     "url": "https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year",
+     "metrics": {
+      "points": 56.0,
+      "comments": 14.0
+     },
+     "keyword": null,
+     "published_at": null,
+     "extra": {
+      "discussion": "https://news.ycombinator.com/item?id=50499945"
+     }
+    },
+    {
+     "status": "new",
+     "change": 0,
+     "source": "hackernews",
+     "platform": "hackernews",
+     "title": "The Sicilian Citrus Family Tree",
+     "rank": 19,
+     "url": "https://www.notesfromtheroad.com/europa/citrus-family-tree.html",
+     "metrics": {
+      "points": 10.0,
       "comments": 1.0
      },
      "keyword": null,
      "published_at": null,
      "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50453901"
+      "discussion": "https://news.ycombinator.com/item?id=50448895"
      }
     },
     {
@@ -316,17 +334,17 @@
      "change": 0,
      "source": "hackernews",
      "platform": "hackernews",
-     "title": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
-     "rank": 23,
-     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
+     "title": "Demystifying phone unlocking tools: A technical overview",
+     "rank": 20,
+     "url": "https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/",
      "metrics": {
-      "points": 17.0,
-      "comments": 12.0
+      "points": 61.0,
+      "comments": 2.0
      },
      "keyword": null,
      "published_at": null,
      "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50499114"
+      "discussion": "https://news.ycombinator.com/item?id=50497416"
      }
     },
     {
@@ -334,35 +352,17 @@
      "change": 0,
      "source": "hackernews",
      "platform": "hackernews",
-     "title": "How to Create Your Own Decentralized Messenger Protocol",
-     "rank": 26,
-     "url": "https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol",
+     "title": "US IRS free online tax filing open source repo (2025)",
+     "rank": 28,
+     "url": "https://github.com/IRS-Public/direct-file",
      "metrics": {
-      "points": 15.0,
-      "comments": 3.0
+      "points": 131.0,
+      "comments": 79.0
      },
      "keyword": null,
      "published_at": null,
      "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50498073"
-     }
-    },
-    {
-     "status": "new",
-     "change": 0,
-     "source": "hackernews",
-     "platform": "hackernews",
-     "title": "Italy fines Meta €805M over photo privacy",
-     "rank": 27,
-     "url": "https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/",
-     "metrics": {
-      "points": 108.0,
-      "comments": 56.0
-     },
-     "keyword": null,
-     "published_at": null,
-     "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50498063"
+      "discussion": "https://news.ycombinator.com/item?id=50499083"
      }
     }
    ]
@@ -372,79 +372,70 @@
   {
    "name": "AI agents",
    "total": 113,
-   "new": 11,
+   "new": 17,
    "search": [],
    "hits": [
     {
      "new": true,
      "trending": false,
-     "source": "hackernews_keyword",
-     "platform": "hackernews",
-     "title": "Show HN: Timon, an open-source AI workstation for coordinating agents",
-     "rank": 17,
-     "url": "https://github.com/ai-timon/timon",
-     "metrics": {
-      "points": 6.0,
-      "comments": 0.0
-     },
+     "source": "news_keyword",
+     "platform": "news",
+     "title": "Sierra releases Personal Agent Protocol 1.0",
+     "rank": 44,
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3lDVC1IRjhzU1VUaEluMHFrNXRYOUVpRmVWNzBwdmZSSnNGRTliY0c0Q2h5WHB0MExzXzd2TWI0U1NsOWRmeEI2MkRKV2pGSG40bDdib1QyX1RMTFM5NlUxYm1LLWhlMW9KeHZocmpmVVI2LXUwZ2xvaEIyeGhtMXdEVQ?oc=5",
+     "metrics": {},
      "keyword": "AI agents",
-     "published_at": "2026-11-14T12:52:01Z",
+     "published_at": "2026-11-14T21:23:22+00:00",
      "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50496631"
+      "publisher": "CASRAI"
      },
      "seen": {
-      "first": "2026-11-14T18:46:18+00:00",
-      "last": "2026-11-14T18:46:18+00:00",
+      "first": "2026-11-14T23:01:49+00:00",
+      "last": "2026-11-14T23:01:49+00:00",
       "count": 1,
-      "best": 17,
-      "worst": 17
+      "best": 44,
+      "worst": 44
      }
     },
     {
      "new": true,
      "trending": false,
-     "source": "hackernews_keyword",
-     "platform": "hackernews",
-     "title": "Show HN: Shotoku – Local-first action governance and budget caps for AI agents",
-     "rank": 13,
-     "url": "https://www.shotoku.dev/",
-     "metrics": {
-      "points": 5.0,
-      "comments": 0.0
-     },
+     "source": "news_keyword",
+     "platform": "news",
+     "title": "Come Meet Us Live at Granola HQ in SF: Granola’s VP of Sales and I Will Be There to Talk Agents for GTM, What’s Working and What Isn’t",
+     "rank": 3,
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOa1pnSEl2Nnk2VVl5M1RzYUhEYnNtWXI2QU9PeEpxdUhVZlB0dlMwTWZkbFV4eFZrVVdTV2xIYnFKcFFuaEViLXdrOWp6NGtrbTZ4RXd3ZG5lR05nMHQzTk5ON05GVXVrWHg1cXJ3a1NUQXdydThhVEFBQUN1QjZuQTNKZzdtcEtYNzdRaXFLMkhJTGY1WjFLdktRdG5LZDUzRVcwZUs4S1RWTTFlQzhjQTRlcHJ1Y2FBeTNqTmk4ZFdMeWpiY1p3Wm5GeWY4X0R6T1ZJZVEzWVZiLWFKV3Y2SmhGdEhYNHY1?oc=5",
+     "metrics": {},
      "keyword": "AI agents",
-     "published_at": "2026-11-14T13:02:53Z",
+     "published_at": "2026-11-14T21:11:15+00:00",
      "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50496705"
+      "publisher": "saastr.com"
      },
      "seen": {
-      "first": "2026-11-14T18:46:18+00:00",
-      "last": "2026-11-14T18:46:18+00:00",
+      "first": "2026-11-14T23:01:49+00:00",
+      "last": "2026-11-14T23:01:49+00:00",
       "count": 1,
-      "best": 13,
-      "worst": 13
+      "best": 3,
+      "worst": 3
      }
     },
     {
      "new": true,
      "trending": false,
-     "source": "hackernews_keyword",
-     "platform": "hackernews",
-     "title": "Amazon's plan to own the product data and fight AI shopping agents",
+     "source": "news_keyword",
+     "platform": "news",
+     "title": "ScrapeBench Preprint Evaluates Legal and Robots.txt Compliance of Web-Scraping AI Agents",
      "rank": 14,
-     "url": "https://www.reuters.com/business/media-telecom/amazons-plan-own-worlds-product-data-fight-ai-shopping-agents-2026-11-13/",
-     "metrics": {
-      "points": 5.0,
-      "comments": 0.0
-     },
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU085Um8xSUk4MGtPcWNXNi1NcktkaWJ5THA1Ni1fU3gwb0NxbVZDVi1KWnluc3NuaEVGMEJBVTl0M0d1N2IxM0xib1lzdEJ5MDVSZ1FBYUg3ZFk3NWQ0TktSellWUmIxR2xqRHJOVXdCRDdLZVBLWnctMjFicGxKcHdCdmNCUTBhVWFHSW9uRlE?oc=5",
+     "metrics": {},
      "keyword": "AI agents",
-     "published_at": "2026-11-14T12:09:29Z",
+     "published_at": "2026-11-14T20:33:03+00:00",
      "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50496391"
+      "publisher": "CASRAI"
      },
      "seen": {
-      "first": "2026-11-14T18:46:18+00:00",
-      "last": "2026-11-14T18:46:18+00:00",
+      "first": "2026-11-14T23:01:49+00:00",
+      "last": "2026-11-14T23:01:49+00:00",
       "count": 1,
       "best": 14,
       "worst": 14
@@ -455,21 +446,21 @@
      "trending": false,
      "source": "news_keyword",
      "platform": "news",
-     "title": "My Local AI Agent Needed a Bigger Brain, So I Gave It a Decentralized GPU",
-     "rank": 32,
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTV9PWC1RVmhkSFJFU1pxZTNlYnhwWnY1cEFZWlpxNWlieVU2QnBjaHc2STB1dnkyRWgxZVRmbFhUZlBNUHpSUWljV0p4RFFjTDJNWWxKam1COVZ2WlhvUUVFQV9wWkZsbEVySVh4Y0w3WEo5bDBTY3Bta0NRbzlpUWVZSUk2M0hwMGx1LXJGUGdvdHNSSkZseE1LRQ?oc=5",
+     "title": "AWS Introduces UAEF Framework-Agnostic System for Closed-Loop AI Agent Evaluation",
+     "rank": 21,
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM1NOREExY09zT0x3b2xka05tdUlGUkpNTF90bHpNcWNMRHdUX21LMzQ2UnlKNTIxTDFlMnJRVUprcTRmTDNfa1lNVFZGbE5jUndKOTAzTFViSEt0TXJURVNvLTVhbkhwakhPY0RfdnNNVUJqdGwyZE55ZTI3a1ZhWjJn?oc=5",
      "metrics": {},
      "keyword": "AI agents",
-     "published_at": "2026-11-14T18:05:24+00:00",
+     "published_at": "2026-11-14T20:23:23+00:00",
      "extra": {
-      "publisher": "HackerNoon"
+      "publisher": "CASRAI"
      },
      "seen": {
-      "first": "2026-11-14T18:46:18+00:00",
-      "last": "2026-11-14T18:46:18+00:00",
+      "first": "2026-11-14T23:01:49+00:00",
+      "last": "2026-11-14T23:01:49+00:00",
       "count": 1,
-      "best": 32,
-      "worst": 32
+      "best": 21,
+      "worst": 21
      }
     },
     {
@@ -477,21 +468,21 @@
      "trending": false,
      "source": "news_keyword",
      "platform": "news",
-     "title": "“Don’t ask again”: how AI coding agents publish developers’ passwords",
-     "rank": 24,
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZjBXNU1WOS1uVEZsejZtMVYwNHBzX0JNa2JSWnBydHBTTkZDMkV0MFJEOWxrZWg3cVhGYlNVZ0R1Y19fLWZfVjB6Q2NzS3pUUFh0V0djN2NXVklKdEEybi1BZXctVnBPMGVGYjJvWV82X0lNa0k4Rk9DRmlESGVLeU94S0k3TXVaNzNieEQtSUVCOV90V25VVXRGbl9aUGFNclpBZnJodw?oc=5",
+     "title": "Affirmi AppSpace Rebrands as TheMVP.ai and Launches Reddi, an AI Agent for Youth Sports Clubs",
+     "rank": 94,
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOelNYRXdaTlhOZ0FGQ3BIa3h0c0s0RmUyS205a3JOWnVTQnBKbVdOWHNsaHJTN1JFb3dZQnFBOXhueFRBT3ltWlJkU2NXeW9tRWVJVDBHcm5CdkxkR0VwNzFPWlVIMm5COFlMMm1KQjBIYXk0MnM4c3Vwc0pGX2xjdm45RG5NRnpiN1l1RHI4aTdNZw?oc=5",
      "metrics": {},
      "keyword": "AI agents",
-     "published_at": "2026-11-14T17:52:14+00:00",
+     "published_at": "2026-11-14T20:18:01+00:00",
      "extra": {
-      "publisher": "Cybersecurity Insiders"
+      "publisher": "Youth Sports Business Report"
      },
      "seen": {
-      "first": "2026-11-14T18:46:18+00:00",
-      "last": "2026-11-14T18:46:18+00:00",
+      "first": "2026-11-14T23:01:49+00:00",
+      "last": "2026-11-14T23:01:49+00:00",
       "count": 1,
-      "best": 24,
-      "worst": 24
+      "best": 94,
+      "worst": 94
      }
     },
     {
@@ -499,21 +490,21 @@
      "trending": false,
      "source": "news_keyword",
      "platform": "news",
-     "title": "Before You Let AI Do Your Holiday Shopping: 7 Rules From a Security Expert",
-     "rank": 70,
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdnFhM3pVRjZrdk1EaUdvNU56Wmc3S0lKU1hxX3ZSNEZvVTAyRDZ2bmtTWXlVR2pJNlRUSUJEM1lIOE1tMm9mT3o5elYycmJYckxRQThkODRoMkFLV2s5ZmY3VS10UzQ0TF8tRTh6X2ZNVFpyVU5kSHJXQVYyUDBUSnhQVGNoOWQ3aUtheG9jZU14LTlVd0tVYXo0N0k0NUJFcmRRb250VDBSa1hheUlRSE9R?oc=5",
+     "title": "OpenAI hands its AI agents a wallet without the real card number in it",
+     "rank": 4,
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmo5Z2ktUVlkUzZqOHkxQVhvSUtqdDdFU0wxMkUtekVZam5SODNVOExXbFdUSy0tSzEyRndVNEI5a2w5X2ViWjdsZk02eXhZRDZ0c3lhOXZ2Wm1iektJUDBmYjNVdW5iWFkxX3BmVTRKVVBDcXhUWXZSQlBlMzdpNzVLczBPSmhTVk1SWVh0S0hjQQ?oc=5",
      "metrics": {},
      "keyword": "AI agents",
-     "published_at": "2026-11-14T17:48:45+00:00",
+     "published_at": "2026-11-14T19:58:41+00:00",
      "extra": {
-      "publisher": "Security Boulevard"
+      "publisher": "PPC Land"
      },
      "seen": {
-      "first": "2026-11-14T18:46:18+00:00",
-      "last": "2026-11-14T18:46:18+00:00",
+      "first": "2026-11-14T23:01:49+00:00",
+      "last": "2026-11-14T23:01:49+00:00",
       "count": 1,
-      "best": 70,
-      "worst": 70
+      "best": 4,
+      "worst": 4
      }
     },
     {
@@ -521,21 +512,21 @@
      "trending": false,
      "source": "news_keyword",
      "platform": "news",
-     "title": "United Airlines AI Agents Ban: What Still Works in 2026",
-     "rank": 26,
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjdkdQbjBFV2xicEtRY05YQV96MXBkbXZZRVhLY0ZTMnhHaXNSM1lFSE01eXdYc2VkYVZaSjR2ckN0eGJEVW53S3NGZ2JDQkh4c0h2dnhtQXVXeEU?oc=5",
+     "title": "Insurtech StitchStudio raises $8 mn to expand AI automation in insurance",
+     "rank": 40,
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObzZjU3E0WXFtUXhUVTNFU0s4WjE3VXczNmxYdXBfUi1SR3JZNjNzX2VyZVVkV2NpNnB1MmRJUkRmN0FHbTNaOGR5bDRzY2pRSDhIV1Q3U0VXRHFPNHgzTW5UR3lGMm5IbzFOLTFsY1dQQVZfcnFVNWU2bVpiYmlwQVRJdnNBMlVqT2NfMzRuZHg?oc=5",
      "metrics": {},
      "keyword": "AI agents",
-     "published_at": "2026-11-14T17:31:50+00:00",
+     "published_at": "2026-11-14T19:46:10+00:00",
      "extra": {
-      "publisher": "Memeburn"
+      "publisher": "Beinsure"
      },
      "seen": {
-      "first": "2026-11-14T18:46:18+00:00",
-      "last": "2026-11-14T18:46:18+00:00",
+      "first": "2026-11-14T23:01:49+00:00",
+      "last": "2026-11-14T23:01:49+00:00",
       "count": 1,
-      "best": 26,
-      "worst": 26
+      "best": 40,
+      "worst": 40
      }
     },
     {
@@ -543,43 +534,21 @@
      "trending": false,
      "source": "news_keyword",
      "platform": "news",
-     "title": "Forum: When AI agents go rogue, who's really in control?",
-     "rank": 5,
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLS1TX2p4VVh1UHhkM0h1R3gtT19FSjB1MndtNFVWR3NIZS1BT3JqRVdoUTU2RFBjU2tLZW4xaWs3TDV4QnhWME1tamNZakV0ZVgtdGVCZDI3NERVZ2ZQLVNZQW5SVE1GVkZqTDFkbzUwNW05T2NUSU9wbl9BT3phVU84VnRyVUs0MjFlcEJuZVJTRmZ4N0RFcmZSWExzaW9namNHZV9KbW9nOVJqQ3NLZkpkTFN0VHN3cVI4UEVCU2RVUDJxRVFsYmsxalVtXzJIM2JFZnh3?oc=5",
+     "title": "Daylight Raises $80M as Engineers Govern AI Agents",
+     "rank": 16,
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWkNwaTI3ZVd0bnNJYTFqb2RhSFRSLXc4UVNUMVhCdU5fWHdRX0dWa1FPOWp6akVYTlhyMGsxbWtKNmxzQ0pZb0syUENHOGZMZHV3Rl9qa2thMXB1VklMZUhwNmZwOEdMelZDOG96UVAzamNWSGh0ZUlnQU5YTGpHUU5nbDJWZUFKdXlLMkRreUhFc3BkZEE?oc=5",
      "metrics": {},
      "keyword": "AI agents",
-     "published_at": "2026-11-14T17:06:00+00:00",
-     "extra": {
-      "publisher": "Traverse City Record-Eagle"
-     },
-     "seen": {
-      "first": "2026-11-14T18:46:18+00:00",
-      "last": "2026-11-14T18:46:18+00:00",
-      "count": 1,
-      "best": 5,
-      "worst": 5
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "Graphon Raises $35M for Persistent AI Agent Memory",
-     "rank": 27,
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeGhkYkk1VnRFTFI3Nko3cy1RYXlWbXI3YXpBQWRYR1JsVjUyRWxmV0RNcWJjZGFDa1lfbzFLTFBwRTJkNEVuY3liWkxERFhhcmUtOUEwZVF0dmVJM19lcDdrWEU4NWk2R3RPOHdlMkI5My1ldHE2QzBydTZJNURlcDJObTFTZzctX2JQQnY0Nkw1anAwcjVreHBR?oc=5",
-     "metrics": {},
-     "keyword": "AI agents",
-     "published_at": "2026-11-14T16:36:00+00:00",
+     "published_at": "2026-11-14T19:23:00+00:00",
      "extra": {
       "publisher": "Quasa.io"
      },
      "seen": {
-      "first": "2026-11-14T18:46:18+00:00",
-      "last": "2026-11-14T18:46:18+00:00",
+      "first": "2026-11-14T23:01:49+00:00",
+      "last": "2026-11-14T23:01:49+00:00",
       "count": 1,
-      "best": 27,
-      "worst": 27
+      "best": 16,
+      "worst": 16
      }
     },
     {
@@ -587,29 +556,51 @@
      "trending": false,
      "source": "news_keyword",
      "platform": "news",
-     "title": "The most important shopper of the future isn’t human",
-     "rank": 8,
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS1QyWFdzVmZhaVptSDRFTFg4QTNseXZ5enpSaE10bmxVakE4dXEtb3BKX0RDVUFpLTBSU2lGS3gweHc0TjVHMWEwRENkay14UnFXV1poZkpwRHhMc1FkLXN0d2hTMTl3VUJSNUo5QTRMSmFsSEFjQ2E0WGM0YlJUODVSOFRzWllocUpEUGt0cEJGWXdyRmlVODR2QUNMdVpYZUF4RDBlczEtWWs?oc=5",
+     "title": "IBM and Microsoft announce Imagine Enterprise AI agent platform",
+     "rank": 48,
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ3M1OGVySWwwSHRkVGxYY0hxY09ILW9CYUV4ZjhNV2JYUEltUWY3WHJPTDVUQjdaN2ZBaG1hZHJlWjFtX0NRQkpBTUN2RGJRZDVoSjNPWEJySXVKeFZWaG5NWFplTjcwakktaFQ5UGdRbDd5TjZYbk4tc2J5NTB3MHZn?oc=5",
      "metrics": {},
      "keyword": "AI agents",
-     "published_at": "2026-11-14T16:34:09+00:00",
+     "published_at": "2026-11-14T19:08:15+00:00",
      "extra": {
-      "publisher": "Fast Company"
+      "publisher": "CASRAI"
      },
      "seen": {
-      "first": "2026-11-14T18:46:18+00:00",
-      "last": "2026-11-14T18:46:18+00:00",
+      "first": "2026-11-14T23:01:49+00:00",
+      "last": "2026-11-14T23:01:49+00:00",
       "count": 1,
-      "best": 8,
-      "worst": 8
+      "best": 48,
+      "worst": 48
+     }
+    },
+    {
+     "new": true,
+     "trending": false,
+     "source": "news_keyword",
+     "platform": "news",
+     "title": "AI Agent Can’t Explain Why It Randomly Ordered its Human Meat Proxy an Absurd Number of Eggs",
+     "rank": 33,
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ2F0bGpoYmJFOWdyQWg0OW0ySlZ5MkZSanBJbUdqS05yYWFQdGlLNnBYWEhqYkFUdTVPbWpnVnZDRHlyTEttczM4aDZOclNnWUFNTU9MTlFpSllQUWRXMGV3b3VwME5YZm5ENWFSZ3hyZzM4RGFKQTRsSFI5LVNENFl3?oc=5",
+     "metrics": {},
+     "keyword": "AI agents",
+     "published_at": "2026-11-14T19:03:00+00:00",
+     "extra": {
+      "publisher": "Futurism"
+     },
+     "seen": {
+      "first": "2026-11-14T23:01:49+00:00",
+      "last": "2026-11-14T23:01:49+00:00",
+      "count": 1,
+      "best": 33,
+      "worst": 33
      }
     }
    ]
   },
   {
    "name": "Skincare",
-   "total": 98,
-   "new": 6,
+   "total": 97,
+   "new": 12,
    "search": [],
    "hits": [
     {
@@ -617,18 +608,18 @@
      "trending": false,
      "source": "news_keyword",
      "platform": "news",
-     "title": "The 3-Step Skincare Routine That Boosts Your Immunity Naturally",
+     "title": "Shoppers in Their 70s Say This Firming Neck Cream Noticeably Reduces “Turkey Neck” and Crepey Skin in Weeks",
      "rank": 18,
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUFCM21qMkhhazd1R3FZMGcxOHpYc0RaOURybzBYQzZhWjNjREE2VktCdF9vUHJIVDJxejVIYkMydWhmcEprOU9VS2JHYnZ0V2NJcDd1ZVNhcmhDcVZxWHExN3FPOEV1ZXpnb0t6d18zdFoxcmNVeTJMVGxscEVzNDMtV3p0WVd2elZPSE1SYTIzNG9qaHJwMGFYTjV0Yk5GYWRmTDhFRVE?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTlR1d3VqR3ZKNXdUWDVsM05LWlpWMVFKb1hqMjhhWVp2ekVzenZnbHF4Z0dDX3J2blA5c0lRY3dTVC1hVjZ1TEs2NmNiQXFzWWUzRWQybl9heDJCS3U3UHBzTW9KRURWdFhUemJmbmZybkpGeTVLWkcyQnNOTVVOeHRMcW5hVV8yN05KNEhoSFdWdlJIZFg0?oc=5",
      "metrics": {},
      "keyword": "Skincare",
-     "published_at": "2026-11-14T18:00:00+00:00",
+     "published_at": "2026-11-14T22:30:00+00:00",
      "extra": {
-      "publisher": "Woman's World"
+      "publisher": "Real Simple"
      },
      "seen": {
-      "first": "2026-11-14T18:46:18+00:00",
-      "last": "2026-11-14T18:46:18+00:00",
+      "first": "2026-11-14T23:01:49+00:00",
+      "last": "2026-11-14T23:01:49+00:00",
       "count": 1,
       "best": 18,
       "worst": 18
@@ -639,21 +630,21 @@
      "trending": false,
      "source": "news_keyword",
      "platform": "news",
-     "title": "I’m Snagging This Brightening Eye Cream That Fades Dark Circles, Color Corrects, *and* Smoothes Fine Lines",
-     "rank": 15,
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMDNtd0hod0JzaDY3NFVEYW44dHdUTUpMUWZSMEJPbEF4Wkl1M1AzVDJSbjBhSUpZUVhabF9fUnlydjJZUG1IdkZmd0dsdXhhbU9CekkzRWxaLW1nQzRveTJ4QUszSW9iMDlCX3V1U2hjUFBnVk80bDlzM3JUaHE3SGRWSUJYek9nQ2pfMw?oc=5",
+     "title": "Apricot Oil Market To 2035: Clean-Label Skincare Demand Supports Forward Growth - News and Statistics",
+     "rank": 2,
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMFk1ZnhBM3NwWEhvR1ljUUJpUzAybHNzZlJMMzZjVS1iYm9fVXFxT0NBWHQ2eDc2RU1sNHEyVHdPVXF5YUdqNDBlZnBlSlk4dmUwVWR5NUJCNHJKTURXZ2p0OHhndFFkRWN2NjZjOGFhNTlYRkFveUVpTmQ0bkxQaTN5cWl4MTBzeTdYQ1NkSTNCQ3hJclczRkZBaTE5MDFBdFFfbldfN1ZRZVhEQ0JTeGxxMndpa1lOSzd5ZWQ0NVlHVEhiV204cjFGVmE?oc=5",
      "metrics": {},
      "keyword": "Skincare",
-     "published_at": "2026-11-14T17:00:00+00:00",
+     "published_at": "2026-11-14T20:36:03+00:00",
      "extra": {
-      "publisher": "www.instyle.com"
+      "publisher": "IndexBox"
      },
      "seen": {
-      "first": "2026-11-14T18:46:18+00:00",
-      "last": "2026-11-14T18:46:18+00:00",
+      "first": "2026-11-14T23:01:49+00:00",
+      "last": "2026-11-14T23:01:49+00:00",
       "count": 1,
-      "best": 15,
-      "worst": 15
+      "best": 2,
+      "worst": 2
      }
     },
     {
@@ -661,21 +652,21 @@
      "trending": false,
      "source": "news_keyword",
      "platform": "news",
-     "title": "Psst: These 3 Face Masks Can Be Made In Your Kitchen",
-     "rank": 36,
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNkdsVUhvNk1hLWdaRHh3Y3pJSjlZdWhHUHdfWFVfS3JET2w3TnJkRm45amNXdXd5ZmNYOVF0ckhsaTNjaEZEUzktbjhBeFJNallyODR3SXpla2NLUjFfN2s3VmgtZEtrUldYN0lHNkRZS0hXTlVLQUo0clQ1MHRkbHYtVlN3dnFWVmFFelNLc09sSGZw?oc=5",
+     "title": "Emollients Market To 2035: Skin Care and Hair Care Demand Drives Forward Growth - News and Statistics",
+     "rank": 19,
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNemI1ckZxcEtfd2pHcWVocXhPT1d1elVlZFdZRDdIX21vdUVVNVY1T0pjMnB3MTJKLWU2NnNjS0NMY2ZWTlVadGpVZlB1NXNuSFNNZ0J1ZjZfVHBLeFMwcktkX0hZLVE5QXlMWGZIT3RVN2pOREhmMG9EVGwxcktVdmkyQ0Z4bkdmVXA1RXEyVmhGdVZ3NTZmeEZraHBHYmxpX21uZUU0amRCQU80TFFOWFZnQzJPMVVteG40cHU0dkxzSXV3TjFfdg?oc=5",
      "metrics": {},
      "keyword": "Skincare",
-     "published_at": "2026-11-14T13:00:32+00:00",
+     "published_at": "2026-11-14T19:41:03+00:00",
      "extra": {
-      "publisher": "Girls' Life"
+      "publisher": "IndexBox"
      },
      "seen": {
-      "first": "2026-11-14T18:46:18+00:00",
-      "last": "2026-11-14T18:46:18+00:00",
+      "first": "2026-11-14T23:01:49+00:00",
+      "last": "2026-11-14T23:01:49+00:00",
       "count": 1,
-      "best": 36,
-      "worst": 36
+      "best": 19,
+      "worst": 19
      }
     },
     {
@@ -683,21 +674,21 @@
      "trending": false,
      "source": "news_keyword",
      "platform": "news",
-     "title": "Chatty Weekend| Pilates| Skincare chats",
-     "rank": 10,
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5Yk5BeFk4Q3dsTFdydlhaTTB6UnY4ZzVocGNmNzgxdkRuTXFQdnc1ZnpWS0liZVNYWUNtLVZ5OE92dmZEMWo3aEhQaUQ0OW1vcTlYWlhiTE9IUG1M?oc=5",
+     "title": "The 3-Step Skincare Routine That Boosts Your Immunity Naturally",
+     "rank": 8,
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TbGRUWGJGeDhLQUUzX2JNOFBkTlpwLVlmeVlDU19HbVhMbGd4d3BXeEoyWHJfX0M5Ri1YRUVWV3k1THQwNXdTOXROVmhDTi1zTUpkY2F4NTAtc2pEV2Fnel81MndHYTUtOU9ZZnVpZGhmMlVFcXFWUERjSGRwemM?oc=5",
      "metrics": {},
      "keyword": "Skincare",
-     "published_at": "2026-11-14T07:45:24+00:00",
+     "published_at": "2026-11-14T18:00:00+00:00",
      "extra": {
-      "publisher": "YouTube"
+      "publisher": "AOL.com"
      },
      "seen": {
-      "first": "2026-11-14T18:46:18+00:00",
-      "last": "2026-11-14T18:46:18+00:00",
+      "first": "2026-11-14T23:01:49+00:00",
+      "last": "2026-11-14T23:01:49+00:00",
       "count": 1,
-      "best": 10,
-      "worst": 10
+      "best": 8,
+      "worst": 8
      }
     },
     {
@@ -705,21 +696,21 @@
      "trending": false,
      "source": "news_keyword",
      "platform": "news",
-     "title": "PROYA Debuts at Ulta Beauty, Bringing Science-Driven Prestige Skincare to U.S.",
-     "rank": 46,
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XdDRvNFU0R2E3ZC11b2R3MTVmN1hjb3pqNURTMnp5eXJqSGNTbnpHa3F1ZHZ6eGhoVFh2aFdQWldlNlptOU5yREk3alNZN2R4SVN6bzB2dURucWVl?oc=5",
+     "title": "Science-Driven Skincare Expansions",
+     "rank": 32,
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPNjJ3SUhpd2RlcVM1ZF85NjhacFVVdGVxZlg1b3NDRXRpT3pUYXJtZmMyOEVPek9zcXhoY0U0dkUyZlozZUt6N19UOFpqaHQ2T0RueGRNWWNGcHdTNG1ZVTJPRTgwSlBwT05NWHNEQ1oyZV9GV3dmMA?oc=5",
      "metrics": {},
      "keyword": "Skincare",
-     "published_at": "2026-11-13T03:02:03+00:00",
+     "published_at": "2026-11-14T17:56:51+00:00",
      "extra": {
-      "publisher": "ACROFAN USA"
+      "publisher": "Trend Hunter"
      },
      "seen": {
-      "first": "2026-11-14T18:46:18+00:00",
-      "last": "2026-11-14T18:46:18+00:00",
+      "first": "2026-11-14T23:01:49+00:00",
+      "last": "2026-11-14T23:01:49+00:00",
       "count": 1,
-      "best": 46,
-      "worst": 46
+      "best": 32,
+      "worst": 32
      }
     },
     {
@@ -727,117 +718,117 @@
      "trending": false,
      "source": "news_keyword",
      "platform": "news",
-     "title": "We've Been Waiting All Year for These Beauty Advent Calendars, and They Don't Disappoint",
-     "rank": 40,
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIRVlTTkxCOWpES1ZDXzF3UzNNd0JWWm1Ndi1kNmFLR09mOUdPVGU2QnkycC01SGhqbHZFOGJZS1o5WEhhN2xDTXlVTGtyeVE1WFdka1BGd2tTd3gxNk5nX0o5WTVKbzZwWndn?oc=5",
+     "title": "The NIVEA Advent calendar on sale drops to €44.99 instead of €74.99 until 30 November",
+     "rank": 45,
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOGViVGc1bnI1T2kxak9PSlBieXpFeUhCd25JUWRUdlBJa0xMTkJ6Y21jSHBnbFp2UllGckthc3lnWVpxNjUwUWRtdDVJOHZmNnZyTndBNGloZXV1QzVQR0J1QlE5dFNVX2lNSWt4UmoyVnZRMVZrbTE5T1lGakJuMnVKcF9ZQ2xNQmFKOEFLTnRHQ0tFWmVpNEhVMXBjeUlYdmE1cW5KSE1pQy1jSDRXdXY1RE5FbDBnaXg5eW9lMXhYZTgyUERRUG8zMHk?oc=5",
      "metrics": {},
      "keyword": "Skincare",
-     "published_at": "2026-11-12T22:26:12+00:00",
+     "published_at": "2026-11-14T12:23:03+00:00",
      "extra": {
-      "publisher": "Allure"
+      "publisher": "Paris Select Book"
      },
      "seen": {
-      "first": "2026-11-14T18:46:18+00:00",
-      "last": "2026-11-14T18:46:18+00:00",
+      "first": "2026-11-14T23:01:49+00:00",
+      "last": "2026-11-14T23:01:49+00:00",
       "count": 1,
-      "best": 40,
-      "worst": 40
+      "best": 45,
+      "worst": 45
      }
     },
     {
-     "new": false,
+     "new": true,
      "trending": false,
      "source": "news_keyword",
      "platform": "news",
-     "title": "Plexaderm Skincare",
-     "rank": 1,
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS2wxTHp0V3JjRVZiM19ST3hzeDI0LTBZUzU5R2ExTjZzQjVKQkllMnNVU0hhUUNxZ05DRUhYdndDMHhTaWJIdHlFUEJqM1RJb1ZMcnBIam1aNWYzZkJHbTJJbDVYWmk1VnB3THJDWTJTM29sTWNDNF9pMmI1VXIwZkJQVW0xbENxVEw3a1djYkZaSXNWalZReGV2TXQ1dzFz?oc=5",
+     "title": "5 reasons why rose water deserves a place in your everyday skincare routine | Health",
+     "rank": 100,
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX1JtaE9RZl9LN1NGM2F4eDU5WGJIUFNfUGRkWFVqTnp4dTFmVEs2OFRiSXJ1LWM2c3pad3dHSGU3UEVTQ213c21MaW0wYVlTamQyWkNXU2MzU3Zrem1FQmh5OFYzMHM5N1hmeGVMMkJOV0Z4TXVIU1JzQTgtQ2QwRWZ6eXJoZkp0VktidmJqbC1tSU9rdGZmN3lOLWFZcjZveWxXZy1qQUhQNGR2dkh4akY0WU1VclZnUUdBN1l4VDhHOFNLaDBpc2JEX0pCWFlzamg2SGRWN3c0Y3ZP0gHiAUFVX3lxTFBsdDBDQ2JVTkw5TndtTEk2Q1dKLVpPZnZnUFo1MDNER3NKU1pTWUVsWkNibExMRld2REVWaGU5TTBlRW5nOGlNU215ckFIbDhwNjREZzQwN184dkVKQS1MNmlxMEw0V3pRWFBrZTYxU21oNF91TnhUMzVyWUdyajkzUzNTNHZfTjVidnpHMEZfZmtDeTFuaWxmX0xfcGp5cEF3NWJQeFpvTk1nNXE3QjU3NHFpM2QyanpjQTB5Z2lYb2h0RHk5YXNkZFFwUllQc3FQRUJVOWc1enJRR2ZJSFhmX2c?oc=5",
      "metrics": {},
      "keyword": "Skincare",
-     "published_at": "2026-11-14T16:07:00+00:00",
+     "published_at": "2026-11-14T11:23:33+00:00",
      "extra": {
-      "publisher": "WGRZ"
+      "publisher": "Hindustan Times"
      },
      "seen": {
-      "first": "2026-11-14T16:38:17+00:00",
-      "last": "2026-11-14T18:46:18+00:00",
-      "count": 2,
-      "best": 1,
-      "worst": 1
+      "first": "2026-11-14T23:01:49+00:00",
+      "last": "2026-11-14T23:01:49+00:00",
+      "count": 1,
+      "best": 100,
+      "worst": 100
      }
     },
     {
-     "new": false,
+     "new": true,
      "trending": false,
      "source": "news_keyword",
      "platform": "news",
-     "title": "An Aesthetician Says This Is the Right Way to Layer Skin Care for Hydrated, Glowing Skin—Starting at $14",
-     "rank": 3,
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZlI2VUhVbVd1dzJYdkd3U0FOZWhMSHNyMUU0YXpMeXVxZGtkMi01YmpCM2tSVU1PaXduRWYxU0lKZUdTTGphWUl0M2hkTzRNT0NBYlhwMVEza3pfc0VrNmNjMkNELTk0a0RfdXBLbGNkLW9Xd1ZOVURkSXp5ZkpVV2hoQUpqcm5kVUg5ODBjNjRfeGsxUmNodlFlZk44UVk?oc=5",
+     "title": "27 Moisturizing Skincare Items You’ll Be Glad You Bought Once We’re In The Thick Of Winter",
+     "rank": 99,
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hbHBJc09LX2VoWlhIbGhyc2JfandJN08zSkFJV0lFeUVOYWxDeThoOUZ4Qy05NFhkVXRJckVaWEtrWkQ4RTFnVjN4OFNpMWNSa3JKVWlvNDhoeFBuTGdweVhtcGxFSVJZUjdMOGRIUHA2d1hzSzBMUEw2dWdWOEU?oc=5",
      "metrics": {},
      "keyword": "Skincare",
-     "published_at": "2026-11-14T14:30:00+00:00",
+     "published_at": "2026-11-14T10:31:02+00:00",
      "extra": {
-      "publisher": "Real Simple"
+      "publisher": "BuzzFeed"
      },
      "seen": {
-      "first": "2026-11-14T16:38:17+00:00",
-      "last": "2026-11-14T18:46:18+00:00",
-      "count": 2,
-      "best": 3,
-      "worst": 5
+      "first": "2026-11-14T23:01:49+00:00",
+      "last": "2026-11-14T23:01:49+00:00",
+      "count": 1,
+      "best": 99,
+      "worst": 99
      }
     },
     {
-     "new": false,
+     "new": true,
      "trending": false,
      "source": "news_keyword",
      "platform": "news",
-     "title": "I Played Chemist With a Vitamin C Serum That's Made On the Spot",
-     "rank": 6,
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWU55czE2ZEtfOVR0SWdlWFMtT0dDYkhIR19vZHA0MjZaUERGTUdqUi1icUJpbHptZjZ4azVJa0UtQ0NGbGEyQXczLVRFOTRjNENDNnp1LVVrZkcwTDhTbDlpcUE3NHNOdkgtajIzaTZfX1dtUm1YMnlNdWJfZDJUWThzUEE?oc=5",
+     "title": "9 Best Toners To Keep Mature Skin Healthy And Hydrated",
+     "rank": 56,
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CTld6bVNXOUQ3Z0QtQk5pWEV2SldrQkZyaTNWMTk4bVc1Y3pwdUtiYjNHV1BYdWxWWG1uTXg3TjB1VjF5c000QmVBcjJsZkI1TVZuX0h2MWVja3ZLUUhLaEc1eVE?oc=5",
      "metrics": {},
      "keyword": "Skincare",
-     "published_at": "2026-11-14T13:00:00+00:00",
+     "published_at": "2026-11-14T07:00:00+00:00",
      "extra": {
-      "publisher": "Marie Claire"
+      "publisher": "British Vogue"
      },
      "seen": {
-      "first": "2026-11-14T16:38:17+00:00",
-      "last": "2026-11-14T18:46:18+00:00",
-      "count": 2,
-      "best": 6,
-      "worst": 10
+      "first": "2026-11-14T23:01:49+00:00",
+      "last": "2026-11-14T23:01:49+00:00",
+      "count": 1,
+      "best": 56,
+      "worst": 56
      }
     },
     {
-     "new": false,
+     "new": true,
      "trending": false,
      "source": "news_keyword",
      "platform": "news",
-     "title": "A 70-year-old Shopper Says Their Crepey ‘Turkey Neck’ Is ‘90% Gone’ Thanks to This $20 Retinol Cream",
-     "rank": 7,
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOck00enpnNVZ6aEZvVkNBTUZCX2tTTmg4d3QwdUZmYy14REc1SDd1RE5VZ2xnaFdIYjkwZlJwanQ0QzRRWTVpM3pWU0kxdnEwTmV4NF84Q2JtTWVkVllBTVVuXzdFcE8ydlpVeGlPLUp2S1drSG1rbjZUUU1pbm5ZVVVRSHFSc2VvVUVpa0ZvVQ?oc=5",
+     "title": "Victor Ehindero: How skin health inspires deep investigation of cause-and-effect",
+     "rank": 97,
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZHRNOWZCTTIzcXlMYy1fZ2Q1aVY4QVJ6X3BkNUlEVDhhZFh3Sy1zRlRyYThKRTczeHktQXdaX0Z5WDJycG5Jc3lsZUdjbzk2RndwVGRRWXB6UGYyVnNtLXFQSEc2X3htV0ozRkV0RHR5REJ5bkhBQlJIZ1V6NEVsUFFCUUx1Q0l0TmlGNjk5a1dhMjkzX3czUl9ud05zd3A0R2IzcFhTUTNxak92U2lB?oc=5",
      "metrics": {},
      "keyword": "Skincare",
-     "published_at": "2026-11-14T12:30:00+00:00",
+     "published_at": "2026-11-14T03:02:02+00:00",
      "extra": {
-      "publisher": "Travel + Leisure"
+      "publisher": "The Guardian Nigeria News"
      },
      "seen": {
-      "first": "2026-11-14T16:38:17+00:00",
-      "last": "2026-11-14T18:46:18+00:00",
-      "count": 2,
-      "best": 7,
-      "worst": 7
+      "first": "2026-11-14T23:01:49+00:00",
+      "last": "2026-11-14T23:01:49+00:00",
+      "count": 1,
+      "best": 97,
+      "worst": 97
      }
     }
    ]
   },
   {
    "name": "Creatine",
-   "total": 31,
-   "new": 7,
+   "total": 30,
+   "new": 1,
    "search": [],
    "hits": [
     {
@@ -845,12 +836,37 @@
      "trending": false,
      "source": "hackernews_keyword",
      "platform": "hackernews",
+     "title": "Creating a self booting ZIP archive",
+     "rank": 1,
+     "url": "https://goliath32.com/blog/ziphead.html",
+     "metrics": {
+      "points": 36.0,
+      "comments": 6.0
+     },
+     "keyword": "Creatine",
+     "published_at": "2026-11-14T16:29:05Z",
+     "extra": {
+      "discussion": "https://news.ycombinator.com/item?id=50498295"
+     },
+     "seen": {
+      "first": "2026-11-14T23:01:49+00:00",
+      "last": "2026-11-14T23:01:49+00:00",
+      "count": 1,
+      "best": 1,
+      "worst": 1
+     }
+    },
+    {
+     "new": false,
+     "trending": false,
+     "source": "hackernews_keyword",
+     "platform": "hackernews",
      "title": "How to Create Your Own Decentralized Messenger Protocol",
-     "rank": 2,
+     "rank": 3,
      "url": "https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol",
      "metrics": {
-      "points": 15.0,
-      "comments": 3.0
+      "points": 50.0,
+      "comments": 9.0
      },
      "keyword": "Creatine",
      "published_at": "2026-11-14T16:01:04Z",
@@ -859,14 +875,39 @@
      },
      "seen": {
       "first": "2026-11-14T18:46:18+00:00",
-      "last": "2026-11-14T18:46:18+00:00",
-      "count": 1,
+      "last": "2026-11-14T23:01:49+00:00",
+      "count": 2,
       "best": 2,
+      "worst": 3
+     }
+    },
+    {
+     "new": false,
+     "trending": false,
+     "source": "hackernews_keyword",
+     "platform": "hackernews",
+     "title": "Creating Worlds: Runes and Spells Prototype",
+     "rank": 2,
+     "url": "https://www.fractalkitty.com/creating-worlds-runes-and-spells/",
+     "metrics": {
+      "points": 27.0,
+      "comments": 5.0
+     },
+     "keyword": "Creatine",
+     "published_at": "2026-11-09T20:11:02Z",
+     "extra": {
+      "discussion": "https://news.ycombinator.com/item?id=50431237"
+     },
+     "seen": {
+      "first": "2026-11-13T18:51:28+00:00",
+      "last": "2026-11-14T23:01:49+00:00",
+      "count": 7,
+      "best": 1,
       "worst": 2
      }
     },
     {
-     "new": true,
+     "new": false,
      "trending": false,
      "source": "news_keyword",
      "platform": "news",
@@ -881,19 +922,19 @@
      },
      "seen": {
       "first": "2026-11-14T18:46:18+00:00",
-      "last": "2026-11-14T18:46:18+00:00",
-      "count": 1,
+      "last": "2026-11-14T23:01:49+00:00",
+      "count": 2,
       "best": 4,
       "worst": 4
      }
     },
     {
-     "new": true,
+     "new": false,
      "trending": false,
      "source": "news_keyword",
      "platform": "news",
      "title": "Ashley Parker Angel Hosts Raleigh GNC Happy Hour Nov. 14",
-     "rank": 29,
+     "rank": 27,
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQm5SeWN6cjJEOE5oSFVaM0ZUVlcwZ2JqdEFOM1JwcmFXNVlIdVdZS01Hd2Yxa3RWTWYxSnFZaG9jXzJ6LXZsSWhxRExXYWtjWTJEZXdjRnY1RTdEbWM2SmgtRGg3NGZRNl9WREdhZzB6ME9VdWtDclYzS1N5TV8xSE4xOUc5QS00YkFuOFJyMldQNFFCUkh5d2hjazdOVlJwbUVseA?oc=5",
      "metrics": {},
      "keyword": "Creatine",
@@ -903,19 +944,19 @@
      },
      "seen": {
       "first": "2026-11-14T18:46:18+00:00",
-      "last": "2026-11-14T18:46:18+00:00",
-      "count": 1,
-      "best": 29,
+      "last": "2026-11-14T23:01:49+00:00",
+      "count": 2,
+      "best": 27,
       "worst": 29
      }
     },
     {
-     "new": true,
+     "new": false,
      "trending": false,
      "source": "news_keyword",
      "platform": "news",
      "title": "Creatine is everywhere. What does science actually say?",
-     "rank": 24,
+     "rank": 23,
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYTFtRXRjVmhTNnMxYmZ5VlpidnhQWXpHNFpZMHpqU05oVWMycWVMbmpkLV9GeHBjTkJPM2FLX0Z0dE9RVEwxV1FHb0VhUXAyTzlRdkRwTkRuTVlMY2I5WXA4ZjdaX0JrdDExSGZwaEEtOVg4MnB2YU9pQzE5TGg4MGZxUHpuVUJ3?oc=5",
      "metrics": {},
      "keyword": "Creatine",
@@ -925,101 +966,10 @@
      },
      "seen": {
       "first": "2026-11-14T18:46:18+00:00",
-      "last": "2026-11-14T18:46:18+00:00",
-      "count": 1,
-      "best": 24,
+      "last": "2026-11-14T23:01:49+00:00",
+      "count": 2,
+      "best": 23,
       "worst": 24
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "BUN to Creatinine Ratio Shows Nonlinear Mortality Risk in Older Atrial Fibrillation",
-     "rank": 18,
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeGhGc00xcjZQOVpPT2FVb1gzbnFpX1pIYkJNRXQ5OW1XRS00M1VSR1ZWMm5tbVRBWmhlOVpPUGRoMEw3RlhtWXBRQ3MzR3owdGV5WTFpVXRNaDFUNFpVWmxrOEJHMWlIQVpJN2VscXJ5a2xqdFhXdzA0MEhzZzZSSk1tODJSbXB1M3owQ1lzamlCd1hlcHE4NXVPZ05ndmxzWEhZekZmeDh5ZUxv?oc=5",
-     "metrics": {},
-     "keyword": "Creatine",
-     "published_at": "2026-11-14T13:03:59+00:00",
-     "extra": {
-      "publisher": "Bioengineer.org"
-     },
-     "seen": {
-      "first": "2026-11-14T18:46:18+00:00",
-      "last": "2026-11-14T18:46:18+00:00",
-      "count": 1,
-      "best": 18,
-      "worst": 18
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "Postoperative Creatinine Ratio Linked to Bypass Mortality Driven Primarily by Renal Impairment",
-     "rank": 19,
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNDFiUzViSEN6UzFyalFfYVRsVF9kY1RNaXFXYlZtcWhvNzdDU29Zc3g0OHlkZW5WVlBINFk5SWs5YS1JOUdYXzNwcF9BcTItUzFRUXdodkdzYm13R0h1eFZpZUhHNXFRd25kQzQ3Y2M0U3NrT1pNTXpnOTlTRHBYMVVDdDY2VVgxSmlvMnNhdllOaDRyOEpNRV9DM1Q3Nno1M2pWNVdRYWxRbG9NZFZET3RJQTF2U0FraWRr?oc=5",
-     "metrics": {},
-     "keyword": "Creatine",
-     "published_at": "2026-11-14T01:07:42+00:00",
-     "extra": {
-      "publisher": "Bioengineer.org"
-     },
-     "seen": {
-      "first": "2026-11-14T18:46:18+00:00",
-      "last": "2026-11-14T18:46:18+00:00",
-      "count": 1,
-      "best": 19,
-      "worst": 19
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "Percussive Therapy Shows Mixed Recovery Benefits Across Exercise Muscle Damage Dosages",
-     "rank": 21,
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNVpxeEM5alZFM254TDU3T2RWWXVMUFVOMEJ5T19yZ1lLZW1Dcms4c1JFM3pIVHN6cGN3Szh1OEFqa0QyTlE2cDh5TUx0X1V2UFdkd3R4YTcxaW40U21NbGxGdFYyYnFsdDRneG1yY2NQdnR6QTVRWmVYTjBPakdUcDBhV1ZtNFR6TjVQbFgzMWpQUURRbzdKOGl2OGl6Z09PRk9MRk1NbXZaS1pwaXFrZw?oc=5",
-     "metrics": {},
-     "keyword": "Creatine",
-     "published_at": "2026-11-13T08:05:21+00:00",
-     "extra": {
-      "publisher": "Bioengineer.org"
-     },
-     "seen": {
-      "first": "2026-11-14T18:46:18+00:00",
-      "last": "2026-11-14T18:46:18+00:00",
-      "count": 1,
-      "best": 21,
-      "worst": 21
-     }
-    },
-    {
-     "new": false,
-     "trending": false,
-     "source": "hackernews_keyword",
-     "platform": "hackernews",
-     "title": "Creating Worlds: Runes and Spells Prototype",
-     "rank": 1,
-     "url": "https://www.fractalkitty.com/creating-worlds-runes-and-spells/",
-     "metrics": {
-      "points": 27.0,
-      "comments": 5.0
-     },
-     "keyword": "Creatine",
-     "published_at": "2026-11-09T20:11:02Z",
-     "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50431237"
-     },
-     "seen": {
-      "first": "2026-11-13T18:51:28+00:00",
-      "last": "2026-11-14T18:46:18+00:00",
-      "count": 6,
-      "best": 1,
-      "worst": 2
      }
     },
     {
@@ -1038,8 +988,8 @@
      },
      "seen": {
       "first": "2026-11-14T16:38:17+00:00",
-      "last": "2026-11-14T18:46:18+00:00",
-      "count": 2,
+      "last": "2026-11-14T23:01:49+00:00",
+      "count": 3,
       "best": 2,
       "worst": 3
      }
@@ -1050,7 +1000,7 @@
      "source": "news_keyword",
      "platform": "news",
      "title": "What to Know About Creatine’s Benefits, Dosage and Risks",
-     "rank": 28,
+     "rank": 26,
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb3RiYlpDcDB1VXU4NTJLVHJ4SWNUb3ZqRzFvR25WOFdzUDZFdHBmbXJSRW80MUVOdFAxZXlqRGlqVFkzR24tdE56WDRwY1lBYlZNWHl6OEROMU1ON3lfaThjUFZjMHdYVlRtbW1lSl9rNmJzdHZvYXRTa2xFUnBXNk15TGJpR19a?oc=5",
      "metrics": {},
      "keyword": "Creatine",
@@ -1060,10 +1010,54 @@
      },
      "seen": {
       "first": "2026-11-14T16:38:17+00:00",
-      "last": "2026-11-14T18:46:18+00:00",
-      "count": 2,
-      "best": 27,
+      "last": "2026-11-14T23:01:49+00:00",
+      "count": 3,
+      "best": 26,
       "worst": 28
+     }
+    },
+    {
+     "new": false,
+     "trending": false,
+     "source": "news_keyword",
+     "platform": "news",
+     "title": "BUN to Creatinine Ratio Shows Nonlinear Mortality Risk in Older Atrial Fibrillation",
+     "rank": 17,
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeGhGc00xcjZQOVpPT2FVb1gzbnFpX1pIYkJNRXQ5OW1XRS00M1VSR1ZWMm5tbVRBWmhlOVpPUGRoMEw3RlhtWXBRQ3MzR3owdGV5WTFpVXRNaDFUNFpVWmxrOEJHMWlIQVpJN2VscXJ5a2xqdFhXdzA0MEhzZzZSSk1tODJSbXB1M3owQ1lzamlCd1hlcHE4NXVPZ05ndmxzWEhZekZmeDh5ZUxv?oc=5",
+     "metrics": {},
+     "keyword": "Creatine",
+     "published_at": "2026-11-14T13:03:59+00:00",
+     "extra": {
+      "publisher": "Bioengineer.org"
+     },
+     "seen": {
+      "first": "2026-11-14T18:46:18+00:00",
+      "last": "2026-11-14T23:01:49+00:00",
+      "count": 2,
+      "best": 17,
+      "worst": 18
+     }
+    },
+    {
+     "new": false,
+     "trending": false,
+     "source": "news_keyword",
+     "platform": "news",
+     "title": "‘Make this make sense’: California mandates ID for creatine, but NOT at the polls",
+     "rank": 8,
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPdEFQcTNXek0teXMtSDRkTFRySkNnQVNBS09FZzdUOHcwN2hDZUE0UGNidDM3ZVQ0TEdyeHpGTjQ0b2hQN2MydTliN09WTDdza0U3TWEyOTRjaDEtZk42WlVJLTl5d1Y4ajhwOTdpbzZvTm9sMFlQMjMteXdrbW1HZ1FKM3RJZlY3bnNHemliZ1JPaldZMGJraEt0SVhxWU9TbXBjdUZHRWJwNjZaaEllMVl4anRvUVJMcFN2UTBfT3RsZlM1RjhablRMdWVSMWJxSHNPYVk2V0EzYkxoWUdxZnNLYVRFM01QTUpoamNMNmtOQk1UeDhFNg?oc=5",
+     "metrics": {},
+     "keyword": "Creatine",
+     "published_at": "2026-11-14T08:46:45+00:00",
+     "extra": {
+      "publisher": "The Australian"
+     },
+     "seen": {
+      "first": "2026-11-14T16:38:17+00:00",
+      "last": "2026-11-14T23:01:49+00:00",
+      "count": 3,
+      "best": 8,
+      "worst": 8
      }
     }
    ]

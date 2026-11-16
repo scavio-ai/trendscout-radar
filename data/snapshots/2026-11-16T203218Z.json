@@ -1,0 +1,2558 @@
+{
+ "taken_at": "2026-11-16T20:32:18+00:00",
+ "credits_used": 0,
+ "credits_remaining": null,
+ "errors": {
+  "news_keyword:AI agents": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://news.google.com/rss/search?q=AI+agents+when%3A2d&hl=en-US&gl=US&ceid=US:en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+ },
+ "skipped": {},
+ "items": [
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
+   "rank": 1,
+   "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+   "metrics": {
+    "points": 388.0,
+    "comments": 275.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50521045"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Software is breaking down at a systemic level",
+   "rank": 2,
+   "url": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
+   "metrics": {
+    "points": 217.0,
+    "comments": 121.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50520866"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Grazing sheep in fields with solar arrays",
+   "rank": 3,
+   "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+   "metrics": {
+    "points": 132.0,
+    "comments": 107.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50520182"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Jiff 1.0: A datetime library for Rust",
+   "rank": 4,
+   "url": "https://burntsushi.net/jiff/",
+   "metrics": {
+    "points": 206.0,
+    "comments": 46.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50519744"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Frame – 31.5\" color ePaper display",
+   "rank": 5,
+   "url": "https://trmnl.com/blog/introducing-frame",
+   "metrics": {
+    "points": 150.0,
+    "comments": 83.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50519354"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Squircles",
+   "rank": 6,
+   "url": "https://linebender.org/wiki/curves/squircle/",
+   "metrics": {
+    "points": 22.0,
+    "comments": 9.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50515151"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+   "rank": 7,
+   "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+   "metrics": {
+    "points": 263.0,
+    "comments": 106.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50516473"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Aristotle Expands into Rust",
+   "rank": 8,
+   "url": "https://www.harmonic.fun/news/aristotle-rust-verification/",
+   "metrics": {
+    "points": 58.0,
+    "comments": 33.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50520270"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself",
+   "rank": 9,
+   "url": "https://copyrightlately.com/michael-mann-heat-copyright-termination/",
+   "metrics": {
+    "points": 45.0,
+    "comments": 16.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50520518"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+   "rank": 10,
+   "url": "https://www.axonnic.com/",
+   "metrics": {
+    "points": 2.0,
+    "comments": 0.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50522776"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Giant Roadside Attractions Face Mounting Costs and an Uncertain Future",
+   "rank": 11,
+   "url": "https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html",
+   "metrics": {
+    "points": 18.0,
+    "comments": 13.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50443844"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
+   "rank": 12,
+   "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+   "metrics": {
+    "points": 689.0,
+    "comments": 426.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50517488"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "How to Intercept HTTP/3 Traffic: QUIC and Qpack",
+   "rank": 13,
+   "url": "https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/",
+   "metrics": {
+    "points": 14.0,
+    "comments": 0.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50521870"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Jolt – Clojure that speaks C",
+   "rank": 14,
+   "url": "https://jolt-lang.net/",
+   "metrics": {
+    "points": 53.0,
+    "comments": 15.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50519345"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "How to make almost anything",
+   "rank": 15,
+   "url": "https://pub.cba.mit.edu/863.26/site/",
+   "metrics": {
+    "points": 786.0,
+    "comments": 130.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50514470"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "OpenAI: Strengthening the fight against online child sexual abuse",
+   "rank": 16,
+   "url": "https://openai.com/index/strengthening-online-child-safety/",
+   "metrics": {
+    "points": 46.0,
+    "comments": 70.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50520804"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "The Origins of the Placenta",
+   "rank": 17,
+   "url": "https://www.caltech.edu/about/news/uncovering-the-hidden-origins-of-the-placenta",
+   "metrics": {
+    "points": 8.0,
+    "comments": 1.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50485327"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+   "rank": 18,
+   "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+   "metrics": {
+    "points": 82.0,
+    "comments": 64.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50517321"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Nvidia was in trouble before the Jensen Huang mess",
+   "rank": 19,
+   "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+   "metrics": {
+    "points": 182.0,
+    "comments": 173.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50518567"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "OOS – an open operating system for the Rigol Scopes",
+   "rank": 20,
+   "url": "https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/",
+   "metrics": {
+    "points": 114.0,
+    "comments": 35.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50490159"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Smallest possible nopert polyhedra: the Septopert",
+   "rank": 21,
+   "url": "https://github.com/tom7/noperts/blob/main/septopert.md",
+   "metrics": {
+    "points": 41.0,
+    "comments": 3.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50497746"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
+   "rank": 22,
+   "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
+   "metrics": {
+    "points": 259.0,
+    "comments": 113.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50515058"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Coffeehouses and the Rise of Science [pdf]",
+   "rank": 23,
+   "url": "https://www.monirbounadi.com/Bounadi_JMP.pdf",
+   "metrics": {
+    "points": 162.0,
+    "comments": 98.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50516245"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
+   "rank": 24,
+   "url": "https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/",
+   "metrics": {
+    "points": 67.0,
+    "comments": 52.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50520697"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "A 512 KiB binary message teaching chess without a shared language",
+   "rank": 25,
+   "url": "https://artemlegotin.com/golden-board/",
+   "metrics": {
+    "points": 38.0,
+    "comments": 7.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50518068"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "First phase of embedded assessments at OpenAI",
+   "rank": 26,
+   "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/",
+   "metrics": {
+    "points": 19.0,
+    "comments": 4.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50519153"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Researchers track whole body movement with just a smartwatch",
+   "rank": 27,
+   "url": "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch",
+   "metrics": {
+    "points": 187.0,
+    "comments": 64.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50486745"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Psychic: Like fzf but learns from your actions",
+   "rank": 28,
+   "url": "https://klauria.tech/psychic/",
+   "metrics": {
+    "points": 23.0,
+    "comments": 7.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50518690"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "The Active Directory Era Is Finally Over",
+   "rank": 29,
+   "url": "https://infisical.com/blog/active-directory-machine-identity",
+   "metrics": {
+    "points": 92.0,
+    "comments": 63.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50517815"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "How Billions in Safe Insurance Money Is Being Bet on A.I. Debt",
+   "rank": 30,
+   "url": "https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html",
+   "metrics": {
+    "points": 41.0,
+    "comments": 9.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50520148"
+   }
+  },
+  {
+   "source": "google_trends_rss",
+   "platform": "google",
+   "title": "daniil medvedev",
+   "rank": 1,
+   "url": "https://trends.google.com/trends/explore?q=daniil+medvedev",
+   "metrics": {
+    "searches": 1000.0
+   },
+   "keyword": null,
+   "published_at": "2026-11-16T12:10:00-08:00",
+   "extra": {
+    "headline": "Medvedev vs. Cobolli live updates: ATP Finals 2026 latest with night session match underway"
+   }
+  },
+  {
+   "source": "google_trends_rss",
+   "platform": "google",
+   "title": "uefa nations league schedule",
+   "rank": 2,
+   "url": "https://trends.google.com/trends/explore?q=uefa+nations+league+schedule",
+   "metrics": {
+    "searches": 500.0
+   },
+   "keyword": null,
+   "published_at": "2026-11-16T12:10:00-08:00",
+   "extra": {
+    "headline": "Nations League quarter-finals: Who is through? Who can join them? What is the state of play in each League A group?"
+   }
+  },
+  {
+   "source": "google_trends_rss",
+   "platform": "google",
+   "title": "brajan gruda",
+   "rank": 3,
+   "url": "https://trends.google.com/trends/explore?q=brajan+gruda",
+   "metrics": {
+    "searches": 500.0
+   },
+   "keyword": null,
+   "published_at": "2026-11-16T12:00:00-08:00",
+   "extra": {
+    "headline": "Klares Votum: Gruda einer für die Bayern"
+   }
+  },
+  {
+   "source": "google_trends_rss",
+   "platform": "google",
+   "title": "aj brown patriots trade analysis",
+   "rank": 4,
+   "url": "https://trends.google.com/trends/explore?q=aj+brown+patriots+trade+analysis",
+   "metrics": {
+    "searches": 500.0
+   },
+   "keyword": null,
+   "published_at": "2026-11-16T11:50:00-08:00",
+   "extra": {
+    "headline": "Patriots’ A.J. Brown Draws Harsh Verdict From Legendary Pass Catcher"
+   }
+  },
+  {
+   "source": "google_trends_rss",
+   "platform": "google",
+   "title": "cuba vs grenada",
+   "rank": 5,
+   "url": "https://trends.google.com/trends/explore?q=cuba+vs+grenada",
+   "metrics": {
+    "searches": 500.0
+   },
+   "keyword": null,
+   "published_at": "2026-11-16T11:40:00-08:00",
+   "extra": {
+    "headline": "Cuba vs. Grenada (Nov 16, 2026) Live Score"
+   }
+  },
+  {
+   "source": "google_trends_rss",
+   "platform": "google",
+   "title": "bank cyber attack",
+   "rank": 6,
+   "url": "https://trends.google.com/trends/explore?q=bank+cyber+attack",
+   "metrics": {
+    "searches": 500.0
+   },
+   "keyword": null,
+   "published_at": "2026-11-16T11:30:00-08:00",
+   "extra": {
+    "headline": "When Banks Say An Attack Is Contained, What Has Actually Stopped? – Analysis"
+   }
+  },
+  {
+   "source": "google_trends_rss",
+   "platform": "google",
+   "title": "north macedonia vs slovenia",
+   "rank": 7,
+   "url": "https://trends.google.com/trends/explore?q=north+macedonia+vs+slovenia",
+   "metrics": {
+    "searches": 500.0
+   },
+   "keyword": null,
+   "published_at": "2026-11-16T11:20:00-08:00",
+   "extra": {
+    "headline": "North Macedonia vs Slovenia: UEFA Nations League stats & head-to-head"
+   }
+  },
+  {
+   "source": "google_trends_rss",
+   "platform": "google",
+   "title": "guyana vs puerto rico",
+   "rank": 8,
+   "url": "https://trends.google.com/trends/explore?q=guyana+vs+puerto+rico",
+   "metrics": {
+    "searches": 10000.0
+   },
+   "keyword": null,
+   "published_at": "2026-11-16T11:20:00-08:00",
+   "extra": {
+    "headline": "Missouri 69-64 Marquette (Nov 15, 2026) Final Score"
+   }
+  },
+  {
+   "source": "google_trends_rss",
+   "platform": "google",
+   "title": "noaa geomagnetic storm aurora forecast",
+   "rank": 9,
+   "url": "https://trends.google.com/trends/explore?q=noaa+geomagnetic+storm+aurora+forecast",
+   "metrics": {
+    "searches": 500.0
+   },
+   "keyword": null,
+   "published_at": "2026-11-16T11:20:00-08:00",
+   "extra": {
+    "headline": "Northern Lights Alert: 12 States May See Aurora On Monday Night"
+   }
+  },
+  {
+   "source": "google_trends_rss",
+   "platform": "google",
+   "title": "ap top 25 football",
+   "rank": 10,
+   "url": "https://trends.google.com/trends/explore?q=ap+top+25+football",
+   "metrics": {
+    "searches": 2000.0
+   },
+   "keyword": null,
+   "published_at": "2026-11-16T11:10:00-08:00",
+   "extra": {
+    "headline": "AP college football Week 11 poll reaction: What's next for Top 25"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "My AI agents found an unmapped Maya site?",
+   "rank": 1,
+   "url": "https://pietromiotti.com/latest/maya-site",
+   "metrics": {
+    "points": 1036.0,
+    "comments": 392.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-11T12:05:22Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50452455"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+   "rank": 2,
+   "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+   "metrics": {
+    "points": 681.0,
+    "comments": 710.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-11T21:24:35Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50458900"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+   "rank": 3,
+   "url": "https://github.com/db-branch/db-branch",
+   "metrics": {
+    "points": 45.0,
+    "comments": 16.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-15T13:50:51Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50506940"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "AI agents have a big problem: Nobody wants to let them in",
+   "rank": 4,
+   "url": "https://www.pcworld.com/article/3283946/ai-agents-have-a-big-problem-nobody-wants-to-let-them-in.html",
+   "metrics": {
+    "points": 16.0,
+    "comments": 6.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-13T12:37:41Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50482661"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "My AI Agents Found an Unmapped Maya Site in Mexico",
+   "rank": 5,
+   "url": "https://pietromiotti.com/latest/maya-site/",
+   "metrics": {
+    "points": 11.0,
+    "comments": 3.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-11T05:09:10Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50449945"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Show HN: Shotoku – Local-first action governance and budget caps for AI agents",
+   "rank": 6,
+   "url": "https://www.shotoku.dev/",
+   "metrics": {
+    "points": 11.0,
+    "comments": 1.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-14T13:02:53Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50496705"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "What Picasso taught me about building AI Agents",
+   "rank": 7,
+   "url": "https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/",
+   "metrics": {
+    "points": 10.0,
+    "comments": 6.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-15T16:16:26Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50508076"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Show HN: Cosh – An open-source AI agent orchestrator",
+   "rank": 8,
+   "url": "https://github.com/DiegoZaluski/co-sh",
+   "metrics": {
+    "points": 10.0,
+    "comments": 4.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-10T12:05:13Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50439141"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Google: AI agent turned a security patch into a exploit with no human help",
+   "rank": 9,
+   "url": "https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926",
+   "metrics": {
+    "points": 10.0,
+    "comments": 2.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-16T14:14:09Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50517797"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "OpenAI launches ChatGPT Wallet, AI agents pay for purchase",
+   "rank": 10,
+   "url": "https://www.reuters.com/technology/openai-launches-chatgpt-wallet-letting-ai-agents-pay-purchases-2026-11-13/",
+   "metrics": {
+    "points": 10.0,
+    "comments": 1.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-13T18:17:27Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50487510"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "My AI Agents Found an Unmapped Maya Site",
+   "rank": 11,
+   "url": "https://pietromiotti.com/latest/maya-site/",
+   "metrics": {
+    "points": 10.0,
+    "comments": 0.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-10T21:04:58Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50446316"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "OpenTelemetry and AI Agents' Observability",
+   "rank": 12,
+   "url": "https://signoz.io/blog/opentelemetry-ai-agent-observability/",
+   "metrics": {
+    "points": 9.0,
+    "comments": 0.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-16T07:30:19Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50515018"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Show HN: Attest – Test what AI agents do, not just what they say",
+   "rank": 13,
+   "url": "https://attest-framework.github.io/",
+   "metrics": {
+    "points": 8.0,
+    "comments": 0.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-15T18:03:01Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50509107"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Show HN: ZTHR – what replaces code review when AI agents write all the code",
+   "rank": 14,
+   "url": "https://zthr.ai/",
+   "metrics": {
+    "points": 7.0,
+    "comments": 5.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-10T03:21:56Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50435672"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Show HN: AI agents that barter your stuff for things you want",
+   "rank": 15,
+   "url": "https://barterpilot.com/",
+   "metrics": {
+    "points": 7.0,
+    "comments": 4.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-10T21:36:17Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50446649"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "No, AI agents did not discover a previously unknown Maya site",
+   "rank": 16,
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+   "metrics": {
+    "points": 7.0,
+    "comments": 1.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-13T02:28:29Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50477335"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "AI agents attempted exploits on Epoch AI's website during an alignment eval",
+   "rank": 17,
+   "url": "https://epoch.ai/publications/incident-report-ai-agents-attempted-exploits-on-our-website",
+   "metrics": {
+    "points": 7.0,
+    "comments": 0.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-16T12:00:14Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50516629"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Reprogramming Dormant Neurons to Backdoor AI Agents",
+   "rank": 18,
+   "url": "https://x.com/dimitrispapail/status/2120245027804705121?a=yp1VXtQi8Dep0GmUnxo",
+   "metrics": {
+    "points": 6.0,
+    "comments": 1.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-11T21:06:05Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50458653"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Amazon MadPot: Honeypot for AI Agents",
+   "rank": 19,
+   "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-observes-threat-actors-running-cybercrime-campaigns-with-artex-ai-agents/",
+   "metrics": {
+    "points": 5.0,
+    "comments": 1.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-16T00:50:59Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50512675"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Show HN: Pizza – An event-driven AI agent, no while true",
+   "rank": 20,
+   "url": "https://pizza.hertzbeat.com/",
+   "metrics": {
+    "points": 5.0,
+    "comments": 1.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-15T16:04:32Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50507971"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Amazon's plan to own the product data and fight AI shopping agents",
+   "rank": 21,
+   "url": "https://www.reuters.com/business/media-telecom/amazons-plan-own-worlds-product-data-fight-ai-shopping-agents-2026-11-13/",
+   "metrics": {
+    "points": 5.0,
+    "comments": 0.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-14T12:09:29Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50496391"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Show HN: Portal2Bench – Can AI agents solve Portal 2?",
+   "rank": 22,
+   "url": "https://kingstonyip.com/portal2bench",
+   "metrics": {
+    "points": 5.0,
+    "comments": 0.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-14T00:40:55Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50492238"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Show HN: Timon, an open-source AI workstation for coordinating agents",
+   "rank": 23,
+   "url": "https://github.com/ai-timon/timon",
+   "metrics": {
+    "points": 7.0,
+    "comments": 0.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-14T12:52:01Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50496631"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Agentic AI Designs an Analog Synthesizer",
+   "rank": 24,
+   "url": "https://cpldcpu.github.io/2026/11/14/touchsynth/",
+   "metrics": {
+    "points": 15.0,
+    "comments": 3.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-16T01:28:10Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50512933"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "A job that changed me: Washing hands at a luxury skincare brand, I learned how fascism could feel ‘aesthetic’",
+   "rank": 1,
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQk5xdnlYanpaSHIyREZ5cEFmZUloaVk3RXpDWm1KZVZueXdCdFVsQzJiNEVrNXg1Q291NXdvZktYaGxEVmdPVTdPejhBZVlPUF9kNWZqVkxFcGl2LUJvQnI4WGxBT0hpTFN5STZONUZwYkRtakpTVWtkT0tKQlI0alg0eFUyYU4yMWY1OWxGVzk4dVNzV2VjSDJtOGRBSU1KSjQ0U2dtc2VtTVNUX09Fb0pqOVVUQlMzaE1QT2lfVERmeEpXZHNmSTNLRjFucU5jTXE4aktMckhaMDlLSXdkWmx5Z3EzX1FDbXJlb21mRQ?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T19:35:00+00:00",
+   "extra": {
+    "publisher": "The Guardian"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Should We All Join The “Eat Your Skincare” Trend?",
+   "rank": 2,
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uWFYyX2YyNjA3MnRKSEpfeFY0UVU4aHhFbmxiRlFFaUxndGxVLUc5YnBRRlAzdWdRMU9GV2trZElBMzRSM0g2WnpZV0xFX1duVjlSd3hHYw?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T14:00:00+00:00",
+   "extra": {
+    "publisher": "Coveteur"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Beauty gets an about face with emerging options for skincare and wellness",
+   "rank": 3,
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNE53d0pxdUtRNkdLRmlPUEowVzRvc0pLN3RJeVFOVVBmdHI1ZEQzZDltVGNoV3dKaFhONWtoT0oybDdGeDRnMWRxTlVGVVJxNUJYUWVyRXBidXF0N0xzbEVWdGZRVFkxVHdLM2RGcjVfeWk2VXZ4Q2F5WHMzY2RZVUZmT1lZMTNvWWpN0gGQAUFVX3lxTE9YT3JiOFZNT24wWVhLaHJQRUlUcTB6d2VoQ0tKNFZWR2V2akdaeDlzMnRIQzlHWU5VU3FYQmJyMVBkM0hIWkRNMi00a0ZNZzJPemNpNGh4dWRfZmdXTEVYMXA4eGtNaXEzZ2JHeGZ0bURlUERqWGdVMkVFdDdWN0lJS05CV1lVbk1zMUttSVhrLQ?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T19:23:01+00:00",
+   "extra": {
+    "publisher": "6abc Philadelphia"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Skincare tips for the winter season from biochemist | Great Day SA",
+   "rank": 4,
+   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQS3VGVk0xSWRnQ3JuQ2QtcHhJbHp4ZTliTWR1TmlOR1A2NnNkWTlDNmpZcWJQS3ZWS01MenpUNUdEa01TVGdqY0RCNzBTUEd5c0lKWk1aeGJlWFlUX2JHcGR4UXNENk9qQ016bXhXMGViQ2VDOTh5OHhqSnE2YTZVOHV2dENKXy1pQWx6YzF6OEczV2ZuR3dTUUxZa1NqaWpJQmJ1WEtrUEpjclhiODNtUmEtX0NIWGV5ZTVpMTkzN0NHVmJMTEJfeFFvQlpWTG9QS1ZkTlVna1VJYUNUTkhNdE5lbVNpQjAtbjlXUldLcUI2VVh6T1Z6TWZPdzA0VHVmT0NYSjdOTTFGdnhJRTBJVFI1X2NIaWtkVVE?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T20:03:59+00:00",
+   "extra": {
+    "publisher": "kens5.com"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "A Fresh Take on Skincare – That You Can Sip",
+   "rank": 5,
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQWo1ZElVSWlNTWQ4R2FidjMzTEpseFhMRHNGTlJGQWd5QzRvR1VRZFNIdzdCWVRxMjVFSXN5cnRvZXFHUDk3U2JCX09yLVZ5VFM1NDMxTVlYeUdUUDRkQXBxYVdEY2pIdGoxXzVTdFJhcDNoS3lPRmxPbFFCRkJqR3BGV3IyUjFDMnBrbXk2ZmdMRkloOFgwTkY4dUpUbGlLMXF4Z1hKXzBhVlNJZERtVG1qaw?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T19:41:15+00:00",
+   "extra": {
+    "publisher": "Arizona Foothills Magazine"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "CVS | 11/16/26",
+   "rank": 6,
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xaG1Sc1h1TVBkTHJ0SkpBSFNPM2NRejZjQ05VUEI4WTJPWld6THhON1ZCNHc4MXJabnp5b3JWS21aeE04dTdxUklaQ1lLRE5JeWRfcVBRTUh0QQ?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T18:27:28+00:00",
+   "extra": {
+    "publisher": "KTNV Las Vegas"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "From the flick-dry to slow skincare, here’s my beauty It list",
+   "rank": 7,
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN01vcWhhbVV2aWxLMW5JYkRpams1ZWx6cExoVmVQNnJVODdpZ3J2dldjcUNDWHozQXJMNFhoZXJkUmZ2c19NaEtISDQ3cVY1S0w4ZEFkejVzZUR2MEcwOGZvMlhDanIwLUp6QU5udlkxd2E5NkktcTRhQ3l2dlFvcVJpc09sYnBCemx6VC1yd2Z5Tjk4X3JFbEhRS3M3Zw?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T17:00:00+00:00",
+   "extra": {
+    "publisher": "The Times"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "‘I wear it every day!’ The Trinny London products our beauty team have used until the very last drop",
+   "rank": 8,
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMkFPakRYNzlhTFYzUG42YnF3cmRyTUJReHl6LU9LRVhsS1Fad0NYQnpwMFl0Mk14R3VfQUV0LXlaaUVacTRISXBoZEJlb2NzaHZ6cHFhcFVyR3lpUndvcjJvb1l1cHRKY3FQcnV4QXNnSy05RUx0U21iSEt3YXRkU0RfSDFnLTZaNkljZkhBYjFmY3hNdXM0RmF6eHFsSmxQZGpaVUxCOEZuaE9tQXE4djItczk?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T17:18:44+00:00",
+   "extra": {
+    "publisher": "Good Housekeeping"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "L'Oréal and Estée Lauder bet on skincare that claims to change aging at the cellular level",
+   "rank": 9,
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ3VrRTd2Q0hIOXg5ZExlTmg5Qk9LWDVsT3lMWllCNm5lVlUwdXFQYmNZT0tyT0dIQ05PbTg2ZDdiaXVudGk1NUNUaE1iQlBtdC1DR2lMZlQyZll6aVR1cEV4cE5yN0RvdzlzdS1BcWRES0Z1dy0yNkc4X1FYN2F2M3dZb2Z1LVVHZjhWNmxUMkU?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T10:36:00+00:00",
+   "extra": {
+    "publisher": "The Cool Down"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Ollie Skincare offering locally-made stocking stuffers under $15 | By Kerrieanne Lischka",
+   "rank": 10,
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeTVuZFR3cEx0UHY2YkxPZFUzTmRqUDVmRFlBU3R0bFcwOVFmVnFhMmY0SnBPUnRuOU1SSXpnQ0x6b1pmSGVsZXpjNEhfNmZKYzVTc25SU3pHY0ttMXRvQ1R0RFIwc3h0QUpvTjlRUFJsMVF3NzFnVno4Q0hnYk5QQzctRGxtQ0Z0Vms0TmY4NzMtaDY2QUI3dEtGVXdfWnMtWlRVcjdTd1FzOV82N0plUEtlMlpBLVNGNlo1T3hJUURlYTNZc2pXLXdB?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T10:43:13+00:00",
+   "extra": {
+    "publisher": "Washington County Insider"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Sephora to Tropic Skincare: Inside beauty’s 2026 Christmas advert battle",
+   "rank": 11,
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uNWhwNUljRk5SdFVsNUNLa29ZS0loWmJuRXlBVGtFWjJfRzVBVTUyM3c0NnlSU3U1aHVXaWFtalZQSnIwdUdma2pQaVplbUVhdDZweWJMN3lGYXdEczZhSE93ZGFhQ2Zrbnltel82dVVEeGl4aV9KQw?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T16:31:35+00:00",
+   "extra": {
+    "publisher": "Cosmetics Business"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Why Filler Results Depend on Good Skin Care",
+   "rank": 12,
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XRWEwMFdkTzU2eVZiR1ZoS3NGM2lDQ2Jhc1EtSThpcVRLVjdSV0s0TFpidnVWamU4NGwwSXFJbjllR2ZEOEMtZVNHNTJSbENPSmxJWGF6ZWt3WXBkcFlNTmpBR0JGSWRlUVU0azJyVHN2dTAwZDFlX1p3?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T18:18:27+00:00",
+   "extra": {
+    "publisher": "NewBeauty"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Melanin Beauty Awards: The Best Skincare Products",
+   "rank": 13,
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa3o4QmI5elZIS0xHb0RVQVdRczBZcnBmWVNnN3FMbFFlUVJZay1IODlsZW9oNkFCRmRVLTk1Z2YzUkpoRllnM2h2aVh3Wk5ER2FaeHhaZmhSc1dWZHY2QXRvSmlKdEgyV1BTZXRTRTFnQ21lYmtwOC1telFSdXhXTWtoX09OcUQ5a085dTF0dGlPZ25uRmZWNjRLbFc?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T19:10:40+00:00",
+   "extra": {
+    "publisher": "HelloBeautiful"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "5 Clean Beauty Face Masks at Target for a Little Extra Glow",
+   "rank": 14,
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWFRLUDc2MFk0RnBIWC1HSnNPVENkOGQyc1l5cjJxWV9PcXlRaHlLd1NOa1otZWFyVDFWVUNZTDEyN0F3SEpYazkzdWx0QUgxbUNwSWIwWmlpeFJRLTcyRFJEeE5WWXdqY0dxS0hCV2ZyN2NkQk83MVNuS2Nha2l2dTgtRXVjUGttYlExRXIzbkJwZTl1ZjBF?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T17:49:09+00:00",
+   "extra": {
+    "publisher": "Yahoo"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Vaseline enters therapeutic facial skincare market",
+   "rank": 15,
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcDlweWJ3aHZFLUxvVnA0X01oNmVqVFhoYVAtWm1LZkE5YkJsdjU3a3ZEd0oxemVoNEM1ZzRpOGxfNHN5cXRvZ2pQSkk1RU0wY3lHZF9hRkVTZ1FuUHEwOTJjdG10ajNBWU1hX0tDWGVNbVk0MDBuSnlvS1VoRXpLV2RZdUlRVEJ1NlhOSzFqbHhoMTdf?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T06:32:10+00:00",
+   "extra": {
+    "publisher": "https://marketingreport.one/"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Botox in a bottle? This viral peptide serum is getting a major early Black Friday discount",
+   "rank": 16,
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSEQzeHAxNlhtY2M0RGtLY0NDaVh5QnRrZ2EtYlNnYzBKbjVHSTlranhCMGQ1aVNLNDNBMWw1ckdWN1R3U1dGbk9wRXZlVzVTUl9SRnZCbE1zTzVJdnNuejdJSmFSRE03dExDbzRrNHM3enBVTjdzbk5UbHZEMnFCeTZ6TlQ2cEJZWFZ2YXpTVWhQYll6Umc?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T15:30:00+00:00",
+   "extra": {
+    "publisher": "New York Post"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Rochelle Humes on ambition, boundaries and Eulah skincare",
+   "rank": 17,
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV3E0ZXJIMVVudHRMVUtpVHdfa21YSUFrazNVMUx0NUdRY05SRkhGRHRuMzg1dkNObUNYcW9zdU14aGlqOTRLZXdwRElrTGt5czRzYlFZeHVmd3JLdXZwdXg4ZlhqMUR1TUcySW1JMFozeTl3a2N6clNMZmZBY25zMnFTamV0LXBYdkE?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T17:00:27+00:00",
+   "extra": {
+    "publisher": "Stylist"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Brooks Nader says this ‘two-in-one’ skin care superhero gets her face ‘snatched’ in seconds",
+   "rank": 18,
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLWRrOF82aEE2Q2RhRlNyOEtKVnJwZmR3a1k5ZXl6YVM3MnBKOXRzUWdCUHZ1Z0lZNEZwbDFPbjhNekN3eDZfa2QxckNyTlVwbEVoZWR4QnJLbk81WkhiNW1UVjl3WUJEcEs4Z2hmMWRIaGlPRGZCYnhKR1dZN1hvbktzYVhady1BWjJmRFJKckQ0anlHUE9WNjg2eWgzLWREemc?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T15:14:00+00:00",
+   "extra": {
+    "publisher": "Page Six"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "CeraVe gives the sandworms of ‘Dune’ a much-needed skincare routine",
+   "rank": 19,
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5NHdGM29VRDkyYTVFTEYycWZIRGt3OURnUXVTanhnSEV2cHBTT01zRGUwbFl2ck81dzZUbVZiMXptRWFUNTdocTJiZ0FPdV9IekNKRElJYnJ2SzlPZDF1S1hlUDkzZ09Xci0xZ2ViVkQ2M0NEYlE?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T10:00:00+00:00",
+   "extra": {
+    "publisher": "Ad Age"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Off the Record: How Cetaphil made science-backed skincare relevant to a new audience",
+   "rank": 20,
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUkpwZXpTdHM3Q3Q0a2otZFF4MWQyOHVSWGExNV8tR3BEUzhhOUNkY2xLUU90UjFGTDBEYi1hVkRNcWpLeFFaSXlXOXpiZ2FWMU96Ui1UMHREVkFMYkNmMTRnS0g3dnItWEFrd2c5SjV3TmJyM2hrdVdrQlBLYVJVbG1fanA0aDAzYzFpM1M1OUZWVzV0SnVtZzJLLWFobUFSWEZfZk41UUcySmN1c1dtRXgtZDZVRGkzMEZDbl9DSVhJdWozSXVxOVVjdllPbnlFSjFxM1luNzFwdW9MWFlNTTBfMGtiNGhPcFpLRjl30gHzAUFVX3lxTE1ILWF5NlJXMkZWejBZUEJ6MGdaWFR1N3U4NjNEZWpmZG9WRFJzZHprTXc4RDBBT2tkcU9tcWFJWE42YVR6dFJYcGk1NTUzQ29EQTEtR0dLOEFnZjdHamxLME5fcXp4eEdLNWhZdnZyRHdZQU5ZNzhCYmlkYUFkUUtSZGVoUmJNc0hxTGdvOFdiNVZFLXF1cExCOG01QnUwWUUwQmJPZGl6UlhpVUItbjFmeXdZYWZ6ZEpqQi1zMEJjZ0JfSHBGdU5rVVp6M0IyVUFaYWFwLWJDVGd0dnhnclZGWkJEWENHQ1pfVm5uYU44UHJyNA?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T15:18:46+00:00",
+   "extra": {
+    "publisher": "ET BrandEquity"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Holly Willloughby, 45, on the clever ‘mini moments’ habit that keeps her calm",
+   "rank": 21,
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa3VTTm1BLVQxVldQX1NBNDVDNDI5dmtDTHpmYS1sakxTamF4S1o4X09XSGRmVGlkbEFXSm9DaFQ4NDlmd0N6UndWSmpvc3UtZjFEYWRQc01COF9vY3AyLTZKVnIxdzZDVTBNQjlGakVWOUJMZUhWVzBnOWJvOW1SeXF0VUt2Ui16R2NvZA?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T16:45:27+00:00",
+   "extra": {
+    "publisher": "Good Housekeeping"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "This bestselling Korean moisturizer is finally on sale ahead of Black Friday",
+   "rank": 22,
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUDNYZ3FJc1ZZdEFvNTd0ZjFzXy1kTkdKNm4yUEJFVko2ZnZ1ckxiSzVROWVpQjc4ZndmMVlBVC1RLVcwdnlpa1FGY2E3MTd4azNQSC11N2tfWlZTQy1EY0lGVVRHQVNrc2dLdDlzYWI0X0RLQ1N2RGE0bUFhbkxObnY4R18yOUhISHhFaEhaTkdRb2VhUEZRZ0t0RTNQYkg1YjZkRg?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T14:22:00+00:00",
+   "extra": {
+    "publisher": "New York Post"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Men’s Grooming Brand of the Year – Darrell Spencer’s Crowned Skin",
+   "rank": 23,
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ1lPdE5VWXJwa2NWM2FlRGwyaFotS0dYZmg1SFpCQXBmZFM4ekFIUTl2UG5BX25OMk44bWVTNVo1ZmNpMEQ3LVVQek1Hd2RoT1JTd19vUXd0S0Q0b3c5SjktMUc2VzVpcXhTc29QNHNoT2RxSEh5YktGenZEM0dFakVKLUttellQeG5LZlItNDVyd191b3NndXhGWVBHQQ?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T20:22:24+00:00",
+   "extra": {
+    "publisher": "hellobeautiful.com"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "I Tried TikTok's Bestselling K-Beauty Lip Oil: Noonis Apple Seed Lip Oil Review",
+   "rank": 24,
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pb2NNTVpXbjM1T0JpOW9tNFRYc3d0Vkx3U0wwRDUyeldaVHZiWG81WkdpQkZNME5uYllyd2lad3JETEtUTmhsNnhIT29Obmh2QnRF?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T14:00:00+00:00",
+   "extra": {
+    "publisher": "Coveteur"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Swipe right: how skincare pads evolved beyond the make-up wipe",
+   "rank": 25,
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWWRKVGQ4WHFnSFk2eWV4U3Q1WVBpdzY2RjFoR3ZCdkI0UHVId0JELThpRVhjYXN5cFZrNWUzcHBzdFptQ2NlS3lHVmpiX3FJODR2YzMycjlQa290Tmg2STNfRHllZEJmY2FMNnBtdUhaY2pfSDBGdlFodjJXeHpmaG9qcjhBR1VLN0JtMEtjQzJEMkt3djRpSlc4dU16bDE2R3BubW1HXzZwQzJ1MG00Uk5Xdkswa2tqU1pkWV8tMEvSAcABQVVfeXFMTjQxSlNyVE5WSzBXMG02ME5OZElsNlF0SG5lUjVTYy00eXdVX3BYZnJpRE5uX3VxSDRRSDdadW1Qek9jNFhDRlM1TWpSUTN2TVpqcUlkX3lZcjJpU0x4TVFnQmt0TmV2QlhxajdPZ290UEhOdUVDc21iQlZUbEgtQ3M5S1djdVBjeWpXVDhvdGNKTVMxN0ZncmZlTlUwdGM2MW9Jd3h6NUwyVmlBNGRSRXR3LWZmWVdLNVJfT25IQzRB?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T00:00:10+00:00",
+   "extra": {
+    "publisher": "South China Morning Post"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "East Lothian skincare brand celebrates worldwide first",
+   "rank": 26,
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSW9wdDRfQjAwN0s4QjY1Ym5lWGpXcHlyUVcyT0ItOG5LNGt5MTZnNWpjM1dpRHZxSmc4bTU0czBpcHRMTjVYMVVhN3ZJZ2pJb2tYYjJSX1B5dzFyRjVPNUJNVGlVbnpWZ2pQb2VnOWZ2LWh6NkFtcTFnNVUzNlNMc1BUUVdxaGx5YjhKYWRSUF93eHUtRHJ0VkpxeG11RVpnYk1lRXpB?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T16:36:59+00:00",
+   "extra": {
+    "publisher": "East Lothian Courier"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "U.S. Beauty Shoppers Are Shifting Spend Toward Treatment Skincare and Luxury Fragrance",
+   "rank": 27,
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWUpKdmJ5WElkMU8tY0NRMzBfQUxHWDNQUUNMNUFmY3U4dENxNHo0Y1BfZ28tS29xMzdvVlZIWGZkZllDX1YtOEg3Z1J1QkVrb2s3emNrX1F3TEpRRU50U1RTaXhXd2d5YkdoWlB2NUxSNWJsdTRFVDhSeXRHNmxRbDBFQXFtekd0Y1pRS0RYcnJVSXVTUzYyaUIzQkVndzE5aUR5Vy0tMEpqQ1ZaZmp4WGdaMkRXUjdZZ0JxZFZWNFNYZ1N6WUtPZm53YUxsQnlVYlRCME9ZUQ?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T13:00:00+00:00",
+   "extra": {
+    "publisher": "PR Newswire"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "I Had 30 Days to Try 10 Last-Minute Bridal Beauty Treatments—Here's What Worked and What Didn't",
+   "rank": 28,
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yWC1iX3BjcXNYeWNodXotdHR3dG93OWhNYVlrYUxSUkR2REF0OGR3UUNEc252enZ2Q2hqRVNzMHc1QVdzMVZySC1QSXBXalhHbEh4bHFvRGFFMW5KR3puMHdRd0V6NjNVd3llVg?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T12:00:00+00:00",
+   "extra": {
+    "publisher": "Who What Wear"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "K-beauty retailer Olive Young expands Southern California store count",
+   "rank": 29,
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVHMxWkxzclBleUE4cS1XVWw4d0lqZmRkZUtqSG91R3h5TUtXQTZaR2RFdENreEhsbV8xejNWM1pJRE9UekJTNkZGT2JxMnpyWGF2anZlaE9lZER1VDhYeGhZZ041YS0temNsdXIyNlFGdWxub0x5V2hLc1gxdUZPcGVKbThZR3BvVldNOW1CZ242YXJCeDhTRTNxRQ?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T14:44:49+00:00",
+   "extra": {
+    "publisher": "Drug Store News"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "The Kiehl’s Holiday Gift Guide: Something for Everyone on Your List (Including You)",
+   "rank": 30,
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBENUlsR1F5OFlyQTdxaTg1d1JraTd3bnktcGpFTTNlbzcyYXBRcTNVWG9TMDU1dDFmUUs4SWhUWlN2clpoX09QWkVrMXhCSldUa1E?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T19:33:06+00:00",
+   "extra": {
+    "publisher": "The Mom Edit"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "How Molly Sims Sells High-End Skin to Soccer Mums",
+   "rank": 31,
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNXpiQjVaVUpISVIySzRJNEx0aUp4d0R4enlpZ2NKb1FJMm5fWFB1ZlNwdWNoRDZCRlMtaERuYnF3SE1FUDZUUTNHLUpZZ0FaRlVxUDdFSjd1aXlNLUdVV3ltUTNrelpEUklCZUhCMVhXN1NwY0JfV2hXNnlxTVJQdnNrckNWTGMtRzB5UWNxQjg1bW05d3dzd3NLV0NpSUtuc0E?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T13:00:00+00:00",
+   "extra": {
+    "publisher": "The Business of Fashion"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "The “Home Spa” Treatment Is Going Next Level",
+   "rank": 32,
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSlB0Ykk1aUhiRTBLYWUzdGtDbDZWVzZSaTRrNWpxaVV3eHhJMnB6aS1mcmFJWW9uUVBnUUY2Sy1Va2l5OHVPbzlsd3BiczFKc0xqSW90MUdTb2JLM2Q3NkRzX05kUklUVTZqb0xPQy1MaUN4THFUa09nXzVKRWNQRHE5cVFTbHhZX1pTQTdyeFJaUE5IWjg1TjdkOXY?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T14:31:56+00:00",
+   "extra": {
+    "publisher": "Yahoo"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Shoppers Rave That This $10 Face Serum Gives ‘Botox-like’ Effects ‘Without the Needles’",
+   "rank": 33,
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUzY0ZlR0VzV6VEh2dkcybTZha0drX1o4ODd0MFpFdlJmMENXdEhleUl2azBoenBJZWd6aFlYbGpkWmxZR0tLVXV3eVZSbG5XT1lZWDgzSHBpeUhuRjBENWRVSGhLTWJuMURQbUdzd1JjdXp5LVo4SWFxcFNoWHhwTll2T2U?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T10:30:00+00:00",
+   "extra": {
+    "publisher": "Travel + Leisure"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Capillus Face Mask Ultra Adds Red, Near Infrared, and Blue Light to a 10 Minute Skincare Routine",
+   "rank": 34,
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV3podURPcDB3UWxIbGdOLUFzUGJHck9xVEFCUFN1T1BsTFQyRjJaQXk4dFdEMFhjS0lKZ01tM0N6SzBabmh0anMyQ2hQSzUwcUd6WHEzRnk3YXR1WDJWOGY1SDlZeEdDbGVFYXpFcjZXWFVwaFFtZTI3TnNwSWRZcUI3aVdzRkExRG5wVnE2ZUh2MFpBWlZyS1l0YkROeG9pcFE2QTRSOTBoTHlpY0poaG9vZ3JmcndKMFlpb3V6VVlyVmlNekt5QmtwVQ?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T02:22:00+00:00",
+   "extra": {
+    "publisher": "Men's Fitness"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "If You Constantly Have Dry, Itchy Skin, Try These Dermatologist-Approved Remedies",
+   "rank": 35,
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSnVibVVkRHowQnVfVWpycV9ZaWRXMC16VjF3TUhqcDZnNjFOVmZ6dXZZekFDSDJNTlhGZWt1SGFUVjJCM016ZGRySVBGWFpQZFR0VnhwNXdGeG9kMHpWT2U5elNQVjlHcjVzRDhaX184RWNGY3ZTX1NoTDhwem95MXd3?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T13:42:32+00:00",
+   "extra": {
+    "publisher": "Prevention"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Wedding season skin prep: The bridal skincare routine for a healthy and camera-ready glow",
+   "rank": 36,
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTXhURnNKX05JOTdnN21tZnRXY3daeVNJYWM1VGpuSmx2ZnByS2tFQUdfM3BYN253dGJsanlEYWp4cHc0bUdvUy1EWW0wR1JiUEZoTDd2ZnNfUWdNYUN0N210eFk3TV81NFhZODY1dkZuMm5kMUFZaUM1dndtZnBSZUtVLXF5MV9hQWVvQ2ZuaWNXT1RuNFBpMy1vMW5MQ095eDV6eG90S1hMejk3UURVMXc5Q2xBaDRFYWYzWDZsX2xzTDFVUnJ5QThmR204MEQ3eDFuRmRBYVhNR1hPd0FTMEt6bURQMVhIWHVFRFZZLXRBT09jR1FpaGN2b9IBgwJBVV95cUxNZk5wTE4wSUw0bEpOeEhuM0l1LU5nYnFqN3F6MHhZU3loQkRETWh1QVBLZGxuNjkweDlGRTZLLU1aekNSWEZsM2lHRFllbUZKeUVhaW1wYm5yYXBVVkJCMkM3R0k3cU9HeWo3OTNHYlh2RXRTZ1gwNFBIZ1N3WWJHLWcyd3A1UTdndHdwajhlSTF1TERTVWg0Ukt1S3pZRG1pN3MyclE1VXNyN2REbW0yaHlSd1ZzV2RUSkFueGFVc3loRjdheWlaWldycW5xdE5iWFAtZGZtV2ZpU2xWdF8yclRlVkxJeWZHTlFhX3QxckRQLTIyelBhQXJJblJRUC1OakNF?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T13:30:00+00:00",
+   "extra": {
+    "publisher": "The Times of India"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "A 71-Year-Old Shopper Says This Wrinkle-Smoothing Serum Leaves “Crepey Skin” Feeling “Soft and Moisturized”",
+   "rank": 37,
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CMGRlZGY2UjJYZEpwVE9qc0VCdkF4aE1sNmxDRGZSa3Exc2hWTXhmZVA4NFJGQ0R5a1U1d1YtNUNzdTNIOTZTOGRQZzFCVC1ZMmhoQ3lhUTlFX3FsekwtN2swQkhXYi1fcVNpQVN0UDRZVjlqZ19SWndGT0ZWRUU?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T06:30:00+00:00",
+   "extra": {
+    "publisher": "InStyle"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Vaseline enters dermocosmetics in latest premiumization push",
+   "rank": 38,
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWFh3dEFqTW96MV85ZFNfTUx1Rl9sdkV2cGlYSUFXRW13UVc4ZGJJYWxsNWNTdHhpWTlmSU9oU0F0dWFRRlFmbkczQW9tT2h2WGhuOFVWR2NmaEo2RTVHdVhKbTBYTDlYVHN1U0ZpSEw2UmVoR01mTk8zbHZkZk1yZ1BVZ21OX1JrYVNvZ194Sk12UQ?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T15:12:29+00:00",
+   "extra": {
+    "publisher": "Personal Care Insights"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "This Dermatologist-loved Peptide Serum Lightens Dark Spots and Erases Wrinkles—Snag It for $12 on Amazon",
+   "rank": 39,
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZHpxQ2lHak5acmVpU3hlaUV5ekRxT2lzRVpZZXhTT0ZnOW1OSEFIX3ZGV3pwbDB3TnF6bzdoZnpwdUVKd1p0b2xpRWdaTmhWOTE3cEVvSExtX3JxTFVqczdvd1Nma1B2aVk2bVFWT2R6N3lWalhSby1ZYm5PVEp2Q2NYSk5vSlplc3U0?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T07:00:00+00:00",
+   "extra": {
+    "publisher": "Travel + Leisure"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "VIO Med Spa Unwraps Black Friday Savings with Up to 30% Off Aesthetic Treatments and Skincare",
+   "rank": 40,
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWG81Vmd2S2xhMHp2My1Fdm1lMmlzVklxREZkNnZkYXZrZl9fTHhmSEt3VHh1ZlN2eWF4Q1NjQy1SaDBia1JUa1RGaF9pUEY2Q3RhN05VUW9Oa1MzRHd6WFhFYldVQWxTNlBIOUdKcXdKeGdwc1I4RHB4ajRFSFNUcG5YSXlHUDdpUUFKUWJROWFFRnBvMERZRmlpd28wdDhRNXE5RXBsQ2tjWXl6ZzJYbTBoNHVqY3h0cjNYQlA5UFZEZFkzVkRQa0dTcGd2TFhHSWNnMVMyMjZnSFZza1JZSk9SMWY?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T12:59:16+00:00",
+   "extra": {
+    "publisher": "StreetInsider"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Canadian brand Cheekbone Beauty marks 10th anniversary with first skin-care launch",
+   "rank": 41,
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQVNPUG1jSWJpNGVWcmdZd1hRQVFaazhLWEhBa0dFeDVlWG92RXRSYU5iVlVOSXRTZG5nN3FQRnZYZ04zd0c3bkhrRE5mOEIxc2UxX3h2NlNfNE5sYU1xNjRSb3lRa3FJcnU3bTVxVzhGbmF0SktDb1JwOTY5S2J5Ulc5WHFxU3dFSEQtSEdyUTNiZU5kMGZ5RnFRZWttcFFWQ3JxZHhTUmNqSGN5VnFOeHVn?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T18:11:52+00:00",
+   "extra": {
+    "publisher": "Vancouver Sun"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Blu Atlas Black Friday 2026 Starts Early: 40% Off Gift Sets",
+   "rank": 42,
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ocDhhSE5qMHF0MjRyOWh6a3diaWJjWGsyNDFiejQxX3ZVek9DT0JCRVpWSW5sSjJMcm01T082T2NwdFBXZDE4SGVPMWVpZ24ydGY3bGFWUEZTc0xOVUhuVVhCR0s1X01NZktIbUpVRTVzWS16dFk2SndR?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T14:54:52+00:00",
+   "extra": {
+    "publisher": "Dapper and groomed"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Beauty Founder of the Year- Shontay Lundy Is Rewriting The Rules Of Skin Care",
+   "rank": 43,
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaVRENFFqNDBXQldZZlREYlpNRHVmM2RIV3pBTVdvQUltU0RiZW1uVGxCQlk2dFFUYlNvU3JnenlLWVViaHF4aFVaR0t0eFJoQWpzMGdVMm5PS2lpMjBaeWd6Q0pFVFcxVWdEaHJidk4yQ214M1hTdXdEWjdHLThfSnJXQWk4Vy14U3A4d091X2cwaUZBYkJhcTcyRlNxc09jSE5BaG1OYkhjRnEyS080U25R?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T17:45:08+00:00",
+   "extra": {
+    "publisher": "HelloBeautiful"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "P&G, A*STAR and NTU set to disrupt skincare industry with Singapore’s first wearable sensor that measures skin feel",
+   "rank": 44,
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNXVDdFIzeXNkNDQ2QXB3cnFJaVhIRHRnTi1xQUFSVTN6TXl3Q0NQQjN1MUM3ZUNTWTBFbHEzUHBycm1aWEk5SDEyZC1MYVdxdlR3S1cxdUo1ekVOdjZ1aUF5M3VHYU1EenBiMDZuN2gxVlhtN1pmZ3NtV0hiZ0E5X1pWZ1FjcFlJMDZjU0VwZlFwSDc3VE44Mm45Q2xTbkdzRlBwLUhuSUtOU3RtM1JjNTJ1RnZWMVlCVHpxaVMxekFpeUJTeldacDhUNTBheGhSNDRDQ1JpZ2pHb1pEZ0ZXbV9mVjNhaVBpM2RURDNvUktNYk9mOUhWUTJuZw?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T14:36:18+00:00",
+   "extra": {
+    "publisher": "Singapore Economic Development Board (EDB)"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Consumer Edge Finds What U.S. Beauty Shoppers Are Seeking",
+   "rank": 45,
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQlRUaFh6VWZKSWI1czFaVXEzNWJvTGJrZjFYZzA2SXQ3aXVLN1ZYOUY0ZWdjVjFaZHExc3M5ak92a2M4aDdhWHpleW56MzFVMUJpTm02Yk5QWWJia3M1SGpmc1BhVmRUYW1FOHFaZlJndGJEcVhVdXFjTWZxdVZXdGtJVnV6YVkyOTByZXQyOVh4OE1CMU9EM1dVNDlQcV93a2h0bnVB?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T13:28:29+00:00",
+   "extra": {
+    "publisher": "Beauty Packaging"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "As Its Big Deals Grab Headlines, L’Oréal Quietly Buys Into Med-Spas",
+   "rank": 46,
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfd3ltNEJkSGg2YWtmU2tHQm93R2lQX1BTR2dMdHB2SjFLTkwwc3V4a2FnRW5SVFpHZDc1TU5FRnN1UGU5aDg0ZHVYTlZDUDdlUlBEcWVxS3g0MF9JbVhFUjR5bXhNNGV4Y2hUSg?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T05:01:38+00:00",
+   "extra": {
+    "publisher": "Beauty Independent"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "GloMotion makes social-first series for skincare brand Kiehl’s in London store",
+   "rank": 47,
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaVlMQjJXUXFJa0J3aW5qX090cVhMc2xDeDA0WjVfWWtQb2s2b1dGbUZBQ3ZWeklqTlhTZVFvNlNLTmRPdWlYM2tjZzU4Y2ZhaEQ5WUZZdzZJeUZCeG5kS0MzT0x5SXZFNEg5aUlHM0ZhZHpRaFZyaG5vSDFtVTFFU1RYVi1pd1BaZDdUdmNwTE1mTzN3M3RONnhvX2VDRE45NFFyOEh0S1l5cG8z?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T11:24:08+00:00",
+   "extra": {
+    "publisher": "C21media"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Martha Stewart, 85, My Mom, 61, and I, 26 Agree: This $15 Drugstore Tint Is the Secret to Younger-Looking Skin",
+   "rank": 48,
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44ZmRvUjkzck1FWlFsY2ZENGcyQjEyaDJLZlEtdXpCb1MzUHRSc3lweFY4X2l4d0NoNFI1V1I4YmptcGdya0gzYjVjZ1M0aGpyZ2JlTmEwWUNEZHFlUEo2TVFZa3VVcFN2UVBoNU5QMEJNT1RnOVUyam9ONEJHZw?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T11:30:00+00:00",
+   "extra": {
+    "publisher": "InStyle"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "A Deep Dive Into Hailey Bieber’s Many, Many Face Masks",
+   "rank": 49,
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbmJ5TzRjZ2c5LVNqVlc2ZVFiYnBPazRUczI2LVZtSHFYaEZiUEVlYTFfUGlPdllaUFpTYUtkOG9QY1BmbktObWxWcENYM1RTZGtYRXJOeHdjQjJKTGhDdVRaY01uUUFsVm4yZWVYb09iZXlxVnJIZFNDbFJjem9mcjBzd0hBMWhFYnc?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-15T20:08:22+00:00",
+   "extra": {
+    "publisher": "Vogue"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "VIO Med Spa Unwraps Black Friday Savings with Up to 30% Off Aesthetic Treatments and Skincare",
+   "rank": 50,
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcmZOQ3ZMa1phY0Jvc0o3QnZYX2Z3ZjNxUDBMUjZqMTIwSGlHb3VYaU8xd0pEN3ZPMElzUkNmd255ZTlxU19WemNJQTJkbjZGWmlfVjlsaUtVMlZqemo3a0pJa0lMc0Vzd3cyM3d4S3pTblpCY3NmZVZNb1ZiemRYX2Q5QVNKUEE0UER2S0N5dWVoeVV2ZHhRVG1sWUtEV2FWT2h5U2E5QXAzM2xxT3FVZ0xOOVJ1cEQ5ZklJMnQwcjRReGNJa1V0QUY0ajlsTUF4cFZQZW9IZTBiUHRZbXlMdWxn?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T12:57:00+00:00",
+   "extra": {
+    "publisher": "PR Newswire"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "CeraVe Becomes the Moisturizer of Arrakis",
+   "rank": 51,
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRjh3bHpZMEpJczRUYjBMTk5nZ2FybVgyOWVOZFZxZUlnQzNpTWtnRllJX2VVbl9PMVVoVnAtNzJ2OUlLNGRLbW83c3NpNjBjMmpzYXByMFZvZHhQSFprMkt3djRBa2RtdWhsUTdTSGxWVzFiTm1fWm9RcHhtSGFfTktreXBSS2NmWGFTZjNLR2h6Zw?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T13:08:27+00:00",
+   "extra": {
+    "publisher": "Beauty Packaging"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Starface Introduces Holiday Gift Sets",
+   "rank": 52,
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM3N1WTlSeEFkZ3pYb0p2aHlzSWVvakNxLUxoTHRuSDBwdm5KV0ZiamMzRUFrdllTTlNtU0g1NW1nN0NjQU1FdGFBSmlBT3B6V0pBRnhUNFRCNDlEYVZqS3Z5T05yTlVFV1dXSmV2aHFXblJFQllXZ3hXTXlRWjlDTHJYQnU2WElHeURrQQ?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T12:57:49+00:00",
+   "extra": {
+    "publisher": "Beauty Packaging"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Vaseline unveils first facial skin care range to target sun-induced melasma",
+   "rank": 53,
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTTjFZVHpsbGlHdGxVZUl5UG1oSTdoeXYtNmZTaVZWMFhRTXdBZEg1UWJvalp4Nk1LUDhCQ3hXeThFb0NoMlBUUmVJcXk5ZDQxN01NTmp5MnlIMG1FUzFYX0lTbVUwSm8zTWNEUDNwZ1VpLTNfcWs0V3llYw?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T12:45:52+00:00",
+   "extra": {
+    "publisher": "Cosmetics Business"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Collagen in skin care: can topical creams really work?",
+   "rank": 54,
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORmVmb2RRTHA4elJucXQxTnRnNW9ya0pXZlF4NGdiUko2UU13Q1B6VkM4S21wdUNmZGJaMjljRUpSUGxjczFZYVlObUhrMXUybXVEU3FEejY1d1ZFbUl6YTJCXzVvOXZoVi1JRXJQUnNyelFQajZiM3Y1Z3pFRXV4Z2VfYw?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T12:45:52+00:00",
+   "extra": {
+    "publisher": "Cosmetics Business"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "The 25 Best Beauty Gifts to Give This Holiday Season, According to Cosmo’s Beauty Editors",
+   "rank": 55,
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOVl3V2dSZ2ZNcWlHMWMzenUwX0RJM2pMS0llR2Rha0JNaWFDLTlsMFR3THVxUC1tN182N2x3SHVPZVhnaVRDcGQ0c05FdFBfXy1CcjE2c0lTbnJYME4xcWtlUGxHc0dDMElOQ0RLQTdpNldhY2s5MFp0R0dscDNlNF9ZNWNwLWdkWlE?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T13:08:43+00:00",
+   "extra": {
+    "publisher": "Cosmopolitan"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Dumpster diver finds sealed skincare products he values at $50,000",
+   "rank": 56,
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZFlkZnEwenFBLThiTXNUcXZLcnU2dURHRHhIekFpTVlybE9fb3ZpdV9oNVBZR200TUVYdUl3S0tyUFZhdWFibzk4ZmluMWJ3OVBuWTk2YjBQdG9NODhybldINDlxSGtPekk4YjFIOC1NSG1jZFRqcTdmMTBHVUFDUlQzRkh1RU5DVnRNWHFSNFc5MmtxTVRv?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-15T19:59:00+00:00",
+   "extra": {
+    "publisher": "Yahoo"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "SkinCeuticals Is Scuderia Ferrari’s New Skincare Partner, Here’s How Men Should Use It",
+   "rank": 57,
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOQzI0THh2RlBMTlFWN29MdWs1MlN5M3Y3T2I5Q1ctWXo2TDVUSm9KOVZvWlotMzFjU0d6cUtfSHVzNWNBQ0VpY2t4YnpTT096bU1NMWp6eDlMcFNMMldQNzRWV21kcXdSM0pKY3M3c2xDbTNaUmVKU3ZB?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T01:09:28+00:00",
+   "extra": {
+    "publisher": "DMARGE"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "There Are Hundreds of Skincare Gift Sets—These 10 Are Worthwhile",
+   "rank": 58,
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGSzZjeTloa0c4aTQzUGtlczVlTFdrdXFYTFc3LXdtRHdHVE5leFNiTE00MWhTRFFQVHJKcTNuVXlQT2RpandPWTd2OXlPX0FnNk5oaUhCa2ljaDhLUU9CUHRUX3BhZ2QzSEt4YjZZbWRzSUt2eE9Z?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-15T12:00:00+00:00",
+   "extra": {
+    "publisher": "Marie Claire"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Layers Skin & Hair Clinics || Hair Transplant | Best Skin Care || Hair | layer | Body | RTV",
+   "rank": 59,
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLTzdGcjF4bDJ1RzRiZDJHY2lYSk8xQzNKaWxvcGlWVHlaWjJrb21fdW05VVRsWFM3eVdWYlU2TlFnUXlyaXl0NERyZnBvaUxEUkVJd3FB?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T09:43:26+00:00",
+   "extra": {
+    "publisher": "Instagram"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "SCS awards celebrate the people and innovations advancing cosmetic science",
+   "rank": 60,
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONGJMNGJhWmRudUxza3dva2k3RXI4OXRlTHpDMjZfOHk3WHY4QVVXUGlHQy1yS2VXUTNQUEh6YmpoV2sySldGYzVueDJDOTl0Vkk5RU5zODdmMExLWE9hR1hUUzRKNjlRdjdMaDVJclBXbVZHRUhoaFVRVFc1dEhPN3g1cUhuNzJaQ2YxLVotTlA?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T15:05:41+00:00",
+   "extra": {
+    "publisher": "Cosmetics Business"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "This Black Friday Sale Is Packed With Deals on Popular Eye Creams and Brightening Sleep Serums",
+   "rank": 61,
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQzd6dW9zMjlEeXEzNWxoVVFXVjVMaVZwdEp3eTJQd3hIZW9uR0lubFpreGhOSjRJcDBVVEpDMnJlYVRWTmpmeHp4VWVucmM1RlBHOG1zSF93WVVtNV9IN3IwN2ZncWpianFEZ3pxaHkxYUhSd1lMUDFULTdVam14YUtjRmd6RzZq?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T10:30:00+00:00",
+   "extra": {
+    "publisher": "InStyle"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Homegrown Business: Jillian Cole of COLE Skin",
+   "rank": 62,
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05aHNLbzV2b0F3d0ViUVdsUkZ1THp0aUdManRPZFJUanllRUNoN0Rwc1BlWmYwMEpXZzFCbjk0R3ExVFlvbUxMS3BhMlFwUjZIRlNyUmlCWTNUSDM2bmhjWkdQdkZRZ2p4cW5DOUQ2Y0s?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T16:23:05+00:00",
+   "extra": {
+    "publisher": "Toronto Guardian"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "I Made This Simple Swap to My Moisturiser and My Skin Has Never Looked Better",
+   "rank": 63,
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Ya2kya1E2bTRHbEhFUlRIM2JIRXFzZzVLelgtT3ZOUFhHX3AtcUg1ei00RTRHRnp0V2x2QkJEMFlVc18yMHFWQ1BDbU94bUFHQ1BFY1NUdWt4UjFTRDJSVGxhR25ZSm1oT3BDY3RPV1dBYzNhUVhheFRacUg?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T07:00:00+00:00",
+   "extra": {
+    "publisher": "Who What Wear"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Osmosis Announces Exclusive Online Launch with Nordstrom.com",
+   "rank": 64,
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNDhkbmhtUzBya2JSazdVUzBiaS1PX2x1bTFHNi1ZMXFCNjZCSUpvUXFQMWVwNVp4M1RxaUdfaWpzXzhpMXlaXzh2NDhCdFlwUDRKT25jd0FSVUZSdkFwVGZhNnlwS0xIZF8xSmYybV9YOURKSDNRUFRtSXZobEM2QUdkWW83MjUzS3ZsOXJHZXl3azZxamUxcnBzY0RabmtWT05MbFZPUE5hemk4Yi1SMld5UVJhZw?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T13:39:00+00:00",
+   "extra": {
+    "publisher": "PR Newswire"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Ayurveda Experts Reveals How To Get Glowing Skin",
+   "rank": 65,
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYk5SMTZBT0NEcmpVNVpTdm1UVllWUk1RbjVUemVYeW9WclJmOVVYZnQ2cDBidmIySGl6aXoyUGdUdjVDSWNzV1I4em9PdC1oWTl3T0F5RThDZkpKZFl0VEZtZmdwVTR0ZDJ1Z2JBbHM1anVmbnFIU21xd3NYQ0VoQktPeHFzNXhLQXc?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T03:16:52+00:00",
+   "extra": {
+    "publisher": "MiNDFOOD"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "The 25 best products to reduce lip lines, according to dermatologists and makeup artists",
+   "rank": 66,
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWNDMmM0WUEzRHlaemZIdzlyNFBxeVVFN1lzb25PbExqNlVhLUdKQmVtQ2w3NFhfbDB4Y2daeWJZUTRZZVhkZzliNEdNcEQ0RU1XNFhtUWZVLUFlNEdKMlF6MmRHQkVSeGlxMjZOVG50bkhLQkg5bV9lRkM5TzRBOVZn?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T13:02:00+00:00",
+   "extra": {
+    "publisher": "CNN"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "8 Face Masks Hailey Bieber Should Try Next",
+   "rank": 67,
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfbllvN0NIOVBfdE5IN09hQTVYS1F3eHQ1YmI1V0g1dWVjR2VzOHFsNVp4Z19vT1laNnllOEVkSEd5Q3VNeDNhTjRMZnhXRHNQQXJiNl9nS080aWF0cHJ3dkdONTFGWXVYc1hqMG5GMk9tdw?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T06:19:40+00:00",
+   "extra": {
+    "publisher": "ELLE Australia"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "As the domestic Derma skincare market grows rapidly, the distribution industry is also busy. Major p..",
+   "rank": 68,
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yMWJja1A5RThCOEhudTlVWU9qUnlRNmx2UFFUQ3RBXzczYVkzcDVGZ3RtQ1d0UmMyTndLbkdiZ2JfdEduLVR3Sng0V0N2cGpoVlVn?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T04:41:10+00:00",
+   "extra": {
+    "publisher": "매일경제"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Jula’s Herb champions T-Beauty with campaign highlighting the realities of staying beautiful via Wolf BKK",
+   "rank": 69,
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZDVnUnNlakp0ckU4QUFjT3JNY2JRMXBUbDlnMlYzT0hpejBzMGlBQ0EwU1dXY0N2NGlaY3pUYmxYZVJyemVmWi1GVjZFbzROT3EwWC1QVmR6R1pldGNPVjg0Ni1oSGR1dHFMNFRtOTJObG82bzVtdzdTeERsdHRYQVY4YXI2elVBM3dHMlQ4aHFPTFVEbWJtOW80Q2NsMHNMTzkyeF9aOF9BWEE0U1BpSHZheWVmQ3VPRzRwUUhSUGxISE9qVHNkNEhZdWw?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T06:36:34+00:00",
+   "extra": {
+    "publisher": "marketech apac"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "CurrentBody Black Friday deals are here, with rare discounts on the brand’s viral beauty tech",
+   "rank": 70,
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX0p5SGQta3ZfQmdNajZZbFY0eXQ0cDJEaXpWSVk5RnYyNE40ZXB4bnM5SG1QOFN2RUFOZGhzYV9UdlBIM3U0MzhDNWR2d1A0Ry1CZGQzTS1rV0FVR1BoZVpWYmlkOFhGRkhQdVBLNE9xbzBtQVNmRDNad21IdTRGbnZwOA?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T12:07:00+00:00",
+   "extra": {
+    "publisher": "Yahoo Life UK"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Savannah James Builds Reframe Beauty with Science and Slow Growth",
+   "rank": 71,
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRG56WWJwV05zVlR2bTNfYVFlRWVnWjdQX1hfZG5GVFNyMFJ3Z3Jza2drbmhGcGlYTDZOQlZoME5CV2tkR1d1YTRTRlBCQk1GMnFRNWN5TlBKbXh3bU15S0o3UnZKczlUSnZYUUpORnhfdGNraWc3STZ6cnNiSTlUbFNlUXMzWXc?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-15T23:11:39+00:00",
+   "extra": {
+    "publisher": "BeautyMatter"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "The Best Skincare Buys For Brighter Skin From Irish Brands",
+   "rank": 72,
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmU2QXRkLTlvbXE3OG9uUXVWUWhPSm83M1dVZVF3OTlXLXFkYkxtaXZVZE1XbFM3SUhBRDNrOXhidG0xbm9Rb0ViOWY2MVJpaGE3SDl4MDdjU1BsbThFX2hYMGNaU2tUYWtONDdFVGYzQThSZG1VRTVZaWdDekR4UXlMOEFCQ3d3bWdlbHk0dWcxUQ?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T10:00:28+00:00",
+   "extra": {
+    "publisher": "the gloss"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "I added Medik8’s retinal to my skin care routine at 42. Here are my results",
+   "rank": 73,
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LLWxnZ0sxdDQyN194QVFacWpsZ00ySDhJNWhIUDAtQnRSTGhVQ2drb3FDWnlWQlJaRG5Ucmg0aFJENWc0RkNlMVFjLXlNUDQzVEtpazNIQVppMHE5Z0hFS2pxVUhpVXQyaHFxbGNiVzRxVWZHcEJ0dDl4THM?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-15T19:12:00+00:00",
+   "extra": {
+    "publisher": "CNN"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Beauty Buyers Reject Department Stores",
+   "rank": 74,
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QWWJHc01ETFFBX3pCek16S0xnMGRuSEV0Y0xJUl9JYXhyZnFJaHUwSU8zQzJCSkhHaTRCMnI3ODI1dmFfbThzQnROcmszTXdVUm9WM1pIa2xlc19nNlkxR3RUeFk5MWpBU0RMV08tdy1JWEtf?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T05:01:00+00:00",
+   "extra": {
+    "publisher": "The Robin Report"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "No Botox, No Plastic Surgery: Julianne Moore, 65, Swears by These 3 Skincare Ingredients to Keep Her Mature Skin Glowing",
+   "rank": 75,
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQanJZcmNSdXFkR1Zwc0dPMnlvM1dCczYyUWpKNDA0amxVS19QNy1IYUprUmhKLTNHTDJuem9SMnI3RU94VjlYd0gyTU1HTTJ5UEJ2SW9xcVNwV3hXeEJPcVRPeksxTlV4RGtaU1ZTTVZoSmNVZFNtTmUyaUJWTUtjQnZ1Wng5cElKOE1WVHRfT2NkZmstMU1zcmR5dHc2MHM1WmN0NmFLS1NXM2lLdnVScVkyNklaWjREYktackF3WW42SjJuWWt0YVhjeUpqdEdPdzBOTFJzMDNjd2NmN3Uyc1VDUG9KY0hEZFFhVQ?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-15T00:04:38+00:00",
+   "extra": {
+    "publisher": "Grazia"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "NIVEA Soft takes the simple skincare route with Taapsee Pannu & Jannat Zubair",
+   "rank": 76,
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdWxNd1FBdVlxb2UwaTh3NG5pZUxUTnFUUVVaS29xMUFmakNPczlac2xuUF9PejVCVk9VQzQ3WTluZmJXbXExWWpEWkg4eHNpdXhuNUJXUEVfWm51X3B5d3FkVTlGcG0xbl9LT0pvbFE1eHRPX2FSNEI2ZThxMktsbXVNQUxSb0JmcGJkME1mc29vV0RqUlB4UmtCRXc3Y3lkU2NVeXpZQkhZeDBxcGphYi1wV1FJQm5hZ2VWRW1fYUw?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T10:22:17+00:00",
+   "extra": {
+    "publisher": "afaqs!"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "15 Best Self-Care Gifts to Bring the Luxury Spa Right to Your Home",
+   "rank": 77,
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwSGdoRXJfQmlJRTJLUnh3OEx2SVRySnY0R2tqaXkyUEI5SVhzR2NvbEkxV1pIbWR4YUxadXlJUk90REt3SDJpd2EzZG00VGVlZE9R?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T15:26:30+00:00",
+   "extra": {
+    "publisher": "Brit + Co"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "How Did Korea Become The World’s Beauty Superpower? | Grazia India",
+   "rank": 78,
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQzJuUHEzN194czlnTmItNkpLOWgzelZzVE1PMC0tRDNyU2tLQlI1a0pBbGl3TDlIdURIRnFqSkwzd0FJSnlRY1VoN0NfNGdNcFd2cnJLNnJKeWV6RDZvTy1CRDlmMi1OVDFENVhJRHBpbXBUd1dqem00RVNIOVVVODJlZUg2WEl5dG9RRjR3UkhVQWdYcDhqcTFSNC1pTXNEZDh2VjdVVGbSAacBQVVfeXFMTm55UFh0MHBrUG1CUjF5WENubEI0X3dDcXRuYmxGdlExejhsWlA0Z2JTSHI4OEo4VUw1UUZpWmVTQjZEMUR6TlpXTUVKVzFEei1uSHllSUk2X05DZ1BCWEpMVy1oZWJVLUhRV283M0lkSGE0MTk3emRGaFZCZ20yV2RHUHRadTN2N1dTdmxINFN5ZThqUGJyQ255WmFxRC0zb2JhSHVOcVU?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T07:48:31+00:00",
+   "extra": {
+    "publisher": "Grazia India"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Shoppers Look Younger Than Their Little Siblings Thanks to This $12 “Magic Potion” for Skin That Fades Age Spots",
+   "rank": 79,
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdUZ3UFQzWm5oSkJtWi1iS3l5YzlnYV90d050YkR3VUJ0TE1ibjJ1RHpMQktRSFI4VkR3bS1aNkN4ZXQ3Tld6REF6QjF6UndOVXV6em5EWFVKLVJpSEJhWDMwOG44SENEaTBMNnRBeTM1MmExY0hROXFCTFNvbXFNRlNsOVNjZWt3a1NHSkV3aUlwWFF1NWdtYjRwNDZ2RE5mRlBoeA?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-15T22:30:00+00:00",
+   "extra": {
+    "publisher": "Real Simple"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "The Derma Co: Building a Brand on Active Ingredients",
+   "rank": 80,
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNlkwblRCdk1zWUVpN0xVYnMxMmpXb0tIeXNDai1INm1ITzJkbm1nV1JHOE96YnJ6S2hwRXllNnFrbzcwVDA0WWd3WlUzcHdxbU1lOUhLU1VGbmZ6U1kxaldLSHBNUWIwQ1lXZ254STlDRkhhdzVZclJNWmlJSzAtanFoOE9vNmVNT3c?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T03:30:25+00:00",
+   "extra": {
+    "publisher": "MarkHub24"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Industry Professionals Dissect the Role of Laundry & Personal Care",
+   "rank": 81,
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOGc0dTNTSEhNMEh5NUhSWVdFLW1UZV80bkZ6dEVudTRpQ0ppTG9mN2c0WXY4bXNUdzNrMnZlTkRxYXVTQVloQTNLTXpYLTgzVEZ4NG9CQ2JHekxZTHZBZTVkeEZ4N0VIZldtcFJNZ0pwNnFya1IwVmJXaXFGLUxVVUVRdHMzeWVBSHZLY0pMaHVnTmxjZS0xaFVYaW9kNnM?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T00:13:39+00:00",
+   "extra": {
+    "publisher": "Happi | Household And Personal Products Industry"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Skingredients launches one of the best Black Friday beauty deals",
+   "rank": 82,
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVW5zUl9HN0lhMzRPRmRObXVkNUxHUjZLU0taNTIybGNTSlhfR3pkWlppazNiWHNiR0hNeEJqX2g5bXZMMFFvWUdSbEFQYTBURmJCV2g0NjhkYU5rR19DQzFMMDBFc05yYWcxbGVxUWNrNk5oUThXY0JHX0lPNlVTQ1BJZkVnNFBsdllxLTY2ZzBtVTMyTUxqMXJhZkdETGtOUllWdi1sVWNSTndfLUVfaXluXzZOLTZuWEh5bnBkXzM?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T15:42:14+00:00",
+   "extra": {
+    "publisher": "Her.ie"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "ELLE Exclusive: Something Très Chic Just Landed In India: Meet EISENBERG Paris",
+   "rank": 83,
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX29xdVJzbXcxam9mUUtxQlRZdm1MVUI2ZHNzZ25IWDFyVUhUdmhNTjFtNTlEal9oVUMxWWd4S3J2WjFXR1hFMmZHM0VpUXVfdjFfZ0c2T09acFlSS2pMNUszaVNMOUtNTkN5NmhDSkkxWmZScDhnSURFSXRELUxCSS1fUHB2V3dpTUlLekpzMm9ENVEwQzlWT2M4Z1Y2QVU?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T08:56:47+00:00",
+   "extra": {
+    "publisher": "ELLE India"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Bragan Skincare triumphs at Family Business Awards",
+   "rank": 84,
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96VDlzVlBoMWtvaEpOaFFxRzVkbU5XZF9oejVLZDJXYV9SYlducmxBbzVuelV5c0lUTXFBZkNualNPTXl4aTNUZlNXV2tSMWtzNXNqaURPWTluRHFvR0E?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T16:54:43+00:00",
+   "extra": {
+    "publisher": "Northern Sound"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Best Black Friday beauty deals in Ireland with up to 60% off our favourite brands",
+   "rank": 85,
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd1lqTHIxU3o2RWUtY04zYXI5c0dfREY2ZHQ3UFYtbXNxN0k4X1EzRXRiT0R4dFY2bFE4S3o2QkRGOHJSZEVtamxucjdWWWl1MTZkMTdENzBiS0szdVhDRmtEcXk1SzJqTm5KcUlZbVpsb29PNGx5R25fVVVFXzE4bg?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T14:21:12+00:00",
+   "extra": {
+    "publisher": "Her.ie"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "The 10 best hydrating, soothing serums to lock in moisture and boost collagen for winter",
+   "rank": 86,
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeExleW92cHdkTFdfV0duXzNKemNOZFRlTGY5RXMyai1wb1NmcjY4X0FzSzBkQ3lPOThjRWZoX1J4QnMxMWp5Ml9LVUxTd2lxWTJDMHNKeEJJNVQzTGpGcUR2TkFpRmQ3QlNjMk9JazF2Z05LRldTeTNLWWhIQm82aWFLbmwwRDBNcElTNjZDVWp4dw?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T19:49:23+00:00",
+   "extra": {
+    "publisher": "Harper's BAZAAR"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Layers Skin & Hair Clinics || Hair Transplant | Best Skin Care || Hair | layer | Body | RTV",
+   "rank": 87,
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUFpfMXRuR242dDFiV3ZkYmxhTkpZakdsc3BKaDI5Sk1pb1VpRzB6dEtPaXVVNFd0TDBwcUtGeEltZEtPeFg5U0UtODFfV1ZpMFNPdFdkN0hjM2lrclBIdVcxX0FBRTYtVmh6ZXBxTk13QmdIdzZQUE9mUVJJOU9rR0NqNTlSS1NKd3doRGNKZFpUQnByZ0hQVUdybVdXNGVmazB2R3BoUDRIdEdVOVNZdXI0SjJYTDN4blY5R0FFN19STmpheUZuS0RwcnQwMFJPQi1jTEI2WnBQZw?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T09:43:02+00:00",
+   "extra": {
+    "publisher": "Facebook"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Dewy At 9 AM, Greasy By 3 PM? 4 Serum Foundations Compared",
+   "rank": 88,
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaGRnS3FLYkNmREJya20tcEZzemlxc2xzdDhwSFItak9oYW5DN3FnQWVlMFRXbFRuT0pUWnQxSGRVTDQ1UDdWa2NnSUU5NlctQTZVT1dlWnJtbzFzX3JmSzlOVDVlR19IMEFWMUt5LW5JczRROWk3X0pJQzFMbG5PdS02Qng0cFVXRGpDUkVPT0dpMi10enpoTTZuRnNnMUxJdm9iMGRiNXA4d9IBqAFBVV95cUxNWTZ6bUUwZzhtUHFCUGVlUFo3dUZ6N1dsN1JwR2pSTHphYzhSWnJSbFhlQWxMTDM2YnhJVDJNc1JpUEx0QVJpSG1UaVJYMThZX014SzFDRnZoQWpUU05OczE4UUdpSVFQcDR1M3BaMGJMRVFvMkU3YzdJVlBhWlVUTzNNUHZ4VEtWNTRvcGNIMlN5WFVHSVVrVUI3Z2dpcVEtRGhOczhuQkg?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T08:02:51+00:00",
+   "extra": {
+    "publisher": "Femina"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "This Age-Reversing Cream Makes Mature Shoppers’ Skin Feel “Supple and Smooth”—Sarah Jessica Parker Is a Fan",
+   "rank": 89,
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSDkyS0pNdEQ0Vm9QQmlYMTNMMGU1R2tDblQ1Wm9COFJvcGtNV3JVME56d0hpRWJHdDhyOURNaUFsY1RzSUIwM1l6SS1YY0hHUWk1eDBpZVVzNGJyNzJYQkEzQVhFbzRWOFF2RTFJZDVDdERIZkQ3VWJRbEZlQjc1eERyY3ZtYm5hQ2JWbUtHMy0?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-15T20:00:00+00:00",
+   "extra": {
+    "publisher": "InStyle"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "The 2nd.co Founder Is Rethinking Men’s Grooming Retail",
+   "rank": 90,
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOF9UTk1kclFpQkctZnNiZW5uaEtWd3FkVWl3WVNyQ1JMNmxzTTJIZEFvNklmTHpCNkxfZ28xZ0trc2s2OHF4eTlzVTF6VndxelJaZjJ0RWVkTkZZcWQ4Q3pDcm9RUnEwSmgtUl9nQ2xweWQ5cDJyamhnSnhQbzI3SGZSOUYtSW1lZURVRDBB?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-15T18:45:00+00:00",
+   "extra": {
+    "publisher": "Men's Journal"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "This Luxe French Pharmacy Eye Cream Is Dermatologist-Approved for Lifting and Tightening Crepey Skin",
+   "rank": 91,
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEaTdlT2FoY0JiSnVkcElLS2RHS3gtRExheTh3VGdBd1d6OUkyWVRKNjdUSjB3NHZONlhNek4zWGVzSnhZallEeFRhcWg5aDBXUXE4NjAwRHdPRFp2dUc1T3kxelg4YWdoRFR4dVdsNEFNcm8?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-15T10:00:00+00:00",
+   "extra": {
+    "publisher": "InStyle"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Skin Tight From Cool Air? 8 Ceramide Night Creams That Rescue It",
+   "rank": 92,
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZklkZEZURnkwaU5VVDRtdnhvQzF4U2pVdjdZQVA3N1lTcWktY2l1VENyb1M3R2NraDVaYmNZTU9LSERpYUV4cWFqSGNJWk1yYVBLZE90WEZKNFFWYmlveTJaVzZlUWEwdjNZVlJITHZuQXhCZHRXNUR2TVV0UEhjZkhHT1BUOXpwekhVcGJmVnpLQnJBSUh4Q1FNdmVXWkJfUFI3NVFzMTBmTmpVT3paQU9LVdIBsgFBVV95cUxOV2l1cnJ4NkFoUWJZZzQ2MEF4STZ2b0I5R2hNQ1pfeFZKLWgyQVI2bnhJMFROMkFjb0ttN0o0YTJnS0xwUW1Ra1VKejNSRU1EalBPaV9hQnROMnJET1NJLVc1VC1UWVFWUkcxTGRfSXpwTURIMFVaV0VoaXZHaUYzN2pVX3BrOVFhWHhTdzBDVTdMWl9aR2VoaVlvOWx0SWYxcU1FSUFjUGZlWlE5d1preS1B?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T08:41:25+00:00",
+   "extra": {
+    "publisher": "Femina"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Qogita: Wholesale Korean skincare tips for UK retailers",
+   "rank": 93,
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPemtYbjVrOE80cHQxcnU1NktkM0liYU9Qc1JVbTlGYzJjQm4xd1pxYmIzX0V4elZHWXRDSlEwejV1NkVTOWNGbTFyZnRzMkNhSThJRWVCMWZ3b2NnSDVkNTJUck9feDJqZm1GSUZIN1A5V0c4ZmNZMDNDckx0eU82MGNpY2Vhc0NnSDlSc1FnaUdrYUlaUUtyTFlxVTNpMGNHYmd1bGhpT1hsTU5BM0puNGpMaEt2QQ?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T09:15:07+00:00",
+   "extra": {
+    "publisher": "Retail Sector"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Shoppers Say This Firming Cream From a Plastic Surgeon-Approved Brand Plumps Fine Lines—and It’s Only $15 RN",
+   "rank": 94,
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wcXRSbFdrTVFCUC0wdkEzX0ZlSWhDcVFHVkx2elhuZTVGNElJQkZOZVhWMzZFYzNwTDJOMGlIb2MwUnRQRWowMWJHMVFlUWlDV3Fxa0o0TGpvb0JEdndTVFRBSVdYUU1nSGRqcEgwVG5CQ0RwLWpRbkZ6VHVRVzQ?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-15T04:00:00+00:00",
+   "extra": {
+    "publisher": "InStyle"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Best Black Friday 2026 beauty deals, according to our experts",
+   "rank": 95,
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVklSZGdXUFE5OVMtSGdBSjFUSTZIV3U2NGNIRVNFYmt5QTgzVHhlVl93Y041TmVvNno1T21POXowQXFRS3hwZ2dxZ1I4Z2pBb3R4WDc1LUJ6d05uUlFFT1Q4N1ZYV1hfNlBXRWZjS3dtNWtlRHRjSXZKeDNoQnZyVW9CZC1BdFgycmVCSnpfQ3pESVJ5a09kbU5wOA?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T16:08:04+00:00",
+   "extra": {
+    "publisher": "London Evening Standard"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "CeraVe takes Dune's desert into a skincare campaign",
+   "rank": 96,
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HM3BuRU5uMjZ4ZjF5b2NNX1R5bUpWNHBMQjVrYjRYSGpQdmlWYVJJc3ktbE9MQnlXNU9uN24ycTl0Mmk2blFWelVON2M4bTZKanFUUnRUcldPb0Y1dTBpYjMwbXVGMlQyQVU0bQ?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-15T01:04:57+00:00",
+   "extra": {
+    "publisher": "ContentGrip"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Parker Posey, 58, and Jennifer Aniston, 57,, Use the Moisturizer Shoppers Say Lifts “Jowls” and Makes Pores “Tight”",
+   "rank": 97,
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeHVHaXRCbW5mdFBuOW42d2d1bFZrVDhQeUxqUHJiaHlGZnhFNEx1Wl90S1FoUmE3S1E4S0NMUF9qM09RVkw2NTctcmNDSWFTampReHdfTnRuRW9tNUZJUl9kLW1aMWlZbW9BLU1oa09wRG1QNmVMNzF6dzR2YXhtMmlfeXhXeXczcU9VRk5hZw?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-15T09:30:00+00:00",
+   "extra": {
+    "publisher": "InStyle"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Jennifer Aniston, 57, Called This Tinted Moisturizer “Delicious,” and Shoppers Say It “Blurs Pores Into Oblivion”",
+   "rank": 98,
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95UE1udDI2SmpIdWFIZWRRQWo4bktkZXF6cnpEbXVWYWxsNEljMTV2eTRieG1kWHZDRklqTDdrNHVlcVhSeXNPd1l2ZDZBbHBuMXFBdk8yaXRvSjdpT3d6dnR1TmVGVFVxNFE?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-15T22:30:00+00:00",
+   "extra": {
+    "publisher": "InStyle"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Martha Stewart, 85, Has a Hall of Fame Beauty Routine—Out of Its 17 Products, These Are the 4 I’m Obsessed With",
+   "rank": 99,
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jZTJLeEhvcFBZc0VZN2FvTWx5cEoyNFZ5ekRSMk5MMnFoMkhDTWdZM3FiTXlqRjRtY1pmOUg2SUJhNkt0enRhNnFPQUJCMGtxbDA1aDdMYnJyOHRCSlRxdW5jMS1IZTJoN1VjcDFka085Zw?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-15T07:30:00+00:00",
+   "extra": {
+    "publisher": "InStyle"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "The best skincare products to use, according to this editor with sensitive skin",
+   "rank": 100,
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ3hFWDhVRDl0NjRYYldPTmZnWWNZYklLWVl2NExCQUc2TTYxT3hlOW55T1BDS3NOQnFIbUF6amxNWS1aN3oxcFplSzIySHBtcHU1Ull1UW5JV04tLXRtbk9LaVd0LW5EVVlPZE5nWFlfNnFITU1RQkRmeV9SX1BKOHJDeTJGOFI3cC13a1NaMU5feDFJTFZvcVhrSHowOHIzQ1dxaVE1enJBMXdxcUJlTDZxTQ?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-15T13:40:03+00:00",
+   "extra": {
+    "publisher": "The Conversation with Reta Lee"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Creating a self booting ZIP archive",
+   "rank": 1,
+   "url": "https://goliath32.com/blog/ziphead.html",
+   "metrics": {
+    "points": 73.0,
+    "comments": 11.0
+   },
+   "keyword": "Creatine",
+   "published_at": "2026-11-14T16:29:05Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50498295"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "A quest to create the perfect whiskey glass",
+   "rank": 2,
+   "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
+   "metrics": {
+    "points": 93.0,
+    "comments": 101.0
+   },
+   "keyword": "Creatine",
+   "published_at": "2026-11-13T17:37:32Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50486880"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "How to Create Your Own Decentralized Messenger Protocol",
+   "rank": 3,
+   "url": "https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol",
+   "metrics": {
+    "points": 89.0,
+    "comments": 18.0
+   },
+   "keyword": "Creatine",
+   "published_at": "2026-11-14T16:01:04Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50498073"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Linux was created as a rejection of robust software architecture and tools",
+   "rank": 4,
+   "url": "https://twitter.com/GrapheneOS/status/2122079826257588569",
+   "metrics": {
+    "points": 49.0,
+    "comments": 83.0
+   },
+   "keyword": "Creatine",
+   "published_at": "2026-11-16T03:58:04Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50513843"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Creatine for women: What to know before you start",
+   "rank": 1,
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNanhENXFDNVNWVXQ1LW1CcGRnTFJxOTNwUGtZQjFTU19VbE9SNllFYUljUUZKdUl2aUg5S1NZdVhlRWc1WS1jTnNzMnBMU1R0Z2xkZ1FUSnJfU3dzT3dPeGZfQm5yYU5PQXhCV2U4QVg4ajh5SS1EQWRZcXVkcDZYaWdGMHdsZjBvSlZ6LUxUZktQd3ZXYUZTbGc2NzdTODF2c01ETkNWVG5TX2FXV0c2YXREU1l2RkMwT18zOVQ2S2NZRHVkOGZmTjlyUUh5TTJzRkE?oc=5",
+   "metrics": {},
+   "keyword": "Creatine",
+   "published_at": "2026-11-16T14:00:07+00:00",
+   "extra": {
+    "publisher": "cbs19news.com"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Inside The Creatine Boom—How Brands Are Developing Products For Women",
+   "rank": 2,
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUdOQTBiXzRrVVRyQ0ZMUHpnb01fcXg3TVBMdWcyYThpZXp0aTdLYlpSSFRrcDd0MWJyai1Ldkk5SmpMVFlFSzJBbjlWVU1EcGtGMm5YNk1kZFNKX1Z4S3lPUFM0RnJOSTE1Q1NrcXQyeGRPaVhydmNMZUYtaHV0My1yeTQ1UlJjR3J5V3h1eHMzTzItRmlxdWtmWGhCbExXaFBhLTR2WGxIOG5YZ1V1eVV6dFBrWlFEQjdBMHFlOA?oc=5",
+   "metrics": {},
+   "keyword": "Creatine",
+   "published_at": "2026-11-16T11:58:08+00:00",
+   "extra": {
+    "publisher": "Forbes"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Creatine for women: What to know before you start",
+   "rank": 3,
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWUd6dE5XSEpReUlMNU54ZzZnSmUxZGpIdVpTZG1fbzU2ME9qa1lObllKU05rbWlfNUhXX2hETDcyMWtxc3pxSEczX2VDZEpacWZVTXJMdDBGLU9NUzktMEs2NGp2Y05IOEtyaThjVVUxaDdlMHNjUjJ1cmFtbDFLWnFsTFFxRmV6SmVKaWhDcXg0T25TVV9LSV9qVnprOFV2VkF1NWVjbmNHWUVQWkZOdkRsd0E?oc=5",
+   "metrics": {},
+   "keyword": "Creatine",
+   "published_at": "2026-11-16T14:00:07+00:00",
+   "extra": {
+    "publisher": "Lincoln Journal Star"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Why are so many young women getting obsessed with creatine?",
+   "rank": 4,
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNFBKWjMteE1RTVB0ZnUzWndSWkdjeWdIMGd1MkUyRDVGd3pzdmZnRjdSNmpQYmhtX2F6V1lPa2VWaU5hMWh6ajBhTHA4VFRJb0NYY2RLREYxUjJjZ1UwdUZiUVpwZ0FZSkxjLWFETS1ReUxiMUI3em04b09uQ201Qzh2cEIyWXM0RElZU1RBeXhnSHM5Vk9sekwxR01zdVZQQ2xMVGRlU1VIb3BMaGZ6V0Q5T0RIUXh6UHpVUnRLbDEtaVlsTDF4YkRGbw?oc=5",
+   "metrics": {},
+   "keyword": "Creatine",
+   "published_at": "2026-11-16T12:50:00+00:00",
+   "extra": {
+    "publisher": "Dazed"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Creatine for women: What to know before you start",
+   "rank": 5,
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObjBZbC1DMmpoRF9xSzZlV3dPdWhwY2ZiMFN5dURMamUySkVLMDZIbWVtMlducnBIRVoyaGFzbDBLNWlKZkZFeHNjMVA1eWJzbU9VQV9GbkNQUGtGSzRKZ0wxdzVzR3hYSXBZekdBdUJ5Qnh6RW9HRzdoRGxWOUhERDdsSEt5Z3RmdjZZTDZDZmtVNy1IaUVRc285cGE2ZkhuMzQxb1RYa3d6NTNkdFZ3NG1FZWg3a19NWHVISzRscUs0ejNiQjE3SWF3QmlCTGNSWjh3V0tKa2J4NHh0dmN0Zg?oc=5",
+   "metrics": {},
+   "keyword": "Creatine",
+   "published_at": "2026-11-16T15:16:34+00:00",
+   "extra": {
+    "publisher": "Caledonian Record"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Creatine for women: What to know before you start",
+   "rank": 6,
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa0Z0cG4yMm9qX2J0ZHVWeTIzMVlJMERkZWIzRXMzMi1POUpLa2FfUmZxSHNMaFYzSjdLbUxmWWttWUg0X3lEU0NobnB5VERORFdPUjgyYlFqYVFmZURod1BTYjhJZzU4M1FLYlpydW44U09GM0pxTmJrZ29jWGsxQUVJQnlOM1p3MExFM05VWlBaLURWc09LdHlOQklZVnFOVk4tVEJHNnh1ZEhDNDR2TUdkbEQ3TzctdUE?oc=5",
+   "metrics": {},
+   "keyword": "Creatine",
+   "published_at": "2026-11-16T14:00:07+00:00",
+   "extra": {
+    "publisher": "Billings Gazette"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Beyond Raw Lit Non-Stim with 5g of creatine and CarnoSyn 4X",
+   "rank": 7,
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JWXlaNWE0QVlPcUNOOUtBMG5oVTB5c3JIZ2RGd00zdlNkcFBCU1Y1allWSlllRDNKUTlkU3M3OWEySzFCVnJlbWxlX0JkLVQ4czJucG5UM2dMaTRtaG9zUXhpUVBNWWs?oc=5",
+   "metrics": {},
+   "keyword": "Creatine",
+   "published_at": "2026-11-16T17:16:00+00:00",
+   "extra": {
+    "publisher": "Stack3d"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Taking creatine after 40? The medications you need to be careful mixing it with",
+   "rank": 8,
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX1EyOFdXUVVDRW85akpsU29vVEw3eno2ZGhJTzhwa001X1RsYl9jb3Y4UVAtMS03eG1FckpVYWJlYWxWS2Flcm5JSG9ScmphMkYwTkJyRVZRZ0pKU0dVbldlajNoVTFvMVZfSWg3SGhITFQ1NDRsbl9SMGEtRFcwZ3JVMnE?oc=5",
+   "metrics": {},
+   "keyword": "Creatine",
+   "published_at": "2026-11-16T08:15:00+00:00",
+   "extra": {
+    "publisher": "mensfitness.co.uk"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Creatine for Brain Health: What the Evidence Shows",
+   "rank": 9,
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12SFlsSUZISUpiXzIzZVlFZzlLNEJCQkR1bmlNZ0JIUFVqVVdqbXJMdWZvZC1SRUpKOGlnMVZCTFp5MXVpaW9nc3RybkdXdk9VN0NzU0tlTTJNVFJXTHdldF9ZYw?oc=5",
+   "metrics": {},
+   "keyword": "Creatine",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "extra": {
+    "publisher": "https://balancejournal.co/"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Why Is Creatine Important For Every Women | Grazia India",
+   "rank": 10,
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSkJOSU1tX1pRTVlEbTRyNzFkdlhYSXJKa25Rc3d2S2dGa2xEU245cGl3UzdRWjktZ0VaWURaYTZ5aWpObWpjUUV5TW1Ua3IzakRlWFNZYXFCTEZUaVV0eG5YaC1nSVpkcnRUTUlFeUtuMVRVTHhJdjgzSzZfYWdxeFJ1SjY2NENwUURJSmMxcFVkMFl0WXhkR2JaeGk4d9IBnAFBVV95cUxOOUpUNWZPNnZfaHpPOUxsUUI1enZ3UGkwLTVMSjRndVhHdmNGb3M3bDJZRWw5WjRoT1JBOWg1bFRJdzRPQ1RDcHV5RVRQUDJ5S3VDYlFvcTJPazh4SmNFZGlCQk5fTnVnb01pd2FNd0JLek4xRHphZFlqZjNFZkVjM2ROaE1lcG10ZUk0Q2kzbnBCU2NoUnVmN3R4R0E?oc=5",
+   "metrics": {},
+   "keyword": "Creatine",
+   "published_at": "2026-11-16T06:33:28+00:00",
+   "extra": {
+    "publisher": "Grazia India"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Solaray UNLIMIT Brings Creatine, NMN and Glutathione Into Focus",
+   "rank": 11,
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQzVGa2J1QUt1ZFpob1NrS0FmREZMS3p1aTBvbENIeFotSUJIelVLRnJIcld2SFI3ajlvbFFaMGZsUVl4VUtadFROU3hjTF9VNGhWN1pMa1gxODV6aGptbm1ucF9kekU1SzR2SUhIR2hRVWpBTjl6cWVBMm9YX2VVWG5WdlpMR1NxQ3JIazl2Q1V2NGtPaGhHQ1Q3ZXVkdlM1SEE?oc=5",
+   "metrics": {},
+   "keyword": "Creatine",
+   "published_at": "2026-11-15T14:00:00+00:00",
+   "extra": {
+    "publisher": "Men's Fitness"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "High creatine? Eat These 10 Foods!",
+   "rank": 12,
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBmSDhEUlVkcnVBanRqSHQyOWtqby12aWhBbjlXUmN0azdoVUxQZzNpWVU2THNXRDhOMFp4NnJtem5VQQ?oc=5",
+   "metrics": {},
+   "keyword": "Creatine",
+   "published_at": "2026-11-15T07:42:13+00:00",
+   "extra": {
+    "publisher": "YouTube"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Creset Creatine Water keeps 5g of creatine in the cap",
+   "rank": 13,
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03NENxTWdMcEplc0JvUDNXeGdHOHlLczdMZHFfb25YbEdQSGNsbThlSHNIS2gyU05ieDkwcmxXMEVaMUszZkJESHlfMkk4WFQyYnhncnhhMHd0RGxaWG1STHBSWFI?oc=5",
+   "metrics": {},
+   "keyword": "Creatine",
+   "published_at": "2026-11-15T21:47:35+00:00",
+   "extra": {
+    "publisher": "Stack3d"
+   }
+  }
+ ]
+}

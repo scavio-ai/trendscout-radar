@@ -1,73 +1,75 @@
-# Trend radar - 2026-11-16 08:02 UTC
+# Trend radar - 2026-11-16 20:32 UTC
 
-Compared with the run at 2026-11-15 23:24 UTC. 20 new entries.
+Compared with the run at 2026-11-16 08:02 UTC. 20 new entries.
 
-## AI agents (64 new, 123 matching)
+## AI agents (2 new, 23 matching)
 
-- [Agentic AI Designs an Analog Synthesizer](https://cpldcpu.github.io/2026/11/14/touchsynth/) **NEW** - Hacker News, 14 points, 6 h ago
-- [OpenTelemetry and AI Agents' Observability](https://signoz.io/blog/opentelemetry-ai-agent-observability/) **NEW** - Hacker News, 8 points, just now
-- [Show HN: Attest – Test what AI agents do, not just what they say](https://attest-framework.github.io/) **NEW** - Hacker News, 7 points, 13 h ago
-- [Amazon MadPot: Honeypot for AI Agents](https://aws.amazon.com/blogs/security/amazon-threat-intelligence-observes-threat-actors-running-cybercrime-campaigns-with-artex-ai-agents/) **NEW** - Hacker News, 5 points, 7 h ago
-- [Show HN: Pizza – An event-driven AI agent, no while true](https://pizza.hertzbeat.com/) **NEW** - Hacker News, 5 points, 15 h ago
-- [91% of Organizations Lack Visibility Into AI Identities. Do You?](https://news.google.com/rss/articles/CBMisAFBVV95cUxNcmQ1NE9KaC0xS1JRY3FuX1ZTTmRSNlp4V2Y1ZVZkMWVReE05TFZhemFWNzh1T1FILVhIUDhJcnJzanEtVVFZQnlhQXBISWZkR1hkRVZ5X0xPd1hjMFZlRjNLM2hETVFzS28zTE5vWVYzWVJiMkhOckF6ZU5nd0xIQlZCMkpOR0NaUVNndWxnZ1Zfb0FSdFFWS2JMTnVBT2ZCcm9mbWh0RW9wZlEtek03Ug?oc=5) **NEW** - News, BankInfoSecurity, just now
-- [Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys](https://news.google.com/rss/articles/CBMifEFVX3lxTFBOYlpIS0J3MVBzZnhFbjZtTmx1TlBnRE9BOGpwelVBSUJDQi1YU3ZTclJFUGgxV1FpcDdQQXlRTl9Tald1LVRZeVpkb282ZHBSX0tXemdCWlkzbkxWc1lZczlJTGxhTXFHclVJOHpEbG9hNUdILVYzU1NHeU4?oc=5) **NEW** - News, The Hacker News, just now
-- [Mckinsey report banks that move fast on AI agents could see nearly 3x returns within three years](https://news.google.com/rss/articles/CBMicEFVX3lxTE9MbUlGeDZIMDFuT2lEdWVzWVo2Yjk3Y0M0NTdQVnNmOWxWaWYtWU5YV3NQU3o3RlA0UXU3Q2FiZjNwektWVVRqT21rRGhvbTZlNzA1Rkg5RzhkeXJXcXdCRXJLWlUyOE9lVDlqcmNSUUM?oc=5) **NEW** - News, Wocult, just now
-- [Nvidia, SMRT and Rajah & Tann keep humans checking AI](https://news.google.com/rss/articles/CBMinAFBVV95cUxNM0g2dlo3SjllTWc2eEdNZ0lUWHREMzg0T3MtZGlRMGFuT05xc0tqaWRsbFFZYVptR1lXUU54Q3kwMWY0WGNVQ3ZwVDQxQ0FObFJpZzdyclh5aDhzdW9JWmhxRGo3QTlza3Brc2owdzhkOFI3Tzdqcm1xN1JldEtoUThRUkRpeHRHOV8xNnI1ZDA5d3A1QndSWHdPSWc?oc=5) **NEW** - News, Computer Weekly, just now
-- [ACE Robotics' ACE-CaP-0 Has AI Agents Write Reusable Robot Code, Reporting 92.1% Success](https://news.google.com/rss/articles/CBMiigFBVV95cUxOUHI5LVRmUDBvRDJaSzVxUllnd2daT1J6TmU0ZE9NdTZncnc0enBfcmNjalFPUGRpdVg2cXJ1dlNydWM5RjJrWmg0ZVg0WGlrY0NSbWxuMlI5dk9YYXg0TTBadXRONzVpc3JNOGVFUWJEM0Q4Sk92ckZrYWxfME5aVjI3U3VVR200b3c?oc=5) **NEW** - News, Pandaily, 1 h ago
+- [Google: AI agent turned a security patch into a exploit with no human help](https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926) **NEW** - Hacker News, 10 points, 6 h ago
+- [AI agents attempted exploits on Epoch AI's website during an alignment eval](https://epoch.ai/publications/incident-report-ai-agents-attempted-exploits-on-our-website) **NEW** - Hacker News, 7 points, 8 h ago
+- [My AI agents found an unmapped Maya site?](https://pietromiotti.com/latest/maya-site) - Hacker News, 1K points, 5 days ago
+- [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/) - Hacker News, 681 points, 4 days ago
+- [Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS](https://github.com/db-branch/db-branch) - Hacker News, 45 points, 1 day ago
+- [AI agents have a big problem: Nobody wants to let them in](https://www.pcworld.com/article/3283946/ai-agents-have-a-big-problem-nobody-wants-to-let-them-in.html) - Hacker News, 16 points, 3 days ago
+- [Agentic AI Designs an Analog Synthesizer](https://cpldcpu.github.io/2026/11/14/touchsynth/) - Hacker News, 15 points, 19 h ago
+- [My AI Agents Found an Unmapped Maya Site in Mexico](https://pietromiotti.com/latest/maya-site/) - Hacker News, 11 points, 5 days ago
+- [Show HN: Shotoku – Local-first action governance and budget caps for AI agents](https://www.shotoku.dev/) - Hacker News, 11 points, 2 days ago
+- [What Picasso taught me about building AI Agents](https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/) - Hacker News, 10 points, 1 day ago
 
-## Skincare (29 new, 80 matching)
+## Skincare (72 new, 98 matching)
 
-- [Best Black Friday Charlotte Tilbury deals under £50 as chosen by a beauty expert](https://news.google.com/rss/articles/CBMinAFBVV95cUxQX0dILVdBSVRQN29kWXE2NjBQX1ZiYllDSFhoQm5abzNKQ2V3cjhCZGxpMjhYMjlCZzVJdjh2R0pZOUNTRHEtSnJ5TktTOEhjeC04dUwwT1FqclIwNHoxRHpmanZkVDdkbWl4R1NVSGt1elB1SnhaMzVwUV80b2hPbEoyT0JmUW16cHJoMEJTMVJXOWU0UFJOUEtmS04?oc=5) **NEW** - News, The Sentinel, just now
-- [After Making This Simple Swap to My Moisturiser, My Skin Has Never Looked Better](https://news.google.com/rss/articles/CBMifEFVX3lxTE5Ya2kya1E2bTRHbEhFUlRIM2JIRXFzZzVLelgtT3ZOUFhHX3AtcUg1ei00RTRHRnp0V2x2QkJEMFlVc18yMHFWQ1BDbU94bUFHQ1BFY1NUdWt4UjFTRDJSVGxhR25ZSm1oT3BDY3RPV1dBYzNhUVhheFRacUg?oc=5) **NEW** - News, Who What Wear, just now
-- [The best body scrubs for winter](https://news.google.com/rss/articles/CBMigwFBVV95cUxPa2FuVXJ3MEJpeElMMHlLblNENmczaF9iSnMwbmN6ZUhvWnBtdkw2dUFPWjVWeEtaVW5hSGNHMklUWGE2bFJ0SGcwQjhmN0FjOW43Tk4xQlFIOXI5Zzl6czRKQklROEVVSHV3TnVtQlJ2eUlWOWFVYjY4YnpCSl9UOFE3bw?oc=5) **NEW** - News, Stylist, 1 h ago
-- [This Dermatologist-loved Peptide Serum Lightens Dark Spots and Erases Wrinkles—Snag It for $12 on Amazon](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZHpxQ2lHak5acmVpU3hlaUV5ekRxT2lzRVpZZXhTT0ZnOW1OSEFIX3ZGV3pwbDB3TnF6bzdoZnpwdUVKd1p0b2xpRWdaTmhWOTE3cEVvSExtX3JxTFVqczdvd1Nma1B2aVk2bVFWT2R6N3lWalhSby1ZYm5PVEp2Q2NYSk5vSlplc3U0?oc=5) **NEW** - News, Travel + Leisure, 1 h ago
-- [Jula’s Herb champions T-Beauty with campaign highlighting the realities of staying beautiful via Wolf BKK](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZDVnUnNlakp0ckU4QUFjT3JNY2JRMXBUbDlnMlYzT0hpejBzMGlBQ0EwU1dXY0N2NGlaY3pUYmxYZVJyemVmWi1GVjZFbzROT3EwWC1QVmR6R1pldGNPVjg0Ni1oSGR1dHFMNFRtOTJObG82bzVtdzdTeERsdHRYQVY4YXI2elVBM3dHMlQ4aHFPTFVEbWJtOW80Q2NsMHNMTzkyeF9aOF9BWEE0U1BpSHZheWVmQ3VPRzRwUUhSUGxISE9qVHNkNEhZdWw?oc=5) **NEW** - News, marketech apac, 1 h ago
-- [Vaseline enters therapeutic facial skincare market](https://news.google.com/rss/articles/CBMilAFBVV95cUxOcDlweWJ3aHZFLUxvVnA0X01oNmVqVFhoYVAtWm1LZkE5YkJsdjU3a3ZEd0oxemVoNEM1ZzRpOGxfNHN5cXRvZ2pQSkk1RU0wY3lHZF9hRkVTZ1FuUHEwOTJjdG10ajNBWU1hX0tDWGVNbVk0MDBuSnlvS1VoRXpLV2RZdUlRVEJ1NlhOSzFqbHhoMTdf?oc=5) **NEW** - News, marketingreport.one, 1 h ago
-- [A 71-Year-Old Shopper Says This Wrinkle-Smoothing Serum Leaves “Crepey Skin” Feeling “Soft and Moisturized”](https://news.google.com/rss/articles/CBMif0FVX3lxTE5CMGRlZGY2UjJYZEpwVE9qc0VCdkF4aE1sNmxDRGZSa3Exc2hWTXhmZVA4NFJGQ0R5a1U1d1YtNUNzdTNIOTZTOGRQZzFCVC1ZMmhoQ3lhUTlFX3FsekwtN2swQkhXYi1fcVNpQVN0UDRZVjlqZ19SWndGT0ZWRUU?oc=5) **NEW** - News, InStyle, 1 h ago
-- [8 Face Masks Hailey Bieber Should Try Next](https://news.google.com/rss/articles/CBMickFVX3lxTFBfbllvN0NIOVBfdE5IN09hQTVYS1F3eHQ1YmI1V0g1dWVjR2VzOHFsNVp4Z19vT1laNnllOEVkSEd5Q3VNeDNhTjRMZnhXRHNQQXJiNl9nS080aWF0cHJ3dkdONTFGWXVYc1hqMG5GMk9tdw?oc=5) **NEW** - News, ELLE Australia, 1 h ago
-- [Estéfano Isaías Publishes New Analysis on Skin Longevity and Individualized Aesthetic Care](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNLUZKbF8xRTJVSUFVZVNHVmNUdC0yTlZ2ZHh1Z1NHVW42MmhidWYzU1NNVUFHWGVXb3pKUnhaUDNLYThjTzY2QUFza21iblhodkNLWFd5el84NFAtXzd1NENfY01ndWJOSk42d3JRSVpzS1lsbENVSy1sb3QyeEFXUXB1NzctWDB2dGktcy1CZlNzbkNoYmdTeGIxazV4NGpnblhETllfZzFOTG5MRzVJaV9iT3l6UFkxU0tqUUZyWldRdm4tQ0RrYXFkWlIzbTFqR0dlVmdHQVhQMWtyVUZJbGctaWYwckNLYXZxeU93Z2Nzd0xpUnfSAfsBQVVfeXFMTmJZQlY2eFphTzNUdVdrUEFESGlSb3RDbWlSN0dFNldIaU03WUotS0FLT2c4UWlNZnEydzhEOF9DQXFEcU03R0VRSUZlVXR1T2czZ0xJR2xsbC1TaEVONURXbkprNlJVcTA3WkRQUWZfWEJSTmZhUjBmLXFoaFpTdTRzeXJLeElqNVU1X3psZEdzRk5ZejlQSXhGcWQ4ZnhEejNhcmFBQ05XOW5kanc2ZDh4ek5ZUmZ0elRVVVVkQzhiYWZBbkVPUFVRaXV1bEs5Z2gxRHMtTENyQ1dDb29QVGlPMHVOUG45OEJ0aWVjVHZ6MS1kS1VSbnBPYWM?oc=5) **NEW** - News, The Manila Times, 1 h ago
-- [Skincare Tips for Different Seasons: How to Keep Your Skin Healthy All Year Round](https://news.google.com/rss/articles/CBMizgFBVV95cUxNeUI0RlI1UUpoRGUyb0tkQjNKSkZfaVhCOXpIeWZ1YVZOTUhyS2x1UjRTaENlVkFJckkzTG9YRUtuajRQS2hPdmlaVFdDQVR5MXo3ZDJhSE54YXdhZW9DeG1kSmh2YUdWQVEydnEtQmM5QWxUY2VzUlZodTZxdEE5RV9ybUZLTm9tZlM5U055ODhxeWpjblhXTWtNanJxQkJpSVVPRFY3SFpwQW5TeThKRHI2R2dVdUVMS01ieDI2SXkwZFhFeTVpNmVEOWtSZw?oc=5) **NEW** - News, Investment Guru India, 1 h ago
+- [Men’s Grooming Brand of the Year – Darrell Spencer’s Crowned Skin](https://news.google.com/rss/articles/CBMingFBVV95cUxPZ1lPdE5VWXJwa2NWM2FlRGwyaFotS0dYZmg1SFpCQXBmZFM4ekFIUTl2UG5BX25OMk44bWVTNVo1ZmNpMEQ3LVVQek1Hd2RoT1JTd19vUXd0S0Q0b3c5SjktMUc2VzVpcXhTc29QNHNoT2RxSEh5YktGenZEM0dFakVKLUttellQeG5LZlItNDVyd191b3NndXhGWVBHQQ?oc=5) **NEW** - News, hellobeautiful.com, just now
+- [Skincare tips for the winter season from biochemist | Great Day SA](https://news.google.com/rss/articles/CBMimgJBVV95cUxQS3VGVk0xSWRnQ3JuQ2QtcHhJbHp4ZTliTWR1TmlOR1A2NnNkWTlDNmpZcWJQS3ZWS01MenpUNUdEa01TVGdqY0RCNzBTUEd5c0lKWk1aeGJlWFlUX2JHcGR4UXNENk9qQ016bXhXMGViQ2VDOTh5OHhqSnE2YTZVOHV2dENKXy1pQWx6YzF6OEczV2ZuR3dTUUxZa1NqaWpJQmJ1WEtrUEpjclhiODNtUmEtX0NIWGV5ZTVpMTkzN0NHVmJMTEJfeFFvQlpWTG9QS1ZkTlVna1VJYUNUTkhNdE5lbVNpQjAtbjlXUldLcUI2VVh6T1Z6TWZPdzA0VHVmT0NYSjdOTTFGdnhJRTBJVFI1X2NIaWtkVVE?oc=5) **NEW** - News, kens5.com, just now
+- [The 10 best hydrating, soothing serums to lock in moisture and boost collagen for winter](https://news.google.com/rss/articles/CBMikgFBVV95cUxOeExleW92cHdkTFdfV0duXzNKemNOZFRlTGY5RXMyai1wb1NmcjY4X0FzSzBkQ3lPOThjRWZoX1J4QnMxMWp5Ml9LVUxTd2lxWTJDMHNKeEJJNVQzTGpGcUR2TkFpRmQ3QlNjMk9JazF2Z05LRldTeTNLWWhIQm82aWFLbmwwRDBNcElTNjZDVWp4dw?oc=5) **NEW** - News, Harper's BAZAAR, just now
+- [A Fresh Take on Skincare – That You Can Sip](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQWo1ZElVSWlNTWQ4R2FidjMzTEpseFhMRHNGTlJGQWd5QzRvR1VRZFNIdzdCWVRxMjVFSXN5cnRvZXFHUDk3U2JCX09yLVZ5VFM1NDMxTVlYeUdUUDRkQXBxYVdEY2pIdGoxXzVTdFJhcDNoS3lPRmxPbFFCRkJqR3BGV3IyUjFDMnBrbXk2ZmdMRkloOFgwTkY4dUpUbGlLMXF4Z1hKXzBhVlNJZERtVG1qaw?oc=5) **NEW** - News, Arizona Foothills Magazine, just now
+- [A job that changed me: Washing hands at a luxury skincare brand, I learned how fascism could feel ‘aesthetic’](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQk5xdnlYanpaSHIyREZ5cEFmZUloaVk3RXpDWm1KZVZueXdCdFVsQzJiNEVrNXg1Q291NXdvZktYaGxEVmdPVTdPejhBZVlPUF9kNWZqVkxFcGl2LUJvQnI4WGxBT0hpTFN5STZONUZwYkRtakpTVWtkT0tKQlI0alg0eFUyYU4yMWY1OWxGVzk4dVNzV2VjSDJtOGRBSU1KSjQ0U2dtc2VtTVNUX09Fb0pqOVVUQlMzaE1QT2lfVERmeEpXZHNmSTNLRjFucU5jTXE4aktMckhaMDlLSXdkWmx5Z3EzX1FDbXJlb21mRQ?oc=5) **NEW** - News, The Guardian, just now
+- [The Kiehl’s Holiday Gift Guide: Something for Everyone on Your List (Including You)](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBENUlsR1F5OFlyQTdxaTg1d1JraTd3bnktcGpFTTNlbzcyYXBRcTNVWG9TMDU1dDFmUUs4SWhUWlN2clpoX09QWkVrMXhCSldUa1E?oc=5) **NEW** - News, The Mom Edit, just now
+- [Beauty gets an about face with emerging options for skincare and wellness](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNE53d0pxdUtRNkdLRmlPUEowVzRvc0pLN3RJeVFOVVBmdHI1ZEQzZDltVGNoV3dKaFhONWtoT0oybDdGeDRnMWRxTlVGVVJxNUJYUWVyRXBidXF0N0xzbEVWdGZRVFkxVHdLM2RGcjVfeWk2VXZ4Q2F5WHMzY2RZVUZmT1lZMTNvWWpN0gGQAUFVX3lxTE9YT3JiOFZNT24wWVhLaHJQRUlUcTB6d2VoQ0tKNFZWR2V2akdaeDlzMnRIQzlHWU5VU3FYQmJyMVBkM0hIWkRNMi00a0ZNZzJPemNpNGh4dWRfZmdXTEVYMXA4eGtNaXEzZ2JHeGZ0bURlUERqWGdVMkVFdDdWN0lJS05CV1lVbk1zMUttSVhrLQ?oc=5) **NEW** - News, 6abc Philadelphia, 1 h ago
+- [Melanin Beauty Awards: The Best Skincare Products](https://news.google.com/rss/articles/CBMinAFBVV95cUxPa3o4QmI5elZIS0xHb0RVQVdRczBZcnBmWVNnN3FMbFFlUVJZay1IODlsZW9oNkFCRmRVLTk1Z2YzUkpoRllnM2h2aVh3Wk5ER2FaeHhaZmhSc1dWZHY2QXRvSmlKdEgyV1BTZXRTRTFnQ21lYmtwOC1telFSdXhXTWtoX09OcUQ5a085dTF0dGlPZ25uRmZWNjRLbFc?oc=5) **NEW** - News, HelloBeautiful, 1 h ago
+- [CVS | 11/16/26](https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xaG1Sc1h1TVBkTHJ0SkpBSFNPM2NRejZjQ05VUEI4WTJPWld6THhON1ZCNHc4MXJabnp5b3JWS21aeE04dTdxUklaQ1lLRE5JeWRfcVBRTUh0QQ?oc=5) **NEW** - News, KTNV Las Vegas, 2 h ago
+- [Why Filler Results Depend on Good Skin Care](https://news.google.com/rss/articles/CBMiekFVX3lxTE1XRWEwMFdkTzU2eVZiR1ZoS3NGM2lDQ2Jhc1EtSThpcVRLVjdSV0s0TFpidnVWamU4NGwwSXFJbjllR2ZEOEMtZVNHNTJSbENPSmxJWGF6ZWt3WXBkcFlNTmpBR0JGSWRlUVU0azJyVHN2dTAwZDFlX1p3?oc=5) **NEW** - News, NewBeauty, 2 h ago
 
-## Creatine (11 new, 35 matching)
+## Creatine (6 new, 14 matching)
 
-- [Linux was created as a rejection of robust software architecture and tools](https://twitter.com/GrapheneOS/status/2122079826257588569) **NEW** - Hacker News, 39 points, 4 h ago
-- [Why Is Creatine Important For Every Women | Grazia India](https://news.google.com/rss/articles/CBMingFBVV95cUxNSkJOSU1tX1pRTVlEbTRyNzFkdlhYSXJKa25Rc3d2S2dGa2xEU245cGl3UzdRWjktZ0VaWURaYTZ5aWpObWpjUUV5TW1Ua3IzakRlWFNZYXFCTEZUaVV0eG5YaC1nSVpkcnRUTUlFeUtuMVRVTHhJdjgzSzZfYWdxeFJ1SjY2NENwUURJSmMxcFVkMFl0WXhkR2JaeGk4d9IBnAFBVV95cUxOOUpUNWZPNnZfaHpPOUxsUUI1enZ3UGkwLTVMSjRndVhHdmNGb3M3bDJZRWw5WjRoT1JBOWg1bFRJdzRPQ1RDcHV5RVRQUDJ5S3VDYlFvcTJPazh4SmNFZGlCQk5fTnVnb01pd2FNd0JLek4xRHphZFlqZjNFZkVjM2ROaE1lcG10ZUk0Q2kzbnBCU2NoUnVmN3R4R0E?oc=5) **NEW** - News, Grazia India, 1 h ago
-- [Uric Acid-to-Creatinine Ratio Linked to Mortality Risk in Heart Disease Patients](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTUdEOU9heXBOWjlPQ0Q2RGpvajMzLWNrMWYtU1dQMldtblFjU2NmcW9DUEo2TmRNMTFoV0o4ejVXR0pFbDhRVnBvamZlbXVkTDlUMkdYb3U4Mzl4MXZjbHNYX0hPcFZybUZBZEFNTFBVdHN1dENzQlJfUmp0YXlJUU1KRW9vY2RVTzJ4V093WU1oTi03YWhnNGc5LXNsTW1VeWs3SnFYT08?oc=5) **NEW** - News, Bioengineer.org, 4 h ago
-- [Elevated Urine Albumin-to-Creatinine Ratio Linked to Incident Depression and Anxiety](https://news.google.com/rss/articles/CBMirgFBVV95cUxOVlNVSDlBNnFlRkZnRVdBZGkzTVM4V2dVX1hUZ1RxcEVHOFFIdlhyMlVoT0ZXZGpJbFhQZW1vRDJBVWw4YlBuZkZYOHFmZ1RLdWxSVjBpQ1VJdjk4Rkt4X2VBSmFyZkNhOF9HUjlxYnRyd3A0OTRuZGt1NTdDQ1NCWEhXNmVVU2FOU1g5MGYzNTFRYndwM1NUaGI3ZGN2NjVobVRjLWlFd3VWTGlRZHc?oc=5) **NEW** - News, Bioengineer.org, 5 h ago
-- [Ethan Page Recalls Unusual Advice He Got From The Rock](https://news.google.com/rss/articles/CBMijwFBVV95cUxOazRMV3FVdWp5MnNneHNXUE1nbFBYYVRJX3NfMGR3Z0lOR3FCMk9rYWJqbmZyNzlCaWJaOVBMR1VlamFiTzhPY0p4LU9Ma2pSbHhhS2lOQXJGX3JIMUZQRElyekNRQldfeFFtb0hMeVVBcml2cXRhWEd0ZThHczhyUHUwRmJVa1huWXJ3eVVXQQ?oc=5) **NEW** - News, Slam Wrestling, 6 h ago
-- [Randomized Trial Finds Altered Mycotoxin Exposure Between Vegan and Meat Diets](https://news.google.com/rss/articles/CBMipgFBVV95cUxQTENpMERCUUZhOF84c2hnejJQdmZrcFRRV1dNODRYZGpWMXAwTnVXZHFUUVcxRXpEd0wtZURVeVBQWXZzbWE0MjJGZUJ1Qnktb2RaczQ4RnlhVnQybERzOENBRG5uOGpQZWlRdGdHd19VZkVOVVVRdTJhdHBUOVdJLVlTYjdWWHJDX3lCQnJGaDY2Zk9KYWVSRkRHWDBGTkNhMms4c0lB?oc=5) **NEW** - News, Bioengineer.org, 6 h ago
-- [Parkinson’s Disease and Kidney Function Share Discrete Genetic Loci Across European Cohorts](https://news.google.com/rss/articles/CBMitgFBVV95cUxPSVhzQThxbkZOQUs2ZE9iWnNicmh6b24xbWFzYk5fckpzR1dUTFJDMHc1R005Y3UwRFNtbTBFazhKWlhIckJlM3hfaFRpOWxvYlg0bWNyRUhBTzQtbzBGWGxVcEdEU05jUlJJNG05S0l1SUtCZWttZ3NPakxZTWJOUXM3RjBzdnltaDZuc09peDVJVjhoald5eEtVMlVtOHFIcnNETXdtUzMzYmc4MndVZ1pkQ01SUQ?oc=5) **NEW** - News, Bioengineer.org, 7 h ago
-- [Creatine for Brain Health: What the Evidence Shows](https://news.google.com/rss/articles/CBMiY0FVX3lxTE12SFlsSUZISUpiXzIzZVlFZzlLNEJCQkR1bmlNZ0JIUFVqVVdqbXJMdWZvZC1SRUpKOGlnMVZCTFp5MXVpaW9nc3RybkdXdk9VN0NzU0tlTTJNVFJXTHdldF9ZYw?oc=5) **NEW** - News, balancejournal.co, 8 h ago
-- [‘I’m a 50-year-old PT – building a strong body doesn’t need to be more complicated than these 6 at-home moves’](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZzJna24xTUJsazVaVk12TDV2T2NvVjQ5R2l3MmpodlY3LUFUVVB0U3hMbVc4cFN3c2pwQ0hZTnl5ZXBkMDk0RFd4YTAxdW02cEtPalJTeFBSOHUybkhncVRKUmNhb3lmX0hCU2dWOUdEeHplWUxPdFVJQWFPa2xycDFBWUdmSzZPWHExNzlBQzFyanNmN01SQnVzMF9TMlhSbWhxODJ1YTBNMXRnQm80?oc=5) **NEW** - News, Women's Health, 18 h ago
-- [Stronger Muscles May Help Protect Against This Serious Health Risk](https://news.google.com/rss/articles/CBMimAFBVV95cUxNNTFBSGowNUVRR0ZSZ3ExdXJlM0JYS3ZhNHA1TzNWUGFXYVYwMUd6OHJOdFk4bTEtUVU5WENCY3ctbVVJb0ZyQlhHOERrcXJNbldCaERIVGN3ZFJzRWt5YUpsRWtiRUNfRmZTak95Y0dDbW04OHI3RE0ybk1PNEpmWS1TWVFMWVMxclBGVjFyRFBSVzhFRXZGRw?oc=5) **NEW** - News, MindBodyGreen, 18 h ago
+- [Beyond Raw Lit Non-Stim with 5g of creatine and CarnoSyn 4X](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JWXlaNWE0QVlPcUNOOUtBMG5oVTB5c3JIZ2RGd00zdlNkcFBCU1Y1allWSlllRDNKUTlkU3M3OWEySzFCVnJlbWxlX0JkLVQ4czJucG5UM2dMaTRtaG9zUXhpUVBNWWs?oc=5) **NEW** - News, Stack3d, 3 h ago
+- [Creatine for women: What to know before you start](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNanhENXFDNVNWVXQ1LW1CcGRnTFJxOTNwUGtZQjFTU19VbE9SNllFYUljUUZKdUl2aUg5S1NZdVhlRWc1WS1jTnNzMnBMU1R0Z2xkZ1FUSnJfU3dzT3dPeGZfQm5yYU5PQXhCV2U4QVg4ajh5SS1EQWRZcXVkcDZYaWdGMHdsZjBvSlZ6LUxUZktQd3ZXYUZTbGc2NzdTODF2c01ETkNWVG5TX2FXV0c2YXREU1l2RkMwT18zOVQ2S2NZRHVkOGZmTjlyUUh5TTJzRkE?oc=5) **NEW** - News, cbs19news.com, 6 h ago
+- [Why are so many young women getting obsessed with creatine?](https://news.google.com/rss/articles/CBMiywFBVV95cUxQNFBKWjMteE1RTVB0ZnUzWndSWkdjeWdIMGd1MkUyRDVGd3pzdmZnRjdSNmpQYmhtX2F6V1lPa2VWaU5hMWh6ajBhTHA4VFRJb0NYY2RLREYxUjJjZ1UwdUZiUVpwZ0FZSkxjLWFETS1ReUxiMUI3em04b09uQ201Qzh2cEIyWXM0RElZU1RBeXhnSHM5Vk9sekwxR01zdVZQQ2xMVGRlU1VIb3BMaGZ6V0Q5T0RIUXh6UHpVUnRLbDEtaVlsTDF4YkRGbw?oc=5) **NEW** - News, Dazed, 7 h ago
+- [Inside The Creatine Boom—How Brands Are Developing Products For Women](https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUdOQTBiXzRrVVRyQ0ZMUHpnb01fcXg3TVBMdWcyYThpZXp0aTdLYlpSSFRrcDd0MWJyai1Ldkk5SmpMVFlFSzJBbjlWVU1EcGtGMm5YNk1kZFNKX1Z4S3lPUFM0RnJOSTE1Q1NrcXQyeGRPaVhydmNMZUYtaHV0My1yeTQ1UlJjR3J5V3h1eHMzTzItRmlxdWtmWGhCbExXaFBhLTR2WGxIOG5YZ1V1eVV6dFBrWlFEQjdBMHFlOA?oc=5) **NEW** - News, Forbes, 8 h ago
+- [Taking creatine after 40? The medications you need to be careful mixing it with](https://news.google.com/rss/articles/CBMihAFBVV95cUxQX1EyOFdXUVVDRW85akpsU29vVEw3eno2ZGhJTzhwa001X1RsYl9jb3Y4UVAtMS03eG1FckpVYWJlYWxWS2Flcm5JSG9ScmphMkYwTkJyRVZRZ0pKU0dVbldlajNoVTFvMVZfSWg3SGhITFQ1NDRsbl9SMGEtRFcwZ3JVMnE?oc=5) **NEW** - News, mensfitness.co.uk, 12 h ago
+- [High creatine? Eat These 10 Foods!](https://news.google.com/rss/articles/CBMiQkFVX3lxTFBmSDhEUlVkcnVBanRqSHQyOWtqby12aWhBbjlXUmN0azdoVUxQZzNpWVU2THNXRDhOMFp4NnJtem5VQQ?oc=5) **NEW** - News, YouTube, 1 day ago
+- [A quest to create the perfect whiskey glass](https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html) - Hacker News, 93 points, 3 days ago
+- [How to Create Your Own Decentralized Messenger Protocol](https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol) - Hacker News, 89 points, 2 days ago
+- [Creating a self booting ZIP archive](https://goliath32.com/blog/ziphead.html) - Hacker News, 73 points, 2 days ago
+- [Linux was created as a rejection of robust software architecture and tools](https://twitter.com/GrapheneOS/status/2122079826257588569) - Hacker News, 49 points, 16 h ago
 
 ## Google Trends
 
-1. [sharad kapoor](https://trends.google.com/trends/explore?q=sharad+kapoor) **NEW** - 200 searches
-2. [colin farrell](https://trends.google.com/trends/explore?q=colin+farrell) **NEW** - 100 searches
-3. [gta vi game](https://trends.google.com/trends/explore?q=gta+vi+game) **NEW** - 500 searches
-4. [karely ruiz](https://trends.google.com/trends/explore?q=karely+ruiz) **NEW** - 200 searches
-5. [fitness](https://trends.google.com/trends/explore?q=fitness) **NEW** - 1K searches
-6. [alex bolt](https://trends.google.com/trends/explore?q=alex+bolt) **NEW** - 200 searches
-7. [bill fennelly](https://trends.google.com/trends/explore?q=bill+fennelly) **NEW** - 100 searches
-8. [black friday sales](https://trends.google.com/trends/explore?q=black+friday+sales) **NEW** - 200 searches
-9. [future](https://trends.google.com/trends/explore?q=future) **NEW** - 200 searches
-10. [apec](https://trends.google.com/trends/explore?q=apec) **NEW** - 200 searches
+1. [daniil medvedev](https://trends.google.com/trends/explore?q=daniil+medvedev) **NEW** - 1K searches
+2. [uefa nations league schedule](https://trends.google.com/trends/explore?q=uefa+nations+league+schedule) **NEW** - 500 searches
+3. [brajan gruda](https://trends.google.com/trends/explore?q=brajan+gruda) **NEW** - 500 searches
+4. [aj brown patriots trade analysis](https://trends.google.com/trends/explore?q=aj+brown+patriots+trade+analysis) **NEW** - 500 searches
+5. [cuba vs grenada](https://trends.google.com/trends/explore?q=cuba+vs+grenada) **NEW** - 500 searches
+6. [bank cyber attack](https://trends.google.com/trends/explore?q=bank+cyber+attack) **NEW** - 500 searches
+7. [north macedonia vs slovenia](https://trends.google.com/trends/explore?q=north+macedonia+vs+slovenia) **NEW** - 500 searches
+8. [guyana vs puerto rico](https://trends.google.com/trends/explore?q=guyana+vs+puerto+rico) **NEW** - 10K searches
+9. [noaa geomagnetic storm aurora forecast](https://trends.google.com/trends/explore?q=noaa+geomagnetic+storm+aurora+forecast) **NEW** - 500 searches
+10. [ap top 25 football](https://trends.google.com/trends/explore?q=ap+top+25+football) **NEW** - 2K searches
 
 ## Hacker News
 
-1. [How to make almost anything](https://pub.cba.mit.edu/863.26/site/) **NEW** - 154 points | 26 comments
-2. [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/) **NEW** - 301 points | 84 comments
-3. [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max) **NEW** - 417 points | 153 comments
-4. [What's Next for Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/) **NEW** - 214 points | 283 comments
-5. [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454) **NEW** - 130 points | 30 comments
-6. [Stop Filming in Log](https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/) **NEW** - 39 points | 24 comments
-7. [Do we still have to denormalize? Have your schema and search it too](https://www.paradedb.com/blog/joins) **NEW** - 65 points | 8 comments
-8. [The Miracle Cure: In 1977, a drug rejected by doctors became a sensation](https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html) **NEW** - 44 points | 32 comments
-9. [Debian Becomes Unresponsive after 6.1.0-55 Kernel Update](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101) **NEW** - 66 points | 12 comments
-10. [Researchers track whole body movement with just a smartwatch](https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch) **NEW** - 3 points | 0 comments
+1. [Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda) **NEW** - 388 points | 275 comments
+2. [Software is breaking down at a systemic level](https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/) **NEW** - 217 points | 121 comments
+3. [Grazing sheep in fields with solar arrays](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains) **NEW** - 132 points | 107 comments
+4. [Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/) **NEW** - 206 points | 46 comments
+5. [Frame – 31.5" color ePaper display](https://trmnl.com/blog/introducing-frame) **NEW** - 150 points | 83 comments
+6. [Squircles](https://linebender.org/wiki/curves/squircle/) **NEW** - 22 points | 9 comments
+7. [The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)](https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/) **NEW** - 263 points | 106 comments
+8. [Aristotle Expands into Rust](https://www.harmonic.fun/news/aristotle-rust-verification/) **NEW** - 58 points | 33 comments
+9. [Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself](https://copyrightlately.com/michael-mann-heat-copyright-termination/) **NEW** - 45 points | 16 comments
+10. [Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force](https://www.axonnic.com/) **NEW** - 2 points | 0 comments
 
 ---
 
+Sources that failed: news_keyword:AI agents (HTTPStatusError: Client error '429 Too Many Requests' for url 'https://news.google.com/rss/search?q=AI+agents+when%3A2d&hl=en-US&gl=US&ceid=US:en'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429).
 Full report: https://scavio-ai.github.io/trendscout-radar/
 Made with [TrendScout](https://github.com/scavio-ai/trendscout-radar) v0.1.0.

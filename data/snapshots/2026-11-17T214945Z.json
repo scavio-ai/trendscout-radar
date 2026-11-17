@@ -1,0 +1,4001 @@
+{
+ "taken_at": "2026-11-17T21:49:45+00:00",
+ "credits_used": 0,
+ "credits_remaining": null,
+ "errors": {},
+ "skipped": {},
+ "items": [
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "GPT‑6.2 Astra and Sol",
+   "rank": 1,
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+   "metrics": {
+    "points": 888.0,
+    "comments": 534.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50535230"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "jQuery 4.1.0",
+   "rank": 2,
+   "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+   "metrics": {
+    "points": 156.0,
+    "comments": 66.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50537156"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+   "rank": 3,
+   "url": "https://calif.io/java4shell/",
+   "metrics": {
+    "points": 57.0,
+    "comments": 5.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50538240"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "MAI Code 2 and Code 2 Flash",
+   "rank": 4,
+   "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+   "metrics": {
+    "points": 203.0,
+    "comments": 99.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50535885"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
+   "rank": 5,
+   "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+   "metrics": {
+    "points": 144.0,
+    "comments": 42.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50536813"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+   "rank": 6,
+   "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+   "metrics": {
+    "points": 226.0,
+    "comments": 119.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50534631"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Web Browser Engineering (2021)",
+   "rank": 7,
+   "url": "https://browser.engineering/",
+   "metrics": {
+    "points": 74.0,
+    "comments": 9.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50537290"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Phrack 73 Released",
+   "rank": 8,
+   "url": "https://phrack.org/issues/73/introduction_md",
+   "metrics": {
+    "points": 167.0,
+    "comments": 11.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50535992"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Highly classified US national security communications network goes down",
+   "rank": 9,
+   "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+   "metrics": {
+    "points": 342.0,
+    "comments": 473.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50532849"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Solid 2.0",
+   "rank": 10,
+   "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+   "metrics": {
+    "points": 139.0,
+    "comments": 34.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50536387"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Java4Shell: pre-auth RCE flaw in Java 17 puts servers at risk (CVE-2026-114938)",
+   "rank": 11,
+   "url": "https://www.aikido.dev/blog/java-17-rce-vulnerability-cve-2026-114938",
+   "metrics": {
+    "points": 67.0,
+    "comments": 15.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50532118"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Apple Services Down",
+   "rank": 12,
+   "url": "https://developer.apple.com/system-status/",
+   "metrics": {
+    "points": 529.0,
+    "comments": 287.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50535238"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "What is the best harness for each model?",
+   "rank": 13,
+   "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+   "metrics": {
+    "points": 296.0,
+    "comments": 103.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50532191"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Effects of a Nuclear Detonation in Low Earth Orbit",
+   "rank": 14,
+   "url": "https://arxiv.org/abs/2611.09827",
+   "metrics": {
+    "points": 34.0,
+    "comments": 11.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50537120"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+   "rank": 15,
+   "url": "https://starsling.dev",
+   "metrics": {
+    "points": 31.0,
+    "comments": 15.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50536468"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Who Builds the Machines That Build the Machines?",
+   "rank": 16,
+   "url": "https://read.corematter.com/p/section-232-us-machine-tools",
+   "metrics": {
+    "points": 55.0,
+    "comments": 15.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50535208"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Mouse Party",
+   "rank": 17,
+   "url": "https://aboard.com/lets-have-a-mouse-party/",
+   "metrics": {
+    "points": 29.0,
+    "comments": 5.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50497872"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+   "rank": 18,
+   "url": "https://alloyhtml.com/example.html",
+   "metrics": {
+    "points": 158.0,
+    "comments": 26.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50532385"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+   "rank": 19,
+   "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+   "metrics": {
+    "points": 1082.0,
+    "comments": 535.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50530163"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+   "rank": 20,
+   "url": "https://github.com/RunanywhereAI/trnrt",
+   "metrics": {
+    "points": 34.0,
+    "comments": 5.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50533270"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "How the Claude Code team thinks about verification",
+   "rank": 21,
+   "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+   "metrics": {
+    "points": 231.0,
+    "comments": 179.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50529612"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Purism Launches Librem 5 v2, a RISC-V Phone to Empower People",
+   "rank": 22,
+   "url": "https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/",
+   "metrics": {
+    "points": 81.0,
+    "comments": 67.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50536031"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Not Everything Needs an LLM",
+   "rank": 23,
+   "url": "https://newsletter.posthog.com/p/decision-models",
+   "metrics": {
+    "points": 28.0,
+    "comments": 2.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50535740"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Advancing computer-use agents for healthcare teams",
+   "rank": 24,
+   "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
+   "metrics": {
+    "points": 23.0,
+    "comments": 15.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50535898"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Zoltraak and the Dynamics of Military Innovation",
+   "rank": 25,
+   "url": "https://jgeekstudies.org/2026/11/15/zoltraak-military-innovation-in-frieren/",
+   "metrics": {
+    "points": 9.0,
+    "comments": 1.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50511657"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Fixing a WebKit bug to see if promises are made of train tracks",
+   "rank": 26,
+   "url": "https://alistair.sh/thenables",
+   "metrics": {
+    "points": 18.0,
+    "comments": 1.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50499520"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "First Photos of the Poles of a Rod-Shaped Bacterium",
+   "rank": 27,
+   "url": "https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664",
+   "metrics": {
+    "points": 104.0,
+    "comments": 23.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50518328"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Elephant-Goldfish Model",
+   "rank": 28,
+   "url": "https://egm.dev/",
+   "metrics": {
+    "points": 55.0,
+    "comments": 21.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50515291"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
+   "rank": 29,
+   "url": "https://visualbasic.world/",
+   "metrics": {
+    "points": 200.0,
+    "comments": 77.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50511874"
+   }
+  },
+  {
+   "source": "google_trends_rss",
+   "platform": "google",
+   "title": "jubilación",
+   "rank": 1,
+   "url": "https://trends.google.com/trends/explore?q=jubilaci%C3%B3n",
+   "metrics": {
+    "searches": 500.0
+   },
+   "keyword": null,
+   "published_at": "2026-11-17T13:30:00-08:00",
+   "extra": {
+    "headline": "El IRS anuncia nuevos ajustes tributarios para 2027: cuánto podrán deducir los contribuyentes y qué créditos aumentarán"
+   }
+  },
+  {
+   "source": "google_trends_rss",
+   "platform": "google",
+   "title": "ecuador vs bolivia",
+   "rank": 2,
+   "url": "https://trends.google.com/trends/explore?q=ecuador+vs+bolivia",
+   "metrics": {
+    "searches": 200.0
+   },
+   "keyword": null,
+   "published_at": "2026-11-17T13:30:00-08:00",
+   "extra": {
+    "headline": "Hernán Galíndez, previo al duelo vs. Bolivia: \"El otro día se vieron cosas muy buenas\""
+   }
+  },
+  {
+   "source": "google_trends_rss",
+   "platform": "google",
+   "title": "politics",
+   "rank": 3,
+   "url": "https://trends.google.com/trends/explore?q=politics",
+   "metrics": {
+    "searches": 1000.0
+   },
+   "keyword": null,
+   "published_at": "2026-11-17T13:20:00-08:00",
+   "extra": {
+    "headline": "Five reasons why Republicans lost so badly"
+   }
+  },
+  {
+   "source": "google_trends_rss",
+   "platform": "google",
+   "title": "ryan jeffers",
+   "rank": 4,
+   "url": "https://trends.google.com/trends/explore?q=ryan+jeffers",
+   "metrics": {
+    "searches": 500.0
+   },
+   "keyword": null,
+   "published_at": "2026-11-17T13:20:00-08:00",
+   "extra": {
+    "headline": "Top free-agent catcher accepts qualifying offer to remain with Twins"
+   }
+  },
+  {
+   "source": "google_trends_rss",
+   "platform": "google",
+   "title": "wandale robinson",
+   "rank": 5,
+   "url": "https://trends.google.com/trends/explore?q=wandale+robinson",
+   "metrics": {
+    "searches": 500.0
+   },
+   "keyword": null,
+   "published_at": "2026-11-17T13:20:00-08:00",
+   "extra": {
+    "headline": "Titans put Wan'Dale Robinson on injured reserve"
+   }
+  },
+  {
+   "source": "google_trends_rss",
+   "platform": "google",
+   "title": "carlos forbs",
+   "rank": 6,
+   "url": "https://trends.google.com/trends/explore?q=carlos+forbs",
+   "metrics": {
+    "searches": 1000.0
+   },
+   "keyword": null,
+   "published_at": "2026-11-17T13:10:00-08:00",
+   "extra": {
+    "headline": "Portugal did the extraordinary with Cristiano Ronaldo. Can they do it without him?"
+   }
+  },
+  {
+   "source": "google_trends_rss",
+   "platform": "google",
+   "title": "david bednar",
+   "rank": 7,
+   "url": "https://trends.google.com/trends/explore?q=david+bednar",
+   "metrics": {
+    "searches": 500.0
+   },
+   "keyword": null,
+   "published_at": "2026-11-17T13:10:00-08:00",
+   "extra": {
+    "headline": "Sources - Yankees' Bednar, Twins' Jeffers accept $23.15M offer"
+   }
+  },
+  {
+   "source": "google_trends_rss",
+   "platform": "google",
+   "title": "abel nunez",
+   "rank": 8,
+   "url": "https://trends.google.com/trends/explore?q=abel+nunez",
+   "metrics": {
+    "searches": 500.0
+   },
+   "keyword": null,
+   "published_at": "2026-11-17T13:00:00-08:00",
+   "extra": {
+    "headline": "Muere futbolista a causa de un pelotazo en liga juvenil de Argentina"
+   }
+  },
+  {
+   "source": "google_trends_rss",
+   "platform": "google",
+   "title": "starz",
+   "rank": 9,
+   "url": "https://trends.google.com/trends/explore?q=starz",
+   "metrics": {
+    "searches": 200.0
+   },
+   "keyword": null,
+   "published_at": "2026-11-17T12:50:00-08:00",
+   "extra": {
+    "headline": "Early Black Friday streaming deal: Save 50% on a year of Paramount+ Premium"
+   }
+  },
+  {
+   "source": "google_trends_rss",
+   "platform": "google",
+   "title": "portugal fc",
+   "rank": 10,
+   "url": "https://trends.google.com/trends/explore?q=portugal+fc",
+   "metrics": {
+    "searches": 1000.0
+   },
+   "keyword": null,
+   "published_at": "2026-11-17T12:40:00-08:00",
+   "extra": {
+    "headline": "FC Porto: Gabriel Mec dá passo em frente a quatro dias do Paredes"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "My AI agents found an unmapped Maya site?",
+   "rank": 1,
+   "url": "https://pietromiotti.com/latest/maya-site",
+   "metrics": {
+    "points": 1036.0,
+    "comments": 393.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-11T12:05:22Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50452455"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+   "rank": 2,
+   "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+   "metrics": {
+    "points": 682.0,
+    "comments": 710.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-11T21:24:35Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50458900"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+   "rank": 3,
+   "url": "https://github.com/db-branch/db-branch",
+   "metrics": {
+    "points": 45.0,
+    "comments": 16.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-15T13:50:51Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50506940"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "The Fed Is Worried AI Agents Could Trigger a Bank Run",
+   "rank": 4,
+   "url": "https://gizmodo.com/the-fed-is-worried-ai-agents-could-trigger-a-bank-run-2000840566",
+   "metrics": {
+    "points": 27.0,
+    "comments": 15.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-16T21:12:02Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50523346"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "AI agents have a big problem: Nobody wants to let them in",
+   "rank": 5,
+   "url": "https://www.pcworld.com/article/3283946/ai-agents-have-a-big-problem-nobody-wants-to-let-them-in.html",
+   "metrics": {
+    "points": 16.0,
+    "comments": 6.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-13T12:37:41Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50482661"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Show HN: A free interactive course on AI agent governance",
+   "rank": 6,
+   "url": "https://studio.sinapsdata.com.br",
+   "metrics": {
+    "points": 12.0,
+    "comments": 8.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T02:12:13Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50526527"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Google: AI agent turned a security patch into a exploit with no human help",
+   "rank": 7,
+   "url": "https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926",
+   "metrics": {
+    "points": 12.0,
+    "comments": 3.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-16T14:14:09Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50517797"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "My AI Agents Found an Unmapped Maya Site in Mexico",
+   "rank": 8,
+   "url": "https://pietromiotti.com/latest/maya-site/",
+   "metrics": {
+    "points": 11.0,
+    "comments": 3.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-11T05:09:10Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50449945"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Show HN: Shotoku – Local-first action governance and budget caps for AI agents",
+   "rank": 9,
+   "url": "https://www.shotoku.dev/",
+   "metrics": {
+    "points": 11.0,
+    "comments": 1.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-14T13:02:53Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50496705"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "California is suing OpenAI over its 'rogue' AI agent hack",
+   "rank": 10,
+   "url": "https://calmatters.org/economy/technology/2026/11/california-is-suing-openai-over-hugging-face-hack/",
+   "metrics": {
+    "points": 11.0,
+    "comments": 0.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-16T21:12:54Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50523359"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "What Picasso taught me about building AI Agents",
+   "rank": 11,
+   "url": "https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/",
+   "metrics": {
+    "points": 10.0,
+    "comments": 6.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-15T16:16:26Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50508076"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "OpenAI launches ChatGPT Wallet, AI agents pay for purchase",
+   "rank": 12,
+   "url": "https://www.reuters.com/technology/openai-launches-chatgpt-wallet-letting-ai-agents-pay-purchases-2026-11-13/",
+   "metrics": {
+    "points": 10.0,
+    "comments": 1.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-13T18:17:27Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50487510"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "OpenTelemetry and AI Agents' Observability",
+   "rank": 13,
+   "url": "https://signoz.io/blog/opentelemetry-ai-agent-observability/",
+   "metrics": {
+    "points": 9.0,
+    "comments": 0.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-16T07:30:19Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50515018"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "AI agents attempted exploits on Epoch AI's website during an alignment eval",
+   "rank": 14,
+   "url": "https://epoch.ai/publications/incident-report-ai-agents-attempted-exploits-on-our-website",
+   "metrics": {
+    "points": 8.0,
+    "comments": 0.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-16T12:00:14Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50516629"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Show HN: Attest – Test what AI agents do, not just what they say",
+   "rank": 15,
+   "url": "https://attest-framework.github.io/",
+   "metrics": {
+    "points": 8.0,
+    "comments": 0.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-15T18:03:01Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50509107"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "No, AI agents did not discover a previously unknown Maya site",
+   "rank": 16,
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+   "metrics": {
+    "points": 7.0,
+    "comments": 1.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-13T02:28:29Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50477335"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Show HN: Atli – MCP server that lets AI agents buy and install travel eSIMs",
+   "rank": 17,
+   "url": "https://heyatli.com/mcp",
+   "metrics": {
+    "points": 6.0,
+    "comments": 1.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T15:16:52Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50532519"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Reprogramming Dormant Neurons to Backdoor AI Agents",
+   "rank": 18,
+   "url": "https://x.com/dimitrispapail/status/2120245027804705121?a=yp1VXtQi8Dep0GmUnxo",
+   "metrics": {
+    "points": 6.0,
+    "comments": 1.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-11T21:06:05Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50458653"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+   "rank": 19,
+   "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+   "metrics": {
+    "points": 5.0,
+    "comments": 2.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T21:16:12Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50538303"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Amazon MadPot: Honeypot for AI Agents",
+   "rank": 20,
+   "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-observes-threat-actors-running-cybercrime-campaigns-with-artex-ai-agents/",
+   "metrics": {
+    "points": 5.0,
+    "comments": 1.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-16T00:50:59Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50512675"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Show HN: Pizza – An event-driven AI agent, no while true",
+   "rank": 21,
+   "url": "https://pizza.hertzbeat.com/",
+   "metrics": {
+    "points": 5.0,
+    "comments": 1.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-15T16:04:32Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50507971"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "I Built My Own AI Agent Orchestration Tool",
+   "rank": 22,
+   "url": "https://www.checklyhq.com/blog/agentic-crafting-table-ai-agent-orchestration/",
+   "metrics": {
+    "points": 5.0,
+    "comments": 0.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T13:00:52Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50530784"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Show HN: CoderBaba – An open-source AI Coding Agent with security scanning",
+   "rank": 23,
+   "url": "https://coderbaba.si",
+   "metrics": {
+    "points": 5.0,
+    "comments": 0.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-16T15:51:06Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50518918"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Amazon's plan to own the product data and fight AI shopping agents",
+   "rank": 24,
+   "url": "https://www.reuters.com/business/media-telecom/amazons-plan-own-worlds-product-data-fight-ai-shopping-agents-2026-11-13/",
+   "metrics": {
+    "points": 5.0,
+    "comments": 0.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-14T12:09:29Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50496391"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Show HN: Portal2Bench – Can AI agents solve Portal 2?",
+   "rank": 25,
+   "url": "https://kingstonyip.com/portal2bench",
+   "metrics": {
+    "points": 5.0,
+    "comments": 0.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-14T00:40:55Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50492238"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Show HN: Timon, an open-source AI workstation for coordinating agents",
+   "rank": 26,
+   "url": "https://github.com/ai-timon/timon",
+   "metrics": {
+    "points": 7.0,
+    "comments": 0.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-14T12:52:01Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50496631"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "We got AI to Wombo Combo – collaborative agents in Melee",
+   "rank": 27,
+   "url": "https://www.frisson-labs.com/reyn",
+   "metrics": {
+    "points": 5.0,
+    "comments": 6.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-16T23:03:19Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50524802"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Agentic AI Designs an Analog Synthesizer",
+   "rank": 28,
+   "url": "https://cpldcpu.github.io/2026/11/14/touchsynth/",
+   "metrics": {
+    "points": 15.0,
+    "comments": 5.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-16T01:28:10Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50512933"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Build WhatsApp AI agents with Amazon Bedrock AgentCore",
+   "rank": 1,
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb2VCRHdaaS11bGd5end2Y3dNdUgwRlR6bmJwbjVKa0w4YXFXOXRzMmF0WTFSdVVDU3RYUHhvelNINU9zcE5vbXBNOFJmT1FwdXNQWTlEYUlaaktFcEY2RVE5ZUFfT2VKaTQtSU1oeXN3b19PVmZ5STQ3YTdad3o5djA4MWJZcWZ6NlZuV3hSZVc3dFBUQS1rVHZNOVJtcXl5V1pR?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T18:48:50+00:00",
+   "extra": {
+    "publisher": "Amazon Web Services (AWS)"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "How to shape platform strategy for humans and AI agents",
+   "rank": 2,
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZm56eFRQOVh5MGJhR2g3dHl4UHBOOWxTd2ltLV9rUGxXUnkwREVZZlZVdlRlSTFtOFctTFJuTC05NUNlVDQwU2UzcHhlTHYwSEdEcDhCdHV2dDZ4SnRiNFgyMlNRa0ZGUGpsMFoyRnVrek9aNjNGZE03YUJXcmdraTNSN3N5eW8xV2ZEdUpNblJmcEZsNFJueUxWLUVMZw?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T15:03:01+00:00",
+   "extra": {
+    "publisher": "MIT Sloan"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Autonomous orchestration helps Kubernetes keep up with AI agents",
+   "rank": 3,
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ0g3NE5JOXR6U2VKTnVBZkVUMk41OGk2UnZEdUFZRzNQVV80VHVRc2JvRE5FRlZUR2VoYTI5Mkg2OTg5UmJqWUw5dHFBWVBYQW1hTy1kdkVUTWlvN0FkVG5Ga1lHdnpQM1NZSXN0ZExVVzRQTWRSNFpncV9iOEwwV1JMSVZHbnliOTg4MjlrY2R1VVZVby1wX3FkaGF6TWZoVWpxQmcxUFlWUQ?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T20:35:00+00:00",
+   "extra": {
+    "publisher": "SiliconANGLE"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade",
+   "rank": 4,
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS2pKR3FxY2RycC0zaTFOS19YbWpMOFc4UDM2bE5ndXB3UmozcWVVZTdOYXRCZURmLWxzNFk4QS1MYmdlUVlzeGhXRGxTc2ZLWlB4bWtiRUV6bFNoMno5VjJjbU9yM1RNWEh1eHNaQWVyLTNBTTIwY3F3RDZNMk5KUlJVcVNCMGsxVm5EdXRUdzVfS1d3ZUNCb3dTMG5LOFFTSmkyc3JzNWpGdmR5SndLRXNwelVyVTdJTHgteVpBSGhONXM?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T19:45:57+00:00",
+   "extra": {
+    "publisher": "CoinDesk"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "AI Agents in Bond Market Arrive With a Stealthy Microsoft Trade",
+   "rank": 5,
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRDE1Y1FPaVcyOWNoSXNJZ2JCVmE2LXNVemhTaVhVNlctMVFFUG5YU2pDcTN2N3ZSZWNwVWcyOE5PVFlsMzRDZTMtMEFoZHE1cWJqaHp0Tm5oTDdHTDVLOHF0Tm8xc1RfaVFQSVlnSWdDMUNhZ3pLWGxHR3JNOXhWRDlkZDFwdnREVTlIbWx5TjRtMzlIUnU2ek9BQlpEUWE1dEVOMHlKci02ZDktbllDT3BIb3I?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T12:00:07+00:00",
+   "extra": {
+    "publisher": "Bloomberg.com"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Gemini test proves once again that amoral AI agents will do almost anything if told ‘NEVER give up’",
+   "rank": 6,
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYnhUWVgzd0ZZa0phMEctbWtGVG9OZ1pWei1DbzJldEJ0ODYwcmJDYnIxM21lWEg0WTBYZkhTRnBrTTlHUE5rVHVIUzUwRkRvQjdGbUZfZkZkVktzaTR3bDc5d09fS2hSZGptR1J1M1IwLW43RkxmOXFoWG52Z0RMU25fN2owMjh1VjJ3QmdLYTlnbDNoUmpFLXpkX1ljQnhpVWJ4QTZGQUxzMHk0bVk5RjV2Z2t6YXBIcjJlVjR1UDlUMjlEOFVLamVnWnh5NjlpV1FibTNicVVwX1JQcmQxaFgxM2NrbXQx?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T19:52:57+00:00",
+   "extra": {
+    "publisher": "The Register"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "AI Agents Put Corporate Card Spending Rules to the Test",
+   "rank": 7,
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcl8wT3NZbFZ3QlZxc090UUtUY2VfZ1hnMFZpdU1WdklHRG5FaTZLajlOTHpzVjIyb3lMVTJDTkVvajZVZnV2ckd6WmpJVGJXci1mdm56N3hKbndxNVJPY1d0bEtNb0VGdFFaZ19DRmh0WTJkeDIzTWVodEJzbC0yZkJYc3pnQ1FCZFU2T1BMd0NnX2xzdmtHdEgwWXJxSzREanRGcw?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T19:29:06+00:00",
+   "extra": {
+    "publisher": "PYMNTS.com"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Microsoft Gives AI Agents More Control Over Azure Infrastructure",
+   "rank": 8,
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUVpiUEN3QzZLSmxOZ0VTaHNYRmtaYjdEMzBJYnd3UVFjbUtac01LUm4yT0ZlQWJTeU1OOFM0cTFWMHVKWkpvXzg2aS1Vb3BiMFdndFFZeU1nNDJ3U1FpYUVkdnk5MktBcS1fSEVMNmxwT25FQ0VvV3NQMTMyMmRiRzcySUJHRk8yVlJyejhrbWhkd0FPNHl6cHJUVGpLSjdDdjdUNEVCNjcyb0ZxQk41NFZMUTlTSm9nMVo4SnllMA?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T18:51:17+00:00",
+   "extra": {
+    "publisher": "Visual Studio Magazine"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Booking Holdings' travel startup Vayo starts booking trips with AI agents, even on rival Expedia",
+   "rank": 9,
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNejNTdG1EWGVTMVNFMkI3SjJIX3NXOF8tbVd4eWk5ZXF2dnd2MWJZRVBMWGdZdW9TUEk3T1lsT1pFZDB0Sks5ZTJ1SFZULVhBQlNCTTdLOVBEVjM4d2J5WHd6WnhQVTJMXzNHVTQwWFhfQUxZcjgxMGZxMXVEUEczcGZnazQ4SG9McjIyblRrQXl3eExxcWFkelktV1VKQjdjR25MNzZiQVBCVWVxbVNQVUFQRTYtbWtUUnoyRWxuVzhrMm8?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T14:20:08+00:00",
+   "extra": {
+    "publisher": "GeekWire"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "AI Agents Turn Egress Into a Security Boundary",
+   "rank": 10,
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQMERVdlVlYkhkS0ZDYWpTZ09HQ3VMUGhYV0xzd05weHYwRElKYWxVd1JZTm1lem1HZXZHN1lEbWNweGc5QnF5N3U4V3cxSW5NNWV1ZzZUQlI0RmQwUHNDNjNZR3pzRF9HYkk5YjJlTlo1aFBtTElaQQ?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T19:39:45+00:00",
+   "extra": {
+    "publisher": "HackerNoon"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "OpenAI lost control of AI agents over 80 times, California alleges",
+   "rank": 11,
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUk1aWUZSUWRYcllKN0Z2VktCWWhBVVFlaUxfQl9WVTNONGxxcFptelNzTXZfckdlNkd3VFNDamllc3BxLU1TM2dpd2ZySkdpUGgyaVFtRjFXRVhCTmkybHd1azlWN3BVV1phbXdvbWJHYjBsbnFibnZSSVBkWGw0aW44RzJUSjdhU0N2VWJqNW45UzdQM2pmbFB4WDZBZmh1VTNhLVZSWk1uSTVmQ09B?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T18:36:12+00:00",
+   "extra": {
+    "publisher": "Malwarebytes"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "The internet was built for Netflix streaming down to your couch. AT&T’s COO says AI agents are flipping it the other way",
+   "rank": 12,
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONE43b2Zxcm9EMzJaRHNtdGFTR0dLMUEzUXRfdEt1R3VJNkd0djkzV1NYYkNzLUMzS1h3clYtMDNndmVrYTI2eWp6ZmJLSFdMUDFkZDlOWmRsa3l0ckEtZ1VMeDRkSzg2cXp4aVF5YzdjMUt4NU9WU3ZQUnZ4TGh6MFdaQk5xdGFDNUJBVlZYNFFWNUJQTVphdklkMnY?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T16:57:00+00:00",
+   "extra": {
+    "publisher": "Fortune"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "AI agents are coming to help hire, schedule and manage frontline workers as Fountain launches Orchestra",
+   "rank": 13,
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNFdsV3ZvUDRSS2lmY1BscUE0TlozU05GTUZLaEthb1F2dTc4RGFFU0N2dEVwUDhvU29DbmVaN0k1ZHVmbThGR3o0Q3Z5VXpPWTByVXBMUVNwVG5RbWJWMzRTMktfWmIycF9DNzdXOTRZMlVVWHdIdzNwOF9NaDlTMV9ISFlRX3pGRVJOVjBmX3pRa0V2OUJFZ0pJN2FhS2w0Y2FHNDQyZHhyVzhyQTBCdnNNZXNBeGNkS0xJNkJtMV9wSGR3cm0tZDdNV09yOHhTZ0lBUnhDNA?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T16:51:51+00:00",
+   "extra": {
+    "publisher": "VentureBeat"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Genesys Launches Standalone AI Agents and Genesys Arena for Faster Agentic AI Deployment",
+   "rank": 14,
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnZsZGU0Q2hjXzlSSjVmcEJ4N1ktYkJzMWhsZnFCV1BiVGN5dlpRZ2RNNVlXRy1ZUkx5VVlXQXlsOEw5QkNsRkxTZ0d1LUg4a2UyZm02THdPOG00Qjd3M2hndjAwcnZBYkV0Umlfc24xRjJNNEF0VnZWM3VuY0NQcVB5bUdabGpFdE9SVGgxeWFhdmJjdjQtV1JVOVdEa0xaaEs5ZnQzNkJJVjdidWlBS3pqYw?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T19:35:39+00:00",
+   "extra": {
+    "publisher": "VMblog"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Finance teams ramp up agentic AI adoption, Zapier survey finds",
+   "rank": 15,
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdnZnQkQteTV5NnBtQXZfMDVFSkctbl9mUEtSSEN1cksxTEFnM2E0WjItVU85RmNjcUstcjB1MldtMTFRVnExYkt4Y1A1UTg4V3Nzam9DR25SWmFlLXkwTTgzVFg1Q21EXzFrWXRiQnNsSGU4WTRXbzZ1Y1ptc3hHejFldk9WRm5YTDVRblVKVkprcjA?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T15:33:53+00:00",
+   "extra": {
+    "publisher": "CFO Dive"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "California sues OpenAI to stop \"public nuisance\" of out-of-control AI agents",
+   "rank": 16,
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS3JNTjZ1QkdUMEhpN0oxeDREM0Voc2IxM2dVaFBqaE0xQkpsaTJlWTc2TkZLS3lUcVNMOURBLWpWcFEzSXVlejVraERGc1pZeFZjT1IteG9PSGtvQlhkRE1OOC1YVjVMTVI2bGdpb3FVcEZTaElxdms4MnlXQU9udzlMVmVBYy1qWXZ2aUxBWEQ4UmxyNms0MWtWamdOeFpGTzZ5WXUxWUc1VFRiOTVlYklmMmUwVkEtRFAw?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T18:13:34+00:00",
+   "extra": {
+    "publisher": "Ars Technica"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Airlock Digital blocks unauthorized AI agent actions at the endpoint",
+   "rank": 17,
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU2ljWmNfMnB1TFNZY2I1ekM4U3NqaFljaUNmMlVGOXh6Q19adlFnemRZNnJUUzk5ZGhkeHp1V3puQlBHX1lHdDA4NVN0bHBaWE9LSkQxdmNfSEFvX0ExNXJXY0pCTUxCN0pLbjZSenNVVE1kX0g1TWZ2VENuczJSdA?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T13:39:57+00:00",
+   "extra": {
+    "publisher": "Help Net Security"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Regulators Converge on Twin Compliance Challenges From AI Agents",
+   "rank": 18,
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaHJZUlcwalFGN3lhR0xBUlJaYWNlUWRKUlN1MW42LUw1amlpbkExVDhfVWNPZmQ0UXdaYjJyT2FRZGhJNnk0ZE5nbnhCb2pnal9rZjBwTUt0R0RvVjBxN2ltVHVpTi1pTTAyTGZyWF9tcHVIY2lEYzczR0o5S0hsNnNzb25ORThKRGJLSzBoWjVJYUE4bkg2QjJyNnRuZ2JhWU1XclZyX2xFQ0ozWWhkdUJRRGh6TnYtM2k5U1NNUQ?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T16:44:06+00:00",
+   "extra": {
+    "publisher": "PYMNTS.com"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Microsoft Releases Copilot SDK 2.0 for Enterprise AI Agents",
+   "rank": 19,
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPemZnQmkwb2lDOGVFaVRZYzJ6TUNpR1ktd2p1bWVIOEI0LU1ja0VNWFFsdG1Oak52ZWRHNjM5Y2cxOWlLbWVHNzllZjl2TzhCakpXdjRsOHB6QXNGUnp1MlZUamRsY05qMFZJVmJwV3kzaWhDT2tpYlJjYUptZDNUYjRBWnJubFQ0ZVA0X2lfT1Qya2tncmwxaUtMbW9ibGpNclRHcWhWeWF3S3VMQmdPcjBUZTJXZWJV?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T20:46:20+00:00",
+   "extra": {
+    "publisher": "Visual Studio Magazine"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Exclusive: Cogent Security’s DefenseOS adds policies and automations for AI agents",
+   "rank": 20,
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPblozQ3VCaDJ3bEFvNVlyRGRqREcyUEdWUGI1Q2R2eGlKd2w5RXBkc0paMHpQa0pZSFpiRm1CVjZ0MnZqalQ0ZDVleWZkUUYxQzNkdUtldFBySlNRZjVBR2J1LXJyX0JaY1NtWDBZNno4alV0YkxTb181Y3NZT0l3Rkx4N0kxaVk2dU5jR3pDckZkd3g1dmtwWThNLWd0X2hwRUhrejZLeFR3MGZyelR3VWVxMUxmblhoVF90WFFVenpaZXhhTzJaeg?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T14:00:00+00:00",
+   "extra": {
+    "publisher": "SiliconANGLE"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "United Airlines crackdown puts personal AI agents to the test",
+   "rank": 21,
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaWtScU93dmRQYUFnVzctdFVqWjNVWmZpSnRBYU1xZlU0TUQ5NVk1dktPMUlVX1Y1ZVdLSE83LVM0TlU5aUxGUEdqM08tM1pOeWluOXBVTFZOdldRZGdXbUx1RXUwRzItV0c5UzV1Sy1aVUIzODd6dlBSN19tS1d6LW5lQ0ppOHhfVDM4QlNhSHBoN3NQa3RPUThyMU1kNGdCYTZn?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T18:31:04+00:00",
+   "extra": {
+    "publisher": "TechTarget"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+   "rank": 22,
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX1dOcWpiMEQ5MnM3M3ZrUjI0d0l0cjVCclhoc0hzLTA5UFZ4QWpUZzNTcWEySlBnOTRDNXJEZWoyQ3BPR20zYkdGaUNBUHhaX3NTTEhMZHVTZTdSX2tCXzZWT3lweEh5T2ZXb3RlV2xsVC1JZXhvaWdSUE9OeUVtNE5saWlielVEdDBiaVpUckg4MkVLbDJkYW9yMlV0SGdVdHZYc2Z4dlFNbDdxdkJNWXJn?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T16:32:55+00:00",
+   "extra": {
+    "publisher": "TechCrunch"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Microsoft Launches AI Transparency Initiative to Secure Enterprise Agents",
+   "rank": 23,
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMkhLMWZwNVhkb3dZMEZMLUZMMUcxMlhJaVV4Yjh0WFVTWmx6bElORWcwTFBiSlRmWTNnVmFuQ3ZSd2h1WDczazY3MmpEZ2szTUV1WDFaVnpQVno0Rmg2SDlVZV84VXUxZklDUWdIZ19sbGFFWGFGUjBxdkVpT3VkMGdKVm4wVW9YRDVMZ1ZVekIyc2VCY0ZUX0NCOUwwOHZuS28waHdmbzZ1SGppY29HbEVBdmdNM1pla1hMVFBRV0d0UQ?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T21:12:56+00:00",
+   "extra": {
+    "publisher": "Security Today"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes",
+   "rank": 24,
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSEZxR2xORGFTMTVuOXVRRzJQWlhFYk0weFBGRGNOQU9LS3BsZUZlNjFKR01KOExrb3duTUNBTks3Y0JjN05HcS1JS0wweEJXem9IQmxSVmR6blltMVpoRDhCbXZuSnFaVXJ3N25OY0I1OW52OEk3T0FhV2dYZS1XZDVTeWh5bE85M1NMWUJ6SUo4TnNTd0tqcGN0a21ZbFQyS09ZaFJGZzVsekhVLU5EbjlucENEUVBLMWh6UkF3?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T13:08:58+00:00",
+   "extra": {
+    "publisher": "CoinDesk"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "AI agents are starting to fill out medical forms and file insurance requests in place of human staff",
+   "rank": 25,
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVkpKU09ncUpnQzNjb1IxWjNzNEpxZkk5M1F5b2ZkamdBbmhqY0RvSzE0S3FsSkQtRXUyWTZuVXFXeDFtV0lFaE1NQUs4Vkc4eWlEZW5LSG1nTXdaQnl6Ykl2MUc3c2oxZzBtUnB4NXJQNlZ1YWVkck1aRm95Z29VQlBoRmhGdVVfRVFmWHQtWW9yUHNWQmMwR1JXOXdJbzdPYWxJVDdzZjV1Y2JtTzlBb3lILVJWWm1oYnkyS2VpTlVsSlE?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T16:57:06+00:00",
+   "extra": {
+    "publisher": "The Decoder"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Zenity Expands AI Agent Security Coverage Across the Microsoft Ecosystem",
+   "rank": 26,
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZXdoZ2ZrSTVYMVRlVUYxVzhFR2toNTkzOHJIZFBpd29EOGt1WHFXSks0b0tOU2RmZ0poWmozZDdTZ09Rbkt2b1drMUF0VEZvVzNvVnFwQUZsbVN2ZnBxUUgyblBLa2U0eEljbm1Oc0o0ZUxxMzRIR0V3NVVvc1hsZXRQYi0wNElI?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T19:35:00+00:00",
+   "extra": {
+    "publisher": "Yahoo! Finance Canada"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "The risks of device code authentication for AI coding agents",
+   "rank": 27,
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVDhGeDNvZ3JuSVJBcGZoMTV1NXRad0Y4cU9IbWhhSVAwMnB0UGlLd0tlT29sVWNTeVZrVkpmY0FRUVNCVmF2MzZPME5nb1NyRGsxSkJTWk1qMWtmekt4LXRXZEluZkM3QllKb0RiUTd3eFFMQjU0cWhhT0hhZXdUazBqTEx5akxySXJpV0YwZ2N1NzZ4bG1hR0xTaHFqMmE5aVMtaC1RMTJ2emx0WWVENkg1aGF4OGFuaFE?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T15:00:00+00:00",
+   "extra": {
+    "publisher": "Microsoft"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Windows security at Ignite 2026: Start secure, protect what matters, prepare for AI",
+   "rank": 28,
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbTNObWlvcHE0ODRraEZWMGZnelk5Q3hWNHhXYUU5MjJSNEY3X3VuUmNLbEJzODNoZjNuUC01STBIRHJUVlhXcTlJYkJncmw5R0l6ZmNQU1FEZjNfa3AzODNvMFY4UGhSZmVmTmxmeVU4TzdRU3RXbmE1WVcwbFZoZlVabGtkcDVoUHBrSjBkeEV0RGhDR3ZPTDV5bGhqLTJXREZWam1IMW1LSlk2ZzI4ZUQ0RmpPNmF2akd3aVJXR2ZYb1JEOVR6TzgydlhweGZxYkE?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T18:23:52+00:00",
+   "extra": {
+    "publisher": "Windows Blog"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "AI Agents Are Ready, But Is CX Deployment Too Slow?",
+   "rank": 29,
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhQ1hOVWZHVDR4M0xmUHMwczhLR3l1clZ4Nm5hVWxJU2VVZWcybFAzakpuNFRURDJhTlltanpNVUtZMXVqOWUwTnhnUVJwZTNlVmk3MHRXSk16UXExSkg5WlZhaVg3bF9WZWFzMG1HVVBWeExyQktTUQ?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T15:02:01+00:00",
+   "extra": {
+    "publisher": "CX Today"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "ioMoVo V2 Lets Teams Build Their Own AI Agents and Choose the Models Behind Them",
+   "rank": 30,
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNS1NN19IYmwtSG8zWHIxV1NTZ0tlSG5qVkRPcFJ2MW0wYkl6WWJrMVdaa0duWHU2cERjOGp4WEZ0NlcxcllzandCTndOekxzQnh3Szc2Q25FMHZSUHZwcktPV19aVnpHMUE5MUZaLW0wc25MQ0Z3SkRjdkc0NmsyZGJ6OVdzQ0JjRHdKU21JakltaFM4aDFVZVc5aHVrUTFNZlV3SC0yY0hhaEpVVW1OeXFKaFptSTVkOVNfNmdFWEtsdGE3WFhEdXZGbDVieTV2Skd1Nzdzb3FBZw?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T20:09:15+00:00",
+   "extra": {
+    "publisher": "The Des Moines Register"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "California Sues OpenAI After AI Agents Escape Lab and Hack Hugging Face",
+   "rank": 31,
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBONDFWUXdMMWFMUUV0NDFsWW1XOUE1anBuRmFvOEJBY2wwVnZZRURiREJmTEpZRThoM254eEFGZTdfTXFRZXFpcVJacE5icDZWNC1fVngxWQ?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T18:29:38+00:00",
+   "extra": {
+    "publisher": "Lynnwood Times"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Semperis updates Lightning identity security platform to defend against AI agent attacks",
+   "rank": 32,
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONGprM3RhZlN6NkhrWGJ3SXp0SWZfalZwekJCMm5MYWZNMmZGZEh6NWhsMEJfSTRoYklhaFpMamxvWldaQTYxS0U1aUd1aUZSWWFVdmI4alAzRkVyRmVCamxpQ0JJWmcxREY2cEZ4eTZVS0J3dU96NFE0SmFfSnI0WUtNWUxYTVhycW1Ga0R2VVFzMkI0ZFlLVGtmN3JNUnZVYk02UHFRLXkwS01qWDRCWm8tOWJCNWt1LWljTDdSN05iYlk?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T14:00:00+00:00",
+   "extra": {
+    "publisher": "SiliconANGLE"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "AI Agents Gain an Open Runtime as Agent Governance Lags at KubeCon + CloudNativeCon NA 2026",
+   "rank": 33,
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNa3dGTUxCdkI5SjRUellsY0ZhTnRjbjBNckRadW1Fdno3ODJQYlpuSG10WGNyeDRlYlVTQTdEelYydjNRZ1BZTHZsaUVVdTNpT2p2OUZ2ZzBoRXlab0xtemZhcUY0Y2tTYk1ubXRUWF9CenViYk1lNlZfczhCdjMtMUR3SzZPcnR2a1JnTVJ6MWFXZTFCdGhDR3lyNzJBcFRNaHVCWnJlcmMwYVc0NEVXekZWOXpfT3QydDRSdlhRcmczZw?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T16:06:58+00:00",
+   "extra": {
+    "publisher": "The Futurum Group"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Autonomous security: who’s watching your AI agents?",
+   "rank": 34,
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOTZoN2t1QUw5eVd3ejVvZWRQbzlLZXlJTUFhdjVveVNieXV4Qm5RNi1BekZqd09FNmtjYmRoaGpvUXk2b3NuQ3lXazNnYmEtUmlGYVhhRGZ3ZXdWM0tSZkNqeGFIS1BiX0gzY0dMdE1HRXkzWTE4MC1YYzBpSW1ZWkpwbEJpU2c?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T19:14:23+00:00",
+   "extra": {
+    "publisher": "Gadget Flow"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Exaforce launches ExaU to enable personalized AI security agents",
+   "rank": 35,
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNWlHbkh6Q000UFNkZGVfamt1a092ZklHQUFpemxCaGY1ek1rZ1FFclNIN2NLMUJQTTE3X3RuYWhIYXlMX2xlQ0pEZHg4ZlRFWUtJTmNGYjVhY2txRkxucUltNlNCLXJyTG5EWnJoQ2h6SDVaOHo3TFFnMnFfak5KZUQ1Y0VrWXFMNm5KaXNhLXZSQW4zeVZ6NExYUGk?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T14:58:22+00:00",
+   "extra": {
+    "publisher": "MSSP Alert"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "AI Agents as Digital Workers on the Manufacturing Frontline",
+   "rank": 36,
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNX0lPNFpuYnBUaTUxNXZlQkR0c01rVmpnMjJwbGRkcHNBNDBvbXlITDVpbWxMZU9oUUgyMjZqVTJ1cS1fWG5ZUEV4WVQtWFdZOTV3RzEyY2dzUDV0N3NQbzlVT01HWWx3cjZrZnpGUm81UUNkdWhCMlo5T3kxZHREN0hmeGFKSnhoMThiOFVQTnlzYVVjeXBvc3BHZDBfUkJMdDl3MHVldjQyOXhrbWtfWjdvdm1QN1R5ZmpfTUdXejBSeGxSTTVjeE84SnAxMG1OMHB6RTRCY0JNRWFCNG1vN0pMN09MNWxEekx5a3NXUFJJMVdWem5iblZUaDczTlhs?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T20:11:17+00:00",
+   "extra": {
+    "publisher": "AdvancedManufacturing.org"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "MongoDB Buys Firebolt to Help AI Agents Make Split-Second Decisions",
+   "rank": 37,
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYVR2d1dpbDdfZ2xSZFJGMVRRb1RMSUVTWF9LbjhQYnZqWmdLZlU5TjZleU1Qc19TSjAzT19hNThyR3drNmNxXzBld3AzUkQ4ajBMbnphMlY4M3pCRHY0MHprU1k3VmJ1Y1ZCeXFuR0Y4TWRhMXd2MFl5OXdQNjFUeEVlaTI0eUJKMzVDSkxRUjBTaDdHall4WWxXT0R3azNWTGFOazlWNnBHNl9MWTlFZw?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T18:46:23+00:00",
+   "extra": {
+    "publisher": "Benzinga"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "WorkOS Security Incident Raises Questions About AI Agent Autonomy and Access Controls",
+   "rank": 38,
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS0Z1MXBMSkVXSTBQM3FuRGhEMmNiRS1oekZsZzlNMzd5SHZOb29uMVFibWtUMUJFbl9vdWtXYXM3UWVpUHhUY0FnUjJDa2o4UjNScUtYYUphS3ZPU2s3dk9xWG9ST0JJM0d6T3NiUGEyN0Zna0t2X2FlMWhXbmw1UGlxd0oxa19xajNhQzY5NVlrY3hGMHMwSXZ5eXNGMl91UkVJN3BPODFyOU16Z1NmVTJtZmdLWEV2UWZjbGt2MG5SdTg?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T17:51:57+00:00",
+   "extra": {
+    "publisher": "Cybersecurity Insiders"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Responsible AI for agentic AI: A phased roadmap for platform and application teams",
+   "rank": 39,
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb1NDdG1qcDBYd0p1WXNhVjlxcUgwNHpPTlJMRkZmYzdORUd4T0E2bXlTR2RLSHJuZ05MVFhzdm9TalR3emI0OTNDWE1nUS11VEVSREJVMEh3NXhUNW5ycUxkZzJDX292cVBWeEJfdFpIZk53eDhNWlVzSjFoQm5qRlhrV21jQTNhSEZ1WFNrYjJydzFuZFNwbUtqQ1dfcmZ6NmNycThQY0V3V3c2Zi1PN2FSV2pQTmpLaHk2UF9mYnNEWnBzX1RB?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T16:56:31+00:00",
+   "extra": {
+    "publisher": "Amazon Web Services (AWS)"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "AWS databases chief on how data infrastructure powers AI agents",
+   "rank": 40,
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObUNZSFNGZ1NNZVBGTVhhZldCamMzZU8zbUticHZlaDZ1dHVqczRHRUlZREVhSzFvVDAzbEtvZlBUdlA5eUlIVEN5VUNDejM5ekxXREZjZHhSYUI0OEdvUzFoaUMtLWhCVmlGQ2c3aVZwRzg2T0U5R1BsTkdGVVZ1YXpFdThVSmhjOVBTenFRWHNSMk15WmhaLTVydTNWWnJPUlR0cm9R?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T16:22:12+00:00",
+   "extra": {
+    "publisher": "TechTarget"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Is Zalando’s New AI Agent a Blueprint for the Future of Retail?",
+   "rank": 41,
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeXBtR2dSaFZDS0tPUy0tQlNFQmM0OGV6VU1VNVlqTU85SXpuSVRjTmhUa0VXRFBOM1pWbTVobXRoclExMk9xYUJMQkMxQ281OVhzQnVjWTRTMDZkbjFjNTBRZXNTVUp6LUdNakx3WmtVcm5zeW5ZQlV3YjdFQk5YLThrR2dPM0g1cTFKaC15V2EyRTRXUlE?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T11:00:00+00:00",
+   "extra": {
+    "publisher": "Vogue"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "California Is Now Suing OpenAI After Its AI Agents Attacked Another Company",
+   "rank": 42,
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUDV6ZmV2QWVqX1cxaTA3Rm9BLUhWQjdKVEZQbXl1QVhxb2RGRUl0S3Ftd2gyWU1lMDVPbFFiamIzX1JrTWc1Vl85bWk2MHFyQm9UdG9LcnNneVkyaFlmdFUzYUJjSHRqQ2JCN3RQeXhraWRoWm45SXhhOW5pYTZ5TkUzMTB1bi1EMG1Bc2dvYS1KWnJaNndHVkRuSTF1Umd3a2UwYnUwQnJFTjI3ZFdCX3VpTTFmQWkyUl93?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T15:31:00+00:00",
+   "extra": {
+    "publisher": "24/7 Wall St."
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Genesys Opens Its AI Agent to Contact Centers Not on Genesys Cloud",
+   "rank": 43,
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOWp6c1dXU1k3RlR6NERtY1hoSURnWVNPeFVoNmNuSVJEYTIyWUg4LXlXWmVHVDRiODliYlN6UHBJQWxnMDU0X19jSFhseGJ6SjkwWXp3RHA5VVJwVDhqdEVYUDJEalNWTndmSEItLW14ZURSVXFuWjNTY3lyZV9QUUhocUthdjhiOENHVkVDU3NFYlpocnJxS1NOVzhYM3luSzlSRDdxb096QQ?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T15:03:14+00:00",
+   "extra": {
+    "publisher": "CMSWire"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Apple splits Mac app permissions fearing overreaching AI agents",
+   "rank": 44,
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS1FzbFNPRkRrdVFsbUhERVRCUUw0RmljTEJxODhGZDBNa05uYjdEc0lUNXl5Sk1sa3BfZWpsR3FEY01IX2JUaUZQcUtyY281R1B2c2ZrQTdPMy1OUTZqZExaalV0OFRxelFqSkJWTmJuUXV5dkplWWtNbDNFYkJSU0tZZTE?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T09:41:58+00:00",
+   "extra": {
+    "publisher": "Help Net Security"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "How LoanPro built an agentic AI loan servicing assistant with Amazon Bedrock AgentCore",
+   "rank": 45,
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcGNyYnZramN3Qmp5TFpzdTV0LWQ0cEpvemdWak5JS3JROFRlN250TG9BQnBla1VuTGI0OGZwemdlNFVOWGhSVUVNWXBFemV1QjI4MUtTZXU3TkdpVmhPRWI3TkwzRzRjb2kwMkV1dXowNWFtR2RKb1JnZ2haRVNjN0xSYTZRU0RRTGFEYlJQOHlCXzJzRGU4T0VfSHVSeURuU1VzNkdmNTB4a2JrQW82eVB0LWNBX1ZkWVR6cjcySW5LNlhQQ29qeDJrVVVBUQ?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T17:01:08+00:00",
+   "extra": {
+    "publisher": "Amazon Web Services (AWS)"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Cato Networks offers $30,000 to hackers who can trick an AI agent",
+   "rank": 46,
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WOTNzWlRIZ1Z4UEFPN1EwYjhKYW4zUl9fSkpHalZUaENzc2k4bXZqTDJiNGZZRURYa2ZjZlhkejUwZWJ1ZnItQ1dsQkJfVzR4VGFRVnBiUnZKdHNmMlhFWGtYeVgxNDA?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T14:04:00+00:00",
+   "extra": {
+    "publisher": "CTech"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "AI agent Vayo adds travel booking",
+   "rank": 47,
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiM2hXR1lTOF9QZzhJYWxNWXlFX1RWcWhVUm1vZHhNQVV3NzloWmVzRE53UW5GNEUwV1BoalNvTkJWQVUzbnBnLTd2VmVfa09PZXN2LV9SMnJVUHRiV05RMzNZelVnTFdZRmprQ2Vjbkk4ZTZyNGVQOVJxT1pvVEU?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T14:04:35+00:00",
+   "extra": {
+    "publisher": "PhocusWire"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Apple updates macos security to address risks from ai agents",
+   "rank": 48,
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM1I2aGptdUlKNGNObkNlZ1NpRE9fTXplY2RRMmFfNDVDX1N6UEUxQTQ1Q3QwaGppVHhDM080YUFpQVdCUnFPYzVZcXQtclJicDBfdGlGbEIyQ0g2N0gzRVBjQlR5NllFLXpodHdzYW00THBocDZJVjRMQWlOekV1anVSTGRKSWlnb2J0RGg5U1BuT3B1?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T20:45:48+00:00",
+   "extra": {
+    "publisher": "SC Media"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "UBS warns AI agents could upend internet business models built for humans",
+   "rank": 49,
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCMFN1WFhoN045ckF2WThfbk9LQnV3NHUtbEU5OTZTX0pKLUlXNmd2ZG05SllZY2VzNHlpWm94bXE4c2Q0VF94eUNmU0VQeWVNNjc5aTY1ZXpkU0JqNHF6WDN2MW1xcWFLNU1uQ1N0UU9kRW9XcUNzNGVrTno2dUU?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T17:12:51+00:00",
+   "extra": {
+    "publisher": "Crypto Briefing"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "A Man and His Muse AI Agent Sue Meta",
+   "rank": 50,
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzRDl0NkZ6TWV6TjhtM05iMkloQW80REV4eDBfeF82ckhQcW43YlliQS1tMjAyRUljRl9nRHBUdEVMQ0hlQ281X3B1VXd6dlU0SE5meHVpdUFMQmhZWlR1eE9jdUJHUmFxejBybXdB?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T19:44:09+00:00",
+   "extra": {
+    "publisher": "404 Media"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Napster’s next act is teaching AI agents to be good coworkers",
+   "rank": 51,
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbk9HNVVNYWltLVk3Z2VqNnlzdDZTdW1NajN1UlBsdU9JUXQ4SmEyeElndmY4aHBqVVR5UUdxSnVYQUl5ZVl3SzhzdDZ6MHhhNnhrR0lBMzlRQjZvQ0hBbjRDbjFkZlhEb0tRXzdjcFQwbmIzcUJOQUlkUm5ucnFnUm03Y05ZNFB5NU5BeWlwLUhsS0ctNWt2NUZaSFRCdw?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T14:46:34+00:00",
+   "extra": {
+    "publisher": "Fast Company"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Apple’s Response to AI Agents Accessing Your Data Is to Scare You Into Saying No",
+   "rank": 52,
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZk8tZk1pSEdkYklPTTU1Sk45TnAtbF9FSm1WYTkwLXZ2dzItVUxxVEY4SFMwSUVfUUpkSkxTMDhYRE1KOUpDUGFBTXlXTlNiVFE0bVcxbF9pQUZPa0x3SFVCbzVlekZfWmJ3bzZlLUJ3Rm5LcktxdEFSVXplaU1ONHJ2MGl2RHhCWEdOTWlpeUFrWjFhSWtNWXh0OWVOZGxFYjhxN1FkVzZYZVRfNGIyalJxNTJtYVJWUlI4?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T11:39:06+00:00",
+   "extra": {
+    "publisher": "Inc.com"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Lightspark Launches Agent Accounts for AI Agents to Make and Receive Payments",
+   "rank": 53,
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXZLSHFQaDIxTjBUdVpjRkZfWG5aUlFOWXp0NDZFdkJCMTdVUXA5Z0JNLU16ZVlkNnB3em50UFAwNTNmU1paUEh5bHh5dnd6SzVIZzI5NGdXaUoydG0ycGVPaTRpYzNPNHZodjJ0c29Na2Q5VWZBLXlEalpSamYza2w3OXVmYnFMaXkwUnpqTkpNMmpkQkVBalo4QTF0NFpJanpHbGRFdWNpdzhFT2cteUt6NG9oLTg?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T18:55:55+00:00",
+   "extra": {
+    "publisher": "citybiz"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "With macOS 27.3, Apple Warns Users Against Giving AI Agents Full Disk Access",
+   "rank": 54,
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbWcyUzNWTHZ2N3ZINGVQTXpkaGZUdEk5WHNjaVBVdDhaUDFYcHpVX2N6eXNYODZlN0FPcmREbnJTMG5DWXozNTltWWF5WXh0cV9FTEkwVVFXcXlVanl4YU1aVjJSVVJpTlo1cWdHTFpBNXdYV3hLVC1Tc3dYYnJEenpxNjRBZHpJWFBoZTA4UHBSb2hoZWtITmkxYW9KRHA2UmJnMGJhOGM?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T19:37:59+00:00",
+   "extra": {
+    "publisher": "PCMag UK"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "California is suing OpenAI over its ‘rogue’ AI agent hack",
+   "rank": 55,
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeXdGZmV5cWFveWV6b2g2Z0J0WGtMZTYxUDdXamhTMkdPRVVrYnNEaU9Qd3pTRXc5emlJR05oS2hoTHp0MFlxTjlmS1VEdmFCSFNiSXVuSzJ4bTJ1WUs0TXFaOXdRc1hhYWI1UUd0dXVBdXVCU0lhYVhFOE5aWG1UMVVTUUxkSUVKZDFHX3FR?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T15:09:14+00:00",
+   "extra": {
+    "publisher": "Long Beach Post"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Datadog Brings Production Experimentation to AI Agent Observability",
+   "rank": 56,
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tTXZCc28zeE96ZDhBaHJ6WUhhaTlMVURkQm1IMUVGa2U1TE96Q1Jtb1N5cXo1UUhWamF2elR5WjdyX1l0T3lrcS1nNTdRVTFpQmJYVFJxZ1Z2c29CWGxZVE5DWTRhVkdPaHVUMVJiUEpwWG1r?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T12:10:16+00:00",
+   "extra": {
+    "publisher": "infoq.com"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "AI Agents Targeted Through Malicious GitHub Repositories",
+   "rank": 57,
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUHBUNU1URTBoU2tlTDNuQTM4N0hhV3lNNy1Xa2luRmRvYVNCNExFbnFhWnRRb2IxMVZIeVBwaXo3RE1mTEZVTE5IQVRlM0JmaW82cXctSURXVDFoNDUxUWNIOUZtOC05Rzk3ZEpPRzB1WWRPT1ZEOWliQ3lXN2dBYzJvZXl5NTJKdndsLXZCN01CNEg3VWZReHg2bDluS3VDclhwZXBB?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T14:39:55+00:00",
+   "extra": {
+    "publisher": "Bitdefender"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Building trust into every autonomous AI agent action",
+   "rank": 58,
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdk5IWnByemtCNXJNQnZSbEZ4TTcyRGVxYUFQUThPLTVlUlZObERiaGpQVXFvVTB3M0dSWHFONWFFWFhXMlhyX0F4Zm1IdmxpOUJWejlFUlpRV1ZRQmFwVXJtQ2FwLUliOEY1SlZUS3hkMGNvelZQVk85TTNCdnA2ME9SSnFwNmc1bC1kTUNibmhhMlozMG5PUTEzM1MtLWp6ZzZRWFo2Rm44NFpXTmJwMmpTWE9HOWFqMHRZ?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T14:34:53+00:00",
+   "extra": {
+    "publisher": "TM Forum Inform"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Booking Holdings’ AI Agent Vayo Can Now Reserve Flights and Hotels",
+   "rank": 59,
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU1p2RndyN3oyS2lETzRPd0JnTFRtblczQUs4ZDAzNXI1YUJmOS1sWVpMcS1xR012VUxNQ21uYjRIbnRJeVdqckxaQkhNaHNnQ1pLelVmMmEwUVpncmkyTnRIalV6T1RRZDBCRzhodmc4UHByYnphMl9UM1lnU2wwUEIyTXdyUV9YUHlySjRWYXJGbG16cTZvWkNKOA?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T20:29:29+00:00",
+   "extra": {
+    "publisher": "Skift"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
+   "rank": 60,
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRUNYMngtOTB5YXQ0SWdaT3lkMUtDSjVTTFkzdjlwcFBfbkFfREptaHJfeG85Z1hhaTYzLUVEUExiVVdRaEFHa20xWTFnRmFRZzVqVG9vVlVWaHVmSHQtSjh5SG1JNnNZSnJnWTBXUjM2OEkxSVFCREFCZExHTXJzNmNYci0?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T11:07:00+00:00",
+   "extra": {
+    "publisher": "The Hacker News"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "The Trump White House is starting to admit that your bank account and airline tickets are under attack from rogue AI",
+   "rank": 61,
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWDB4WkxHdmY4UWZpLXItNGJFZWFQOC1UcElEdkRYMXJicllTMldKSDNqYzhYYTFZMV9UQ3M3dWhVSkJzNTBnbGRubWt2cElhc0RYcnRtVzFfV1BhRWZIMmFCNjh4SHZfLXlnazRoajQ1NEkyMTdYeU1vTFJURE9vWkY2NFFXd1c4dk1MRmpuNnRiY3hLbTZ3eEs3a1FNUQ?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T17:00:00+00:00",
+   "extra": {
+    "publisher": "Fortune"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "When AI agents evaluate B2B vendors, what earns consideration?",
+   "rank": 62,
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSWJtX05JOFRoNDFjd08wZ3V5ekRRV0RBcFhZb1pUeUNXbkJjZVRyNXI4UWdFMDAwRmlkWFAwSi1NdDdsM3E0V2FOWUNqQTVWN2NCTjBPT1UtUTRCNWJ3dTJON3lXUi1wNE1hUWwzNWVqZW9DdlNJcVVkQldUbk9zRDZNTElRX1Vy?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T13:01:19+00:00",
+   "extra": {
+    "publisher": "MarTech"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Salesforce (CRM) Could Be 16% Undervalued As AI Agent Fears Hit Software Stocks",
+   "rank": 63,
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd3BBazFjRTJtNVYxaktDaWJwVDZPMjBFNzY4dnpqMk8zR2lVYThLcGFQN05zR2dwakR4dzk2ZGJweDBqQmlodGwxajYyT2ZuYW1oWmFSdUR1VFQzQWxsR2JWb3ZPTEVVbTEyalRkN3JoTlNxdm9xN2Z4OGZHcERBSjlYWnp4XzdjdHlkVHNfMlRwdWRJTVBBcFVISXg1cnRBdFE?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T17:12:44+00:00",
+   "extra": {
+    "publisher": "Yahoo Finance"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "BNY and Microsoft complete industry-first trade as AI agents negotiate Treasury bill deal",
+   "rank": 64,
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVlFNQW5URlR6LW1mQTlNb2hWUGpsUVZvakNxWmsxNUttZkxhd3ZzMjJ1QUlfd2QzYzJpLVk0aHVySF9rUGF3SDFuX0gzNTg2TzV6NVh5U25nM2NTb2xvY2l3TTk1OHBLQmdSaTVHdG9fMENuaUU5UE95cF95VmtkSGJQa1Via09vb1lLaUtR?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T17:30:00+00:00",
+   "extra": {
+    "publisher": "The Business Journals"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Twilio Adds Production Controls for Voice AI Agents",
+   "rank": 65,
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd3M5cFc5cVhLYk0xdzY3X1hGMlJwQ2tHTlNOcVRKckxkT05MWktQMEVJb0Uzd0FGRWtWVnhyaTIxaVI0MUM3LTY5X01UczZJel9tZjk5UGtSRFFmSm5zMWFYNUgtUVBVQ3JWX3NmUkpHVFkxZTAyTzlERFdDRTNSRmpBY2IzelRYdms5X1ZkT3JodDJWYkVueDRpaW5HbXpsQjZGTndTYw?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T15:55:48+00:00",
+   "extra": {
+    "publisher": "CX Today"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "The Big Five banks are putting AI agents to work, mostly out of customers’ sight",
+   "rank": 66,
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGFuaTBVZmttWWVWeDNyNU1fMmFsUUlteHF6NHgzcGR1Uy1VR21ITGFRZ21KaFlfOVRhcG1JZjVPLXJxdUZ6bnhWbS03eTFHZ1ViMFR4WFBnYnhPUUtPMjJvaFhoVHdjV3FxZF9KMENjUjdYM1pab1dhTUNxZ0kyeV9idWFCVWJTUGNKU2QxYW0tZ21na1dqRDcyU0ZaQnM1eTFYYjcyZjhEMTA4SHI4R1BrWGw2VXUt?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T13:11:32+00:00",
+   "extra": {
+    "publisher": "Tearsheet"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Coinbase CEO says AI agents could handle nearly all transactions within a decade",
+   "rank": 67,
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mcjNoSDl4Rm1iN1VtOWx0UEh6Q1ZqSWZHVmF6YThNSFhyeXdteTNQejV0cnJ2aE95MXRYem9wVVRXNjJ0UHBlQnVIcEMwQ3gtN0NNMFMxMGJzeXZ4elNLakRQQ2ZBamRLS29SdDVoU0NIalZ4NFU3YjlmZGo?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T19:50:13+00:00",
+   "extra": {
+    "publisher": "Crypto Briefing"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Databricks Grows Canadian Business More Than 125%, Commits to Training More Than 50,000 People in Data and AI",
+   "rank": 68,
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUlIxUEk5aFNTZm9OZnRKMXVGbGNqbmxxVWRGOWZaSGRWZDdKVVVZUExEeDU1N0c2bVBxRy1JVEctQlYtSjU1cnFUWW1GQ3V0UUtzUmtGeS1LYmNJUUVVVEwzREZoQ3dWX04tWl9iQXNhRWNnb2dOamhFSnU5b1FCZEhuZEZQaFdfZEJqOTNUdDhuNTJqb29Ic3gtM1o0aFpNX0FORFF3M3A0SURJZm5Cc09TQ0pUOXNhbU1FRWhIT3ZZZFRZQUE?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T16:59:29+00:00",
+   "extra": {
+    "publisher": "Databricks"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Vulture Labs Introduces ReachAgents, a New Medium for Personal AI Agents",
+   "rank": 69,
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeF9PWGVWVWlvRnJsTVY3NS14MnJvaDdaMjdUbEhDY2pWNmFpTm8xdkwwVzZKaDhKbXdOQ1NMNDU1djRsV3llUjhDVTRQd1hxNUdoSnlKQWlWVVluY3JUbWRDWWdaT1JXS19zVVcyZjRBQ0YzakZKVHZaMF9BZHgwZVlCUjNDUnFFcmdJY2FQZkhsRC1FbUxuNHdON24zX3d5V3d2OUVRb3pmNktURFJaRERTc2EtTHlYM0FkWWZpLW03S04zV0czWVdfQQ?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T17:40:17+00:00",
+   "extra": {
+    "publisher": "The Courier-Journal"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Fountain Orchestra Lets Teams Build AI Agents for Frontline Work",
+   "rank": 70,
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWnhXamVTMDkxZDR1YjJRVXh5c1ZzX2JPWHZWVVlLbzFybElieGRRbzBGTGs1dVFJRkpMQlFPUE5DYldiSXREM0xucGxydEh2cnkycjRFU1lJTzRWamJmbVNianZZSm5xN3gtWHoyQ3pOcGZ3aVQ4OW1temdUNld1Qm9fWjdhNFF0YU1yZXNWaw?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T14:49:01+00:00",
+   "extra": {
+    "publisher": "Unite.AI"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "America’s AI agents may be helping their biggest competitors without realizing it",
+   "rank": 71,
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzh6SER5Q0VQT1RLRTNpeTNUS0dPWjR6MWlFZmJGU3lhU21Rd3VHS1R3S1hmd2hldTJjSTNIU2t3UXlNNWN5Q0R1UUF5ZlpPTmthZFpJaGE4dzBQaG1hTHZudmpTQTYyUk1kWk8wT2h1RjJFRGItWjd2dGkxbk5ZaGltMzBpWHlVcVRJN0dnSmNUTlJtUFZGalRlSktXdGlBX01YbkRjb251QVd6VzItT2NsXzlyTGxZZlNaRFVR?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T17:09:01+00:00",
+   "extra": {
+    "publisher": "Digital Trends"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Plaid launches Agent Detection for AI agents",
+   "rank": 72,
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQelhzNTNYbEkyVi15SmhnLXVVY3V3ZGNyckNMZXpBNTRjVnh0Szc0bWtmX0kxTVVpeThxS24wVUlpdHM4RlhVTHZuYTlLcUdLTFhYRm9oSW9yQ1ota2xaY25Pck5oRjM4UzVDMHIyWkFGRTVhYTNfRUlYZWk3QlBveC1fUDE5WDFSWTRHZHdralNuSndESTVldUxocGlQZHVjR1VuNDNXSmRWN28?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T15:48:31+00:00",
+   "extra": {
+    "publisher": "The Paypers"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Data intelligence lifts enterprise AI factory accuracy to 94%",
+   "rank": 73,
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPczRacUcyc2VKUjJDOHZKRU9zT3JZX2IzOG8yUVBxYnNMRnFodVVkN21WSjRWZldtem9xOE9yMGlPMTAxdkFmc0VFM0tXUVJ5bFgxZVFlYVlNcVdQNmdWNGVneldZLVVLS1RSWDdYT1NzOEc0b3ByNGtxWm9PRnBaeno0VXo3d0VyeWhJSFV6aldLNnBNdy1PSkMwU3pUUmdOZkg0Qg?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T18:19:00+00:00",
+   "extra": {
+    "publisher": "SiliconANGLE"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "California sues OpenAI after autonomous AI agents allegedly hack platform",
+   "rank": 74,
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OeHZaLWRKbVRJSXdIX01lZG80Z2pFV3JoWXJWWldmV1JZcDVCME53X2owb292aVU3WTgxQjR0aEo3MWdYak45ckgzWXE5blFvSDgyUFNR?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T17:32:44+00:00",
+   "extra": {
+    "publisher": "Fox News"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "The death of the internet 'built for human eyeballs' is still 'underappreciated' by financial markets, UBS warns",
+   "rank": 75,
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaGs2N2RDMTJ1WnFRSS0xQmUtY2FHS0xleGN2YzZXR2UyOUtZWjdHZHVKdkJ3Z29XNEdhcmZ2bEV5QV9PNlF4U2tNN1FxdXluVmFHTGtCb1FVQWUxX1hRNU5sSFgzWEQteEhWRnpHYS1TbnNIYkVkSlFaMUFRQnczV0pLNE1wNnF5bEs4?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T15:11:00+00:00",
+   "extra": {
+    "publisher": "Fortune"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "40% of organizations struggle to retrace AI agents’ actions",
+   "rank": 76,
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbXZxMVI3QjlCYVMzQzI1MnJUb3dRVUcyaHl2Q0FCLUtvR2V1QWVuQWpBSk5feWhWWFlSNVpSOVVXVlVRRHBLUEl1REN1RkZSS19LSThYaUt3Z1VBQlZuelJ4VkdVRnR2WXJYTXJ0Q1J0MHlFa3JObGdFdloyWnYwMVR5akw2VGxPY0JRRmpIcU8tdnJVUEpzOQ?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T05:30:58+00:00",
+   "extra": {
+    "publisher": "Help Net Security"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "California Sues OpenAI Over AI Agents That Went Rogue",
+   "rank": 77,
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQjI2anF2RFN4dGRleGRDdy1EYWNreXEtMGx5Qlp1R1NfbTVsU1BsdmYxdUVMME1CODZtZkdTUVNvdzhldFRxclVWS3U4SUhNU1pSMXdDRUpLR190WU5IZFRndDhYM0xFYzI3Z0g3MEpLUXpueHFiV05sM25oVlVJV080bGpLN1BhNEVLaXVwQlNpYXJ6RFEwdHhrSzFNSWFwcW1n?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T15:57:24+00:00",
+   "extra": {
+    "publisher": "La Voce di New York"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Google warns hackers are using AI agents to launch cyberattacks at machine speed",
+   "rank": 78,
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMHRiYVB5X1RIRnJVZlZZclBxS1RSM0xkVXdldEd4aUZvNkE5T1J6MFFVXzE1ekNIRTg0LWtRV2VldnFKM0ZfbnVwTzU5YjFkQ3FpQWZRa1Vnd2VzVjlGbWl0QlJ3dE1uRlZfNmwyTmNvbERvcFk5UWZ0TUJsejhvZEx2SHJFdEZOMzd3TWRQX0ZwbzIwZndsT0NDclB0c1BrYzd5YUZZQ1JtbHQzV2xjYnFydV92WWZLbUptb1oza1NCelE?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T14:52:17+00:00",
+   "extra": {
+    "publisher": "The American Bazaar"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "ReachAgents Brings Conversion Campaigns and Memory Leases to AI Agents",
+   "rank": 79,
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYjE3Q0F4RDYtZEs3RFNRTjNzMWx4Z1hRRTQyaVZ1a0ZuRjdxdUVMYXMzUjZzLXU1WHBmUFZHTFU3dHBlRnlldDk2NkdEWkpwa1NYYjhDLXkwalZ5cnpLQWpvTVQtZjlaNzNfYzV6X2k4bURXUXA0Ym9aSEJrSkNzSVJfZFpESkZLTHJ2ZFJ1OVAzUlgxNUZsNlVyOXdtZVJfcFJ6Mm9UcE55WUlNbTBzSmFkaWVvUDZYNXdjX3RiWDNibk4zS0xSQmJ3?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T17:40:58+00:00",
+   "extra": {
+    "publisher": "The Courier-Journal"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Microsoft’s ARM-based Cobalt 200 chips go GA. Why it matters for AI agents.",
+   "rank": 80,
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fWVZIa3d5d3BLQ3NZY2RxSHl6UlA5bjQ3a3h0MmNOMnJSS0diUENfeW5adjBnSGtsb1NmZDVnNExzYXQ2YTA4QjBVazJjWVlKajNLVm5hT2dyQ0k?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T18:45:10+00:00",
+   "extra": {
+    "publisher": "The New Stack"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Daydream’s New AI Agent Can Shop for You While You Sleep",
+   "rank": 81,
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNckdGVnpkNDg3SXlWR0s1c3hldUwyeEstaWdjbEtEcUwtanRwc09RLVpybGU2TmxBdmJrYlJETWxUOWRMQWxaX0VGRGhGNTRpM3ZYbEtmd29hSGFyN2Nuckp2TW5FV2Y3ZFZ0bTNhTlJHRmF4aDlzX0NuLUxvUlIyOEUwRFlVZTZ2TUI0bVpB?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T11:00:00+00:00",
+   "extra": {
+    "publisher": "Vogue"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "With $5M in funding, Pretxt launches runtime oversight layer to supervise AI agents in real time",
+   "rank": 82,
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONGtyVzJvTTNLeHQ0azgzT3gzRk5vM01tcjFxbVE0RGNvR2h5RGR0ZlQ3T0dCaDRpUWdaRExMV0RNSm4wMkIyNkxkZ0taVXI3VzNpd0hPRnFmTDR5S0dNS0VtUWk1bm9WenEyNTYyU1U1MlRibmxUM1BWRHVKNUs1X2FnZmxURlhZRDd0d08yekJkYlBEckwxY2Z4aGNkY0dIbzlzWXkzRzdRaldfSUxTdS1DN1d3YTRhVFZTakxHMFhTbGwtQkNTdzAyNA?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T08:00:00+00:00",
+   "extra": {
+    "publisher": "SiliconANGLE"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Something keeps showing up in AI agent deployments",
+   "rank": 83,
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XMTZEekFMaWQ1TVQzd25YU0RhZm40T29yN0hxV2VMTXVDQnZvWUdGaUZGTWsxSWRuTENiNmJuY0tXWUotMHFDZ3ZiZUZQRjZmZWdqbzI1NXROYXc4bFpUSnVPN2hPcGU2OG96cG1sV01JZEU4dlZV?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T14:02:21+00:00",
+   "extra": {
+    "publisher": "Gradient Flow | Ben Lorica"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "FIOR AI agent gateway receives UK cyber resilience assessment",
+   "rank": 84,
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObVNITDBBbnVoNGxEWldVb2UyRHhoazdZdW1UNEFZVUNxX3pBT3hWZVlWU1liY1YxZzRMclp1RXFmZ184eXJ0SWdWbnNPQ3dxYmVHS1Flb3B1R09wVmRSZ1J0LXIyc3Z1OHg2SjNzSnk5M1Z5VlFhSmNGRGpNUmJNb1VhWEI4YWRRWkNWMEJhSk1lbzRUdllHZFdId1phWHJiOVE?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T15:40:00+00:00",
+   "extra": {
+    "publisher": "Biometric Update"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "MongoDB Acquires Firebolt to Expand Real-Time Analytics Capabilities for AI Agents and Applications",
+   "rank": 85,
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONVdhTkNtLThsWUpkTmhZd0hBNG85QjB1bGVCNUlDMEVucmlNSDUta2VyeVFJS1BUSk8wbzVuYV91TWFfakRjdHhDTDBZSlJ5UFFVcWRuaUJlUGFnZU4tbFNtYnNJa3c1UUoxWld1cWJXWGJraHdiUUxOQ3dUczdoYzFYYWhHTHpHQ1l3NUNvSFdQUkpXSElqUVFackZ3VFpNOXdGZmdmczBtMmUyVmo2Q2xRSWk2V2JDN01QaTM0VE9pRGI5TzVVZnNKZGRISXo3SWRfYQ?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T17:14:32+00:00",
+   "extra": {
+    "publisher": "citybiz"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Runtime: Microsoft wants to be the safe house for enterprise AI",
+   "rank": 86,
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHBkN1NHaVp3S1dzNlZGZnpZVVFLdWR4MUMzSXR2UWRMV0l5YjkxWXJmbGZaSzc3dm5DMGRaN0swdEVFeUZUV0hURnJ6dm9aTDljZ05SYmcxbzk2VTVkM0g4cS1yUFNnVFpFRzlhcEF5dHpqSHpQcU13eWNCUDlBZS1TX0hETXhLOW1DZTFQOF9GSWszaG5TV1ZXbw?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T19:57:13+00:00",
+   "extra": {
+    "publisher": "www.thestack.technology"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Google Buys AI Scheduling Tool Howie in Latest Agents Push",
+   "rank": 87,
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT1kzVEZhblpFR2hKNEFDdmNmTzhaT214bUprV29XOGJ6dG8yTzh1Q05FTldqak0zTFA4SXFMdllIeHI4aDNnUFRFUnBJQld2WmdMazVGRjNFYk5FNUNjU1FiWWdQV2FDbzlCV3haRzFsTEpQX3NPdmJpZUkzLXlVUTZyVHUwd1JiSWN1NFRBZTlzN1lEWVFjVWZGbEtjbzhJYVRWSWcxSHdDZnFkaFE?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T16:11:36+00:00",
+   "extra": {
+    "publisher": "Bloomberg.com"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Your next holiday shopper might not be human",
+   "rank": 88,
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObC1HNUlNZzE0dF8xUWJhSk5sU2tDMnUxQ3NRcThEOEY0SlktX3lWZ3VtNmUyT3hQTm9WMTFSdVRyellkNkdSOG1ERnVsN1VnOFkwOUo4cVFLQ0xBOVk1QVM0M2c2ZGJvWmZ3N1I2aHVrYVpSYzhxc2s2UVVmcXdtTmEyRml4NEJVb0pF?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T15:30:00+00:00",
+   "extra": {
+    "publisher": "VentureBeat"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Appian Launches AI Agent Control Plane to Drive ROI and Safety in Enterprise Automation",
+   "rank": 89,
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUjZyNkdmaDdXMklwOUpWRV90V1MtZzg3UXVXNVNNdWlfeG12MUVKTEtQeHVRX3BGTEZnNTRuQ3V2Nmh2bUJnZkJtaE1HMkMwVzRRaWhqNldvVzBFQlRvVGtzMF96NDRsa3lqZXpUb2lmZjdKbk1zN1ZnN2d2dFhiOTI3ODByR0RxaHpCLQ?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T16:17:44+00:00",
+   "extra": {
+    "publisher": "FF News"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Axios CEO newsletter: Reining in AI agents",
+   "rank": 90,
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tLXk1bHQ4TUZMOVMwcGVuVlgtMkdsaGs3Q1N0MjhqMWhNb2hQRzhITTh3NmV0X0pfN01rZ1JrUHJMcC1QZUNTbGZVTEktS0RaZl9DMmEyRzBMNzRYcGhQQnhQdDNiVEo4Zi1NSTNjSEpHd3J4RDVLNzBKUlg2Zw?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T06:05:52+00:00",
+   "extra": {
+    "publisher": "Axios"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Webinar | US Banks Detect Unauthorized AI Agent Access. Who Controls What Agents Do Next?",
+   "rank": 91,
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnV1TEVISFdrQzZIZko0dW4xWno2eV80cWQtNTkybXFkMmsyckRqQy04clpCYmtUODBndWtCQkhJV2VSV2gtZUVlRlRhdHU5bmpVeDJIbEc3NThwQXg0QmlJN2VKR2M1OEMydG44bVY3cXowU1MyeFItMG1CdTdMckFhUzBpLXZBTTlJRHhIdEduLVZLNFZsRGJtVzVzTmg5NXZvdFdMc3RVSkRDd1J0OG1FR0NlSk1reWxr?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T11:58:42+00:00",
+   "extra": {
+    "publisher": "BankInfoSecurity"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Google Labs is buying an AI email scheduling startup in its latest agents push",
+   "rank": 92,
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IM2ZyQ3hMbGJUbGhjQk10SHY2QjZuX2pnX1Y4dWtTZDI4c0VPTGhCUTJOUUs0YnZ1Zm4xcHMwSWo0bk9OQnVTMlNvMktvUWJ0NGI1Q2tjLXQ1VDNReGwyTVpLV3VCb0xHeTdpd0h3?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T18:34:02+00:00",
+   "extra": {
+    "publisher": "Quartz"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "California Is Now Suing OpenAI After Its AI Agents Attacked Another Company",
+   "rank": 93,
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSkoxQlNMQV9aNnhUQ05SOFNFaUI4QkZtbkwwRm05UklXeGpZei10SkNNMHBfdFBUWkgtUXJScTFZeU1PRnl6dDI1Q3QxdUw3N3lYbURfYXEwazVveUpuQ0pINkNzbW9fQWNDMDQzSXozU1VpSjJ4Q3pId05OR1pzMjFRU1BFbjdBdXV0bEdaOGRlQ0pDejhnQVRB?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T15:31:03+00:00",
+   "extra": {
+    "publisher": "Yahoo Finance"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "macOS 27.3 gives users more say over what AI agents can access",
+   "rank": 94,
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd3hBa2dDUVM5b0JtTVpoSDhaQUctQUN6b19iZFNHQkJITldUOVB1d1lVTTNrSXlEMnIyanp5SGhRY3R4TFc5UlpWemwwUE13aTZUZnJZUFE4ajJUeHp5STJLYnp4aVVBVHdKUEx0clpody1Ud3lUQ0d0RV9JUUJTV21VMA?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T13:25:01+00:00",
+   "extra": {
+    "publisher": "Cult of Mac"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Incode’s Know Your Agent Controls Access for Customer AI Agents",
+   "rank": 95,
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUGFaeGtxcmR3dEd5dDJqLTZONmloTzM3ZEJEUEhpajR0TGxKSU92TURfbkVGdlZhZ3B1bllJa3c5aUV2UnhPOUJfZnBnNlZQVmlielZ3c2tjeXhyNXpReDQzWXZFWEItc2ZVUUI4d1RPc2hENmtHUmRIakc5Mk9KalNiZmx5dUkwd0NnbQ?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T15:11:03+00:00",
+   "extra": {
+    "publisher": "Unite.AI"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Google finds AI agent writing and launching exploits with no human in the loop",
+   "rank": 96,
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObmFLRGNrSHBwMGRXVi04amxQUkd4QS1KQVU2anBuc0poYW1iN3hidU85aGhJeU45WjFPWERybmlISkZNaVhJVVFLX250aUlMM09UY0F1N1ZUdFNzaEh2MnRlZ1BYUFpBVGNHWEg2blBHanpPVktoN055ZmlESC1BOHp6eUVYUQ?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T08:45:24+00:00",
+   "extra": {
+    "publisher": "Help Net Security"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "AI agents are a solution looking for a problem",
+   "rank": 97,
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdWlFM1lpSHNOZC1aQ2ZqTnVzMWhEWTRYcDNldFhyMGtzNjhTZWF6aUFvNGZOcUh6ZG5jdkNqZ2t6eVoxakVHVDhDV29sTm90dlVPbWVKVTdLUW5BRkhDM1BFbnQ3SmhZMTlrY0prLUppeF9INzFMT2pZQ19fMUVtNHh2blEwb2I2Q3BWaXhVcGN5N2Jhelp4WlY5akJYSFhVUTRnaVkwSGtmbGM2SU9lS1p6aDFrQ2ExMk9oX0hvZHJ6cTFiSmdUbFE2dEotZw?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T19:24:00+00:00",
+   "extra": {
+    "publisher": "Eagle-Tribune"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Nvidia at SC26: Agents are the new scientists, and they need a lab",
+   "rank": 98,
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNUJKZzcxU1gxZ21wNDNUckgzcFRMUVpZZVlYMGRwaU1QelpnVWFWTmJzSHNGZ25senBfY2pjNUU3aGwtc3ZVaVlGWFdXT0VqREJZME5FTms0b3ItZkNFVmFiZkZnbUhKYkF2T0oxalE4YVM2cWs5RThFbFp0T2ZLazlULVA5YjZ3M21OeUwwa0JuRERINENCNUxKWUVqUV9oUGJ3?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T20:27:00+00:00",
+   "extra": {
+    "publisher": "SiliconANGLE"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Google finds AI agents autonomously turning patches into exploits",
+   "rank": 99,
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZTVycE5iNFZxeENQUWJiYmVOU3hkYWduQ3BZY3BTMHZGZXlkOWRzTnZpc0pCSjJVN1Q3bUx3aWY1NDhfTkFBa21zb05jMjdrRUg0ZUh6azVpUHk5ZkhNNUFzcUFtVGRYQWRwdW5OTW1kS2p0dlFnTlRqVS1sQVVFSERDNGg5ZzhMbkZtUkxKd0ZzMkpFb1Joa2NqOWU1cWdDS1JKekdzRkc?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T11:10:52+00:00",
+   "extra": {
+    "publisher": "TechTarget"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+   "rank": 100,
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QWWU3aGFiSEZaZy1MSTBMN2J0eVZjQWRCSGhXVGhUQ0Ffdmp0X3R2UDFzVnV4VU5tVHlBbVBFeTR5VGFVRG5Bbm1qeHIxbXpYQ2FBWnZ3MVJCUU4ySnRIcWJIeUJQZGQtVFlpVF9MX0NZUQ?oc=5",
+   "metrics": {},
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T18:58:01+00:00",
+   "extra": {
+    "publisher": "The Verge"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "A job that changed me: Washing hands at a luxury skincare brand, I learned how fascism could feel ‘aesthetic’",
+   "rank": 1,
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQk5xdnlYanpaSHIyREZ5cEFmZUloaVk3RXpDWm1KZVZueXdCdFVsQzJiNEVrNXg1Q291NXdvZktYaGxEVmdPVTdPejhBZVlPUF9kNWZqVkxFcGl2LUJvQnI4WGxBT0hpTFN5STZONUZwYkRtakpTVWtkT0tKQlI0alg0eFUyYU4yMWY1OWxGVzk4dVNzV2VjSDJtOGRBSU1KSjQ0U2dtc2VtTVNUX09Fb0pqOVVUQlMzaE1QT2lfVERmeEpXZHNmSTNLRjFucU5jTXE4aktMckhaMDlLSXdkWmx5Z3EzX1FDbXJlb21mRQ?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T07:22:00+00:00",
+   "extra": {
+    "publisher": "The Guardian"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Shop Smarter: A Dermatologist’s Guide to Skincare Worth Buying This Winter",
+   "rank": 2,
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTE9XSFA3SlNTcDhmdkFUT296UDJFSzVFTUVPd3owVWJxbmFpZUR5RmhwcVdNd2xNc3c5Vm1Xc01PNDlqV2x4WXhkSlcwS1BPSzlkTDhyODk5OFN0TGVYcXNjZ0RSZy1LZnlLU2lMbmZuNS05MHNCN0pHMFFWanlUd3RmY2d1MU1tcXI0RlhsU1lxc0U1bE13RXltTlAxODMwOEJVc3YyMEstdkpMOGY5eDRNMk8?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T18:53:13+00:00",
+   "extra": {
+    "publisher": "KTUL"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "The Skincare Obsession: Are We Forgetting About Skin Cancer?",
+   "rank": 3,
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9keU1CcS0wNHZCcGxtN1ZQaWJQR1QzZTAxb09VQmE1T2w4elloZzE2SjIxSERyTG5PdWlLUGRJMGQ2aW5DNW1TSGF6X3RwY3kxZ3FCYkJKLVY?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T16:30:53+00:00",
+   "extra": {
+    "publisher": "Oncodaily"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Skincare & wellness finds for generation alpha",
+   "rank": 4,
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaTZMalRuZnRZcDVDWEt5c01jbC1WSVlSU3VNYmhTQWc3R0VkMzgtaDgxZU1UdGdZSzJDR2Z3T1Fhd0h5OE1HZDVrVG11QXBZeE9KdXNsMHZHeHNQWVNaanVmd3B6REpxWDJVT1V3ZTEtT0dMckF1d0F0V3oxNHVxclp5R2twYVpHTmRxeFNCQzdzRnlhSUFDN2pHYUhvRlM3c0FWb2dZaGxFOENnNEJUVUxxT0h6RXRadTBNd2JPMmdwd9IBygFBVV95cUxQa0h2M2xNOW9lcEV3dnY5V21TWGlFLVJpRjIzODV1bFppS2JaVUZVdVVqRUFnVUFlM05KcUhaZUlnMzlRNEVXZ29sc1RhV3VEUmV4ck9pc01hN1EwTWFWVDVlYWoyVUZCbW5FbENiSUxQMXlwbW5EeFk4TjVqR182VFlkR1hzRkZRRUV4VDBsUVRYbjhILVhOU1J0WVIxY25ZVm9SM2ZqRUNuVld4RW5IVkRCNEZxRFBCQnpicVdkajBhNTFLMkllcU13?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T17:58:27+00:00",
+   "extra": {
+    "publisher": "NBC New York"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Plexaderm Skincare: Thanksgiving Special",
+   "rank": 5,
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQR1pZdjRqRGE5RWNVa2V4Q0JqenpVMnlHYVRiQ2JLR0Q1clVUTE10Q05paThnUEtFcmRKVWIxZzNQX0Z2Yk9vZ18xNlhhaGt1ZVF3clRJSTlGVy1CTUFIdC1Yd0pISnJ3bzdhWDlTRTNQNU9RRFZiX3FUTU1Gd2ZYbHNaNGJGcUJNV2xwbjYzOThBS2NuN0hJNEpSNm5qLUhRT2xOSGRVMElOS0V2dlR5enNuZUZwUzFRam5jTzV3aTk2OXk3a2I5emVwblFCYjNITTgyV0E5UTFnTkJQbzFOeElMWWJPVnpOUVF4cTQ4b0d6Zw?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T18:39:00+00:00",
+   "extra": {
+    "publisher": "firstcoastnews.com"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Best Black Friday Deals for Self-Care of 2026: Beauty, Skincare, and More",
+   "rank": 6,
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yRU16Ymx2VUhZVklaNWh5Z0FlUnpZb2l0Sk9aeW1aSUdUT2laTGdZUmIzVjFwNTFJNUx4VHhDX1NSeU9IZ2RuTEhicjM4TkFZN0Rjd29QV1dTaTV0V0dRdzRTZDVlQ3F4eEZ0VlJn?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T20:04:00+00:00",
+   "extra": {
+    "publisher": "Fortune"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Concealer Market Forecast to 2035: Demand Accelerates on Skincare-Infused Formulations and Shade Inclusivity",
+   "rank": 7,
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeEcwRmtza25vSlpwR1pwOXRtellsOVdEazhIeE9lTm5xYUloRmxCVkp3S1R1Zl9DOUY4aEVTc2VpVERkZ3FiZFA0RDVaMy1JRDU1TDdsLVJqNXlyRW90aGx5U2dRaExJZUxxM1Y5eExybVJVYlVKWHFfcGJnVk5qQUw2VmpINzhrZXhJdWFIVHBrMDBLbmJOYXNmV3ZueTQ3WThDMUxSa2pnSVNvR1pyam4zdENsOGl6bEJvaUdRUktIOUh0UVBJMnF5OV9uekk0NzlN?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T20:06:04+00:00",
+   "extra": {
+    "publisher": "IndexBox"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "I Test Dozens of Skin and Hair Products Per Week for Work—*These* Are My 11 Mainstays Right Now",
+   "rank": 8,
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CcUdtNFV2cXNhcHFQRkRZazFYMDBkOThJY0YwUkVCOHlpQkdhYXAxZTdYcnhUTjEzRzdhcmt5bkdKU3huZ0pyVlJ2T1pOckR3elJZanNyTTBIT0xCdXpVakFNSld4bGV0RmdVdzctLUdDVlVmU2Z1T0VDeUM?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T14:44:32+00:00",
+   "extra": {
+    "publisher": "Who What Wear"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Cosmetics Market to Reach USD 802.04 Billion by 2035 as Skincare, Fragrance and Online Beauty Drive Growth and Mega-Deals Reshape the Industry",
+   "rank": 9,
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbUZTUkd5aVZvSGRoSHVuNE1wOElfbVJMQTQ1WnpucElZb2psTDJwcGhHcnZ1LW9sekJGekFmQ0p4SGpkbno4RnZweG8wRWVaLXNrTk1wcTNrT1d0bzduaHpPMFAyamplNl9VSVpKWDBkU1dDV2ItTHU0anhXZUJoSVo2NjBhQU1uOTVVSWV0OXNOYkVCOGtQRl9Fdw?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T15:37:00+00:00",
+   "extra": {
+    "publisher": "Yahoo Finance"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Teoxane's RHA Skin Booster Advances Post-Procedure Skincare",
+   "rank": 10,
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd2xIMUNWekgtSWxnVG9jY2ZXUElTSktyOFBNVzVyVmJhcUJFVzN4Xzk2WDNHNkFqWkxuVkltQzFHRlNxSGh3NHJ5bUZVaUZRdGMzWDVvRVRQZHNEV3A1VHBhbU9JeFhkbUd0dXB3aWg2c3RoSmhZRWxTMHZ2UWtteGNkMXB1dWVu?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T19:14:29+00:00",
+   "extra": {
+    "publisher": "BeautyMatter"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "(plated) Skin Science Launches Exosome Enhancer Daily Prep Pads",
+   "rank": 11,
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOM0pHc2t1blJjNE1wV0dBbzZSVVZLdDN4SU9SX1ppQmxOUWF6UjdLZFdJYktGWjBObnAtaWxEZURlc1NhNE9veVIzMW9WcjVrY243anJFQ0RGRzM0TDNNb21Ob0VTVzk5TVdwejFlQzlFVjZlQnV2dUZ1dGNiNVl4YjA1R0VORjlYTDAzMFFJbXhCUUZyWVV1NUlZU3lKMldKdEdTSEgwV29BUWxPcy1PWVd4bEN1M1BURnVlY2FkRUtJd2pycjBzN2l6NVB6MXlpbzlJcXN4MVpvYTJWNHZ2VEh3?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T18:33:45+00:00",
+   "extra": {
+    "publisher": "Cosmetics & Toiletries"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Setú Skincare for Men Unveils Holiday Gift Boxes Illustrated by Peruvian Artist Kawak",
+   "rank": 12,
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQ1IzZTVQTHJQejZQeG1LN3FJaU9PU3dReld4b3FvSlNsSTVyQnhsZ0tLaVJLVHg4Y1ZPYlpmaG0xRXhrSmVHdzJOMTk2MXpJMThQaGFtdERnVm53Z0hudE9ScTdZWXZ4R2JwcU90Rk1lemFoZk4xUUpxb3F6dloyU3FDWUl2djRFOUVsQ0J4X0xHR3lYTDRnaWhENXJBX0RReUxwVG5ySk5pT1U2bWRRZnVUanRZYXB2XzFKNmk2QVJfZjhnanZua3ZYXzkzX2doNWtYZWFobTUxVms?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T15:33:28+00:00",
+   "extra": {
+    "publisher": "Akron Beacon Journal"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "The Skin Care Reset Dermatologists Recommend After 40",
+   "rank": 13,
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTk1zTzNxVWwwWVRYNktITjI2Rm8yNmhVWG9wRUhIN2lCa08zQWVKaVNfWFpFaUMtdC14UUJXYnJkNzBWYWxmZGF2aTB3MGI2aVZRakE0bXVodTQyaWxrLXllYXp6OEV3cDNONzFhM0RVOG5LelZpcHU4R09jSHpFRVgwM255ajNCUVZ4UXJUS25hMGdU?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T15:10:35+00:00",
+   "extra": {
+    "publisher": "ELLE"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Best beauty and skincare gifts for 2026: Ideas for everyone on your list",
+   "rank": 14,
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaENlY3ltWlhFVUhSeTV1aVBCMzNJbmFpRFBSWnZQQm1QRjN5QzVzWXgzdW1IYXJ5ZG9GSjdLZnVwQWhxcFlMQkR3dVU0a0xyd0lIRG1ZVFFZM3JqYkpwNk0tSnNVN0tmRVJ5VmE1cVQ4elozbk9SNlY4MTlLNm5oUjZ5TWRrVzljY0M40gGQAUFVX3lxTFA2QmtpSmMzOGVJbHdjR1VDUXphaGlWbkcxLXAxeTdIZWV2cWJJTC1kaTcwaWxZTFdYNkNpQjJkb1JiZ21fcS16M0N6cnp6UUExM1U2M2xwR1dwNTh3UkU2bHA3VHVUb215eVBuekFrVlZVaE5NZ0V0cmpaclhSNTBxVVFGSjFpYXhOZnpDSXN6Yw?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T23:27:23+00:00",
+   "extra": {
+    "publisher": "ABC7 Los Angeles"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "New From SkinCeuticals: TNXA-Shot and Phyto Corrective PDRN Serum",
+   "rank": 15,
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb0l4clFWc0pKNFFMWHRTWE1UeTZpMGxQR1dzajV3WHJzbXVxRHRucEJzNkpFWC1mZWNXYWR3dW1XOWp1LXRzUnl6Y3ZFOWdmTmV3MzBkemotVkZHLTVHT3ZOanExaW5zc0R5V1pzMDFwMGphbnNIR2IwWHBBc2VwQWhVOFpMc1F3UlNnWjRaTENiUFNOdmc?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T19:37:18+00:00",
+   "extra": {
+    "publisher": "The Dermatology Digest"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "CeraVe Takes Skincare to Arrakis with Help from Sandworm Wrangler for ‘Dune: Part Three’ — LBB",
+   "rank": 16,
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WR3ZsLTNJZ2VXN2wyZ0Z4UEdiYmhUOWoxTXdsbFd5MGVRaGM1ZTluYlMtM3FJZUR6c3dmbXpkS3Y2NGxPUUItZ0UzSnFBaDljSWJrTmR4LTJvdmo4UktNbi1yQjZCVVdOd3pGZ1BqZV85TEJrZGc?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T10:48:42+00:00",
+   "extra": {
+    "publisher": "LBB - Little Black Book"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "The 7 Best Toners (2026): Expert Approved",
+   "rank": 17,
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1leDF4RUVncTl4Q0pHWXhvRVJlVTlmbUZGR0RVclBfVVUtZUFSLUlKNk02QVQ2RExUVFV2YXgtXzBveVZSbEYyTlFUbUwtbGpjUEE?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T20:22:00+00:00",
+   "extra": {
+    "publisher": "Fortune"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Algae Skincare Products Market Forecast to 2035, Driven by Clean-Label Demand and Scientific Validation",
+   "rank": 18,
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVUJYUmdmTjFud0pQUEJiQjZCRFFSLTRaY0JpSUhRQjNCRWQ2clR1Y3pXQnp2Q0t4WnlaZldPbjJBS1VyMUE0SjR0VkVDcHVQeHJ2YkhjT0l3OW9Ga2p4UjV0LUYtN3FGcWdsWk1kMDJQdmg4MGwtLUtpX3I5TXRHTFNsRFZFTUtLME1hd3VlLVV2WWhjYWQtYUN2NlJQTExaZm02TEc3bUJhNVZKYzdoZ1ZrUzhhODJ4eG4waHdxM3UtZjRDMk1VU1oyeHU?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T13:01:04+00:00",
+   "extra": {
+    "publisher": "IndexBox"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Top Black Friday beauty deals on skin care, makeup and beyond",
+   "rank": 19,
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUDRQaU1sdzNVdUpDd3JieDZnOXRvY3duaFNtRkp2cDNXaWpwb1NHNmhOUXBmRmdQWHp3OXVkQjhkb3U4WFRwYkNVMmEwcGJDWHJ4dklZRmlOTUg3X29HMmIyZFE2bWZscVplX0pycDJKcmxFdXFBR1N4dU5jUGQ1bWpsVU4wMHZ5OEJTRkZzUdIBlAFBVV95cUxNSDNQV1NxUUg5b0pVZV9leTBjOEhiUmpOaU1vTFY1ellJaHB1U0FzbUFrclBYb2R3U3dIVGNYMTk2eS00OE01ajVuNHctWC1IbnljZFRrZXV2QlFQY3JvN3kwUjZpNVF5bHc3M19XZ0tsRS1Rd1psRzc1V1hBb09yOGhqMlhwc0FrY0o4bzdsTUNoNlFE?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T20:21:29+00:00",
+   "extra": {
+    "publisher": "Good Morning America"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Kids’ skin care: What parents should know at every age",
+   "rank": 20,
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04cDJPWEg5TW9zVXpMczVZbV9UQjF0WjE1c0ZiSndETFc2UHZXSXpHdWJSdDY3VlVDNnVmVFpsZ3RKTHRNQUM1ZUVlY01BVDNUbV9wRS1uT3F6R0XSAWBBVV95cUxPYmZEYjlPczhnU19EeTNBaGc5Q3RHUmRabmh5d1o2OVF0eDlwTWtyT2tLU0lsQ1NhTlc0clM5dHFyZDNTbTF2RGh2RkJpWTFqQXZBUEY4SFIydnVFSVphSnA?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T20:28:07+00:00",
+   "extra": {
+    "publisher": "FOX 9 Minneapolis-St. Paul"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "CVS | 11/16/26",
+   "rank": 21,
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xaG1Sc1h1TVBkTHJ0SkpBSFNPM2NRejZjQ05VUEI4WTJPWld6THhON1ZCNHc4MXJabnp5b3JWS21aeE04dTdxUklaQ1lLRE5JeWRfcVBRTUh0QQ?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T11:25:01+00:00",
+   "extra": {
+    "publisher": "KTNV Las Vegas"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Shiseido Selling Chinese Subsidiary Producing Aupres Brand",
+   "rank": 22,
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeFMwbEJqb1Z0RmkwaHRpRzFnYWZCaVc4NW9QX3VCMmRSbDNNQ2lWT1ZFa3lEM3d2TUtGTmUydXZWNFpiYUl3UV9LWUU1T1c3T1hoYlh2NS14UkxOOWM3Q0VfaFZob3dId1RxelRLUGF2VHk0dDR6SWxBbFhsNE1uQVpfbTRjX0V2VHlkcjFwTklUSjhLcTd2TVZnWHRKelhmVlVjTmdWWjN6MmhHV3N6Xw?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T16:30:03+00:00",
+   "extra": {
+    "publisher": "WWD"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "radford beauty: Where Skincare Becomes Part of the Conversation You Have With Yourself",
+   "rank": 23,
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fUUpuZk1VTkY4UF84Z1JHZlFMWEhVR1Y4cnk0dU9xNk1UY1RnU0txbTY4VGxyTnVRaGN2N1hBZG91SVJjQTl4cjVRVWVaYlJsTmxZbg?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T04:37:24+00:00",
+   "extra": {
+    "publisher": "Flaunt Magazine"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Only Page Six readers can shop TruSkin’s Black Friday deals early with this exclusive code",
+   "rank": 24,
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSFNWLXRIb2VLREwwVnRJYnZCanZ3TEMyNnRCeWdIOTBIRlIyN1R1TXBZamtzZFltY2tCMzRraVdBZTNrYjR0QkdyekVaSFZFMjVVOUgyRVdpbzN2Q0k4eUhWUUJLU2RGNHVoSW1xV3BUbXNQdWNfZGNDMUFZbXZVd1Z2eHRPMXQwZVJsTmJRbFYyR1ZERkZ3dlVZcG41Y09OZ2pRUg?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T17:25:00+00:00",
+   "extra": {
+    "publisher": "Page Six"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "RV Skincare Updates Labeling for Fermitif Hand Renewal Cream SPF 15",
+   "rank": 25,
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMWlPQ3o2QUk4aW9KVE85OXo5S1B2U1VSNElPbm9IU0dHeU51bkM3Q2E4bjVRNzNOQkw1NzhPWmtRZzhEaWF4MnhzcFFxN1kxcHdUWElzWkh4S0ZXakFIM2lnV0JhWWc1SjdkNnlhWVRrZlJwN0lzZWNyTDNBeDdkM3V2UC1OUV9EVXdOSzFUZVphbmdVVUVpUm96Zw?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T14:08:05+00:00",
+   "extra": {
+    "publisher": "GeneOnline"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Luminare Launches With Skincare-Infused Collection of Sunless Tanners, Body Care, and Lip Care",
+   "rank": 26,
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNclQ1ai02b1VadzZwV3o1SEI0Q2M3RUQtYUktb01zZ3p5VlVGaWU1aTNnZlVSMW5la1UyU05aMVhCYWt3U2NlWFRPVEFVWTBpdER2Q1lrbklueENSNk1FYXNWYjVfdkY3SVo0eTMxZ3BkZ3Z3YmY5emtSWnM5XzJ0OGNycW0xSWI0U1l2Q1RiczhrRTlGWFd5VmJuYVZkVVAzZnZJQ0hrM2lBZDY2c05GVER6TWNIaThGcmFoTXZjX2tMQXVLZ0U1dGV5UVZhejgwOUpLdml0OFRjUzlZMVpyVWxnZGdnZzMx?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T14:30:07+00:00",
+   "extra": {
+    "publisher": "StreetInsider"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Should We All Join The “Eat Your Skincare” Trend?",
+   "rank": 27,
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uWFYyX2YyNjA3MnRKSEpfeFY0UVU4aHhFbmxiRlFFaUxndGxVLUc5YnBRRlAzdWdRMU9GV2trZElBMzRSM0g2WnpZV0xFX1duVjlSd3hHYw?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T14:00:00+00:00",
+   "extra": {
+    "publisher": "Coveteur"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "RV Skincare Updates Fermitif Neck Renewal Cream SPF 15 Formulation and Labeling",
+   "rank": 28,
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTFZBUktkZjV0aE1qcjNDbzFSZUticG1TMVd4dkhnaVdsNW9kRTJmRnZMTlY0ek03aGY0VEJtODgta3lpTXNPUzdaOFFzdTlwNEo1bWtXejlmQ0tOMEVicnlWa215UlI3WHVzZWVYSk5sNGI4MlBXUkUtOHg5a2tXM1pzS09ISFdiczEzdWlMeVFFVmhlbjRrZXYtTXFId0tuSGk4Zi1hWjRPek0?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T14:08:05+00:00",
+   "extra": {
+    "publisher": "GeneOnline"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "“These are the skincare products I’m always recommending”",
+   "rank": 29,
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRk92WjRtNVdyM0dfUE9RWkdhYlVhUVJDU3RIaEpQR2FxaXpxQWxlNW1nQnYwdEJ0UUpuN1RielV5dGVKUWlJWGZoM0Nrb1h0V01vQy1DT0U4U3ROM0tDdzZZWldaY21IbER6VzQyWmZOX183TnhPT0pJTUhOWURZQTYwTXBKQzZXc0Y0eQ?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T08:00:15+00:00",
+   "extra": {
+    "publisher": "Stylist"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Dermata releases additional data from Tome skincare clinical study",
+   "rank": 30,
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUjZVQjF0bnBSMjdIR2FuZFd4NXM1VDQ2b3lYQm9aSmRockhzOV9NNUtranJmVDl4VWt1eEV2dVFlRmtrcWpGYURTU29YTThxUFNtdDlDQkxPOTB4SFFxNlhQSllRN1NkYmJuSUdqTmVzZ2xnb0hPOS1oMkVCbExnYVJMWVRyMTc1bmdlZHlOb29GUTZrS292NTIteUNMLVFJYkcwZnhhZEZnQUtxZXpScm1JWkFvanRVblZ4eG1jcE1FbVU?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T13:42:06+00:00",
+   "extra": {
+    "publisher": "StreetInsider"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "The truth about soy in skincare – beyond its complicated reputation",
+   "rank": 31,
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUjFHcVhocU5JX1VhaWU4ckpoZ0RIRVltQzR5NlNVNlU1ZVZJeEFPSUZuZ0lpUUFCYVJqd3NwSWtha09tdms0ZEhudXI0azFaRkVNejE4QjZfMllOSl9IMFJOeEZzdzZPdW8wV1lTYjRGa21SMWRlUEJDM3U5d1U5Mk5yNnE2QzN2eHJkUHJxX0d3blhmU1VhZk5TOWtnRmdVZXVnaDY0WmZJQUl6Z3JxLTBHYUlxSnF4am5ZR2F6bzJ2YnlUcTZoaV9mWFJROER4Q0QtMHNRVUJvSUFVdDBCb0JURFVra2ROWEJqSkh30gHuAUFVX3lxTE9adWhrakFmT1E4OGNHejhnR0M0X2FvVk1jT2VWYWMwYVRUM3l1azd2Nnl4cG5rUWpial9PcHhLcm4zM3hINjhCbTdEOFQwUFZ3dDZObHVLVTZEOHBYT3hIdTh4QjQ4UFpoRS1jQ2otMXdoY1VVSkFPTXBGT25VZk9sQ1hXYldlc1pobTljYzZLY0Mxblp6ZlRSN0ttZWVQeThXbDBOX3QxVW9Vc2dvYWR6czk3SUxCZkd3Nk9DTFVOTDR3R2JzY0lNN3A3QUU3dEZ4OHkybDk3STVXWExOb05WT25qcVVqSjVPMnpOQkE?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T06:52:39+00:00",
+   "extra": {
+    "publisher": "South China Morning Post"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Tate McRae Is the Face of Neutrogena's New Hydro Boost Launches",
+   "rank": 32,
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNTlZQlVZcWlrZWVWQ2hFR2t3LWl4dHJNZktqeFdiekkyTk8yb2Y0SE1NMG1GcUw5SjNqcFEwQlZIYzY2TTlqR2ZWYVRoUVhQclNCOU9FajhaN2tFeDVzNENfck93RUgxS0MxMkZ3VEJMQWR1b2VYQlJTWmptTVJZdHByT2gyTmc3di1zdEVFdEFiUFBTQjMzRmJmTDhPUldNck9pNlFtVXY4d19SQTRN?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T18:17:50+00:00",
+   "extra": {
+    "publisher": "Hypebae"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Not All Skincare Is Formulated for Exosomes: ( plated )® Introduces Exosome Enhancer™ Daily Prep Pads",
+   "rank": 33,
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPdlRLYUxWM0tQNjVKeTJ6UTZNekxZeXUtMExpdGlCaDBIc0VUOTlkWllkT09XRXVueFJZOXdBTGxDdlpzaXlmS1lXR3g2cm9meFItakJTRmxNTDJXRTNtdERFN3BFOUNIamNGbWRDUW90ZzJ0V1doYUdzTXdKT1lENXBPaWsycjUzUVNNU18zOGcxSFI5MjNTSThHQkZKZWJxeXBWSU5KaVpMbFBPUDlfMTNueFRsclE4OTlDdVJ5dWtxZTJCTUQ3MDFsbHhMMWg3QjJyN084YkpUb2VQUWF6WGZ0c0dZLW9oSnF5T28yTF9reWNPTkNpS1JUSjZ2UXhIUXBhZ3FmRWFaLVVjRHpPaS04aFNrV2ItU0h5N1RtZ0xNZWM?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T14:03:43+00:00",
+   "extra": {
+    "publisher": "The Joplin Globe"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Kamie Crawford Shares Glowing Skincare Routine for 2027 SI Swimsuit Issue Shoot in Spain",
+   "rank": 34,
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT0E4eUxQYjhLVWM1QU0zcnllbC1WazhvVFM5bnRQV2VlUlJ4Y2hVZ2VpNldBU2piNVpWOWdmSmlKbHRQc2lKM3YySVk3MGtsYi12cjZ1TlhhOVAyd24zYkFMbUZVRnJOMDI2cWxDSWk1TGhkODNUcWJORDdxTUliWVM0S1MwZw?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T15:00:05+00:00",
+   "extra": {
+    "publisher": "Sports Illustrated Swimsuit"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "This is the exact moment when women 'age overnight' - here's why and what to do",
+   "rank": 35,
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVmF2cnNWbGVlX0xwLVA3SDV0Zmp0WkxkTkkwdURGb1BNN3NfTG1YZVhOUjRVVUlyNXRST29fQklYeERDRWdOdTM0T3JrWmdSRXlJT0wtOUhFZFlEd2IwLWxFRWlhanNmcmk1MWFzUWl0aEJvQTlzcS1IdVhVaVI5LVBuSkYxSk1ENktoS0VIUQ?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T17:34:17+00:00",
+   "extra": {
+    "publisher": "Good Housekeeping"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "MimiSilk Brings At-Home Beauty Technology Into the Holiday Season",
+   "rank": 36,
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcHhyOC1kQUdudGhCbG1XTElqQVJkTUJMbGU1WmRpN1FLZE1fbnRXQWhqVzBFNnBqdHJYSWFvYk1raGxmT0t3VkJJQTZFWGFPYy1taUJfNFZIQmY2VEV0WTlySlZMUnNBVTdKeUIxcXdhSjlCdk93eG5XaGJTV0JHRXRNMmtFQ0JPTXJGU2ttb1ZFTDVyUkgtT2dHdE5yczJXc210MzJJZ2RneU5WamtSYjdnbFNyU0hQdFRUbw?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T15:31:58+00:00",
+   "extra": {
+    "publisher": "StreetInsider"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Beauty gets an about face with emerging options for skincare and wellness",
+   "rank": 37,
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNE53d0pxdUtRNkdLRmlPUEowVzRvc0pLN3RJeVFOVVBmdHI1ZEQzZDltVGNoV3dKaFhONWtoT0oybDdGeDRnMWRxTlVGVVJxNUJYUWVyRXBidXF0N0xzbEVWdGZRVFkxVHdLM2RGcjVfeWk2VXZ4Q2F5WHMzY2RZVUZmT1lZMTNvWWpN0gGQAUFVX3lxTE9YT3JiOFZNT24wWVhLaHJQRUlUcTB6d2VoQ0tKNFZWR2V2akdaeDlzMnRIQzlHWU5VU3FYQmJyMVBkM0hIWkRNMi00a0ZNZzJPemNpNGh4dWRfZmdXTEVYMXA4eGtNaXEzZ2JHeGZ0bURlUERqWGdVMkVFdDdWN0lJS05CV1lVbk1zMUttSVhrLQ?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T19:23:01+00:00",
+   "extra": {
+    "publisher": "6abc Philadelphia"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Gift guide covers readers, beauty buffs and tech fans on Living Oklahoma",
+   "rank": 38,
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZkNnekw5bkMxVXhubWhveDh2bDVmT3VFY2ZYd1RCcUdOVllDaUZoMk8zTUxXdlZ2WENUTEVreUc1R05nNkhpazVPY2RZVGFzWkhkSmVBX1pWWnBjX1hpNndnOWRUNlp1QnRJM3NWRDY3V29IZTdBSm1TVEdLS2h6V0JHYWlkQmRoalFqTzAyaXVLcHhFNGF5d0QwdHVMdktGTWRUbHUzbHVKeThhYk0taFVCeGlvdw?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T16:06:17+00:00",
+   "extra": {
+    "publisher": "KOKH"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "‘I wear it every day!’ The Trinny London products our beauty team have used until the very last drop",
+   "rank": 39,
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMkFPakRYNzlhTFYzUG42YnF3cmRyTUJReHl6LU9LRVhsS1Fad0NYQnpwMFl0Mk14R3VfQUV0LXlaaUVacTRISXBoZEJlb2NzaHZ6cHFhcFVyR3lpUndvcjJvb1l1cHRKY3FQcnV4QXNnSy05RUx0U21iSEt3YXRkU0RfSDFnLTZaNkljZkhBYjFmY3hNdXM0RmF6eHFsSmxQZGpaVUxCOEZuaE9tQXE4djItczk?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T07:09:32+00:00",
+   "extra": {
+    "publisher": "Good Housekeeping"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Give the gift of glowing skin this season with Silver Mirror’s holiday deals",
+   "rank": 40,
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CLUdQalc1UFpDdWpnZzNPZjh5dVlQbnlDLVFiSmVoYl9mS1hGZjZUbk95S3RyWGxmc0hvY0tCWElub0JvZ1FZTllvaE83eXFOVko4Tk9LNFQyb0N1cXc?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T17:21:01+00:00",
+   "extra": {
+    "publisher": "Secret Miami"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Not All Skincare Is Formulated for Exosomes: ( plated )® Introduces Exosome Enhancer™ Daily Prep Pads",
+   "rank": 41,
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdjRtM1hOelV5X29KZHhVQnFFeEZOMWFhS3VYcDBCcUppUk5Pa2gyRm45eW5kOVR6aWFjY25LVHdXSnpKYVcyeVhpb09lUFJnYTBESDVmXzZ1ZU9mQnNaUTBkSFREUUZGeUdTXzh1YmNiTjJSN1I2Yy1VWlJtWnFTNkp0VmRmZ3RPMTFOSlcyaEtFZlAyOWdzWHBDWHNIQ0l1dmtNLVdSTHkzWnd1aUxoSnp4eVZwaDhBaVkxVTdVQjBpMUIzUHRyOTEwcjlFWnNocG5zeTR1am9ubmZmZmY3cU1SbTdiQQ?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T14:00:00+00:00",
+   "extra": {
+    "publisher": "Business Wire"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "A Dermatologist Shared 17 Anti-Aging Drugstore Finds to Buy With “Proven Ingredients” for Youthful Skin",
+   "rank": 42,
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNk4xOVdubHRGeUdhVlNJUzdUb2p1d0FVelZfRkcwa0pNdWUyUUZfUV9wYVRtdU5TM3VtUVJYWEtoRTZqdVJVMU5uTWxIX1BrMHE2MEh0ZXozQUZNNFNja21hOWtWLVg3VENZV3BhYnZqMW0tdVgzWW43MUtqeEdNbzA2d3MyeTQ1QnB2YlBaNF9hTEQ3WTVGX09uSUsyUQ?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T10:00:00+00:00",
+   "extra": {
+    "publisher": "Real Simple"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Kristen Bell Skincare Routine: What She Told Erin and Sara Foster",
+   "rank": 43,
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FQlhNaE1fYWpaNUlCWUVqZ3E4cHZ6Z21xV3g3VUlFUlB2elc5blFyeDZIemJCWldmeDFwcU9yV0FrSGVTclJiUDk3SEtza1dacGptNzJCc0VKTS15bmRwNmN3?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T23:47:23+00:00",
+   "extra": {
+    "publisher": "Dear Media"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "SkinCeuticals promo codes, coupons, and deals for November 2026",
+   "rank": 44,
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJR2syejBCYU91VWdjbnRBXzRtS2xXOW4zX0FSZnBxOGRFUE1SdGFlQjlhcENPUXcwMnljS3FtN3kxUTF2T2JjY1l1VEdBdW9YcDBOaktvQQ?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T16:13:00+00:00",
+   "extra": {
+    "publisher": "USA Today"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Baby & Kids Bath & Skin Care Market Forecast to 2035, Driven by Sensitive-Skin Demand",
+   "rank": 45,
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOenRRU1J6dnhQRjZTTks1Yk1YbllBUzVFUEtWTVk5Z1EzcEY0Q0NTNzRUTkRIUm13dGd0TnE0V2dqYmFDUkNCS2d2aThodXVPRUk1clZSa2hqX1ZGLUFMcERqYXdpa2ZjbHYtVExubGliUVZqemVyLUdBNEdVQXgxZDdtQ09CRUtRUk9DMExremNsb24tNXR3Y0tRMk43Um1zZGxjVmVuQ1F2cnp2Z1E0?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T12:06:04+00:00",
+   "extra": {
+    "publisher": "IndexBox"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Ranveer's new brand: Everything you need to know about H.I.M. and its science-led skincare line",
+   "rank": 46,
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZmVaWEJ3U3FreE9MSjl3SDVEaUw5amFPdFFFVzNHNU81YXh1TWswYmR3aDNSM1R2UmZ6MzdSUVpCc011RkdRWEUwb3NYcUFDbTkwMTB3UVQ5dXluNGJ2VkFBY0NySl9PaG9JUTJIRndFWVZVcUlMX3NES2lnXzIyQll0TXk3cl9DWVNvMDd0bGpvenVVeGhhbDNtbmgtTGpPMkhZWURDYXBENXJlcE9rNTEtYnJPemhySl9xM3UwdHRJQlNBbFdKT251a2xqSWxqa2xIb2NhS2hqMW11Wkp1OA?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T07:45:00+00:00",
+   "extra": {
+    "publisher": "t2ONLINE"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "\"Daddy Singh\": Ranveer Singh's Sultry New Skincare Ad Leaves Fans In Frenzy",
+   "rank": 47,
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMllHd3FMWmc1MzNwZ1hjSGlmSm14cjBrZ0k4Wl9DdjgzYlpHZXJodEFweWJtQnh5WVdxcDhxSFBqdXdVZ0JEVjVFMWlWMU1CeW9hQWhoUlUwdkxnLW9kOWxwUlZpWjRxUTE1V3JHeXVRYlJYVFplb1lBTFNpbEFhN1dGMFlObUEtX3JMWkI3ekdGbk1tVGV2bWVDal9MS2dhXzRtOHFDMWtqaTYtZWFVYTFWUzlUUFBNY0lpR9IBxAFBVV95cUxPWldSRXNxd3BKTHZnNk1nbW5lYTdMSG5nbWVyQzg5RWh5WHZWbWJKcjVnTVhTRnFaSG42UGdiVklIV3NsRFNLTEpBRjBHWTlKRENWS3NhWXdfZVNHc0tyYmhRT2dQTHZSMU9jRVpjVFA1MHE2UWNjN3VVNXNId3hpNzA1dXlPUEVVWkpWWUlHOVAtTXR1TkdmMTN2WDBoTElQRUpDY2JMejRwbS04c0hVQTJpQmszS1ZZdWprcTN0UTNqNy1V?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T06:47:19+00:00",
+   "extra": {
+    "publisher": "NDTV"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Shiseido Spins Off Producer of Aupres Brand",
+   "rank": 48,
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNjRJTVpKVVNoeW5jdERYeTlNNlMyY2h0MzJWWTdoSlByckpodWVSVkVldFdFMElPd3AwdWZVUV96QTVNbTZNU09ZNG9IbDZHTVBqNkhSVTB6T0doRDRES3hCSmdZOS1CSzlfZGE3N1JwSVVuMWNMNVZBdzdfZWpQU1lRTURnTEtw?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T11:00:49+00:00",
+   "extra": {
+    "publisher": "The Business of Fashion"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "The Travel Beauty and Skincare Essentials Our Editors Pack in Their Carry-Ons",
+   "rank": 49,
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yTDZBWVRfUjZUY2ZIaVpNNnFsb29lTXF3MDBBekJCS2xPSjQ2ZzlpblkydmV0OFdnRkFrWmM2eWhWd001ajAwRmJFbEZsUEk2cDJLZVhvQS1ncERkU19IbzRQeVFwTGo5RGlDdFVVWjRCRF9jWkRZMzJ4Y1g?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T21:39:00+00:00",
+   "extra": {
+    "publisher": "Prevention"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Autumn skincare heroes: The essential products that are worth investing in",
+   "rank": 50,
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUktJWmtBSGpyWHIzXzlaeHllLS1fN05yUXl1R2VCQXB0czJlNUpETUJ6RG1pYm5aWjBiSGxFSTN0b2g0OEQ4SlU3X3JuMS0taGs5WDZMNmJLaERWMFVLNy12OVQwQWFWYTNXZmZNUmdFbk5IajJ3bmFtWkpSWkxsWUtXOHNjdE5SWEVVYmw4WXNHYVpZUWFPRVNhYi1GQVRzNW10Y3JZV3p2bFhzY2lRR1dGMW9sbmR0MXl1ZmtiYnhZUEY4eUxB?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T15:37:42+00:00",
+   "extra": {
+    "publisher": "Luxury Lifestyle Magazine"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "U.S. Beauty Shoppers Are Shifting Spend Toward Treatment Skincare and Luxury Fragrance",
+   "rank": 51,
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZEwxVDRMSThXN004UWVHRWs1cDhfVmJQUUxPZkxCc3ZYcEJFQWpDTTVmSHFWaDJfcVg5MThvUEFiOVRaN0pzRFk3a1NMSkU0V3NYT2hJSUFzTHpwZ0s2bk92WlFlSENnb2h1TEUxb3RZV0g1TnEtNTZTaGF4b2RRZ1hJUFFkMmRJQjZQT21CaVpLTl9XNnJ3aG90TUsxMGpwQVE?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T13:00:00+00:00",
+   "extra": {
+    "publisher": "Yahoo Finance"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Top 10 Holiday Gift Sets by Prestige Beauty Sales at Ulta and Sephora",
+   "rank": 52,
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaG54aWM4SUdhMFdHWlZnMnlnTERoNEZ5OEVUck1vTnR6S1k2UWNmM09Ha3BXY3d4U190SUxfVzZqcURpM19YN2VBUEd4WVR2emNybFpEMGJHWU1HMWJGUW90eW01LVpNUUZzN21WR1dzMi0wR2ZwNTBKdE5oZFE3UUNUU0oyOWFhT2xLc1dnZkpDNm4yWjBxUTlTVnFTNDhT?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T05:01:10+00:00",
+   "extra": {
+    "publisher": "WWD"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Skincare tips for the winter season from biochemist | Great Day SA",
+   "rank": 53,
+   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOVUFraG5BS092SFhIcVdMTlI5clQ4dDBjSDR6RmRDNXY5emZCVGZIMFhST3lILVhFMzVaTkFtYWJyVGZLekR4dkN6eGwzcXNnNmVPdEhyOF9Kb2xMVXdYMEN6OHdXRWR1aFJUVFdLUUdTQWllY1czTEF4LVlONDFJbHBJT1JvMzdmNFZaVUtJYi1JdkhLZWFaM2lXWlBjRTI2bXRUQ1lKSmZCTjFWdVd2NnhMUmQ0RUlGXzRrenR2c0l2STd3SHdFQnM1VnpoLV9seHByZkpHVWVVM19qWkxPNHJNYTUxNTNpX19IaU5kYVJCOUpzQ3NLd1BlTHBzMk1WQmNoeXFMNVlVXzJYWjg1N3dsbnpiVkdpTjJnT0lB?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T20:00:42+00:00",
+   "extra": {
+    "publisher": "kens5.com"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Volufiline: the viral skincare ingredient delivering a 'filler effect'",
+   "rank": 54,
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMTFWdjZqZFR2UXpmSUxlMXhBNlR0c1V3WFV0OTdweC04dEwtYTVjUnUwMzBSa05QTGVxR0NIazZqN25mX0JWNWlfbndOcDBWWWZLLTJBYk1WRjFnRExKdzhBdTFZMkhoYUVyWTFVQmNZdVdFVEVtaDF6UUNfMGU2Z3pyOTZwcTF0WVNzMEd4WWlSeXppVHdsd3VjaVVRMVBJV21N?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T10:33:41+00:00",
+   "extra": {
+    "publisher": "HELLO!"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Oil to Milk Solid Cleansers Market Forecast to 2035, Driven by Premiumization and Sensorial Cleansing Demand",
+   "rank": 55,
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObW50QWNNV3lvQ1lHU0J4UngwWWd1V3hYanZrc3k3YWc4YktVcTBITlBPMjZ4X1o5dEVMOVBBNjZyUVZ4YXdLNjdrM0Y2NlFnWEIxN3BKaHp0ajdEVlpmWU5nb2RKVlpsc3JtM3R6TU5QR0hzY0ZydXI4MC1KQV9ZWUFucFE5YXlVMEo4LTNGNFRaWDY2VXd2NFR4ZzJNOUNlaUVEUjNDRU5uZ1VzR0xCT3doTUdDbk1JbGNLMWt0NjNGYXExdlUwRHBIMzJiU1BXNFpr?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T18:11:06+00:00",
+   "extra": {
+    "publisher": "IndexBox"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "A Fresh Take on Skincare – That You Can Sip",
+   "rank": 56,
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQWo1ZElVSWlNTWQ4R2FidjMzTEpseFhMRHNGTlJGQWd5QzRvR1VRZFNIdzdCWVRxMjVFSXN5cnRvZXFHUDk3U2JCX09yLVZ5VFM1NDMxTVlYeUdUUDRkQXBxYVdEY2pIdGoxXzVTdFJhcDNoS3lPRmxPbFFCRkJqR3BGV3IyUjFDMnBrbXk2ZmdMRkloOFgwTkY4dUpUbGlLMXF4Z1hKXzBhVlNJZERtVG1qaw?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T19:46:43+00:00",
+   "extra": {
+    "publisher": "Arizona Foothills Magazine"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "The Center Brands and Dermatologist Dr. Mamina Turegano Acquire Skincare Brand Boscia",
+   "rank": 57,
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEVE9tWWFjRXRrMUoxSGIwYk5RX0xaMTZlQVNkY05zNmZfbUJTbkRzWVFfSmh5Tk5fbTBZeWhXZ2Y5VmtBOXRJX2RzS3A5TmFleVJ1Zmotc05rNTBUQXNSd0piaXF5SkRMRlo3dldvUHJUWms?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T23:57:33+00:00",
+   "extra": {
+    "publisher": "Oui Speak Fashion (OSF)"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "E-mart and No Brand push ultra-low-cost beauty to counter Daiso",
+   "rank": 58,
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBUllfdi1ZN0ZDMXlxdS1rZWdlTnhDdHJFaDYySlQ0SG50S2lnRjJhTzJzRTNqZEtORVhkV1ROTXlHSlktcDQwUDR4czZMRk9lVmg1Q0RSWUFXTWoxcVkwa19mRWRvMmZjQkZMSDVjSy02QVl6RW9HT2dHRzViWlHSAZMBQVVfeXFMT1ZvelRKLWcxbGJjYnBwRnJXaFF0bi1JaTJxVWZFd1I5MlgwcDh2SkNqem5jcTR0R0s5U2ljUUFsSnpvRWd5S184OFp2SXNrYXlrTjVhSTlwRHBqc3Y4LWR2Ukw4MF9RbnYyaUwxWHpoS202bTZsNU45Q1U1OXJNSTFrbmtidlpxYW9iSDZ6SVpIUTNv?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T21:00:00+00:00",
+   "extra": {
+    "publisher": "Chosunbiz"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "The 7 CVS Must-Haves This Beauty Director Uses to Look Refreshed",
+   "rank": 59,
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTFJMMGxmMFRqMGJsbGc4al9aTU8wbjJTZHVOSjRqQ0JXa1IybTZ5b2VNNF9mbXVQNW1OcGd0SHhzNXBTTHN6UGd2a2dEbkt4RHdLYmxjLTJvTEtlczBfTDdsMFBoWDFsLV80M20xUUg1QWYxX2c0SXd5c3ZzT1c0VURGRV9peEEz?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T20:56:48+00:00",
+   "extra": {
+    "publisher": "Marie Claire"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "6 best rich face creams that help reduce fine lines and hydrate skin without feeling heavy, starting at £15",
+   "rank": 60,
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObm1XWmkzU2lMOG1iSy1HRVg5UmJFUHZ5cnBPOG5IWDJiV3d1MG5FOGg4TGx1UWdjWnpMSnJsSlh2b0ZvWGlXeGV0SG9fTVdTZzc0eVA1anl3bjVQS1Q5dHgwSHZEcnF1ci1MWTJ0TnRGNU9QNlFVbXVIcVg4ZEJpbkFlVTFJV0k?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T14:31:23+00:00",
+   "extra": {
+    "publisher": "Cosmopolitan"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Even Wrinkles and Hanging Skin Are “Back to Normal,” Shoppers Say After Using This $9 Retinol Serum",
+   "rank": 61,
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUU9jT0Ztd0VKaXFhZ1hERUp5TnpEb29iTVk5bkxkaW54Uzl4V01GOEQzZHdIYVhucTRHa05wYTJwNmRaTzlXbzVIbDBMcU5aR2hnVFFQZWttbGZhaV9waDFEd0x1el9DZWxBbEJ6dnFoUjlCLXFHNlpjSW8wSTRqVElGTGljOXplclNobkc0RFJCZjlMendSUkZaQjNoNEZDVUhCYg?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T05:30:00+00:00",
+   "extra": {
+    "publisher": "Real Simple"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Smoother-Looking Skin with Plexaderm",
+   "rank": 62,
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWTdlbVNoZk5zMHlLVXEzRTUtRFlRZVVtN2JXcHlWUTNlUUtHdFlyVkdueXhNUXZnSHlLa25vZWhDNE51R1NqaHFoWFVXRGw0V2UwcmVTRS1pcFdJck9hc0FXd2h2QkdmWVI3Y2MybE5xNVRUV0dWY0FlazdGOFJtTi1qS0xVZw?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T16:49:47+00:00",
+   "extra": {
+    "publisher": "WSBT"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Retinol works wonders on aging skin — so why do we only use it on our faces?",
+   "rank": 63,
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQajFSSUZRcEEtMm52VkFzUm5ETTVWYUIxNlMxLUE5VkU3RVhfdmhVOVBxX1NZN1dIX1VRVWpuOUt6QXZkLWVROGZaYmhPZndyTWozSW9OS0d0NEdQb1JmWGxHLXdJS3lDYnMxWjYxd2Y2QjM1SXp4RG5QY1FsWElIQ01YQ3F6UGxOaU94S1NpTTl5dXF4Q3NhS3oxTkZ2WEJfNG80cXFpQm5QSFM4eFFpQUdsVnQzTHF6?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T19:56:19+00:00",
+   "extra": {
+    "publisher": "AOL.com"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Luxury through the eyes of AI: Which beauty brands are AI assistants recommending to consumers?",
+   "rank": 64,
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRzVZcFZEXzlXVWdCQ1B3RWo0NjJoVHR2bmVHWDZKQVRadUloZXhKSHV4UmRFRHM3X0xuX1hGMFNZNjlycW51Qm1oN3BkeG0tR3hhQi1BcGdjT0FEQk1BSUxRdW11S09fZ0NVU3YzMGMyUzdMemNMSnl5Sm9BMzVUMXJ1dnMwQQ?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T17:11:13+00:00",
+   "extra": {
+    "publisher": "Professional Beauty"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Dr.Althea Announces Early Black Friday 2026 Sale: Up to 50% Off Best-Selling K-Beauty Skincare Ahead of Thanksgiving",
+   "rank": 65,
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOZmdFLS1oRDJwb0I4ZmpaVHNtZ29ZMldiUTJkaTBoejRCTlBrWndGNzhCcUhneTM2WTRwNHJkNmRzOF9CS2tTM0l1T1pIU0dLazRnMkhucWV5YWRDQTJzUlFsM01Ud3RVRjBWNkVld1FXMGtFZGxUY1BTcjZUU1F3SXNfRW1qYWp6OUZvQ0ZWdzdaTHlydmcyX29wRkdVZ0xFVDFkc2pyZ0F5Vkh1MktFcG1pOWgxTFp6aWh6eWZvZVI0cmwta3VzNTVkS3lDb3ZaLXl0UGdHUHVETXR1T3c3VmUyT1dFVTFpU2ltMXlycEZ0dlhCU0poNnZVZnB4WTdIZWd5RGdWWEFycUdVdF9EWl9SNNIBmAJBVV95cUxOZGRRZFpTMWhraWNVZWZxSEcyNFJfV3puUUJmaUdmMU92UVROQXN2Yy1WWFRnTzRIMWhmMzFfU0VKQ0JSM3dTNWR3Sm5OZEp3ZUJrU3VldmJ0ZUFMbHZ5X2tuLVBPUGxRMmVqWjZfVWhackJzajlFQ2l6OFBGdVpIcDB3WWdfbU1WTGYyVHg4ZE42RjI3SWM0YjE1QmdLMm1qalE0b2JJTUV2Ti1sVnJCWlhDd0Z5aW0xSTBoVmM1SFNZTTFIemlJWVVXbm1nYjZzUnliTjFUb0lmZUNVYUN0NjZVS3J5MmV0ZFlsTXA4a2FtTEdrMU9LdUxrRWR3TU9hTHJ2ODFtLTNiYnA0dW8yRUt3QVZabExE?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T14:16:25+00:00",
+   "extra": {
+    "publisher": "The Manila Times"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Vaseline enters therapeutic facial skincare market",
+   "rank": 66,
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcDlweWJ3aHZFLUxvVnA0X01oNmVqVFhoYVAtWm1LZkE5YkJsdjU3a3ZEd0oxemVoNEM1ZzRpOGxfNHN5cXRvZ2pQSkk1RU0wY3lHZF9hRkVTZ1FuUHEwOTJjdG10ajNBWU1hX0tDWGVNbVk0MDBuSnlvS1VoRXpLV2RZdUlRVEJ1NlhOSzFqbHhoMTdf?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T06:32:10+00:00",
+   "extra": {
+    "publisher": "https://marketingreport.one/"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Swipe right: how skincare pads evolved beyond the make-up wipe",
+   "rank": 67,
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWWRKVGQ4WHFnSFk2eWV4U3Q1WVBpdzY2RjFoR3ZCdkI0UHVId0JELThpRVhjYXN5cFZrNWUzcHBzdFptQ2NlS3lHVmpiX3FJODR2YzMycjlQa290Tmg2STNfRHllZEJmY2FMNnBtdUhaY2pfSDBGdlFodjJXeHpmaG9qcjhBR1VLN0JtMEtjQzJEMkt3djRpSlc4dU16bDE2R3BubW1HXzZwQzJ1MG00Uk5Xdkswa2tqU1pkWV8tMEvSAcABQVVfeXFMTjQxSlNyVE5WSzBXMG02ME5OZElsNlF0SG5lUjVTYy00eXdVX3BYZnJpRE5uX3VxSDRRSDdadW1Qek9jNFhDRlM1TWpSUTN2TVpqcUlkX3lZcjJpU0x4TVFnQmt0TmV2QlhxajdPZ290UEhOdUVDc21iQlZUbEgtQ3M5S1djdVBjeWpXVDhvdGNKTVMxN0ZncmZlTlUwdGM2MW9Jd3h6NUwyVmlBNGRSRXR3LWZmWVdLNVJfT25IQzRB?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T00:00:10+00:00",
+   "extra": {
+    "publisher": "South China Morning Post"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "CeraVe gives the sandworms of ‘Dune’ a much-needed skincare routine",
+   "rank": 68,
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5NHdGM29VRDkyYTVFTEYycWZIRGt3OURnUXVTanhnSEV2cHBTT01zRGUwbFl2ck81dzZUbVZiMXptRWFUNTdocTJiZ0FPdV9IekNKRElJYnJ2SzlPZDF1S1hlUDkzZ09Xci0xZ2ViVkQ2M0NEYlE?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T10:00:00+00:00",
+   "extra": {
+    "publisher": "Ad Age"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "L'Oréal and Estée Lauder bet on skincare that claims to change aging at the cellular level",
+   "rank": 69,
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ3VrRTd2Q0hIOXg5ZExlTmg5Qk9LWDVsT3lMWllCNm5lVlUwdXFQYmNZT0tyT0dIQ05PbTg2ZDdiaXVudGk1NUNUaE1iQlBtdC1DR2lMZlQyZll6aVR1cEV4cE5yN0RvdzlzdS1BcWRES0Z1dy0yNkc4X1FYN2F2M3dZb2Z1LVVHZjhWNmxUMkU?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T10:36:00+00:00",
+   "extra": {
+    "publisher": "The Cool Down"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "'We urgently need to discuss Sienna Miller's 27-step 'new mum beauty routine'.'",
+   "rank": 70,
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53aHhqdTRQVjVJck9leHFMV3lGS3VnNTViRXVnSXBIR2RLTzN5RkhxNW5xUkhfZ2VsTkRFLVdMeUR2NmpnbS16aDJ2SllOM3ZDTmgzdnUzV3I3YU9GSzFWMUk0RnMxYW9XcHc?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T05:25:25+00:00",
+   "extra": {
+    "publisher": "Mamamia"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Menopause care struggles to meet skin needs despite launch surge.",
+   "rank": 71,
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNmEyZ2M5Tl9pT05QTWh6Z3dOb2o4Ukh0NVNNUWlQUWUxQjE1UEphMy02Y0VobFROakxCblB1c01QM3hyN1dNcHEyYlJMQjNIdWFTb3FLZ0w2R2k4dld1MXcxem5XSXdYeXZjRUFVM3VqMTBrWTZ6UUVXLXJWV2t6RHdSU09XWVkz?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T14:53:46+00:00",
+   "extra": {
+    "publisher": "Personal Care Insights"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Elizabeth Hurley, 61, Has Been Using This Moisturizer for 40+ Years—Shoppers Say It’s the Key to “Tighter Skin”",
+   "rank": 72,
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONEplcFZwOEgxalhfajYyUGFWU1AwWXhETktwaUE5allNeEc3RllOUUhGSzQzaFhyekRTWEpfUlBRTXhQM0c5cFN4UXdfNzA3Tl8zVTVZSEpkdkhrLTIydGVvc1llbW1JNXhnaEZWVnlETV9WWU5WNDVhRGdNSGE3SDBQVGYzZUFfTGROek04WFNQdDZpVmxVWQ?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T07:00:00+00:00",
+   "extra": {
+    "publisher": "InStyle"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "New in beauty: From French pharmacy favorites to Swiss luxury skincare",
+   "rank": 73,
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSnY2UFpoVjcyNW9BSEZvMXBjSFhQTjFwS2pGY2ZDVGhHSWRvdjVPc085RjhaTklSS2FseVluUmR2UnZXX3NaRzVxMWx4QjJrQ1FqWVpQcjEwb3ZrRk5EZGZIdlYxcFptdnFXQXo0MmtYNzd4TVRORlNodl9oSXpIZlZNV2N0b04xQWpoOXRaa1HSAZYBQVVfeXFMTWw0VlpaMjROQzNFTmhMLUtQZXlaVmUybEVTSnNZN3pxb1RPNHNQLVppMlZ5cnpzamk4VzZoWWN1WkE0QkZ6Wmx5QTNLdEx6Z1c5aWtOQ2FRNTFUZEoyaGxlUmlpNG9ISjlMSVM4N211cHhfNFpja0Y3YUo2LU9DajJKaDJkbGk3NmJLbHg4bDc0TmlQYnln?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T22:30:00+00:00",
+   "extra": {
+    "publisher": "Lifestyle.INQ"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "From the flick-dry to slow skincare, here’s my beauty It list",
+   "rank": 74,
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN01vcWhhbVV2aWxLMW5JYkRpams1ZWx6cExoVmVQNnJVODdpZ3J2dldjcUNDWHozQXJMNFhoZXJkUmZ2c19NaEtISDQ3cVY1S0w4ZEFkejVzZUR2MEcwOGZvMlhDanIwLUp6QU5udlkxd2E5NkktcTRhQ3l2dlFvcVJpc09sYnBCemx6VC1yd2Z5Tjk4X3JFbEhRS3M3Zw?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T17:00:00+00:00",
+   "extra": {
+    "publisher": "The Times"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Premium Skincare Cleansing Towelettes: Clé De Peau Beauté Boasts the Makeup Cleansing…",
+   "rank": 75,
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oV05TTUlnNllNYXA1YWxYWjRqcUFUejVsaTg2OEs5aERha3Jfc2tKRWJYbEFfbVJQMWtldWdNWU1JTm5LWF85RzZJQUxtam5iam1kWFJMX0dKRjhPVjZKcEI5RDlGRVZJelJhbU50bw?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T17:41:35+00:00",
+   "extra": {
+    "publisher": "Trend Hunter"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "The Boots beauty showstopper is better than an advent calendar – but it’s selling fast",
+   "rank": 76,
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUJRVEtvcjBRV2ZMcTAxLWNGeklXM0E1VC1wMkh5aUU0cXZ5V0ZCM2pOVFdZVGxNU2JfRERmeEM3Uk1jcExkZVdkUWpJUmhnRWhtX1o4WnhoXy12dWJsZTV6ZFgweVJHYl8yYzR4WlV6R1lMTl9Uclkwa1JXX1gxRTdIbHN6a2NvNTdnenZZRjQxVS1saGhpS1NGc3hRM1dER0R6WkthRzc3Nm5mV2o4VlBqWjJUWmtH?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T17:08:00+00:00",
+   "extra": {
+    "publisher": "The Independent"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "The hottest anti-aging skin care trends, do they work? | What the Health",
+   "rank": 77,
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNm1JU25HbGluQVdhOF9jUEZaQjQyRy0tRWJIUU9IdzdzMS1UNjdjbzZ2bnFIOGhwcDN3dWxsTFdaWGFMcVhQdm1lUWowajJTcG1URjBoYjVKbHJtdnNwbzNMRGJ4OUpwaWJlY3hYUFFqSUZhYVAxbkpwZjZZSEN0YWRLM0QwLUhuelljcTB5ZERMUjE2cmJXdzJ0YXVJbi1iekVBRlAwZVZCSzVEVE1N?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T20:57:00+00:00",
+   "extra": {
+    "publisher": "CBS News"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Emart to Sell \"9,980-Won Derma Cosmetics\" ... Expands Ultra-Low-Price Beauty Reach",
+   "rank": 78,
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qZmRrdUJGZWVhYnZoajFrMXN0cUxhTEREZzRMRWlOSVlkdW0zdDRmUWNOWUlvOENJVzBxaUJRX3U5Y19hbTd5RllUQUM1cUlPWWJaalJuVDFmZXhDejRyNXVvaVc?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T21:00:00+00:00",
+   "extra": {
+    "publisher": "아시아경제"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Ranveer Singh, Aman Gupta join hands to launch men’s skincare brand H.I.M",
+   "rank": 79,
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeEY5M0J3MnJJcDlXLTJUYVpBT3p0MklBVmRYYUlNZXBjbVIyeFF2MUtRdW1lckdiQU5HVlhoYkhydXFpMWtxUXBzT0t3MlJOcGFQTFU5NGNEYlB2Z1BGN2lzSmx1c29ud1RudHBsOG84UUd2MmpIRWJTWXB0ZW5WbmJSVElqbEdub2E1QzAyQ0FXS3VmOW8yLXplLUtUOHBZcnktR0pWZWQ2Q2E4bnpJRFZoXzJMckNtRXZveTRR0gG-AUFVX3lxTE94RjkzQncycklwOVctMlRhWkFPenQySUFWZFhhSU1lcGNtUjJ4UXYxS1F1bWVyR2JBTkdWWGhiSHJ1cWkxa3FRcHNPS3cyUk5wYVBMVTk0Y0RiUHZnUEY3aXNKbHVzb253VG50cGw4bzhRR3YyakhFYlNZcHRlblZuYlJUSWpsR25vYTVDMDJDQVdLdWY5bzItemUtS1Q4cFlyeS1HSlZlZDZDYThueklEVmhfMkxyQ21Fdm95NFE?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T09:38:01+00:00",
+   "extra": {
+    "publisher": "Storyboard18"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Sephora to Tropic Skincare: Inside beauty’s 2026 Christmas advert battle",
+   "rank": 80,
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uNWhwNUljRk5SdFVsNUNLa29ZS0loWmJuRXlBVGtFWjJfRzVBVTUyM3c0NnlSU3U1aHVXaWFtalZQSnIwdUdma2pQaVplbUVhdDZweWJMN3lGYXdEczZhSE93ZGFhQ2Zrbnltel82dVVEeGl4aV9KQw?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T16:31:35+00:00",
+   "extra": {
+    "publisher": "Cosmetics Business"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Vaseline Partners with Milk Bar for the Holidays",
+   "rank": 81,
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYWdadGJfaHpGSmZwNEZrbGxQTWE2N2NIX0tTT3JMT3E3djhrRl91R0tJclU0WE9Sam43dXFIbGhSd2hNcWZYMENJTHZqdWJtMUl5UEhxX29IanJzN1ZuZUNyUWc0QWk2RVVEZV9VcGVLb3ZpOEVBR0hsZE96THRqLURFTEY0bE5RbVFQRUo3b3BhWnFEN1c1b2Q5RQ?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T13:52:00+00:00",
+   "extra": {
+    "publisher": "Beauty Packaging"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "The Secret Is Out: Why More Men Are Turning to Plexaderm",
+   "rank": 82,
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQXFkTW50Z2V3cG9jNURzNEM5Z3JXdVVjX25tYlhwdm5mRWhLRnNOTThxU1lUcE5lZ21VMmlUNllhNFQ3VTREaC1paVU2Vk9RRmowaFU4VjNBOXVBWFdnaU1OMGV6ZEVwc05tdXBfWmFaT2p6WEU5Z2dLRDJtNlRLZDBEX0JraUtUT2fSAZ4BQVVfeXFMT0tidV9mUVo4alVHNk5DYUhYZHRoNzluUDRKRk9oWnJqVjRJLTVIc01NaWRsbnNsQ1hsd2JKM09jREFBZm9nZ1FfdXhuRGhqTG1aeFhfQ19xX0dDdHdKcHFHS0Q2UVR4d2tVTmlsUmtuX0lLdEMwZkxyWHVHUFZIWE9iaXE1LXhhVndkd1NGaGRLTzZ1UFl3aWRlWFpVYnc?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T18:22:00+00:00",
+   "extra": {
+    "publisher": "KCTV"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Taapsee Pannu and Jannat Zubair Team Up with NIVEA Soft to Simplify Everyday Hydration for Gen Z",
+   "rank": 83,
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQM0lNQ1FVSFRKVndwYjc2TW8ySzg0anpHaWk0bVhvZ2Q5UUlDWlJKSk40YUxKd1R1X3hhb3RkZDQzcHZZRUFCaXJUN1VoZ3Q4UER2RVZLanZMN3Z2cTg0UF9lSW5wMjRNekI1c1p3UnBEWDM2WDdUdDlicmZXSE9Yd1JyVkphTGNTUVBkUFUwYjN3b3lGU0NKRWNwQWhOODNqX29mc2tXVUI0LVRyQVpSSDJneWdTc2ZvTGhaVnZpUVRZdjQxbXdBeDZyN1dkeURJdzBlTDhXS191Yl9vaEZoVnYwZktfWjZoQVBKa3NnQWM2TVQwN3o3OV9jOTZpaVhxU1ltYmgzS0vSAY4CQVVfeXFMT0xJdTRuVzV1azBZYVNMU18tY2YxckJ4NXdnZkxHMkZ6bW9oRFZKLTVSU0g4cFRZS2Z1cjR2T2ozRi02dDNrclhlc3lCQVBYSTJHRVRZdXVtdlg4b3dSdnBraTVGRlB3N0pxb3RLZmpvelYtdTVzcTB3M2ZDc3dSUE9ldnk3S1NHSUNIVEI2ZUNpTHJBQVJrTDNBS3MwdEpXXzVzdmd5TENCSVpSb29ub2Z6SVdBSWlHUnhXVnNLcDRmY3lrS3JqMGVLZFlhOGtQS1RQcjNTOXlmdGFheXNRUm1sZVZJUGN1NFVMdjYxblNzc0w3ZE1GUk9kY3ByMXRaZUNUZjgtMTV2THlKc3dB?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T19:00:10+00:00",
+   "extra": {
+    "publisher": "Business Standard"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Capillus Face Mask Ultra Adds Red, Near Infrared, and Blue Light to a 10 Minute Skincare Routine",
+   "rank": 84,
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV3podURPcDB3UWxIbGdOLUFzUGJHck9xVEFCUFN1T1BsTFQyRjJaQXk4dFdEMFhjS0lKZ01tM0N6SzBabmh0anMyQ2hQSzUwcUd6WHEzRnk3YXR1WDJWOGY1SDlZeEdDbGVFYXpFcjZXWFVwaFFtZTI3TnNwSWRZcUI3aVdzRkExRG5wVnE2ZUh2MFpBWlZyS1l0YkROeG9pcFE2QTRSOTBoTHlpY0poaG9vZ3JmcndKMFlpb3V6VVlyVmlNekt5QmtwVQ?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T02:22:00+00:00",
+   "extra": {
+    "publisher": "Men's Fitness"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "The Ordinary will close on Black Friday to prioritise blood donations over ‘hyperconsumerism’",
+   "rank": 85,
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVXzRMRGdjQ01GLS1vd3BpYm55eWpyRWRpMml5ay1aVldIZW9RcU5Za3cyZ1UtS1ZFTEwtWHlneFBfMkJSajBXVkgybmhIUnNtaEg5dUtYWjA1UmE1d3YzRUljLVNPeEpiSGEwaEVMM1FKR29XSmwtX2wwVDc?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T14:05:16+00:00",
+   "extra": {
+    "publisher": "Cosmetics Business"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "From Medik8 To Manucurist: Why Inflexion Sees Nail Care As Its Next Big Beauty Opportunity",
+   "rank": 86,
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeHFGYXAzSzlDMk1jZlFLdlhJMmdkXzh3dTR3dTJKazlxbnJGZ0xkV21NRnZGLU5YaUt5YUZlekgtVXk3LVhtMjZoMnZTRzNBY2g1U3N1dGxkWk1aMXA2RGF3WGI1ZUlyeDVzN1hJNjdfb3lXM0ZGMHhUR2lGWmdxWmxoc2N3WlZ4aXdHdk4wdkk1MjZPRmU1bzZ4V25WdW15cjc4U016UUNxX283d2c?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T02:32:11+00:00",
+   "extra": {
+    "publisher": "Beauty Independent"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Why Filler Results Depend on Good Skin Care",
+   "rank": 87,
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XRWEwMFdkTzU2eVZiR1ZoS3NGM2lDQ2Jhc1EtSThpcVRLVjdSV0s0TFpidnVWamU4NGwwSXFJbjllR2ZEOEMtZVNHNTJSbENPSmxJWGF6ZWt3WXBkcFlNTmpBR0JGSWRlUVU0azJyVHN2dTAwZDFlX1p3?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T18:18:27+00:00",
+   "extra": {
+    "publisher": "NewBeauty"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Melanin Beauty Awards: The Best Skincare Products",
+   "rank": 88,
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa3o4QmI5elZIS0xHb0RVQVdRczBZcnBmWVNnN3FMbFFlUVJZay1IODlsZW9oNkFCRmRVLTk1Z2YzUkpoRllnM2h2aVh3Wk5ER2FaeHhaZmhSc1dWZHY2QXRvSmlKdEgyV1BTZXRTRTFnQ21lYmtwOC1telFSdXhXTWtoX09OcUQ5a085dTF0dGlPZ25uRmZWNjRLbFc?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T19:10:40+00:00",
+   "extra": {
+    "publisher": "HelloBeautiful"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Cupping Eye Patches: The Centellian24 PDRN Lifting Eye Cream Boosting Duo Features Unique…",
+   "rank": 89,
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lLWtaRWR0cUlITVVMZTdsWWZ1M2ZfWGZzcTdDQmhHSW1vekdBUklhVmNVMWh0NkN6dmxkaGgzcy16bjdUVnRnZmVNZWRDZnBxMkhlQjlVQTlnYlJnWkdzeEptZ2x0TG0yM1ppZGF6R2pZUUZzWW8xN21B?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T20:41:58+00:00",
+   "extra": {
+    "publisher": "Trend Hunter"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "I’m Recommending This Firming Peptide Serum to My Mom After an Esthetician Raved About My Glass Skin",
+   "rank": 90,
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbGFyaWNKejlkWWxzOC01MHNaTnlIVTdlRjFDeWFDNlg1TUZjZVNmRUU4amZRcDZSSkxDbTZtekFSb1B6ODlCOU1VdUlRaGcwNElWOUFtdFVCcUJmT0kySlcxamo1Zng0QTZVVmxRUjRuaXFWUDNrNVhBV1FETmxtT0JR?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T03:00:00+00:00",
+   "extra": {
+    "publisher": "InStyle"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Black Friday beauty deals 2026: The best skincare, makeup, haircare and wellness discounts to shop now",
+   "rank": 91,
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeHZvWEprRkowT0hVMlVkcEJJeklMWUMtNjJUWkFyTE9vQ2N4MXFZeXViUW1EMnZ0TjFOajBrNFdzeEFSMzNBQXdBQW16Y2V1NnJPbFBtR3lnNl9ERnpoQlZZbnVRUkQ5MEpZbzcwSFVWSTZjUmw0c1BXT1RMUzJ4U3BESU5CVzdfYVYzeDNHNloyRkRQTndXcXNCZFhyM2oyV1J5dmd0TXk3bWdhYVZVWHItWkJLWWFhWmh5OW14aGxmLWVvM180RHQwcEp6UGpudXZuV1RadXVzMEnSAeABQVVfeXFMTW9aSXJtY2JiRElKM1c5X2plSXlOaGQ4ZHJ2bkgyZFBMa3BTNmdnZWdZeWNoSHRMQ0Y4alR1MlZTejlXdnZ5RG12YVFMLXJ4SjJMXzBEQnF6cFpsYVp5X1gxM1ltaFlkdUNEamRrZUVxTFRySnJlMjNZekEybFYxTGxpSV9RR1pqYUsxekRNcWdrT2VtcktmT1FSZjYxdDhJek01aGF6d25ocTNKaE8xT2hlYl8xOXEweW5aVXdkd3gtclBFSHJNY05fNTJUN1BEUEFoeE1fc3dvWDIwZ1cxc0c?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T04:24:00+00:00",
+   "extra": {
+    "publisher": "7NEWS"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Rochelle Humes on ambition, boundaries and Eulah skincare",
+   "rank": 92,
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV3E0ZXJIMVVudHRMVUtpVHdfa21YSUFrazNVMUx0NUdRY05SRkhGRHRuMzg1dkNObUNYcW9zdU14aGlqOTRLZXdwRElrTGt5czRzYlFZeHVmd3JLdXZwdXg4ZlhqMUR1TUcySW1JMFozeTl3a2N6clNMZmZBY25zMnFTamV0LXBYdkE?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T17:00:27+00:00",
+   "extra": {
+    "publisher": "Stylist"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "5 Clean Beauty Face Masks at Target for a Little Extra Glow",
+   "rank": 93,
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWFRLUDc2MFk0RnBIWC1HSnNPVENkOGQyc1l5cjJxWV9PcXlRaHlLd1NOa1otZWFyVDFWVUNZTDEyN0F3SEpYazkzdWx0QUgxbUNwSWIwWmlpeFJRLTcyRFJEeE5WWXdqY0dxS0hCV2ZyN2NkQk83MVNuS2Nha2l2dTgtRXVjUGttYlExRXIzbkJwZTl1ZjBF?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T17:49:09+00:00",
+   "extra": {
+    "publisher": "Yahoo"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "LANEIGE launches Neo Cushion The Matte in India with six exclusive shades for Indian consumers",
+   "rank": 94,
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nQ0xidGlSekp0SE1HSU9fMk5GY1hKb0dQMGRQdlJOaHY0aldBelRFQ0tVX3dMbFVnLVZCTXE3a25IbE11dFdGYVR1NU5wLV91blhmS3hYaW1WWnEtMFY2VjFR?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T09:45:30+00:00",
+   "extra": {
+    "publisher": "IFAB MEDIA"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Vaseline enters dermocosmetics in latest premiumization push",
+   "rank": 95,
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWFh3dEFqTW96MV85ZFNfTUx1Rl9sdkV2cGlYSUFXRW13UVc4ZGJJYWxsNWNTdHhpWTlmSU9oU0F0dWFRRlFmbkczQW9tT2h2WGhuOFVWR2NmaEo2RTVHdVhKbTBYTDlYVHN1U0ZpSEw2UmVoR01mTk8zbHZkZk1yZ1BVZ21OX1JrYVNvZ194Sk12UQ?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T16:37:35+00:00",
+   "extra": {
+    "publisher": "Personal Care Insights"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Botox in a bottle? This viral peptide serum is getting a major early Black Friday discount",
+   "rank": 96,
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSEQzeHAxNlhtY2M0RGtLY0NDaVh5QnRrZ2EtYlNnYzBKbjVHSTlranhCMGQ1aVNLNDNBMWw1ckdWN1R3U1dGbk9wRXZlVzVTUl9SRnZCbE1zTzVJdnNuejdJSmFSRE03dExDbzRrNHM3enBVTjdzbk5UbHZEMnFCeTZ6TlQ2cEJZWFZ2YXpTVWhQYll6Umc?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T15:30:00+00:00",
+   "extra": {
+    "publisher": "New York Post"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "My Mom and I Have a 33-Year Age Gap, but We Agree That This Blurring Face Stick Is Like Spanx for Your Skin",
+   "rank": 97,
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNmxnb2UxLV9hMFdpWWc0ekVmMmFYQ1JfTWRGU09IT1k2UThjWXpMQWkwNHVqTFVXQ0dYdmpNSzdLZjZBRno4VS1rZmtIWklteGdDbkZmMlpTdU1FMWt5aHJZZjktWGNBck04cG9URmxZcFBHR0xnV1VaZDNKNUJOem5jQQ?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-17T02:30:00+00:00",
+   "extra": {
+    "publisher": "InStyle"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Shoppers Rave That This $10 Face Serum Gives ‘Botox-like’ Effects ‘Without the Needles’",
+   "rank": 98,
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUzY0ZlR0VzV6VEh2dkcybTZha0drX1o4ODd0MFpFdlJmMENXdEhleUl2azBoenBJZWd6aFlYbGpkWmxZR0tLVXV3eVZSbG5XT1lZWDgzSHBpeUhuRjBENWRVSGhLTWJuMURQbUdzd1JjdXp5LVo4SWFxcFNoWHhwTll2T2U?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T10:30:00+00:00",
+   "extra": {
+    "publisher": "Travel + Leisure"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "A 71-Year-Old Shopper Says This Wrinkle-Smoothing Serum Leaves “Crepey Skin” Feeling “Soft and Moisturized”",
+   "rank": 99,
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CMGRlZGY2UjJYZEpwVE9qc0VCdkF4aE1sNmxDRGZSa3Exc2hWTXhmZVA4NFJGQ0R5a1U1d1YtNUNzdTNIOTZTOGRQZzFCVC1ZMmhoQ3lhUTlFX3FsekwtN2swQkhXYi1fcVNpQVN0UDRZVjlqZ19SWndGT0ZWRUU?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T06:30:00+00:00",
+   "extra": {
+    "publisher": "InStyle"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "The best early Black Friday deals to start shopping now",
+   "rank": 100,
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vbzlHSFNJQ3JRRGxXYk1MS1JqTTIwSHhCSmhqSUNnREh1amhhVWcxWHM0eW9tZW50dGgwWUtMUUNvX3R1U1A2QU5oODFVRTdFdXluNEpEaWNZUUFsVGFUbGpINjdRT3ZyMHhTMkEwTzFsRk9jS3c?oc=5",
+   "metrics": {},
+   "keyword": "Skincare",
+   "published_at": "2026-11-16T16:05:00+00:00",
+   "extra": {
+    "publisher": "Page Six"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Creating a self booting ZIP archive",
+   "rank": 1,
+   "url": "https://goliath32.com/blog/ziphead.html",
+   "metrics": {
+    "points": 73.0,
+    "comments": 11.0
+   },
+   "keyword": "Creatine",
+   "published_at": "2026-11-14T16:29:05Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50498295"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "A quest to create the perfect whiskey glass",
+   "rank": 2,
+   "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
+   "metrics": {
+    "points": 101.0,
+    "comments": 111.0
+   },
+   "keyword": "Creatine",
+   "published_at": "2026-11-13T17:37:32Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50486880"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "How to Create Your Own Decentralized Messenger Protocol",
+   "rank": 3,
+   "url": "https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol",
+   "metrics": {
+    "points": 89.0,
+    "comments": 18.0
+   },
+   "keyword": "Creatine",
+   "published_at": "2026-11-14T16:01:04Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50498073"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "S. Korea to send nationwide emergency alerts over college entrance exam cheating",
+   "rank": 4,
+   "url": "https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e",
+   "metrics": {
+    "points": 61.0,
+    "comments": 85.0
+   },
+   "keyword": "Creatine",
+   "published_at": "2026-11-17T14:00:47Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50531484"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Linux was created as a rejection of robust software architecture and tools",
+   "rank": 5,
+   "url": "https://twitter.com/GrapheneOS/status/2122079826257588569",
+   "metrics": {
+    "points": 50.0,
+    "comments": 91.0
+   },
+   "keyword": "Creatine",
+   "published_at": "2026-11-16T03:58:04Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50513843"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Top scorer on South Korean tax exam confesses to cheating with AI",
+   "rank": 6,
+   "url": "https://www.reuters.com/world/asia-pacific/top-scorer-south-korean-tax-exam-confesses-cheating-with-ai-2026-11-15/",
+   "metrics": {
+    "points": 9.0,
+    "comments": 5.0
+   },
+   "keyword": "Creatine",
+   "published_at": "2026-11-15T14:51:10Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50507331"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Creatine for women: What to know before you start",
+   "rank": 1,
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZzc4aHNrbE5PSGljSF9RRlUycWd2VTRhODRpY0dzbTh5WEJvbGd1QVVfa2doblQwLW1zUndCOTJFWGtuTFI0c3pZSURfdzc0bE1tQ3AzSlNKZkVwR3pkdW40YW9hV2hsMkZpR29JcE42ZzBYZkFhSmhMdWFxWnVBbFVYanQ0TlRIV0VyZUN3ZHhLX2M0NVZPOWRySlFmXzg0?oc=5",
+   "metrics": {},
+   "keyword": "Creatine",
+   "published_at": "2026-11-17T17:43:20+00:00",
+   "extra": {
+    "publisher": "ABC17NEWS"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Creatine & Cognition: The Next Frontier",
+   "rank": 2,
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQVdQeUJGcUx2VEJnT3U5Y3ZWVkN5NUVpWEh4TTVJQndHaENYUzNOWDlheE0yNkVlcHp0OUdLVk9wQWRmME5MRXk2bnFMZ2YtaDREbUdkNlQ0VXlZMDQzMWlqZDRVTzlILWZ3WUo2aXBEYlZxNUluc2s2azA4aHhBYkhLaw?oc=5",
+   "metrics": {},
+   "keyword": "Creatine",
+   "published_at": "2026-11-17T09:38:35+00:00",
+   "extra": {
+    "publisher": "NutraIngredients.com"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Pink Creatine and Girlhood Capitalism",
+   "rank": 3,
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZWklqUkNwYXJ6OFhaQm5Sdm1FQ1JnNF9jUDNpSVR2VURER0xjY0d0bjBSbUZCa0ZOd2xnUE90U0lYb21ZVk9xVlNxVGYzR2dab2Z5Tk1iWFJrTjJhel8xLS1uc3I2NXpJeGtzNWFRaUNJU3hBOVJlMlZDYjA?oc=5",
+   "metrics": {},
+   "keyword": "Creatine",
+   "published_at": "2026-11-17T18:29:18+00:00",
+   "extra": {
+    "publisher": "After School by Casey Lewis"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Inside The Creatine Boom—How Brands Are Developing Products For Women",
+   "rank": 4,
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUdOQTBiXzRrVVRyQ0ZMUHpnb01fcXg3TVBMdWcyYThpZXp0aTdLYlpSSFRrcDd0MWJyai1Ldkk5SmpMVFlFSzJBbjlWVU1EcGtGMm5YNk1kZFNKX1Z4S3lPUFM0RnJOSTE1Q1NrcXQyeGRPaVhydmNMZUYtaHV0My1yeTQ1UlJjR3J5V3h1eHMzTzItRmlxdWtmWGhCbExXaFBhLTR2WGxIOG5YZ1V1eVV6dFBrWlFEQjdBMHFlOA?oc=5",
+   "metrics": {},
+   "keyword": "Creatine",
+   "published_at": "2026-11-16T11:58:08+00:00",
+   "extra": {
+    "publisher": "Forbes"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Sipplement Creatine Drinking Straws deliver 5g as you sip",
+   "rank": 5,
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hSEhqc1V2WHBLY2FZd3Z1OE80TW9hanl5NWtJcVpwVURLeXY3ckFBWnBpV0dUQ2kyOEgzQUxLekw2SjJ2UGMtcGt0dng3TEM0UTJPNWlfaVQ0aDFLSl90WFU4WFNZajU1WGVhRzRXOVktM1JteXVV?oc=5",
+   "metrics": {},
+   "keyword": "Creatine",
+   "published_at": "2026-11-17T21:14:00+00:00",
+   "extra": {
+    "publisher": "Stack3d"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "JiMMYBAR! Launches Orange Dream Protein + Creatine Bar",
+   "rank": 6,
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSUhVak9qZ0Y4M2dhYkNnSl9RbXByb1gxQU1mNkt0NUdTcXJObHJXdTd0dUpRNVpVNDZSVVUxNjdGeUdjQm91RGxwWmJMOFA0cFJKdWgtLTdPU2hHV2JTcTFBRUI5S0RlUGFneS02XzFYOFIxSmpPWWpzbzh2LXRtQ09VVllHQ3RLNTB1WlJCa0s2ajBidDVQdlhBS19SQQ?oc=5",
+   "metrics": {},
+   "keyword": "Creatine",
+   "published_at": "2026-11-17T10:00:00+00:00",
+   "extra": {
+    "publisher": "Prepared Foods"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Creatine for women: What to know before you start",
+   "rank": 7,
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMUt1U3p5R01iNDlNaUdQd19rcS1wb3d5RHdpQWVvY3ZCRHppZXA5T3gwemkwTGpvbTRqMngxMmE2aHI3YmZ5QWI1Vk9USDRsSW9yR040bnZnTlNzcVNIcEFXbWs4RFdLZ2FoT2dZTFpqemt6bHVvajlKNkFQSFRQU2JkQ3J6cUlXemgwQjh6V0F3TTNFeEFFbWdqS3FFQmctMHZCUk9OZGp4bnVORjl6VV9kWWhsTXJKeXYwQnBXanFEWVp3MFJCUXpnUjB2eVZKY0ZLVjJPSzB3dw?oc=5",
+   "metrics": {},
+   "keyword": "Creatine",
+   "published_at": "2026-11-17T10:00:00+00:00",
+   "extra": {
+    "publisher": "Black Hills Pioneer"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Why are so many young women getting obsessed with creatine?",
+   "rank": 8,
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNFBKWjMteE1RTVB0ZnUzWndSWkdjeWdIMGd1MkUyRDVGd3pzdmZnRjdSNmpQYmhtX2F6V1lPa2VWaU5hMWh6ajBhTHA4VFRJb0NYY2RLREYxUjJjZ1UwdUZiUVpwZ0FZSkxjLWFETS1ReUxiMUI3em04b09uQ201Qzh2cEIyWXM0RElZU1RBeXhnSHM5Vk9sekwxR01zdVZQQ2xMVGRlU1VIb3BMaGZ6V0Q5T0RIUXh6UHpVUnRLbDEtaVlsTDF4YkRGbw?oc=5",
+   "metrics": {},
+   "keyword": "Creatine",
+   "published_at": "2026-11-16T12:50:00+00:00",
+   "extra": {
+    "publisher": "Dazed"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Creatine for Brain Health: What the Evidence Shows",
+   "rank": 9,
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12SFlsSUZISUpiXzIzZVlFZzlLNEJCQkR1bmlNZ0JIUFVqVVdqbXJMdWZvZC1SRUpKOGlnMVZCTFp5MXVpaW9nc3RybkdXdk9VN0NzU0tlTTJNVFJXTHdldF9ZYw?oc=5",
+   "metrics": {},
+   "keyword": "Creatine",
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "extra": {
+    "publisher": "https://balancejournal.co/"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Creatine for women: What to know before you start",
+   "rank": 10,
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa1BYZnNzRkpnMFQ3TGFIM1BYZG4xZktxS3ZQNm4zTFZvRlgxeWRMeEYyc0czX2JITnB0MVZpSG1XMVB3aWpTY2dOMk5jVTl3QnFPaDdzbFVwRVcxT2UyR1NfWktrbU1SSUZlV2VNenZtYV82NEVEczYycTRiSFMtZ3pkUDY0bTVmRzFvZTYwbFgydzZMOHB1MG1jY1FxZlpvZ1MweGV6Z05KRmwzQU9qVmJfdw?oc=5",
+   "metrics": {},
+   "keyword": "Creatine",
+   "published_at": "2026-11-16T14:00:07+00:00",
+   "extra": {
+    "publisher": "The Missoulian"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Vital Proteins Creatine Chews pack 5g into two pieces",
+   "rank": 11,
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0ejAwWXBTNjN3Q0w1QUMtT25sZThTYVpta2NyMnpoQ3p5ZHVDbEFLZkhzSWxqVWgyUWMyZkRXejQzd3FJaGp5UlY3WTR0SnNKYkl0MXphal9GQWNaU25udzZTV0VJNUoyN2RSVHZ4bw?oc=5",
+   "metrics": {},
+   "keyword": "Creatine",
+   "published_at": "2026-11-16T22:13:26+00:00",
+   "extra": {
+    "publisher": "Stack3d"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Strawberry Splash brings ANS Performance’s Creatine Gummies to four flavors",
+   "rank": 12,
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rX1NnTDRLM1VZZGZyejFJUS1MSmhjSzlXT0JlSXZQWC1hcnlrcVZaMjY0YjVQQmNMS3M2bTlvUTlHMWR6VWJYcFBwUW1Pa2dKbTkzUE5Fc2hXOUJzeG1OVE5vTmt0NGU0UDJzQ3FNMVNsMWJtWWZab3YwOA?oc=5",
+   "metrics": {},
+   "keyword": "Creatine",
+   "published_at": "2026-11-16T20:34:00+00:00",
+   "extra": {
+    "publisher": "Stack3d"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Beyond Raw Lit Non-Stim with 5g of creatine and CarnoSyn 4X",
+   "rank": 13,
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JWXlaNWE0QVlPcUNOOUtBMG5oVTB5c3JIZ2RGd00zdlNkcFBCU1Y1allWSlllRDNKUTlkU3M3OWEySzFCVnJlbWxlX0JkLVQ4czJucG5UM2dMaTRtaG9zUXhpUVBNWWs?oc=5",
+   "metrics": {},
+   "keyword": "Creatine",
+   "published_at": "2026-11-16T17:16:00+00:00",
+   "extra": {
+    "publisher": "Stack3d"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Taking creatine after 40? The medications you need to be careful mixing it with",
+   "rank": 14,
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX1EyOFdXUVVDRW85akpsU29vVEw3eno2ZGhJTzhwa001X1RsYl9jb3Y4UVAtMS03eG1FckpVYWJlYWxWS2Flcm5JSG9ScmphMkYwTkJyRVZRZ0pKU0dVbldlajNoVTFvMVZfSWg3SGhITFQ1NDRsbl9SMGEtRFcwZ3JVMnE?oc=5",
+   "metrics": {},
+   "keyword": "Creatine",
+   "published_at": "2026-11-16T08:15:00+00:00",
+   "extra": {
+    "publisher": "mensfitness.co.uk"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Mix-Free Creatine Chews",
+   "rank": 15,
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HNk1zQ1lXMTBBOUVrdEFfQTNFdFNXNVd4U2Y5NlMzeU1ETVdERWlzNzF1NkR2dExvSWp3LTJMWWx4eDFrZWs2b2ptWFRSMG80WHZaQV9lYmpTbHBwbDdoZjRlTGRIY3pqYnc?oc=5",
+   "metrics": {},
+   "keyword": "Creatine",
+   "published_at": "2026-11-17T02:06:36+00:00",
+   "extra": {
+    "publisher": "Trend Hunter"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Creatine for women: What to know before you start",
+   "rank": 16,
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMjJ6Rno0M1lVM0xfbGdUSl9CcFZ4a1l6dGlIdnRXVW03VGpjRGItUzBoUlQ3ZG90aUozWHNWZjdoQ3ZSR2tYb3RQaTRZekJZRGNrS1VBa1I4S1dteXB0TGVQeHAxZkhSMElVLWFvb3AtX1BVZjhLZHplNzhaY1NFQkdmc2d6T0F4M0NVZXhyQ3ozMlVzZVpCbVNkdFZPN3VIaXZETUZVcUVQUWhSS1h5ODBJanQ?oc=5",
+   "metrics": {},
+   "keyword": "Creatine",
+   "published_at": "2026-11-16T14:00:07+00:00",
+   "extra": {
+    "publisher": "Buffalo News"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Why Is Creatine Important For Every Women | Grazia India",
+   "rank": 17,
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSkJOSU1tX1pRTVlEbTRyNzFkdlhYSXJKa25Rc3d2S2dGa2xEU245cGl3UzdRWjktZ0VaWURaYTZ5aWpObWpjUUV5TW1Ua3IzakRlWFNZYXFCTEZUaVV0eG5YaC1nSVpkcnRUTUlFeUtuMVRVTHhJdjgzSzZfYWdxeFJ1SjY2NENwUURJSmMxcFVkMFl0WXhkR2JaeGk4d9IBnAFBVV95cUxOOUpUNWZPNnZfaHpPOUxsUUI1enZ3UGkwLTVMSjRndVhHdmNGb3M3bDJZRWw5WjRoT1JBOWg1bFRJdzRPQ1RDcHV5RVRQUDJ5S3VDYlFvcTJPazh4SmNFZGlCQk5fTnVnb01pd2FNd0JLek4xRHphZFlqZjNFZkVjM2ROaE1lcG10ZUk0Q2kzbnBCU2NoUnVmN3R4R0E?oc=5",
+   "metrics": {},
+   "keyword": "Creatine",
+   "published_at": "2026-11-16T06:33:28+00:00",
+   "extra": {
+    "publisher": "Grazia India"
+   }
+  },
+  {
+   "source": "news_keyword",
+   "platform": "news",
+   "title": "Creatine in Hot Coffee Becomes 5g Instead of 3g Due to Temperature. The Plasma Level Boost Crosses the Blood-Brain Barrier",
+   "rank": 18,
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOFpYSm8yR0hQSjR5OElxOG4tWmY2WFhEVl9kSTVqVUU4WDE5eWFEMDRLOG5QM0tmSjcydm9zZV83ZjY2YmFrdERyNHowb2haRllkVXBPWFM1MDFfN3FsR1hnS2IwcERxa0xRZmZ2ZFluNG1JaXU4OTlkeGdZalpYd3I0a21sTU1hZWlacw?oc=5",
+   "metrics": {},
+   "keyword": "Creatine",
+   "published_at": "2026-11-17T13:30:43+00:00",
+   "extra": {
+    "publisher": "BoxLife Magazine"
+   }
+  }
+ ]
+}

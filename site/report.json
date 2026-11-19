@@ -1,7 +1,7 @@
 {
  "schema": "trendscout.report/2",
- "taken_at": "2026-11-19T19:01:43+00:00",
- "previous_at": "2026-11-19T08:51:41+00:00",
+ "taken_at": "2026-11-19T21:39:43+00:00",
+ "previous_at": "2026-11-19T19:01:43+00:00",
  "summary": null,
  "cross_platform": [],
  "sections": [
@@ -14,16 +14,33 @@
      "change": 0,
      "source": "google_trends_rss",
      "platform": "google",
-     "title": "jpmorgan chase & co",
+     "title": "florida basketball",
      "rank": 1,
-     "url": "https://trends.google.com/trends/explore?q=jpmorgan+chase+%26+co",
+     "url": "https://trends.google.com/trends/explore?q=florida+basketball",
+     "metrics": {
+      "searches": 20000.0
+     },
+     "keyword": null,
+     "published_at": "2026-11-19T13:20:00-08:00",
+     "extra": {
+      "headline": "Cougars Take It to Gators Inside"
+     }
+    },
+    {
+     "status": "new",
+     "change": 0,
+     "source": "google_trends_rss",
+     "platform": "google",
+     "title": "troy aikman",
+     "rank": 2,
+     "url": "https://trends.google.com/trends/explore?q=troy+aikman",
      "metrics": {
       "searches": 2000.0
      },
      "keyword": null,
-     "published_at": "2026-11-19T10:40:00-08:00",
+     "published_at": "2026-11-19T13:10:00-08:00",
      "extra": {
-      "headline": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers"
+      "headline": "Troy Aikman takes dig at Joe Buck, extending tensions: ‘Joe’s always wanted a 1-man booth’ - The Athletic"
      }
     },
     {
@@ -31,33 +48,16 @@
      "change": 0,
      "source": "google_trends_rss",
      "platform": "google",
-     "title": "conroe high school",
-     "rank": 2,
-     "url": "https://trends.google.com/trends/explore?q=conroe+high+school",
-     "metrics": {
-      "searches": 500.0
-     },
-     "keyword": null,
-     "published_at": "2026-11-19T10:00:00-08:00",
-     "extra": {
-      "headline": "Conroe High School on lockdown following 'concerning phone call'"
-     }
-    },
-    {
-     "status": "new",
-     "change": 0,
-     "source": "google_trends_rss",
-     "platform": "google",
-     "title": "marlon jackson",
+     "title": "nascar whelen modified tour",
      "rank": 3,
-     "url": "https://trends.google.com/trends/explore?q=marlon+jackson",
+     "url": "https://trends.google.com/trends/explore?q=nascar+whelen+modified+tour",
      "metrics": {
       "searches": 500.0
      },
      "keyword": null,
-     "published_at": "2026-11-19T10:00:00-08:00",
+     "published_at": "2026-11-19T13:10:00-08:00",
      "extra": {
-      "headline": "#TSRPrayersUp: #MarlonJackson is opening up about his health journey. During an appearance on @thefarahshammaspodcast, the singer revealed that he’s been living with prostate cancer for four years and shared that his cancer is stage 4. ____________"
+      "headline": "NASCAR Community Hit With Heartbreaking Loss as Championship-Winning Racing Figure Dies"
      }
     },
     {
@@ -65,16 +65,50 @@
      "change": 0,
      "source": "google_trends_rss",
      "platform": "google",
-     "title": "ashton kutcher anthropic",
+     "title": "intu stock",
      "rank": 4,
-     "url": "https://trends.google.com/trends/explore?q=ashton+kutcher+anthropic",
+     "url": "https://trends.google.com/trends/explore?q=intu+stock",
+     "metrics": {
+      "searches": 1000.0
+     },
+     "keyword": null,
+     "published_at": "2026-11-19T13:10:00-08:00",
+     "extra": {
+      "headline": "Intuit Earnings Beat Wasn’t Enough to Boost the Stock"
+     }
+    },
+    {
+     "status": "new",
+     "change": 0,
+     "source": "google_trends_rss",
+     "platform": "google",
+     "title": "julia stiles",
+     "rank": 5,
+     "url": "https://trends.google.com/trends/explore?q=julia+stiles",
+     "metrics": {
+      "searches": 500.0
+     },
+     "keyword": null,
+     "published_at": "2026-11-19T13:00:00-08:00",
+     "extra": {
+      "headline": "Julia Stiles Shares Who She Wants to Win Dancing with the Stars Ahead of the Season 35 Finale (Exclusive)"
+     }
+    },
+    {
+     "status": "new",
+     "change": 0,
+     "source": "google_trends_rss",
+     "platform": "google",
+     "title": "denver weather",
+     "rank": 6,
+     "url": "https://trends.google.com/trends/explore?q=denver+weather",
      "metrics": {
       "searches": 200.0
      },
      "keyword": null,
-     "published_at": "2026-11-19T09:50:00-08:00",
+     "published_at": "2026-11-19T13:00:00-08:00",
      "extra": {
-      "headline": "VC Firm Founded by Ashton Kutcher Scores on Anthropic"
+      "headline": "Snow to pick up in Colorado mountains, colder fall temps this weekend"
      }
     },
     {
@@ -82,50 +116,16 @@
      "change": 0,
      "source": "google_trends_rss",
      "platform": "google",
-     "title": "invincible",
-     "rank": 5,
-     "url": "https://trends.google.com/trends/explore?q=invincible",
-     "metrics": {
-      "searches": 2000.0
-     },
-     "keyword": null,
-     "published_at": "2026-11-19T09:40:00-08:00",
-     "extra": {
-      "headline": "‘Invincible’ Season 5 Sets Release Date, Drops Burger Mart Teaser Trailer"
-     }
-    },
-    {
-     "status": "new",
-     "change": 0,
-     "source": "google_trends_rss",
-     "platform": "google",
-     "title": "dwts finale songs",
-     "rank": 6,
-     "url": "https://trends.google.com/trends/explore?q=dwts+finale+songs",
-     "metrics": {
-      "searches": 1000.0
-     },
-     "keyword": null,
-     "published_at": "2026-11-19T09:40:00-08:00",
-     "extra": {
-      "headline": "‘Dancing With The Stars’ Finale Will Go Live Across The Country For The First Time"
-     }
-    },
-    {
-     "status": "new",
-     "change": 0,
-     "source": "google_trends_rss",
-     "platform": "google",
-     "title": "rsm classic",
+     "title": "justin reid",
      "rank": 7,
-     "url": "https://trends.google.com/trends/explore?q=rsm+classic",
+     "url": "https://trends.google.com/trends/explore?q=justin+reid",
      "metrics": {
       "searches": 1000.0
      },
      "keyword": null,
-     "published_at": "2026-11-19T09:40:00-08:00",
+     "published_at": "2026-11-19T12:50:00-08:00",
      "extra": {
-      "headline": "With PGA Tour privileges on the line, this former winner had to WD from RSM Classic"
+      "headline": "Report: Saints, 143-game veteran to 'discuss his future with the team'"
      }
     },
     {
@@ -133,16 +133,16 @@
      "change": 0,
      "source": "google_trends_rss",
      "platform": "google",
-     "title": "patrick sellers alabama",
+     "title": "temporary protected status",
      "rank": 8,
-     "url": "https://trends.google.com/trends/explore?q=patrick+sellers+alabama",
+     "url": "https://trends.google.com/trends/explore?q=temporary+protected+status",
      "metrics": {
-      "searches": 500.0
+      "searches": 1000.0
      },
      "keyword": null,
-     "published_at": "2026-11-19T09:10:00-08:00",
+     "published_at": "2026-11-19T12:50:00-08:00",
      "extra": {
-      "headline": "State Rep. Patrick Sellers indicted on federal wire fraud charges"
+      "headline": "Trump administration appeals to Supreme Court over legal protections for Venezuelan migrants"
      }
     },
     {
@@ -150,16 +150,16 @@
      "change": 0,
      "source": "google_trends_rss",
      "platform": "google",
-     "title": "jazz fest 2027 lineup",
+     "title": "lance broadway",
      "rank": 9,
-     "url": "https://trends.google.com/trends/explore?q=jazz+fest+2027+lineup",
+     "url": "https://trends.google.com/trends/explore?q=lance+broadway",
      "metrics": {
-      "searches": 5000.0
+      "searches": 500.0
      },
      "keyword": null,
-     "published_at": "2026-11-19T09:00:00-08:00",
+     "published_at": "2026-11-19T12:40:00-08:00",
      "extra": {
-      "headline": "Jazz Fest lineup released earlier than usual: Here's who's playing"
+      "headline": "Former White Sox, Mets pitcher dies unexpectedly at 43"
      }
     },
     {
@@ -167,16 +167,16 @@
      "change": 0,
      "source": "google_trends_rss",
      "platform": "google",
-     "title": "space x stock",
+     "title": "sentence",
      "rank": 10,
-     "url": "https://trends.google.com/trends/explore?q=space+x+stock",
+     "url": "https://trends.google.com/trends/explore?q=sentence",
      "metrics": {
       "searches": 500.0
      },
      "keyword": null,
-     "published_at": "2026-11-19T09:00:00-08:00",
+     "published_at": "2026-11-19T12:40:00-08:00",
      "extra": {
-      "headline": "Anthropic is ‘enjoying’ working with SpaceX, says CEO Dario Amodei"
+      "headline": "Puyallup man trafficked drug used to sedate elephants. See his prison sentence"
      }
     }
    ]
@@ -190,12 +190,138 @@
      "change": 0,
      "source": "hackernews",
      "platform": "hackernews",
+     "title": "Pancreatic cancer halted by virus injection in three patients",
+     "rank": 2,
+     "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+     "metrics": {
+      "points": 284.0,
+      "comments": 29.0
+     },
+     "keyword": null,
+     "published_at": null,
+     "extra": {
+      "discussion": "https://news.ycombinator.com/item?id=50563066"
+     }
+    },
+    {
+     "status": "new",
+     "change": 0,
+     "source": "hackernews",
+     "platform": "hackernews",
+     "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+     "rank": 4,
+     "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+     "metrics": {
+      "points": 103.0,
+      "comments": 51.0
+     },
+     "keyword": null,
+     "published_at": null,
+     "extra": {
+      "discussion": "https://news.ycombinator.com/item?id=50564159"
+     }
+    },
+    {
+     "status": "new",
+     "change": 0,
+     "source": "hackernews",
+     "platform": "hackernews",
+     "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+     "rank": 8,
+     "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+     "metrics": {
+      "points": 35.0,
+      "comments": 56.0
+     },
+     "keyword": null,
+     "published_at": null,
+     "extra": {
+      "discussion": "https://news.ycombinator.com/item?id=50564366"
+     }
+    },
+    {
+     "status": "new",
+     "change": 0,
+     "source": "hackernews",
+     "platform": "hackernews",
+     "title": "Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches",
+     "rank": 12,
+     "url": "https://www.tisonkun.io/posts/ai-repair-program/",
+     "metrics": {
+      "points": 13.0,
+      "comments": 0.0
+     },
+     "keyword": null,
+     "published_at": null,
+     "extra": {
+      "discussion": "https://news.ycombinator.com/item?id=50517657"
+     }
+    },
+    {
+     "status": "new",
+     "change": 0,
+     "source": "hackernews",
+     "platform": "hackernews",
+     "title": "Show HN: 1.499x speedup and 28.5% dynamic energy drop on A40 via BF16 tiling",
+     "rank": 14,
+     "url": "https://cwtractors.com",
+     "metrics": {
+      "points": 16.0,
+      "comments": 1.0
+     },
+     "keyword": null,
+     "published_at": null,
+     "extra": {
+      "discussion": "https://news.ycombinator.com/item?id=50526244"
+     }
+    },
+    {
+     "status": "new",
+     "change": 0,
+     "source": "hackernews",
+     "platform": "hackernews",
+     "title": "Rebuilding my local voice assistant pipeline",
+     "rank": 15,
+     "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+     "metrics": {
+      "points": 6.0,
+      "comments": 0.0
+     },
+     "keyword": null,
+     "published_at": null,
+     "extra": {
+      "discussion": "https://news.ycombinator.com/item?id=50566261"
+     }
+    },
+    {
+     "status": "new",
+     "change": 0,
+     "source": "hackernews",
+     "platform": "hackernews",
+     "title": "Adding Fortran Support to LLDB (GSoC 2026)",
+     "rank": 21,
+     "url": "https://blog.llvm.org/posts/2026-09-07-gsoc-add-fortran-support-to-lldb/",
+     "metrics": {
+      "points": 16.0,
+      "comments": 4.0
+     },
+     "keyword": null,
+     "published_at": null,
+     "extra": {
+      "discussion": "https://news.ycombinator.com/item?id=50521083"
+     }
+    },
+    {
+     "status": "steady",
+     "change": 0,
+     "source": "hackernews",
+     "platform": "hackernews",
      "title": "Anthropic hits $2T in Nasdaq debut",
      "rank": 1,
      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
      "metrics": {
-      "points": 301.0,
-      "comments": 429.0
+      "points": 649.0,
+      "comments": 1130.0
      },
      "keyword": null,
      "published_at": null,
@@ -204,16 +330,16 @@
      }
     },
     {
-     "status": "new",
+     "status": "steady",
      "change": 0,
      "source": "hackernews",
      "platform": "hackernews",
      "title": "Claude solves two open problems in the physics of black holes",
-     "rank": 2,
+     "rank": 3,
      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
      "metrics": {
-      "points": 128.0,
-      "comments": 29.0
+      "points": 286.0,
+      "comments": 114.0
      },
      "keyword": null,
      "published_at": null,
@@ -222,147 +348,21 @@
      }
     },
     {
-     "status": "new",
+     "status": "steady",
      "change": 0,
      "source": "hackernews",
      "platform": "hackernews",
      "title": "Garage Door Spam",
-     "rank": 3,
+     "rank": 5,
      "url": "https://blog.harrison.page/garage-door-spam/",
      "metrics": {
-      "points": 556.0,
-      "comments": 232.0
+      "points": 658.0,
+      "comments": 272.0
      },
      "keyword": null,
      "published_at": null,
      "extra": {
       "discussion": "https://news.ycombinator.com/item?id=50519231"
-     }
-    },
-    {
-     "status": "new",
-     "change": 0,
-     "source": "hackernews",
-     "platform": "hackernews",
-     "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
-     "rank": 4,
-     "url": "https://cornholenews.news",
-     "metrics": {
-      "points": 94.0,
-      "comments": 43.0
-     },
-     "keyword": null,
-     "published_at": null,
-     "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50561515"
-     }
-    },
-    {
-     "status": "new",
-     "change": 0,
-     "source": "hackernews",
-     "platform": "hackernews",
-     "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-     "rank": 5,
-     "url": "https://thedataexchange.media/pete-warden-moonshine/",
-     "metrics": {
-      "points": 150.0,
-      "comments": 134.0
-     },
-     "keyword": null,
-     "published_at": null,
-     "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50561508"
-     }
-    },
-    {
-     "status": "new",
-     "change": 0,
-     "source": "hackernews",
-     "platform": "hackernews",
-     "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-     "rank": 6,
-     "url": "https://github.com/onlook-dev/onlook/",
-     "metrics": {
-      "points": 39.0,
-      "comments": 33.0
-     },
-     "keyword": null,
-     "published_at": null,
-     "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50562320"
-     }
-    },
-    {
-     "status": "new",
-     "change": 0,
-     "source": "hackernews",
-     "platform": "hackernews",
-     "title": "UK government forced to admit it issued Apple a secret encryption order",
-     "rank": 7,
-     "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
-     "metrics": {
-      "points": 198.0,
-      "comments": 92.0
-     },
-     "keyword": null,
-     "published_at": null,
-     "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50562113"
-     }
-    },
-    {
-     "status": "new",
-     "change": 0,
-     "source": "hackernews",
-     "platform": "hackernews",
-     "title": "Someone reported java4shell bug in September 2026",
-     "rank": 8,
-     "url": "https://github.com/openjdk/jdk/pull/32781",
-     "metrics": {
-      "points": 218.0,
-      "comments": 55.0
-     },
-     "keyword": null,
-     "published_at": null,
-     "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50558906"
-     }
-    },
-    {
-     "status": "new",
-     "change": 0,
-     "source": "hackernews",
-     "platform": "hackernews",
-     "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
-     "rank": 9,
-     "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
-     "metrics": {
-      "points": 149.0,
-      "comments": 39.0
-     },
-     "keyword": null,
-     "published_at": null,
-     "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50559719"
-     }
-    },
-    {
-     "status": "new",
-     "change": 0,
-     "source": "hackernews",
-     "platform": "hackernews",
-     "title": "How the European Commission rolled out Matrix to more than 40k staff",
-     "rank": 10,
-     "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
-     "metrics": {
-      "points": 577.0,
-      "comments": 275.0
-     },
-     "keyword": null,
-     "published_at": null,
-     "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50558533"
      }
     }
    ]
@@ -371,12 +371,162 @@
  "topics": [
   {
    "name": "AI agents",
-   "total": 130,
-   "new": 95,
+   "total": 30,
+   "new": 0,
    "search": [],
    "hits": [
     {
-     "new": true,
+     "new": false,
+     "trending": false,
+     "source": "hackernews_keyword",
+     "platform": "hackernews",
+     "title": "AI agents ask better questions than KPMG accountants in audit trial",
+     "rank": 1,
+     "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+     "metrics": {
+      "points": 480.0,
+      "comments": 247.0
+     },
+     "keyword": "AI agents",
+     "published_at": "2026-11-18T15:49:34Z",
+     "extra": {
+      "discussion": "https://news.ycombinator.com/item?id=50547777"
+     },
+     "seen": {
+      "first": "2026-11-18T21:27:54+00:00",
+      "last": "2026-11-19T21:39:43+00:00",
+      "count": 5,
+      "best": 1,
+      "worst": 2
+     }
+    },
+    {
+     "new": false,
+     "trending": false,
+     "source": "hackernews_keyword",
+     "platform": "hackernews",
+     "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+     "rank": 2,
+     "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+     "metrics": {
+      "points": 322.0,
+      "comments": 455.0
+     },
+     "keyword": "AI agents",
+     "published_at": "2026-11-17T21:16:12Z",
+     "extra": {
+      "discussion": "https://news.ycombinator.com/item?id=50538303"
+     },
+     "seen": {
+      "first": "2026-11-17T21:49:45+00:00",
+      "last": "2026-11-19T21:39:43+00:00",
+      "count": 8,
+      "best": 1,
+      "worst": 19
+     }
+    },
+    {
+     "new": false,
+     "trending": false,
+     "source": "hackernews_keyword",
+     "platform": "hackernews",
+     "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+     "rank": 3,
+     "url": "https://news.ycombinator.com/item?id=50549188",
+     "metrics": {
+      "points": 57.0,
+      "comments": 54.0
+     },
+     "keyword": "AI agents",
+     "published_at": "2026-11-18T17:26:28Z",
+     "extra": {
+      "discussion": "https://news.ycombinator.com/item?id=50549188"
+     },
+     "seen": {
+      "first": "2026-11-18T21:27:54+00:00",
+      "last": "2026-11-19T21:39:43+00:00",
+      "count": 5,
+      "best": 3,
+      "worst": 4
+     }
+    },
+    {
+     "new": false,
+     "trending": false,
+     "source": "hackernews_keyword",
+     "platform": "hackernews",
+     "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+     "rank": 4,
+     "url": "https://github.com/db-branch/db-branch",
+     "metrics": {
+      "points": 45.0,
+      "comments": 17.0
+     },
+     "keyword": "AI agents",
+     "published_at": "2026-11-15T13:50:51Z",
+     "extra": {
+      "discussion": "https://news.ycombinator.com/item?id=50506940"
+     },
+     "seen": {
+      "first": "2026-11-15T19:25:08+00:00",
+      "last": "2026-11-19T21:39:43+00:00",
+      "count": 15,
+      "best": 3,
+      "worst": 4
+     }
+    },
+    {
+     "new": false,
+     "trending": false,
+     "source": "hackernews_keyword",
+     "platform": "hackernews",
+     "title": "The Fed Is Worried AI Agents Could Trigger a Bank Run",
+     "rank": 5,
+     "url": "https://gizmodo.com/the-fed-is-worried-ai-agents-could-trigger-a-bank-run-2000840566",
+     "metrics": {
+      "points": 27.0,
+      "comments": 15.0
+     },
+     "keyword": "AI agents",
+     "published_at": "2026-11-16T21:12:02Z",
+     "extra": {
+      "discussion": "https://news.ycombinator.com/item?id=50523346"
+     },
+     "seen": {
+      "first": "2026-11-16T22:56:22+00:00",
+      "last": "2026-11-19T21:39:43+00:00",
+      "count": 11,
+      "best": 4,
+      "worst": 5
+     }
+    },
+    {
+     "new": false,
+     "trending": false,
+     "source": "hackernews_keyword",
+     "platform": "hackernews",
+     "title": "AI agents have a big problem: Nobody wants to let them in",
+     "rank": 6,
+     "url": "https://www.pcworld.com/article/3283946/ai-agents-have-a-big-problem-nobody-wants-to-let-them-in.html",
+     "metrics": {
+      "points": 16.0,
+      "comments": 6.0
+     },
+     "keyword": "AI agents",
+     "published_at": "2026-11-13T12:37:41Z",
+     "extra": {
+      "discussion": "https://news.ycombinator.com/item?id=50482661"
+     },
+     "seen": {
+      "first": "2026-11-13T18:51:28+00:00",
+      "last": "2026-11-19T21:39:43+00:00",
+      "count": 24,
+      "best": 4,
+      "worst": 6
+     }
+    },
+    {
+     "new": false,
      "trending": false,
      "source": "hackernews_keyword",
      "platform": "hackernews",
@@ -394,443 +544,99 @@
      },
      "seen": {
       "first": "2026-11-19T19:01:43+00:00",
-      "last": "2026-11-19T19:01:43+00:00",
-      "count": 1,
+      "last": "2026-11-19T21:39:43+00:00",
+      "count": 2,
       "best": 7,
       "worst": 7
      }
     },
     {
-     "new": true,
+     "new": false,
      "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "Vendor Insight: Agentic AI Transform Source-to-Pay Platforms",
-     "rank": 73,
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUzI4TjVvaHFHMmlRTmc3Mmdpc2k0UWRrV1VablAxS1pJSVpYdFg1bGh5STBqQkN5U0gwakpuV1JsQ0pJc2VQdDJHbFBHUkdDbVREaUxzTHNrbUwzRW5rMlc1alRCcGhySWlhZDNaT3ZDUkJKNHdOVVljNTA5YnJ4c2dTenZLMTVqUkpsTFdaMDVOY3c4Z2c?oc=5",
-     "metrics": {},
+     "source": "hackernews_keyword",
+     "platform": "hackernews",
+     "title": "Show HN: A free interactive course on AI agent governance",
+     "rank": 8,
+     "url": "https://studio.sinapsdata.com.br",
+     "metrics": {
+      "points": 12.0,
+      "comments": 8.0
+     },
      "keyword": "AI agents",
-     "published_at": "2026-11-19T18:48:51+00:00",
+     "published_at": "2026-11-17T02:12:13Z",
      "extra": {
-      "publisher": "Procurement Magazine"
+      "discussion": "https://news.ycombinator.com/item?id=50526527"
      },
      "seen": {
-      "first": "2026-11-19T19:01:43+00:00",
-      "last": "2026-11-19T19:01:43+00:00",
-      "count": 1,
-      "best": 73,
-      "worst": 73
+      "first": "2026-11-17T04:34:10+00:00",
+      "last": "2026-11-19T21:39:43+00:00",
+      "count": 10,
+      "best": 6,
+      "worst": 8
      }
     },
     {
-     "new": true,
+     "new": false,
      "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "Scaling AI Agents Takes a New Operating Model, Not New Tech",
-     "rank": 21,
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY1FpMGl5elRuRFEtaU5UTk9vVmxrTkFMM1E1ZUJ1UXQxRHF1dFB6dVU3OFlMNEk3RThQc3BnLTVoc0xYNzBGTjV1Y1ZrNW01b1RoV0VLRzcxMTZWV3BIZm1vcW9LSlNDRjFGSVpzSktWejdKVk5mUlh3andzdE1TU3R1RndNZXpMYjJhM1JLUGdROU1Ld2s4eA?oc=5",
-     "metrics": {},
+     "source": "hackernews_keyword",
+     "platform": "hackernews",
+     "title": "Google: AI agent turned a security patch into a exploit with no human help",
+     "rank": 9,
+     "url": "https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926",
+     "metrics": {
+      "points": 12.0,
+      "comments": 3.0
+     },
      "keyword": "AI agents",
-     "published_at": "2026-11-19T18:38:09+00:00",
+     "published_at": "2026-11-16T14:14:09Z",
      "extra": {
-      "publisher": "BankInfoSecurity"
+      "discussion": "https://news.ycombinator.com/item?id=50517797"
      },
      "seen": {
-      "first": "2026-11-19T19:01:43+00:00",
-      "last": "2026-11-19T19:01:43+00:00",
-      "count": 1,
-      "best": 21,
-      "worst": 21
+      "first": "2026-11-16T20:32:18+00:00",
+      "last": "2026-11-19T21:39:43+00:00",
+      "count": 12,
+      "best": 6,
+      "worst": 9
      }
     },
     {
-     "new": true,
+     "new": false,
      "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "MinIO Announces General Availability of AIStor Memory at SC26",
-     "rank": 85,
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTkR1VHp0NmdsWlQ3SFJmQlgyMHNuQlBQTWtpRlI4Uzh1UjBWZnBIcHlWMG5vd2xWLWpOMkZPcUdibm9VUFBucmhpYkxHWU8wLXFvbE9XRjhrVVI0Z01jNnNlUUVPNTM0QXZjZFhIdFEtbjJVQUEzbFBSMjVmTXh0VTFfUkRQMlhCQkZLSTQzSUdUTlhyV1RNd1hDbzlrSkxrTWd0ZHk4TGphMkdDREpxRQ?oc=5",
-     "metrics": {},
+     "source": "hackernews_keyword",
+     "platform": "hackernews",
+     "title": "Show HN: Shotoku – Local-first action governance and budget caps for AI agents",
+     "rank": 10,
+     "url": "https://www.shotoku.dev/",
+     "metrics": {
+      "points": 11.0,
+      "comments": 1.0
+     },
      "keyword": "AI agents",
-     "published_at": "2026-11-19T18:35:20+00:00",
+     "published_at": "2026-11-14T13:02:53Z",
      "extra": {
-      "publisher": "HPCwire"
+      "discussion": "https://news.ycombinator.com/item?id=50496705"
      },
      "seen": {
-      "first": "2026-11-19T19:01:43+00:00",
-      "last": "2026-11-19T19:01:43+00:00",
-      "count": 1,
-      "best": 85,
-      "worst": 85
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "Holocene Launches AI Agents for Supply Chain Efficiency",
-     "rank": 43,
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVmVQUFhzdEU5WG1jbkNGYnM5M3hUcXVFR1g2WmVuSi1UU2RVZVM1SDZUc0xkTlpDbmIzWlA5YVhnTmQweFhBcDkyUS0tY2ZPSFNZRkpMX2RLQVNEYXVuUGlqRFJrVUZ2OWh0VV9Ud2pnSUdCdTktQVVLWXdkV2ctVWpvZ0NTdTlIQjRJNTVsTm5PSWVoOHc?oc=5",
-     "metrics": {},
-     "keyword": "AI agents",
-     "published_at": "2026-11-19T18:33:45+00:00",
-     "extra": {
-      "publisher": "Supply Chain Digital Magazine"
-     },
-     "seen": {
-      "first": "2026-11-19T19:01:43+00:00",
-      "last": "2026-11-19T19:01:43+00:00",
-      "count": 1,
-      "best": 43,
-      "worst": 43
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "Dnotitia Presents First Live Demonstration of Its VDPU Vector Search ASIC at SC26",
-     "rank": 62,
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcG1SQ09aRVRyeTExNU5mdzU1cDYyaDNab1lTZDhPdkdiN0IyQ3JUTVR2V1QzdTZWRVE4cFBZV0g4bS1pR0lNQ2VOX3hMX0U5QXBSbVdEclp4cUJ3eDlaZHI3b2Q2Q1dDcDFqcDFoWGxoa3Nndkh2azMtbnpzakZYanA2OE9xa0h6TnpWdWF2Q2NXdXZuS2NYU2RSdW9DQnI2Z1htdWN1Q2ZYY2NqdE1sWlM0Z2RDSHpTa1IxeEZQZV9yZw?oc=5",
-     "metrics": {},
-     "keyword": "AI agents",
-     "published_at": "2026-11-19T18:33:45+00:00",
-     "extra": {
-      "publisher": "HPCwire"
-     },
-     "seen": {
-      "first": "2026-11-19T19:01:43+00:00",
-      "last": "2026-11-19T19:01:43+00:00",
-      "count": 1,
-      "best": 62,
-      "worst": 62
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "Decommissioning AI Agents: Tooling Criteria | Kovrr",
-     "rank": 44,
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVjJ2UEdnRzh3SE9hU19qcUNFSDVHVS1VMmU2OGs3a0hOSTJhYlRPb3FCSnplY2pwdl84bVZCRS1IblNVLTlVNTlJbFZrT1YtSGFIc05MRVlFR3N0QXl5T0J4amtkZW5ZbGZDajdiTVRHNEtUbkRHSWlzeTBxUXVMaGRfZGp2bEg4c1dnU19ITzg?oc=5",
-     "metrics": {},
-     "keyword": "AI agents",
-     "published_at": "2026-11-19T18:32:17+00:00",
-     "extra": {
-      "publisher": "Security Boulevard"
-     },
-     "seen": {
-      "first": "2026-11-19T19:01:43+00:00",
-      "last": "2026-11-19T19:01:43+00:00",
-      "count": 1,
-      "best": 44,
-      "worst": 44
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "Cybercriminals Ramp Up Interest in AI-Powered Hacking Tools",
-     "rank": 50,
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSUt6ckFjM0xoeS0yWG0zSFd2cDY2MXlUVDIydFVPT2dhYzFHNTUxV2p6ZHppXzhFRmwzQVdtdjhlakFta0R6QmRUeGJCWG4wanVkV1J4RDRRVl9PRENIb015bkJadmRjZk0tZENPRnRwMDgtT2Q2ZkhEd1BEd0c5ZEtkY2VFRVBxdzM4dnJ4Rk5OYno1WDFIZF9zS1BMVkhDR1VCLTBVd2dHejQ?oc=5",
-     "metrics": {},
-     "keyword": "AI agents",
-     "published_at": "2026-11-19T18:26:57+00:00",
-     "extra": {
-      "publisher": "Redmondmag.com"
-     },
-     "seen": {
-      "first": "2026-11-19T19:01:43+00:00",
-      "last": "2026-11-19T19:01:43+00:00",
-      "count": 1,
-      "best": 50,
-      "worst": 50
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "Protect agent tool calls with Skyflow and Amazon Bedrock AgentCore Gateway",
-     "rank": 51,
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU3FfcWJ4UVRUNENTcDFOZE5aSHhIY2x0QzVFN2szTnR2R0pMYmkyMkUwdjk3UjZFUnk0dnE1OXRobEdpb2J1NElNZGFUOWtUVkhtSGdyUWRiWG5EcFdZS292QVpuNUx4MG1PY1o3WGhJazBvQlJLRGVPMXYxb2tEajVzbG5NUi1Yb1NsWDFxV1hTVkU5NWJLakhNdEJkS3lJbFNkOG1EVFg2aWJkOTZDNUxxcDdFTy1XSlA4WUdn?oc=5",
-     "metrics": {},
-     "keyword": "AI agents",
-     "published_at": "2026-11-19T18:14:36+00:00",
-     "extra": {
-      "publisher": "Amazon Web Services (AWS)"
-     },
-     "seen": {
-      "first": "2026-11-19T19:01:43+00:00",
-      "last": "2026-11-19T19:01:43+00:00",
-      "count": 1,
-      "best": 51,
-      "worst": 51
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "Agentic AI Vendor Evaluation: Healthcare Guide",
-     "rank": 12,
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5T0JSY2J3em5tZVdOZ0pJVXdxQnYyQnlYN3l0UjJ4Mm5lU0dkNTU2RDZEUFBjRnI2em1uMlJnQVBhazFXV3FNamxVbVQxYlUtOHZpdlZxM0poOFNTNTdDTjZRSDZ1X3JKN05xR0dUaGs?oc=5",
-     "metrics": {},
-     "keyword": "AI agents",
-     "published_at": "2026-11-19T18:12:24+00:00",
-     "extra": {
-      "publisher": "Snowflake"
-     },
-     "seen": {
-      "first": "2026-11-19T19:01:43+00:00",
-      "last": "2026-11-19T19:01:43+00:00",
-      "count": 1,
-      "best": 12,
-      "worst": 12
+      "first": "2026-11-14T18:46:18+00:00",
+      "last": "2026-11-19T21:39:43+00:00",
+      "count": 19,
+      "best": 6,
+      "worst": 13
      }
     }
    ]
   },
   {
    "name": "Skincare",
-   "total": 99,
-   "new": 55,
+   "total": 0,
+   "new": 0,
    "search": [],
-   "hits": [
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "Cara Delevingne’s Eyebrows, Skin Care & 'GTA 6'",
-     "rank": 26,
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSeU5SelI0NnJlVFVVSVFmeWZ1MzB3Tks0QUNBaHFNX2daNEtXN2lCRkQwOVFqRnoyQVgxMlNYM0JULWx6THItUDB0TGpwSm5mUmdIMWpDYTNwU1E5dVYzZ3ZYaVRzYTk5a1d0ZTdB?oc=5",
-     "metrics": {},
-     "keyword": "Skincare",
-     "published_at": "2026-11-19T18:45:00+00:00",
-     "extra": {
-      "publisher": "NewBeauty"
-     },
-     "seen": {
-      "first": "2026-11-19T19:01:43+00:00",
-      "last": "2026-11-19T19:01:43+00:00",
-      "count": 1,
-      "best": 26,
-      "worst": 26
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "Thanksgiving Special from Plexaderm Skincare",
-     "rank": 1,
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbGE2S3A4OVFtOUNwTDhKT1dHcXRWZVBiejdrenpGWXJHbjNVMHNDTjl0SEFkb3Z5d0pndGVBY2VlSEpIVUJYVFA5RWdScm5HRWVSRFRTZ0ZfUDJndncxUkF0WVpLd29US3pxdHYyaXhPb0Ffc3lDM25mWFdua3Q1QmdONV9ZWi02dmctUjMxREJaRnVuN3psUEV0WFcwb2JwUVNRMXVXd081c0g3SGNJYUktdnI5WTVidzg5Y21NVERJVjhHZ3FreDRrOFIxRVktZ2I4a1hRbUZGSWpSekVpaHVCSTNxRXNnbDhhTjczWTRFTkJVWEJhSw?oc=5",
-     "metrics": {},
-     "keyword": "Skincare",
-     "published_at": "2026-11-19T18:40:00+00:00",
-     "extra": {
-      "publisher": "firstcoastnews.com"
-     },
-     "seen": {
-      "first": "2026-11-19T19:01:43+00:00",
-      "last": "2026-11-19T19:01:43+00:00",
-      "count": 1,
-      "best": 1,
-      "worst": 1
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "Lather With Love founder shares the story behind the soaps",
-     "rank": 12,
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNU80UXVVU1Qtd3Z0R0tienpxZG1FVTlPV1otM2t4d244c29NS2RsWHZVeFowOElDYVJRbkRVdTBKMVJkb1R5UHhqODNfWjdYWGw2ZnBLM2x1eUUyMGdOTk5zWWpyZFJSSk1TME1ydzlzUUhLV1lRWnRhZkZXMVZUUTlTVDQ3XzRURjA5Vi1wM0wtZE9UWWtnVkp0ZU1kRlVR?oc=5",
-     "metrics": {},
-     "keyword": "Skincare",
-     "published_at": "2026-11-19T18:14:36+00:00",
-     "extra": {
-      "publisher": "Yahoo"
-     },
-     "seen": {
-      "first": "2026-11-19T19:01:43+00:00",
-      "last": "2026-11-19T19:01:43+00:00",
-      "count": 1,
-      "best": 12,
-      "worst": 12
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "Shark! Cosrx! Amazon’s Black Friday Beauty Deals Are Finally Here — Shop 50 of the Best Sales",
-     "rank": 75,
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcWpPVDRnZjFPNlo1UFc0NnJqbWI4NjRuQVRGYkc1V3pvWXQ0Q05IWHJ5VDBuZlBndHYtUHc4UURXcjRNSFdqLVlRZXcxbGNHUHNfMVl1b2JhUndTN2NNQU83NU9QLWJUS3FDdG00Nm5ZOF9DbXZYTzAxaHRJUC1aUmEtYzBtZw?oc=5",
-     "metrics": {},
-     "keyword": "Skincare",
-     "published_at": "2026-11-19T17:48:45+00:00",
-     "extra": {
-      "publisher": "Us Weekly"
-     },
-     "seen": {
-      "first": "2026-11-19T19:01:43+00:00",
-      "last": "2026-11-19T19:01:43+00:00",
-      "count": 1,
-      "best": 75,
-      "worst": 75
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "German Neonatal Intensive Care Survey Reveals Marked Variation in Preterm Skin Care",
-     "rank": 32,
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMWZuS3V1cHJYODI4YThsbllDaWd3bTBNSW5Ua0J5anpYV3h6eGZMcUU1cXU3dnpDdXMydV9pNy1qeW13Z2x5a2o5enN0RDJmMHdLWWZvc3RQWnRPNTA3cGRzV0Flc0dyU2FjdlFsRk5RVXFvYVRPQnBIOGFCNnpYNmlZNEhBbS0zQVV2Q1A4TGY0NUlEZUs1TUFjMjVmQnFOTkdQd2FMMU1WaXFk?oc=5",
-     "metrics": {},
-     "keyword": "Skincare",
-     "published_at": "2026-11-19T17:45:16+00:00",
-     "extra": {
-      "publisher": "Bioengineer.org"
-     },
-     "seen": {
-      "first": "2026-11-19T19:01:43+00:00",
-      "last": "2026-11-19T19:01:43+00:00",
-      "count": 1,
-      "best": 32,
-      "worst": 32
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "D’you Enters Colour Cosmetics With Launch Of Liminal Face Stick",
-     "rank": 40,
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YUFhKS012NHd4bEkxejFNbV96VlBKcUdOaXV5TTR5aUdKZDd1S1NEZzVNemhxREw0UU45T3VsRVRNbGZOZm9Gd1lfS01mOHpHdkh1MVVqZXdaVWoyXzVMZU1rVUlaQQ?oc=5",
-     "metrics": {},
-     "keyword": "Skincare",
-     "published_at": "2026-11-19T17:25:07+00:00",
-     "extra": {
-      "publisher": "IFAB MEDIA"
-     },
-     "seen": {
-      "first": "2026-11-19T19:01:43+00:00",
-      "last": "2026-11-19T19:01:43+00:00",
-      "count": 1,
-      "best": 40,
-      "worst": 40
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "The Makeup Melting Cleanser I Use Daily Is 25% off in This Secret Skincare Sale",
-     "rank": 9,
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZDVYUXJRWVV4anUtQzZ1MFRSWWM1XzJNRWxzcWZGMXFUeUphck92cTRyMHhpaDlVQWJOVzl2YUhqSW1TOEp3Y1pDbmhSWFpSYUtTMUlFak9hR3phTXZJUEJDUUZYZUhBRjBBaGpURWdKYnVZTVJfOE5GZEx2Sm9mVjkwWGJ2QlZKenQtUDliWjRPQkNK?oc=5",
-     "metrics": {},
-     "keyword": "Skincare",
-     "published_at": "2026-11-19T17:00:00+00:00",
-     "extra": {
-      "publisher": "E! News"
-     },
-     "seen": {
-      "first": "2026-11-19T19:01:43+00:00",
-      "last": "2026-11-19T19:01:43+00:00",
-      "count": 1,
-      "best": 9,
-      "worst": 9
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "We asked real-life testers to try this beginner-friendly retinal serum – these are their honest thoughts",
-     "rank": 43,
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU3lKVGVpNExiU0tvNUdTdHhLLXlLOVNpeHJrZlFBR3NtdnMxV2dCcm5zdlhKRE5pNEhHYWxnTTBqNGo1dFR6OFRwT3Fia1ozNjdlV0gxUkNYdnNNb0luUUJLTDNJNDVLWW4yX2sxT2lodEFwYnk2SktzM2F4SXBBUWpn?oc=5",
-     "metrics": {},
-     "keyword": "Skincare",
-     "published_at": "2026-11-19T17:00:00+00:00",
-     "extra": {
-      "publisher": "Woman & Home"
-     },
-     "seen": {
-      "first": "2026-11-19T19:01:43+00:00",
-      "last": "2026-11-19T19:01:43+00:00",
-      "count": 1,
-      "best": 43,
-      "worst": 43
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "Winter skincare tips",
-     "rank": 13,
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRdUpGRDlPdW5aZjVKUTR2alJrTEZPMUY2M3JILXd5T2prVy1RYWRPTTJFZmVtNEFmel9jbENiZFZxekI4bDJxWmhyYkRVUFNhRFBVSnBYUm1TRWlRcVhRWEpiODFoTGJ0NTdmOQ?oc=5",
-     "metrics": {},
-     "keyword": "Skincare",
-     "published_at": "2026-11-19T16:44:42+00:00",
-     "extra": {
-      "publisher": "Global News"
-     },
-     "seen": {
-      "first": "2026-11-19T19:01:43+00:00",
-      "last": "2026-11-19T19:01:43+00:00",
-      "count": 1,
-      "best": 13,
-      "worst": 13
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "Skin 'body boosters' are taking over clinics: meet the treatments that improve firmness and reduce fine lines",
-     "rank": 36,
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbl94MWZ0V19lMmJzSGFoeldQYnlxQ2lRM2dVNW9xd2xGQWRGMFJzR3B5d2lPMHBKR25ObFhnNGxPY1BCVzFmQXgyN1N2Z2ZCUlVJdjVNTHNJYUFOdG1SRks5TTdqdjFwd1NuQTdUdmxjZk9yZWpaZ3FiWHk3anlxYzZQS0U?oc=5",
-     "metrics": {},
-     "keyword": "Skincare",
-     "published_at": "2026-11-19T16:39:09+00:00",
-     "extra": {
-      "publisher": "Harper's BAZAAR"
-     },
-     "seen": {
-      "first": "2026-11-19T19:01:43+00:00",
-      "last": "2026-11-19T19:01:43+00:00",
-      "count": 1,
-      "best": 36,
-      "worst": 36
-     }
-    }
-   ]
+   "hits": []
   },
   {
    "name": "Creatine",
-   "total": 6,
+   "total": 7,
    "new": 1,
    "search": [],
    "hits": [
@@ -839,24 +645,24 @@
      "trending": false,
      "source": "hackernews_keyword",
      "platform": "hackernews",
-     "title": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
-     "rank": 6,
-     "url": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
+     "title": "U.S. Army to Blow Up Old Ammo, Creating Toxic Cloud over Iowa",
+     "rank": 2,
+     "url": "https://www.nytimes.com/2026/11/19/climate/iowa-ammunition-explosion-lead-dust.html",
      "metrics": {
-      "points": 8.0,
+      "points": 5.0,
       "comments": 0.0
      },
      "keyword": "Creatine",
-     "published_at": "2026-11-19T12:03:04Z",
+     "published_at": "2026-11-19T16:43:08Z",
      "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50559010"
+      "discussion": "https://news.ycombinator.com/item?id=50562453"
      },
      "seen": {
-      "first": "2026-11-19T19:01:43+00:00",
-      "last": "2026-11-19T19:01:43+00:00",
+      "first": "2026-11-19T21:39:43+00:00",
+      "last": "2026-11-19T21:39:43+00:00",
       "count": 1,
-      "best": 6,
-      "worst": 6
+      "best": 2,
+      "worst": 2
      }
     },
     {
@@ -865,7 +671,7 @@
      "source": "hackernews_keyword",
      "platform": "hackernews",
      "title": "A quest to create the perfect whiskey glass",
-     "rank": 2,
+     "rank": 3,
      "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
      "metrics": {
       "points": 105.0,
@@ -878,8 +684,8 @@
      },
      "seen": {
       "first": "2026-11-15T07:54:33+00:00",
-      "last": "2026-11-19T19:01:43+00:00",
-      "count": 16,
+      "last": "2026-11-19T21:39:43+00:00",
+      "count": 17,
       "best": 2,
       "worst": 5
      }
@@ -903,8 +709,8 @@
      },
      "seen": {
       "first": "2026-11-14T23:01:49+00:00",
-      "last": "2026-11-19T19:01:43+00:00",
-      "count": 17,
+      "last": "2026-11-19T21:39:43+00:00",
+      "count": 18,
       "best": 1,
       "worst": 1
      }
@@ -915,7 +721,7 @@
      "source": "hackernews_keyword",
      "platform": "hackernews",
      "title": "S. Korea to send nationwide emergency alerts over college entrance exam cheating",
-     "rank": 3,
+     "rank": 4,
      "url": "https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e",
      "metrics": {
       "points": 72.0,
@@ -928,8 +734,8 @@
      },
      "seen": {
       "first": "2026-11-17T16:55:43+00:00",
-      "last": "2026-11-19T19:01:43+00:00",
-      "count": 8,
+      "last": "2026-11-19T21:39:43+00:00",
+      "count": 9,
       "best": 3,
       "worst": 4
      }
@@ -940,7 +746,7 @@
      "source": "hackernews_keyword",
      "platform": "hackernews",
      "title": "Linux was created as a rejection of robust software architecture and tools",
-     "rank": 4,
+     "rank": 5,
      "url": "https://twitter.com/GrapheneOS/status/2122079826257588569",
      "metrics": {
       "points": 50.0,
@@ -953,8 +759,8 @@
      },
      "seen": {
       "first": "2026-11-16T08:02:32+00:00",
-      "last": "2026-11-19T19:01:43+00:00",
-      "count": 11,
+      "last": "2026-11-19T21:39:43+00:00",
+      "count": 12,
       "best": 4,
       "worst": 6
      }
@@ -965,10 +771,10 @@
      "source": "hackernews_keyword",
      "platform": "hackernews",
      "title": "M.C. Escher's Art Creates Mathematical Worlds",
-     "rank": 5,
+     "rank": 6,
      "url": "https://www.quantamagazine.org/how-m-c-eschers-art-creates-bizarre-mathematical-worlds-20261118/",
      "metrics": {
-      "points": 31.0,
+      "points": 32.0,
       "comments": 5.0
      },
      "keyword": "Creatine",
@@ -978,10 +784,35 @@
      },
      "seen": {
       "first": "2026-11-18T21:27:54+00:00",
-      "last": "2026-11-19T19:01:43+00:00",
-      "count": 4,
+      "last": "2026-11-19T21:39:43+00:00",
+      "count": 5,
       "best": 5,
-      "worst": 5
+      "worst": 6
+     }
+    },
+    {
+     "new": false,
+     "trending": false,
+     "source": "hackernews_keyword",
+     "platform": "hackernews",
+     "title": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
+     "rank": 7,
+     "url": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
+     "metrics": {
+      "points": 8.0,
+      "comments": 0.0
+     },
+     "keyword": "Creatine",
+     "published_at": "2026-11-19T12:03:04Z",
+     "extra": {
+      "discussion": "https://news.ycombinator.com/item?id=50559010"
+     },
+     "seen": {
+      "first": "2026-11-19T19:01:43+00:00",
+      "last": "2026-11-19T21:39:43+00:00",
+      "count": 2,
+      "best": 6,
+      "worst": 7
      }
     }
    ]
@@ -990,7 +821,9 @@
  "credits_used": 0,
  "credits_remaining": null,
  "errors": {
-  "news_keyword:Creatine": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://news.google.com/rss/search?q=Creatine+when%3A2d&hl=en-US&gl=US&ceid=US:en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+  "news_keyword:AI agents": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://news.google.com/rss/search?q=AI+agents+when%3A2d&hl=en-US&gl=US&ceid=US:en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503",
+  "news_keyword:Skincare": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://news.google.com/rss/search?q=Skincare+when%3A2d&hl=en-US&gl=US&ceid=US:en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503",
+  "news_keyword:Creatine": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://news.google.com/rss/search?q=Creatine+when%3A2d&hl=en-US&gl=US&ceid=US:en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503"
  },
  "skipped": {}
 }

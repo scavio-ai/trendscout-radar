@@ -1,0 +1,1235 @@
+{
+ "taken_at": "2026-11-19T21:39:43+00:00",
+ "credits_used": 0,
+ "credits_remaining": null,
+ "errors": {
+  "news_keyword:AI agents": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://news.google.com/rss/search?q=AI+agents+when%3A2d&hl=en-US&gl=US&ceid=US:en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503",
+  "news_keyword:Skincare": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://news.google.com/rss/search?q=Skincare+when%3A2d&hl=en-US&gl=US&ceid=US:en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503",
+  "news_keyword:Creatine": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://news.google.com/rss/search?q=Creatine+when%3A2d&hl=en-US&gl=US&ceid=US:en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503"
+ },
+ "skipped": {},
+ "items": [
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Anthropic hits $2T in Nasdaq debut",
+   "rank": 1,
+   "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+   "metrics": {
+    "points": 649.0,
+    "comments": 1130.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50562754"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Pancreatic cancer halted by virus injection in three patients",
+   "rank": 2,
+   "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+   "metrics": {
+    "points": 284.0,
+    "comments": 29.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50563066"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Claude solves two open problems in the physics of black holes",
+   "rank": 3,
+   "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+   "metrics": {
+    "points": 286.0,
+    "comments": 114.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50563148"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+   "rank": 4,
+   "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+   "metrics": {
+    "points": 103.0,
+    "comments": 51.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50564159"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Garage Door Spam",
+   "rank": 5,
+   "url": "https://blog.harrison.page/garage-door-spam/",
+   "metrics": {
+    "points": 658.0,
+    "comments": 272.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50519231"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
+   "rank": 6,
+   "url": "https://cornholenews.news",
+   "metrics": {
+    "points": 151.0,
+    "comments": 67.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50561515"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "UK government forced to admit it issued Apple a secret encryption order",
+   "rank": 7,
+   "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+   "metrics": {
+    "points": 372.0,
+    "comments": 165.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50562113"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+   "rank": 8,
+   "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+   "metrics": {
+    "points": 35.0,
+    "comments": 56.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50564366"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Someone reported java4shell bug in September 2026",
+   "rank": 9,
+   "url": "https://github.com/openjdk/jdk/pull/32781",
+   "metrics": {
+    "points": 299.0,
+    "comments": 81.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50558906"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+   "rank": 10,
+   "url": "https://github.com/onlook-dev/onlook/",
+   "metrics": {
+    "points": 64.0,
+    "comments": 59.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50562320"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+   "rank": 11,
+   "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+   "metrics": {
+    "points": 195.0,
+    "comments": 45.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50559719"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches",
+   "rank": 12,
+   "url": "https://www.tisonkun.io/posts/ai-repair-program/",
+   "metrics": {
+    "points": 13.0,
+    "comments": 0.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50517657"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+   "rank": 13,
+   "url": "https://thedataexchange.media/pete-warden-moonshine/",
+   "metrics": {
+    "points": 183.0,
+    "comments": 167.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50561508"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Show HN: 1.499x speedup and 28.5% dynamic energy drop on A40 via BF16 tiling",
+   "rank": 14,
+   "url": "https://cwtractors.com",
+   "metrics": {
+    "points": 16.0,
+    "comments": 1.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50526244"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Rebuilding my local voice assistant pipeline",
+   "rank": 15,
+   "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+   "metrics": {
+    "points": 6.0,
+    "comments": 0.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50566261"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "How the European Commission rolled out Matrix to more than 40k staff",
+   "rank": 16,
+   "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+   "metrics": {
+    "points": 619.0,
+    "comments": 299.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50558533"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Nintendo takes Picofly firmware down from GitHub [video]",
+   "rank": 17,
+   "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
+   "metrics": {
+    "points": 229.0,
+    "comments": 85.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50547048"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+   "rank": 18,
+   "url": "https://verialabs.com/ruby2shell/",
+   "metrics": {
+    "points": 358.0,
+    "comments": 151.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50556287"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "An Oregon library ditched Dewey Decimal and got people excited about books again",
+   "rank": 19,
+   "url": "https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system",
+   "metrics": {
+    "points": 164.0,
+    "comments": 116.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50536950"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "What's New in PHP 8.6",
+   "rank": 20,
+   "url": "https://www.php.net/releases/8.6/en.php",
+   "metrics": {
+    "points": 254.0,
+    "comments": 123.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50557870"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Adding Fortran Support to LLDB (GSoC 2026)",
+   "rank": 21,
+   "url": "https://blog.llvm.org/posts/2026-09-07-gsoc-add-fortran-support-to-lldb/",
+   "metrics": {
+    "points": 16.0,
+    "comments": 4.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50521083"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Do not buy RAM, compress",
+   "rank": 22,
+   "url": "https://curiousbits.nl/blog/do-not-buy-ram-compress/",
+   "metrics": {
+    "points": 205.0,
+    "comments": 174.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50557661"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "How to Make the Ink Used to Write Hamlet and the Declaration of Independence",
+   "rank": 23,
+   "url": "https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/",
+   "metrics": {
+    "points": 56.0,
+    "comments": 25.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50561170"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Unblockable communication with gravity",
+   "rank": 24,
+   "url": "https://www.science.org/doi/10.1126/sciadv.aee0802",
+   "metrics": {
+    "points": 115.0,
+    "comments": 37.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50559179"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Distributed, high-performance blob storage on SQLite",
+   "rank": 25,
+   "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+   "metrics": {
+    "points": 232.0,
+    "comments": 65.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50557537"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Fuck Your AI Safeguards",
+   "rank": 26,
+   "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+   "metrics": {
+    "points": 365.0,
+    "comments": 141.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50562262"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Cooling buildings is overtaking heating them as an energy need, IEA says",
+   "rank": 27,
+   "url": "https://maccus.fr/en/cooling-overtaking-heating/",
+   "metrics": {
+    "points": 134.0,
+    "comments": 89.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50560955"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Everything you need to survive and rebuild society",
+   "rank": 28,
+   "url": "https://lastbook.org/",
+   "metrics": {
+    "points": 299.0,
+    "comments": 166.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50560822"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+   "rank": 29,
+   "url": "https://kapteko.com/15-million-webservers/",
+   "metrics": {
+    "points": 355.0,
+    "comments": 41.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50556533"
+   }
+  },
+  {
+   "source": "hackernews",
+   "platform": "hackernews",
+   "title": "Chrome AI features wasting much bandwidth",
+   "rank": 30,
+   "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
+   "metrics": {
+    "points": 103.0,
+    "comments": 39.0
+   },
+   "keyword": null,
+   "published_at": null,
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50562636"
+   }
+  },
+  {
+   "source": "google_trends_rss",
+   "platform": "google",
+   "title": "florida basketball",
+   "rank": 1,
+   "url": "https://trends.google.com/trends/explore?q=florida+basketball",
+   "metrics": {
+    "searches": 20000.0
+   },
+   "keyword": null,
+   "published_at": "2026-11-19T13:20:00-08:00",
+   "extra": {
+    "headline": "Cougars Take It to Gators Inside"
+   }
+  },
+  {
+   "source": "google_trends_rss",
+   "platform": "google",
+   "title": "troy aikman",
+   "rank": 2,
+   "url": "https://trends.google.com/trends/explore?q=troy+aikman",
+   "metrics": {
+    "searches": 2000.0
+   },
+   "keyword": null,
+   "published_at": "2026-11-19T13:10:00-08:00",
+   "extra": {
+    "headline": "Troy Aikman takes dig at Joe Buck, extending tensions: ‘Joe’s always wanted a 1-man booth’ - The Athletic"
+   }
+  },
+  {
+   "source": "google_trends_rss",
+   "platform": "google",
+   "title": "nascar whelen modified tour",
+   "rank": 3,
+   "url": "https://trends.google.com/trends/explore?q=nascar+whelen+modified+tour",
+   "metrics": {
+    "searches": 500.0
+   },
+   "keyword": null,
+   "published_at": "2026-11-19T13:10:00-08:00",
+   "extra": {
+    "headline": "NASCAR Community Hit With Heartbreaking Loss as Championship-Winning Racing Figure Dies"
+   }
+  },
+  {
+   "source": "google_trends_rss",
+   "platform": "google",
+   "title": "intu stock",
+   "rank": 4,
+   "url": "https://trends.google.com/trends/explore?q=intu+stock",
+   "metrics": {
+    "searches": 1000.0
+   },
+   "keyword": null,
+   "published_at": "2026-11-19T13:10:00-08:00",
+   "extra": {
+    "headline": "Intuit Earnings Beat Wasn’t Enough to Boost the Stock"
+   }
+  },
+  {
+   "source": "google_trends_rss",
+   "platform": "google",
+   "title": "julia stiles",
+   "rank": 5,
+   "url": "https://trends.google.com/trends/explore?q=julia+stiles",
+   "metrics": {
+    "searches": 500.0
+   },
+   "keyword": null,
+   "published_at": "2026-11-19T13:00:00-08:00",
+   "extra": {
+    "headline": "Julia Stiles Shares Who She Wants to Win Dancing with the Stars Ahead of the Season 35 Finale (Exclusive)"
+   }
+  },
+  {
+   "source": "google_trends_rss",
+   "platform": "google",
+   "title": "denver weather",
+   "rank": 6,
+   "url": "https://trends.google.com/trends/explore?q=denver+weather",
+   "metrics": {
+    "searches": 200.0
+   },
+   "keyword": null,
+   "published_at": "2026-11-19T13:00:00-08:00",
+   "extra": {
+    "headline": "Snow to pick up in Colorado mountains, colder fall temps this weekend"
+   }
+  },
+  {
+   "source": "google_trends_rss",
+   "platform": "google",
+   "title": "justin reid",
+   "rank": 7,
+   "url": "https://trends.google.com/trends/explore?q=justin+reid",
+   "metrics": {
+    "searches": 1000.0
+   },
+   "keyword": null,
+   "published_at": "2026-11-19T12:50:00-08:00",
+   "extra": {
+    "headline": "Report: Saints, 143-game veteran to 'discuss his future with the team'"
+   }
+  },
+  {
+   "source": "google_trends_rss",
+   "platform": "google",
+   "title": "temporary protected status",
+   "rank": 8,
+   "url": "https://trends.google.com/trends/explore?q=temporary+protected+status",
+   "metrics": {
+    "searches": 1000.0
+   },
+   "keyword": null,
+   "published_at": "2026-11-19T12:50:00-08:00",
+   "extra": {
+    "headline": "Trump administration appeals to Supreme Court over legal protections for Venezuelan migrants"
+   }
+  },
+  {
+   "source": "google_trends_rss",
+   "platform": "google",
+   "title": "lance broadway",
+   "rank": 9,
+   "url": "https://trends.google.com/trends/explore?q=lance+broadway",
+   "metrics": {
+    "searches": 500.0
+   },
+   "keyword": null,
+   "published_at": "2026-11-19T12:40:00-08:00",
+   "extra": {
+    "headline": "Former White Sox, Mets pitcher dies unexpectedly at 43"
+   }
+  },
+  {
+   "source": "google_trends_rss",
+   "platform": "google",
+   "title": "sentence",
+   "rank": 10,
+   "url": "https://trends.google.com/trends/explore?q=sentence",
+   "metrics": {
+    "searches": 500.0
+   },
+   "keyword": null,
+   "published_at": "2026-11-19T12:40:00-08:00",
+   "extra": {
+    "headline": "Puyallup man trafficked drug used to sedate elephants. See his prison sentence"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "AI agents ask better questions than KPMG accountants in audit trial",
+   "rank": 1,
+   "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+   "metrics": {
+    "points": 480.0,
+    "comments": 247.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-18T15:49:34Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50547777"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+   "rank": 2,
+   "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+   "metrics": {
+    "points": 322.0,
+    "comments": 455.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T21:16:12Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50538303"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+   "rank": 3,
+   "url": "https://news.ycombinator.com/item?id=50549188",
+   "metrics": {
+    "points": 57.0,
+    "comments": 54.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-18T17:26:28Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50549188"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+   "rank": 4,
+   "url": "https://github.com/db-branch/db-branch",
+   "metrics": {
+    "points": 45.0,
+    "comments": 17.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-15T13:50:51Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50506940"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "The Fed Is Worried AI Agents Could Trigger a Bank Run",
+   "rank": 5,
+   "url": "https://gizmodo.com/the-fed-is-worried-ai-agents-could-trigger-a-bank-run-2000840566",
+   "metrics": {
+    "points": 27.0,
+    "comments": 15.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-16T21:12:02Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50523346"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "AI agents have a big problem: Nobody wants to let them in",
+   "rank": 6,
+   "url": "https://www.pcworld.com/article/3283946/ai-agents-have-a-big-problem-nobody-wants-to-let-them-in.html",
+   "metrics": {
+    "points": 16.0,
+    "comments": 6.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-13T12:37:41Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50482661"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Show HN: AgentMall – Let your AI agent buy groceries",
+   "rank": 7,
+   "url": "https://getagentmall.com",
+   "metrics": {
+    "points": 16.0,
+    "comments": 3.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-19T16:46:14Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50562508"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Show HN: A free interactive course on AI agent governance",
+   "rank": 8,
+   "url": "https://studio.sinapsdata.com.br",
+   "metrics": {
+    "points": 12.0,
+    "comments": 8.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T02:12:13Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50526527"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Google: AI agent turned a security patch into a exploit with no human help",
+   "rank": 9,
+   "url": "https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926",
+   "metrics": {
+    "points": 12.0,
+    "comments": 3.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-16T14:14:09Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50517797"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Show HN: Shotoku – Local-first action governance and budget caps for AI agents",
+   "rank": 10,
+   "url": "https://www.shotoku.dev/",
+   "metrics": {
+    "points": 11.0,
+    "comments": 1.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-14T13:02:53Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50496705"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "California is suing OpenAI over its 'rogue' AI agent hack",
+   "rank": 11,
+   "url": "https://calmatters.org/economy/technology/2026/11/california-is-suing-openai-over-hugging-face-hack/",
+   "metrics": {
+    "points": 11.0,
+    "comments": 0.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-16T21:12:54Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50523359"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "What Picasso taught me about building AI Agents",
+   "rank": 12,
+   "url": "https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/",
+   "metrics": {
+    "points": 10.0,
+    "comments": 6.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-15T16:16:26Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50508076"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "OpenAI launches ChatGPT Wallet, AI agents pay for purchase",
+   "rank": 13,
+   "url": "https://www.reuters.com/technology/openai-launches-chatgpt-wallet-letting-ai-agents-pay-purchases-2026-11-13/",
+   "metrics": {
+    "points": 10.0,
+    "comments": 1.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-13T18:17:27Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50487510"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
+   "rank": 14,
+   "url": "https://www.kradle.ai?1",
+   "metrics": {
+    "points": 9.0,
+    "comments": 7.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-18T19:14:28Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50550700"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "OpenTelemetry and AI Agents' Observability",
+   "rank": 15,
+   "url": "https://signoz.io/blog/opentelemetry-ai-agent-observability/",
+   "metrics": {
+    "points": 9.0,
+    "comments": 0.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-16T07:30:19Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50515018"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Show HN: Can an AI Agent Bypass Your Website Security?",
+   "rank": 16,
+   "url": "https://assess.poh.org/",
+   "metrics": {
+    "points": 8.0,
+    "comments": 1.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-18T16:40:57Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50548480"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "AI agents attempted exploits on Epoch AI's website during an alignment eval",
+   "rank": 17,
+   "url": "https://epoch.ai/publications/incident-report-ai-agents-attempted-exploits-on-our-website",
+   "metrics": {
+    "points": 8.0,
+    "comments": 0.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-16T12:00:14Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50516629"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Show HN: Attest – Test what AI agents do, not just what they say",
+   "rank": 18,
+   "url": "https://attest-framework.github.io/",
+   "metrics": {
+    "points": 8.0,
+    "comments": 0.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-15T18:03:01Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50509107"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "No, AI agents did not discover a previously unknown Maya site",
+   "rank": 19,
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+   "metrics": {
+    "points": 7.0,
+    "comments": 1.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-13T02:28:29Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50477335"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Data Minimization Is Imperative for the Age of AI Agents",
+   "rank": 20,
+   "url": "https://www.techpolicy.press/data-minimization-is-imperative-for-the-age-of-ai-agents/",
+   "metrics": {
+    "points": 7.0,
+    "comments": 0.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-18T15:00:18Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50547106"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "A Man and His Muse AI Agent Sue Meta",
+   "rank": 21,
+   "url": "https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/",
+   "metrics": {
+    "points": 6.0,
+    "comments": 1.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T20:31:00Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50537747"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Show HN: Atli – MCP server that lets AI agents buy and install travel eSIMs",
+   "rank": 22,
+   "url": "https://heyatli.com/mcp",
+   "metrics": {
+    "points": 6.0,
+    "comments": 1.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T15:16:52Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50532519"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Steve Yegge on AI Agents and the Future of Software Engineering",
+   "rank": 23,
+   "url": "https://newsletter.pragmaticengineer.com/p/steve-yegge-on-ai-agents-and-the",
+   "metrics": {
+    "points": 5.0,
+    "comments": 1.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-19T04:44:22Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50556168"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Amazon MadPot: Honeypot for AI Agents",
+   "rank": 24,
+   "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-observes-threat-actors-running-cybercrime-campaigns-with-artex-ai-agents/",
+   "metrics": {
+    "points": 5.0,
+    "comments": 1.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-16T00:50:59Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50512675"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Show HN: Pizza – An event-driven AI agent, no while true",
+   "rank": 25,
+   "url": "https://pizza.hertzbeat.com/",
+   "metrics": {
+    "points": 5.0,
+    "comments": 1.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-15T16:04:32Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50507971"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+   "rank": 26,
+   "url": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
+   "metrics": {
+    "points": 5.0,
+    "comments": 0.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-18T14:38:17Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50546841"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+   "rank": 27,
+   "url": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+   "metrics": {
+    "points": 5.0,
+    "comments": 0.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-18T09:46:34Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50544144"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "I Built My Own AI Agent Orchestration Tool",
+   "rank": 28,
+   "url": "https://www.checklyhq.com/blog/agentic-crafting-table-ai-agent-orchestration/",
+   "metrics": {
+    "points": 5.0,
+    "comments": 0.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-17T13:00:52Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50530784"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Show HN: CoderBaba – An open-source AI Coding Agent with security scanning",
+   "rank": 29,
+   "url": "https://coderbaba.si",
+   "metrics": {
+    "points": 5.0,
+    "comments": 0.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-16T15:51:06Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50518918"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Kitesurf, Cloudflare's browser engine for AI agents, is now open source",
+   "rank": 30,
+   "url": "https://blog.cloudflare.com/kitesurf-open-source/",
+   "metrics": {
+    "points": 5.0,
+    "comments": 0.0
+   },
+   "keyword": "AI agents",
+   "published_at": "2026-11-16T15:17:39Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50518495"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Creating a self booting ZIP archive",
+   "rank": 1,
+   "url": "https://goliath32.com/blog/ziphead.html",
+   "metrics": {
+    "points": 74.0,
+    "comments": 11.0
+   },
+   "keyword": "Creatine",
+   "published_at": "2026-11-14T16:29:05Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50498295"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "U.S. Army to Blow Up Old Ammo, Creating Toxic Cloud over Iowa",
+   "rank": 2,
+   "url": "https://www.nytimes.com/2026/11/19/climate/iowa-ammunition-explosion-lead-dust.html",
+   "metrics": {
+    "points": 5.0,
+    "comments": 0.0
+   },
+   "keyword": "Creatine",
+   "published_at": "2026-11-19T16:43:08Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50562453"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "A quest to create the perfect whiskey glass",
+   "rank": 3,
+   "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
+   "metrics": {
+    "points": 105.0,
+    "comments": 116.0
+   },
+   "keyword": "Creatine",
+   "published_at": "2026-11-13T17:37:32Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50486880"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "S. Korea to send nationwide emergency alerts over college entrance exam cheating",
+   "rank": 4,
+   "url": "https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e",
+   "metrics": {
+    "points": 72.0,
+    "comments": 86.0
+   },
+   "keyword": "Creatine",
+   "published_at": "2026-11-17T14:00:47Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50531484"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Linux was created as a rejection of robust software architecture and tools",
+   "rank": 5,
+   "url": "https://twitter.com/GrapheneOS/status/2122079826257588569",
+   "metrics": {
+    "points": 50.0,
+    "comments": 93.0
+   },
+   "keyword": "Creatine",
+   "published_at": "2026-11-16T03:58:04Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50513843"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "M.C. Escher's Art Creates Mathematical Worlds",
+   "rank": 6,
+   "url": "https://www.quantamagazine.org/how-m-c-eschers-art-creates-bizarre-mathematical-worlds-20261118/",
+   "metrics": {
+    "points": 32.0,
+    "comments": 5.0
+   },
+   "keyword": "Creatine",
+   "published_at": "2026-11-18T16:41:57Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50548491"
+   }
+  },
+  {
+   "source": "hackernews_keyword",
+   "platform": "hackernews",
+   "title": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
+   "rank": 7,
+   "url": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
+   "metrics": {
+    "points": 8.0,
+    "comments": 0.0
+   },
+   "keyword": "Creatine",
+   "published_at": "2026-11-19T12:03:04Z",
+   "extra": {
+    "discussion": "https://news.ycombinator.com/item?id=50559010"
+   }
+  }
+ ]
+}

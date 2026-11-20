@@ -1,61 +1,73 @@
-# Trend radar - 2026-11-19 21:39 UTC
+# Trend radar - 2026-11-20 01:19 UTC
 
-Compared with the run at 2026-11-19 19:01 UTC. 17 new entries.
+Compared with the run at 2026-11-19 21:39 UTC. 17 new entries.
 
-## AI agents (0 new, 30 matching)
+## AI agents (57 new, 130 matching)
 
-- [AI agents ask better questions than KPMG accountants in audit trial](https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/) - Hacker News, 480 points, 1 day ago
-- [Harvard researchers find AI coding agents shifted the bottleneck to code review](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/) - Hacker News, 322 points, 2 days ago
-- [Launch HN: Maritime (YC F26) – A managed cloud for production AI agents](https://news.ycombinator.com/item?id=50549188) - Hacker News, 57 points, 1 day ago
-- [Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS](https://github.com/db-branch/db-branch) - Hacker News, 45 points, 4 days ago
-- [The Fed Is Worried AI Agents Could Trigger a Bank Run](https://gizmodo.com/the-fed-is-worried-ai-agents-could-trigger-a-bank-run-2000840566) - Hacker News, 27 points, 3 days ago
-- [AI agents have a big problem: Nobody wants to let them in](https://www.pcworld.com/article/3283946/ai-agents-have-a-big-problem-nobody-wants-to-let-them-in.html) - Hacker News, 16 points, 6 days ago
-- [Show HN: AgentMall – Let your AI agent buy groceries](https://getagentmall.com) - Hacker News, 16 points, 4 h ago
-- [Show HN: A free interactive course on AI agent governance](https://studio.sinapsdata.com.br) - Hacker News, 12 points, 2 days ago
-- [Google: AI agent turned a security patch into a exploit with no human help](https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926) - Hacker News, 12 points, 3 days ago
-- [Show HN: Shotoku – Local-first action governance and budget caps for AI agents](https://www.shotoku.dev/) - Hacker News, 11 points, 5 days ago
+- [Meta Muse Books Airbnb Without Permission in AI Security Breach](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTnQxU2JVOWo1QlN0czU2bUQ4aTUzeFdiSTI3TmdkcFl6OG1hbjY2UXZUQ2NNMnZvZ3BGcGpXY2NGOGpfOGNUNFdmVnlRbkpXMl9PVGI2azJUM3I0Tnd3TFlrR0xBZzFNNTBWLXp0akFjNlIyc2dYMmRRaHVhbXRBU080dkFseDRGdVNBTUZwOXBGeUV5b3pkSWJiQkw?oc=5) **NEW** - News, The Tech Buzz, just now
+- [Apple may be developing its own AI agent that runs your Mac](https://news.google.com/rss/articles/CBMimgFBVV95cUxOMVRpWGxyaWRqbnBxTllOMGFSNkxUTVJweUNGX1lLWVRXbFpSSnVadUJTYU13TktrRWhxYTU2ZlVyLTJ6YU1qQTVwZGRDN2l0ZEZYNkd5a0ZUcjEzZXplUFY2TkFnUHFUUFhjelFGbXhoc3hoVk42RWE5NDhtWjlNeUVhbmd0Q3hKUTFfOHY1MFhOYzFFaHI0bHd3?oc=5) **NEW** - News, TechCrunch, just now
+- [Superhuman expands Go AI assistant across its apps](https://news.google.com/rss/articles/CBMinwFBVV95cUxPTURGZkdoZ19aOUpRSWNhdWxNT3NIR1oxREh0aEN4OVNkQTQxM3YyUERENmlmRWxOZEF3UlFSMWQtVjBUU1hQeDFoWTU1SVM4S2Z6anVmQ1FUdUVjbDN6MjdWNkxpTWlCNDJOdjF6UGF1dHBMMFBCaVppR2dPZTNHSW5NOFZXNDVZWEYxXzBDcHJLT01yMXR3QUpFTVRIY2c?oc=5) **NEW** - News, The American Bazaar, just now
+- [Meta Staffers Say Muse AI Agent Made Unauthorized Booking and Accessed Private Apps](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWlFyMWRqWGZldUlJRFZ3d3JfeklKa2FKdEFyejlXNHNSbDE2ZmlFcEM4cldZREpOYTFHelhFOVF4aHVkUVZZSFBjdXVNUnZ3akhTXzFOdXJiWGZHSGhlcGJ5dGd3WlBFaHlQLTdBeXZmT2RVOHN1R3VFa3dPbDVINEFfb3FhcVpELW54SkMzVEF4cUdJLVNZaHRSSmFGOTJLbFlGZWNNXzRpalVFRFJQeEdnSjhpaG9EbVhENkxoeTRrODRuZ3J3RTZoZHQ0VjFuQWN6Z0JVc0g?oc=5) **NEW** - News, PYMNTS.com, 1 h ago
+- [Where Are the Plans for AI Governance in Contact Centers?](https://news.google.com/rss/articles/CBMiowFBVV95cUxPRzdtMXFSczJoRFNDVHYycnY4NFVBOElCMndxc1h0UWRCRWluLTFtYXBVUHZYdUZzNVg5STUyRm9wSGIyVF93UnlYSnVVdDRwMmEyZ2lMcDNZOW50UzJ2M2tyeFRCSHpWY1RIbFdta2x6Sm96bUs0UDdZNUNuMUtYbjZUaGJyWnB0NWNfWlpraFRiNV9zaE9FcEdXejhaS0cwOWNF?oc=5) **NEW** - News, CMSWire, 1 h ago
+- [UK regulators warn personal AI agent firms over uneven pre-launch engagement](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUVlVci13NG5PV1hPSm95ZzhJdmphVGF5UnNiNnRRNVpMc0VjYUtFMFloLW9YMC15bVdFUzY2Y3IwalJEUDFaTHkwbkNQbDhHSzFFNVVCakpRYkZBLWplZUhBTHlQMVVPeURiR0Q4VTJnYy1XT3VESjFNSEFwWS05bTNUcUhZNFlNR1VYNGt6eTlXV2pncklXcEJIUF90cENfWWVRVHFpa0JGN2R1eWNYNlYyMGVSUEhl?oc=5) **NEW** - News, EdTech Innovation Hub, 1 h ago
+- [An Apple Agent Is Something to Fear for AI Rivals](https://news.google.com/rss/articles/CBMipgFBVV95cUxPcUJtbUhFMEZPLTE3R2ZadFlwR3l2QndSUEYwN0FGSy1NNnJSNW9YalBDSTlRMW03UHBkNUdsNVJJekZxeGF2R1B2dEJrVUZVNGpQSXQ5clp2TVlEWXlNQ2gtcmJ5UjVQaHFuOWxOMk95ZHFoUjhLTkRQdGlCTS1GVGN4c192YnBubFpVVkhTaWEtNmpxVWZaSUxubWJmSlctMDdzYlp3?oc=5) **NEW** - News, Bloomberg.com, 1 h ago
+- [Job posting seemingly confirms Apple is working on its own AI agent for coding and other tasks](https://news.google.com/rss/articles/CBMixwFBVV95cUxNVUZZWUM2VlpwbFZmYzlVdGVIdndVbm1XV295M0hsaWFWRC1IU0taZUhEMVY4dzZjdXBLOTVMdkFwOFZiblZTNjRLenhDUFdxenNjUlotSnNyUC13blRKRkVWU3UtdW9BTndGQXJja0VSZEdfT2JXQnZkaGJXeDFJR0xEYzE4NHh6RkQ5QWNSd3NnZ2I3U1Z2YU1mNmR6OTVZVkdaQll5VXkwVE5CTldDU3ZNSU5zLVNRb212OS1MV1k2RExDd3Jj?oc=5) **NEW** - News, Engadget, 1 h ago
+- [Holiday Shoppers Will Bring Their Own AI to the Refund Fight](https://news.google.com/rss/articles/CBMimAFBVV95cUxQTXVqdkV4NW9LY0t0SGo4RE92TjNhT0NEaXZMci1BVEpPRDBGcmJQdk1EVlRGMmt5bFdBbG52U3NSOGR4V2dFUUVoancwbERWSEhzT0pKb2pKVU14SGt3Y1RvOC01OW9wNWtuMmlFMUlCWUVXMmdVbm50T1h6bV8wanU4UlJ6XzRidnZjNG1qRVVnaVk4Rmg2Zw?oc=5) **NEW** - News, CX Today, 1 h ago
+- [Apple job listing gives away proactive agentic AI project](https://news.google.com/rss/articles/CBMipgFBVV95cUxQdXpocHlUYklDNU40UGJfNEhkQy1rTG5fRWdKMkExbzdIazhlYy1FQzYyUkJHVzNUSTlPV0dWV2Q2Tmpnd3k2bU9hWVpZV2tfVi1mYkxKc0FwTFZhMTF4dS1IaXZWcUtVS0xFYWJwUHVJXzNTZmtqVHdwbjk2SDJ1LTU4bDMybklubHF0UmhOVHFKZXAtVTREblhaVDFfc1RzQ2xGUHFR?oc=5) **NEW** - News, Macworld, 1 h ago
 
-## Creatine (1 new, 7 matching)
+## Skincare (31 new, 100 matching)
 
-- [U.S. Army to Blow Up Old Ammo, Creating Toxic Cloud over Iowa](https://www.nytimes.com/2026/11/19/climate/iowa-ammunition-explosion-lead-dust.html) **NEW** - Hacker News, 5 points, 4 h ago
-- [A quest to create the perfect whiskey glass](https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html) - Hacker News, 105 points, 6 days ago
-- [Creating a self booting ZIP archive](https://goliath32.com/blog/ziphead.html) - Hacker News, 74 points, 5 days ago
-- [S. Korea to send nationwide emergency alerts over college entrance exam cheating](https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e) - Hacker News, 72 points, 2 days ago
-- [Linux was created as a rejection of robust software architecture and tools](https://twitter.com/GrapheneOS/status/2122079826257588569) - Hacker News, 50 points, 3 days ago
-- [M.C. Escher's Art Creates Mathematical Worlds](https://www.quantamagazine.org/how-m-c-eschers-art-creates-bizarre-mathematical-worlds-20261118/) - Hacker News, 32 points, 1 day ago
-- [Datacentres to create 70% more carbon emissions by 2030, IEA report warns](https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns) - Hacker News, 8 points, 9 h ago
+- [I found 5 Beauty Pie favorites for 20% off at Amazon Black Friday](https://news.google.com/rss/articles/CBMisgFBVV95cUxQbFhmRTR6MkFGeDhzSFNVVlV4UkFPN2paNTFsczh5eThtWHluZ0JxYmF0NjV2alJwdXVaM1NRT251SHJSajBlUmRaNUJxLUlPaWN4MTF0RFRCY3RhMFlLWENjbTB5bGNzeER2QVctQ0ZDSFQ3VWlhLThIOTJ1VzRuSF9TcnM4Z2wzSTVyMUNPWVUxTWdSWURGRVpJMEFuWUJRZlMtazBOUnBJT1J2UVBVc1VR?oc=5) **NEW** - News, USA Today, just now
+- [UAPB research examines sweetpotato’s potential in cosmetics](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUmxRMkZiYmJ2ZV9aTjlLVGxMUFZCZWQ3d1RmOTF2enU5dGtQems3ZEFpNzF3TFR4Qi1HMDE2UW41S2Z1YVFVQUI0U0lYQzlTVDNEZHhpblBaaTVvRW1NVTlQUUU1ajREZXVvZHlDZU5EMkNaZmwxVVBiU1FkR0ZpZFY2Rkd3SHdzVzRCRFVUUUw5dw?oc=5) **NEW** - News, Pine Bluff Commercial, 1 h ago
+- [Amazon Just Dropped Hundreds of New Beauty Deals Before Black Friday](https://news.google.com/rss/articles/CBMif0FVX3lxTFBxaTk4NnpZNk90NTRyU3RreUxDUnRtNFJGQ01MZGVOTWxSSDY4dVd0bTFrNmpneWVpc1paZDVlNmhLLWdnajVaT05RbndSUk1VblM2SHdwMWpTaGhoZlFNVnBBNmJFYjI5ZEN5WHJsZmJTN2l0dmVINk90UDdRU2c?oc=5) **NEW** - News, The Daily Beast, 1 h ago
+- [Black Friday K-beauty picks for 2026 are named in a new Skintastic Tips comparison](https://news.google.com/rss/articles/CBMilAJBVV95cUxNU0thX1B6eDhOMzhwaS1pUHVGMnVvUExBVURWWFM3Y0t4RktvZVNBWk5Ed1hyNGdjamFHdU1MRm1UdVBhOFdSMzZLQzVYLXUyQXZvZzhSZS14M0hyU1pMdk1qd3E5ZmNhUlpsVHphRTVSMlVUYkdRWkRKampKWFBlT1lHQlVmd3lha05CMElsUk1rckpHcDFRRmNIcGV1X0pucGxVVGFBcW1lTW9VUDNidEVDaG1OdFF1MXhXY0lENVNERlp0dFJWclRrZzZBN09aTEZxMEExVFNiT0NWcUN2aVFhUXNzbXNEZm8wQjl0anRUcm9MOGlCV2c2djRCdWdvTjUxU1dZakRfenJwVlFtZ2V5aDc?oc=5) **NEW** - News, mykxlg.com, 1 h ago
+- [The Bougie Beauty Products You’ve Been Eyeing Are Finally on Sale: La Mer, Charlotte Tilbury, Oribe](https://news.google.com/rss/articles/CBMipwFBVV95cUxONnNlaUQ1NC1ZZ3RtYWVfNldIOS1OMzBmUUJFOWtoelh6Z2pXVU1jelp6eXFMQjdOUDFkcEFuNkZxemstTVZUMk5Xd1lMM1lVNnhONFJ6VnJUbDFuVV9nQnk1NmtrN3M0Ymx0RkZjMnEzcDQxRW5yYTNXSFFFRzdmT05mVlhKczBnOHdPeWM5a25sYkVwbGNySV9FZGlSUGtOeEdRTHJiUQ?oc=5) **NEW** - News, E! News, 2 h ago
+- [/C O R R E C T I O N - DHC/](https://news.google.com/rss/articles/CBMihwFBVV95cUxOOXdwWTFibHBFNklWaDBRRk5pVTZmTnN2TUxzd1RjUldlUnlIMnhycHhrY0xmZGVkeFE4Smpfb3lsQ180YUx2WUFZMWVfdUMySzlKV3ltcDZmRlpCMmVlTTQxX0tRLTZhZFViajJNQWZONGp3N3dpT1VsYmxRQnQwcmppbWZmRU0?oc=5) **NEW** - News, StreetInsider, 2 h ago
+- [Can a Moisturizer Make Your Face More Sculpted?](https://news.google.com/rss/articles/CBMilwFBVV95cUxPOTVGaTRoYWh1YmJtTUxzQ2RPc09ZUl9XOTdzT2I2MTFzTkdURzhuVWFkb0tfNVE5WHdsN0VDLUNQemxHQ1o5UzAzVk00cDdrWGIyZ1dmMmFQcWFZbk5hc3ctSVpzWS1falRFTUpqSWpxSnI4SFM5djNNYld4VGQyV3Rpb25tWXhCaUZKYUFfUUpMT3VzbnZj?oc=5) **NEW** - News, Katie Couric Media, 3 h ago
+- [The Gift of Skincare with Pour Moi](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTTE0MkFRT2MyWHFIc2FRUnl6U1laSzNrSFZLOWtGbHhHaVp0N2NSaWdXYVRGWjZRZUUyZDNONWlQZVlOdGZhY21OR1dLeEhqOF9pNmJsc3RSWXNXQ1pXcFNYeThmS3dGdWIwR0x0VFltWHktUHRUeHdBb3BKQzVsMUpZZ25BcjJXQTlj?oc=5) **NEW** - News, 5 EYEWITNESS NEWS, 3 h ago
+- [LeBron James celebrates Savannah James’ latest milestone in her career as she opens up about her skincare](https://news.google.com/rss/articles/CBMioAJBVV95cUxNOHUyNVBZTGthdmtNcTNPOG1pb1JjZ05NT2k2aGM1V0NnbU1WR2t5TDJYQUVFTE13ekRFdVNSdzd6U3BKdmE3dHdzQjRUUXotYlFvdTlRNVpkM3o3Ry1la2taUFRkbHduVWppa2l5b3U1ZFdDSFhYLXIxLUY1a283aHhHNEdrZHVSUXM0VXlwdzVtY09hNUVwYjRIZlpHOEJ5cUdyQkdHWG5lU0lQZFR0MWpieDRqZmIxUGs4eFIweThWNTFBUWJDSTZKYm1NcXdyYVhQN0U4OXF0cTNlcVhoYUQxLWpNUG85bUd0eFQwbldZVGI2Nm4tZ1NiM1RRRkdxRURvWDU1QzBCQ0RpVDNmb2RnZEQya2xpWktQVVJOMnjSAaYCQVVfeXFMTWFVMklVUW9KaTZHTjc2dTVTc0pfS3prUkR1OHE5enFUUGZHYUNZZGxhUllwSTZ0SjlPdkl6THROQmZhajlGclRqVzVlb2hkd25DUk83aE1YRmJvYVRHRHdhR1ljTXNBQkFBVmdlRGJJRzRrdnRvT0hHUTg4N3RZd3V6ZWVCN1R1ZTNhYnVmRTdWbnVmWVhzRmZSdXZPY0U0bl9hSVJwZTJyRlFTbDJTZFYzQzltNXZubGE0eTRIYVVfSFk4VVlGUzUwSldJd3AwMXF3Y1A5M2FSamUzRnBVUGpOR0xid1YyQy1LYm51WWtTQXoxQTQ3YW5RZ0pnY1RKTV9oaGZNcW5lNXg1X0JiN1EwNjhuN2pHSkN0YXY2LTQ3ZHA1aUdB?oc=5) **NEW** - News, The Times of India, 3 h ago
+- [Beyond the quick fix: Melissa Gibbens redefines Houston aesthetic medicine](https://news.google.com/rss/articles/CBMipgFBVV95cUxORG9SNjFkSjhaaTNndFFhSE4yeHBTUUxQRzhJcmU1MFBnTzdIc3YwdE1hdjNmTy1Vald1TFpxQlZ5bkFUd2VoRmlEUkxxQkVYS1lJOThUQnV5ejdCVm5Dbk9TdWVVTFVfWDVMWVB3MGE3RjRmU29vQ1NkS0Nsd0Z1bFhwRmYzWGVuVE9GS0FtckVuMzZNT2tQZ1ZqSkdjdEpEQUVxTURB?oc=5) **NEW** - News, The Business Journals, 4 h ago
+
+## Creatine (11 new, 34 matching)
+
+- [Creatine Supplements Surge in Popularity Among U.S. College Students Amid Growing Fitness and Body-Image Pressures](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYnZ1R2Y4bW9lN2daMkdKN3k2ZEJ2dkYtRjY0NS1yMnpVMjFMcVZSMVlrNnFOQTU2VWFOZW9od2FKVFJaVWZGcUlGc1VsT2s5MnBVRkJsUUFDbjVqNXJwZnpoemctZHZ5TEFSSjhUQjA5TGI5T21JMzRVajFTMkNzbDhXMG4xa0sySDZYbDRMSFBiZ1ljSW9ZV0s0N1NTZmtMN1g4SkF5eExnb0hWYUxSNWdjRzBzQ3VObkZmMHNlZDZPYTNaV29yRjBvTlhGeGFOMFBwc1hkTFcwbF85RXZZd2lBdU0wZk0?oc=5) **NEW** - News, Discover Magazine, 1 h ago
+- [Cystatin C, Creatinine eGFR Gap Flags Higher Mortality, HF Risk](https://news.google.com/rss/articles/CBMikAFBVV95cUxOUk9NQUhvS1VrVmRsSDVGNm1LLWtBckRyODdpRnBVNW9BM0Exbm12Y0s4RnA1eXF0WkkxZkVvQVFhWU1ORnczcWRMbTB0OFdGa2RoS3g5NXZoNjlWbUVfeGZuVDAwMzRsaHo4OXV4VUlocDZlQ1JfclZ5azVnTkE3SXRSWU1IOVZwb3AxbGw4RHY?oc=5) **NEW** - News, The American Journal of Managed Care, 3 h ago
+- [Why Nearly 1 in 7 College Students Have Tried Creatine](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTUF4UU00Ul9LazMzbTdoNXZDSmU5UnJnQjVhT0c4dFRxV1IwNHdhdzhKMVlIaXZ3ZUY3ZnpYZEV6R2JXZTlUd3V1TDdMQ1k5dUtGZ3VZbG1mWVZOaFpCQmh3T1lsSEVuT2hFWDY0Rl9CVklMNGxocHowU3I5UUMybDg3MEhtVlBnNkRLMnpEREJPU2hjT0FrWUJJVDREcklWcjYwaW5MaUk?oc=5) **NEW** - News, Gizmodo, 3 h ago
+- [Pharmacist Assessment Clarifies Muscle Enzyme Surge in Late-Onset Mania Case](https://news.google.com/rss/articles/CBMiowFBVV95cUxOV3c4b2ppU3RBejVpekstbl80bHByTndqOUVsc1dYQU0yZTU3VTVpSUVuLUQ4ZTdvRGVRQlNIdW4yR2NyMTduQzhfMlNkNWxEQ3dfQm51bGNMTmlUM3VueGVYaUg1MFhFb3ppdHVFVjF2dGN2Nng2OFNhd3p3RnJBalpKa01BSDFnVkROSnUzLW9tV2JCaWZOWDN5dTZGYzNOcGlF?oc=5) **NEW** - News, Bioengineer.org, 3 h ago
+- [CreaPrime previews Candeez chewable creatine with 1g per tablet](https://news.google.com/rss/articles/CBMid0FVX3lxTE9OZXZ5UDU1b19xLVhTUVNWQlEyT2piVEg5Z1lXSXJhTm1Qa1pNenRlNW9JSkxQeVNPQ3dBMkdSOGMwUy1CRzNQS3ZHTlA5czFSQnQtSnA1QVJ1SjdsV2VSaDlkWnZoTk5RT2FDdm8yLXlkc2dYWEtr?oc=5) **NEW** - News, Stack3d, 4 h ago
+- [Chiefs adds 3g of creatine to two new Protein Soft Bars](https://news.google.com/rss/articles/CBMic0FVX3lxTE8wV1E2VTR0QXBlWTUzVTNrcVYyekkxMkc1T0dOT2FJWDBENGJvOVVCekhnVllZVWpWOWJxamRUdTNLM09NdWVoUjlTSnJuNWhiVExyUXhYbE91TDNGdno3VmQxWXZ3RkRqbl93TFNBTEFrVEE?oc=5) **NEW** - News, Stack3d, 5 h ago
+- [Gummy Supplements Market to Reach US$87.20 Billion by 2033](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYVcwRnYtalF5c3E2eklJbGlLSUZsSVdYX2VWT2NHZ3BKOG5PY2FDbU5tMkNXQ1hfYW1kTjFJOEE3Tjl5Q1NNOG1JRjlZLWxNRkk5M01UbnhLa0doOW5Da2w2dmhlcTB1YTE3eF9IOWRSOVgzbVRldWFqem9HV0JmVmppQjdXUUZUekgyWDNzckJ6ZzlOcXBnOXF3?oc=5) **NEW** - News, openPR.com, 9 h ago
+- [The Vitamin Shoppe sees double-digit growth in sports nutrition, creatine and on-the-go products](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVjFuRm9hTU5yeW8zY2RKUWNsVXM5a3hrT2Nrd1RjZHdqTTB6Q3llQkJTcmRGS2dkb1NiaDdBd1cybnpydjdfQmdpR3pFOGVBMENTcEpFaVo4SlozcUNvTWd4S2sybUZkdWE3S3ByTkZlNlF5a084QUxKN203MEJNSmlfdW1KTlNaTHREU0Y4em9ibmhhQXlIck05ektyV1NYQXpLU1ZoUkhES29jQ044YXlFUUltbG9BQnV4ZjJGSndOQThTOVRHckFleUllN0dJcjh0V2dkZ0dUUldRdDVmZXF3?oc=5) **NEW** - News, NutraIngredients.com, 9 h ago
+- ['Age Appropriate': I’ve taken creatine for 10 years. Does it help healthy aging?](https://news.google.com/rss/articles/CBMiogFBVV95cUxQN2VZa3B6WjZ6RkVVSXBOSFBDZlFoMy1NUk90SHdHSU5MMnBPU2lWVnIycmE4d3MyOUVuRlI0dDNUdkJlNlZUbkE5Z0Z5SVo0TmY2NTEyT3hsZEs2eUVyNGNVMzU1cGdBNkRvVXNNbTEybjVnOHZnM2x4WWh0cFhaSlgxa0VNN3N0SWVfajRIRXFhY0dNdkRVSUtrbExTNmxIcXc?oc=5) **NEW** - News, Medical News Today, 11 h ago
+- [India’s Supplements Market Could Nearly Double. Digital-First Brands Want a Bigger Share: Report](https://news.google.com/rss/articles/CBMiygFBVV95cUxQb1REQnJBTGlNclhydkExNkVzeDFQT1B2ZlhIUmlFU2l0a3RidFBoUDVyOGhZVThxdld5R05Kdmxuam10LTZyR1ZJd1NQTkF3XzVpemZsR0hpVFRXUlNFcWRVU3pTaXZabjI3alRkQWtHNXR3X0NvZmdCUVpOY1NZMldDQ2xtYV9BUXlJM1V3eFhyX1BlX25oVGpWaVRGeHdwbF9XcG5LQmtfNExiREdDeDRCX2RHcGc1UkVZa3Bmdnp5UmZucXF2bzNB?oc=5) **NEW** - News, Open Magazine, 13 h ago
 
 ## Google Trends
 
-1. [florida basketball](https://trends.google.com/trends/explore?q=florida+basketball) **NEW** - 20K searches
-2. [troy aikman](https://trends.google.com/trends/explore?q=troy+aikman) **NEW** - 2K searches
-3. [nascar whelen modified tour](https://trends.google.com/trends/explore?q=nascar+whelen+modified+tour) **NEW** - 500 searches
-4. [intu stock](https://trends.google.com/trends/explore?q=intu+stock) **NEW** - 1K searches
-5. [julia stiles](https://trends.google.com/trends/explore?q=julia+stiles) **NEW** - 500 searches
-6. [denver weather](https://trends.google.com/trends/explore?q=denver+weather) **NEW** - 200 searches
-7. [justin reid](https://trends.google.com/trends/explore?q=justin+reid) **NEW** - 1K searches
-8. [temporary protected status](https://trends.google.com/trends/explore?q=temporary+protected+status) **NEW** - 1K searches
-9. [lance broadway](https://trends.google.com/trends/explore?q=lance+broadway) **NEW** - 500 searches
-10. [sentence](https://trends.google.com/trends/explore?q=sentence) **NEW** - 500 searches
+1. [daniel jones](https://trends.google.com/trends/explore?q=daniel+jones) **NEW** - 1K searches
+2. [tank dell](https://trends.google.com/trends/explore?q=tank+dell) **NEW** - 2K searches
+3. [tcu basketball](https://trends.google.com/trends/explore?q=tcu+basketball) **NEW** - 500 searches
+4. [laquon treadwell](https://trends.google.com/trends/explore?q=laquon+treadwell) **NEW** - 500 searches
+5. [ducks vs avalanche](https://trends.google.com/trends/explore?q=ducks+vs+avalanche) **NEW** - 200 searches
+6. [anthony gould](https://trends.google.com/trends/explore?q=anthony+gould) **NEW** - 200 searches
+7. [비상식량](https://trends.google.com/trends/explore?q=%EB%B9%84%EC%83%81%EC%8B%9D%EB%9F%89) **NEW** - 200 searches
+8. [is deni avdija playing tonight](https://trends.google.com/trends/explore?q=is+deni+avdija+playing+tonight) **NEW** - 200 searches
+9. [harrison ford](https://trends.google.com/trends/explore?q=harrison+ford) **NEW** - 1K searches
+10. [bo french](https://trends.google.com/trends/explore?q=bo+french) **NEW** - 1K searches
 
 ## Hacker News
 
-1. [Pancreatic cancer halted by virus injection in three patients](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/) **NEW** - 284 points | 29 comments
-2. [The 98% Slot Machine: How Paid Advertising Became an Extraction Tax](https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine) **NEW** - 103 points | 51 comments
-3. [Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate (video)](https://www.youtube.com/watch?v=lwfewYL7X0o) **NEW** - 35 points | 56 comments
-4. [Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches](https://www.tisonkun.io/posts/ai-repair-program/) **NEW** - 13 points | 0 comments
-5. [Show HN: 1.499x speedup and 28.5% dynamic energy drop on A40 via BF16 tiling](https://cwtractors.com) **NEW** - 16 points | 1 comments
-6. [Rebuilding my local voice assistant pipeline](https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline) **NEW** - 6 points | 0 comments
-7. [Adding Fortran Support to LLDB (GSoC 2026)](https://blog.llvm.org/posts/2026-09-07-gsoc-add-fortran-support-to-lldb/) **NEW** - 16 points | 4 comments
-8. [Anthropic hits $2T in Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/) - 649 points | 1.1K comments
-9. [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics) - 286 points | 114 comments
-10. [Garage Door Spam](https://blog.harrison.page/garage-door-spam/) - 658 points | 272 comments
+1. [Gemini 4 Neon is the new #1 on the Models Engineering Index](https://git-aarvin.github.io/mei/) **NEW** - 59 points | 30 comments
+2. [Synology Security Advisory](https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21) **NEW** - 93 points | 62 comments
+3. [How to CAD Almost Anything](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/) **NEW** - 110 points | 22 comments
+4. [RegExr: Temporarily Offline](https://regexr.com/) **NEW** - 42 points | 22 comments
+5. [Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers](https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87) **NEW** - 67 points | 18 comments
+6. [Talking Venice with Mahesh Subramony at AMD In-Depth](https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony) **NEW** - 8 points | 0 comments
+7. [Computer Graphics from Scratch (2021)](https://www.gabrielgambetta.com/computer-graphics-from-scratch/index.html) **NEW** - 50 points | 10 comments
+8. [Anthropic’s Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/) - 889 points | 1.8K comments
+9. [Pancreatic cancer halted by virus injection in three patients](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/) - 557 points | 83 comments
+10. [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics) - 373 points | 174 comments
 
 ---
 
-Sources that failed: news_keyword:AI agents (HTTPStatusError: Server error '503 Service Unavailable' for url 'https://news.google.com/rss/search?q=AI+agents+when%3A2d&hl=en-US&gl=US&ceid=US:en'
-For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503); news_keyword:Skincare (HTTPStatusError: Server error '503 Service Unavailable' for url 'https://news.google.com/rss/search?q=Skincare+when%3A2d&hl=en-US&gl=US&ceid=US:en'
-For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503); news_keyword:Creatine (HTTPStatusError: Server error '503 Service Unavailable' for url 'https://news.google.com/rss/search?q=Creatine+when%3A2d&hl=en-US&gl=US&ceid=US:en'
-For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503).
 Full report: https://scavio-ai.github.io/trendscout-radar/
 Made with [TrendScout](https://github.com/scavio-ai/trendscout-radar) v0.1.0.

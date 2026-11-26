@@ -1,7 +1,7 @@
 {
  "schema": "trendscout.report/2",
- "taken_at": "2026-11-25T22:37:20+00:00",
- "previous_at": "2026-11-25T14:30:34+00:00",
+ "taken_at": "2026-11-26T00:29:13+00:00",
+ "previous_at": "2026-11-25T22:37:20+00:00",
  "summary": null,
  "cross_platform": [],
  "sections": [
@@ -14,16 +14,16 @@
      "change": 0,
      "source": "google_trends_rss",
      "platform": "google",
-     "title": "atlético-mg vs corinthians",
+     "title": "toluca - atlas",
      "rank": 1,
-     "url": "https://trends.google.com/trends/explore?q=atl%C3%A9tico-mg+vs+corinthians",
+     "url": "https://trends.google.com/trends/explore?q=toluca+-+atlas",
      "metrics": {
-      "searches": 1000.0
+      "searches": 10000.0
      },
      "keyword": null,
-     "published_at": "2026-11-25T14:20:00-08:00",
+     "published_at": "2026-11-25T16:10:00-08:00",
      "extra": {
-      "headline": "Atlético-MG x Corinthians: onde assistir ao vivo, horário e escalações"
+      "headline": "Atlas vs. Toluca: Un técnico debutante ante el de mayor experiencia"
      }
     },
     {
@@ -31,16 +31,16 @@
      "change": 0,
      "source": "google_trends_rss",
      "platform": "google",
-     "title": "jabari walker",
+     "title": "nets vs bucks",
      "rank": 2,
-     "url": "https://trends.google.com/trends/explore?q=jabari+walker",
+     "url": "https://trends.google.com/trends/explore?q=nets+vs+bucks",
      "metrics": {
-      "searches": 1000.0
+      "searches": 2000.0
      },
      "keyword": null,
-     "published_at": "2026-11-25T14:20:00-08:00",
+     "published_at": "2026-11-25T16:10:00-08:00",
      "extra": {
-      "headline": "Jabari Walker scores 10 points in spot start"
+      "headline": "Nets vs. Bucks preview: Brooklyn looks to end five-game losing streak"
      }
     },
     {
@@ -48,16 +48,16 @@
      "change": 0,
      "source": "google_trends_rss",
      "platform": "google",
-     "title": "unmanned combat aerial vehicle",
+     "title": "clippers vs grizzlies",
      "rank": 3,
-     "url": "https://trends.google.com/trends/explore?q=unmanned+combat+aerial+vehicle",
+     "url": "https://trends.google.com/trends/explore?q=clippers+vs+grizzlies",
      "metrics": {
-      "searches": 200.0
+      "searches": 2000.0
      },
      "keyword": null,
-     "published_at": "2026-11-25T14:20:00-08:00",
+     "published_at": "2026-11-25T16:10:00-08:00",
      "extra": {
-      "headline": "Turkey Just Inducted the World's First Unmanned Fighter Jet"
+      "headline": "Los Angeles Clippers @ Memphis Grizzlies Odds"
      }
     },
     {
@@ -65,16 +65,16 @@
      "change": 0,
      "source": "google_trends_rss",
      "platform": "google",
-     "title": "memphis basketball",
+     "title": "mammoth vs wild",
      "rank": 4,
-     "url": "https://trends.google.com/trends/explore?q=memphis+basketball",
+     "url": "https://trends.google.com/trends/explore?q=mammoth+vs+wild",
      "metrics": {
-      "searches": 1000.0
+      "searches": 500.0
      },
      "keyword": null,
-     "published_at": "2026-11-25T14:10:00-08:00",
+     "published_at": "2026-11-25T16:10:00-08:00",
      "extra": {
-      "headline": "GAME DAY: Penn State MBB vs. Memphis"
+      "headline": "Game Preview: Wild vs Mammoth"
      }
     },
     {
@@ -82,16 +82,16 @@
      "change": 0,
      "source": "google_trends_rss",
      "platform": "google",
-     "title": "byu vs providence prediction",
+     "title": "predators vs stars",
      "rank": 5,
-     "url": "https://trends.google.com/trends/explore?q=byu+vs+providence+prediction",
+     "url": "https://trends.google.com/trends/explore?q=predators+vs+stars",
      "metrics": {
-      "searches": 200.0
+      "searches": 500.0
      },
      "keyword": null,
-     "published_at": "2026-11-25T14:10:00-08:00",
+     "published_at": "2026-11-25T16:10:00-08:00",
      "extra": {
-      "headline": "How to watch No. 19 BYU play Providence in the Maui Invitational"
+      "headline": "Game Preview | Predators at Stars"
      }
     },
     {
@@ -99,16 +99,67 @@
      "change": 0,
      "source": "google_trends_rss",
      "platform": "google",
-     "title": "best thanksgiving movies",
+     "title": "norfolk state vs nc state",
      "rank": 6,
-     "url": "https://trends.google.com/trends/explore?q=best+thanksgiving+movies",
+     "url": "https://trends.google.com/trends/explore?q=norfolk+state+vs+nc+state",
+     "metrics": {
+      "searches": 500.0
+     },
+     "keyword": null,
+     "published_at": "2026-11-25T16:10:00-08:00",
+     "extra": {
+      "headline": "Pack Returns Home to Host Norfolk State on Thanksgiving Eve"
+     }
+    },
+    {
+     "status": "new",
+     "change": 0,
+     "source": "google_trends_rss",
+     "platform": "google",
+     "title": "michael irvin",
+     "rank": 7,
+     "url": "https://trends.google.com/trends/explore?q=michael+irvin",
+     "metrics": {
+      "searches": 500.0
+     },
+     "keyword": null,
+     "published_at": "2026-11-25T16:10:00-08:00",
+     "extra": {
+      "headline": "How were Troy Aikman and Joe Buck’s vibes to open ‘Monday Night Football’? - The Athletic"
+     }
+    },
+    {
+     "status": "new",
+     "change": 0,
+     "source": "google_trends_rss",
+     "platform": "google",
+     "title": "deadpool and wolverine",
+     "rank": 8,
+     "url": "https://trends.google.com/trends/explore?q=deadpool+and+wolverine",
+     "metrics": {
+      "searches": 500.0
+     },
+     "keyword": null,
+     "published_at": "2026-11-25T16:10:00-08:00",
+     "extra": {
+      "headline": "Update: Avengers: Secret Wars Will Make Lethal Use Of These Surprise Doomsday Characters - Spoilers"
+     }
+    },
+    {
+     "status": "new",
+     "change": 0,
+     "source": "google_trends_rss",
+     "platform": "google",
+     "title": "northeastern vs wisconsin",
+     "rank": 9,
+     "url": "https://trends.google.com/trends/explore?q=northeastern+vs+wisconsin",
      "metrics": {
       "searches": 1000.0
      },
      "keyword": null,
-     "published_at": "2026-11-25T14:10:00-08:00",
+     "published_at": "2026-11-25T16:00:00-08:00",
      "extra": {
-      "headline": "What to Watch This Thanksgiving"
+      "headline": "What channel is Wisconsin basketball on tonight? Time, TV, stream"
      }
     },
     {
@@ -116,67 +167,16 @@
      "change": 0,
      "source": "google_trends_rss",
      "platform": "google",
-     "title": "north dakota basketball",
-     "rank": 7,
-     "url": "https://trends.google.com/trends/explore?q=north+dakota+basketball",
-     "metrics": {
-      "searches": 500.0
-     },
-     "keyword": null,
-     "published_at": "2026-11-25T14:00:00-08:00",
-     "extra": {
-      "headline": "North Dakota vs Detroit Prediction, Picks & Odds | 24 Nov 2026"
-     }
-    },
-    {
-     "status": "new",
-     "change": 0,
-     "source": "google_trends_rss",
-     "platform": "google",
-     "title": "is lowes open on thanksgiving",
-     "rank": 8,
-     "url": "https://trends.google.com/trends/explore?q=is+lowes+open+on+thanksgiving",
-     "metrics": {
-      "searches": 500.0
-     },
-     "keyword": null,
-     "published_at": "2026-11-25T14:00:00-08:00",
-     "extra": {
-      "headline": "Lowe's Black Friday bucket giveaway 2026: Prizes and start time"
-     }
-    },
-    {
-     "status": "new",
-     "change": 0,
-     "source": "google_trends_rss",
-     "platform": "google",
-     "title": "champions league table",
-     "rank": 9,
-     "url": "https://trends.google.com/trends/explore?q=champions+league+table",
-     "metrics": {
-      "searches": 200.0
-     },
-     "keyword": null,
-     "published_at": "2026-11-25T14:00:00-08:00",
-     "extra": {
-      "headline": "Man City 2-2 Napoli: Ayyoub Bouaddi and Rayan Cherki score for hosts"
-     }
-    },
-    {
-     "status": "new",
-     "change": 0,
-     "source": "google_trends_rss",
-     "platform": "google",
-     "title": "elly de la cruz",
+     "title": "giannis antetokounmpo",
      "rank": 10,
-     "url": "https://trends.google.com/trends/explore?q=elly+de+la+cruz",
+     "url": "https://trends.google.com/trends/explore?q=giannis+antetokounmpo",
      "metrics": {
-      "searches": 200.0
+      "searches": 2000.0
      },
      "keyword": null,
-     "published_at": "2026-11-25T14:00:00-08:00",
+     "published_at": "2026-11-25T16:00:00-08:00",
      "extra": {
-      "headline": "Trades we want to see before MLB lockout"
+      "headline": "Shai-Gilgeous Alexander, Giannis Antetokounmpo sit out Heat's victory over Thunder"
      }
     }
    ]
@@ -190,17 +190,17 @@
      "change": 0,
      "source": "hackernews",
      "platform": "hackernews",
-     "title": "1Password Security Incident",
+     "title": "Jev is probably Qwen3.5-35B-A3B",
      "rank": 1,
-     "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+     "url": "https://modaic.dev/blog/latency-doesnt-lie",
      "metrics": {
-      "points": 918.0,
-      "comments": 392.0
+      "points": 159.0,
+      "comments": 37.0
      },
      "keyword": null,
      "published_at": null,
      "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50644817"
+      "discussion": "https://news.ycombinator.com/item?id=50648823"
      }
     },
     {
@@ -208,17 +208,17 @@
      "change": 0,
      "source": "hackernews",
      "platform": "hackernews",
-     "title": "Much shorter version of GRH Lean verification from Anthropic",
-     "rank": 2,
-     "url": "https://github.com/lsernau/grh-lean",
+     "title": "Bare Metal Qwen",
+     "rank": 11,
+     "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
      "metrics": {
-      "points": 73.0,
-      "comments": 20.0
+      "points": 35.0,
+      "comments": 3.0
      },
      "keyword": null,
      "published_at": null,
      "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50648050"
+      "discussion": "https://news.ycombinator.com/item?id=50648365"
      }
     },
     {
@@ -226,17 +226,17 @@
      "change": 0,
      "source": "hackernews",
      "platform": "hackernews",
-     "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-     "rank": 3,
-     "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+     "title": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
+     "rank": 13,
+     "url": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
      "metrics": {
-      "points": 137.0,
-      "comments": 27.0
+      "points": 19.0,
+      "comments": 0.0
      },
      "keyword": null,
      "published_at": null,
      "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50601280"
+      "discussion": "https://news.ycombinator.com/item?id=50648323"
      }
     },
     {
@@ -244,17 +244,17 @@
      "change": 0,
      "source": "hackernews",
      "platform": "hackernews",
-     "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-     "rank": 4,
-     "url": "https://scottaaronson.blog/?p=10379",
+     "title": "Duran Duran guitarist Andy Taylor dies aged 65",
+     "rank": 23,
+     "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po",
      "metrics": {
-      "points": 687.0,
-      "comments": 516.0
+      "points": 28.0,
+      "comments": 8.0
      },
      "keyword": null,
      "published_at": null,
      "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50646108"
+      "discussion": "https://news.ycombinator.com/item?id=50648822"
      }
     },
     {
@@ -262,17 +262,17 @@
      "change": 0,
      "source": "hackernews",
      "platform": "hackernews",
-     "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-     "rank": 5,
-     "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+     "title": "A fast CAS with a focus on resolution of singularities",
+     "rank": 26,
+     "url": "https://github.com/pportilla/atlas",
      "metrics": {
-      "points": 413.0,
-      "comments": 99.0
+      "points": 11.0,
+      "comments": 1.0
      },
      "keyword": null,
      "published_at": null,
      "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50643129"
+      "discussion": "https://news.ycombinator.com/item?id=50623028"
      }
     },
     {
@@ -280,30 +280,30 @@
      "change": 0,
      "source": "hackernews",
      "platform": "hackernews",
-     "title": "SSH is a GUI framework",
-     "rank": 6,
-     "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+     "title": "Why \"all different\" Sets take 5x longer to find",
+     "rank": 28,
+     "url": "https://setdaily.app/blog/spotting-sets",
      "metrics": {
-      "points": 98.0,
-      "comments": 50.0
+      "points": 5.0,
+      "comments": 1.0
      },
      "keyword": null,
      "published_at": null,
      "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50589784"
+      "discussion": "https://news.ycombinator.com/item?id=50616937"
      }
     },
     {
-     "status": "new",
-     "change": 0,
+     "status": "up",
+     "change": 3,
      "source": "hackernews",
      "platform": "hackernews",
      "title": "The New York Times tells photographers not to use the latest Photoshop",
-     "rank": 7,
+     "rank": 4,
      "url": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
      "metrics": {
-      "points": 34.0,
-      "comments": 16.0
+      "points": 154.0,
+      "comments": 84.0
      },
      "keyword": null,
      "published_at": null,
@@ -312,57 +312,57 @@
      }
     },
     {
-     "status": "new",
-     "change": 0,
+     "status": "up",
+     "change": 5,
      "source": "hackernews",
      "platform": "hackernews",
-     "title": "Defang Security Incident",
-     "rank": 8,
-     "url": "https://defang.io/blog/post/security-incident-november-2026/",
+     "title": "Slow Ubuntu security response times",
+     "rank": 6,
+     "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
      "metrics": {
-      "points": 26.0,
-      "comments": 8.0
+      "points": 104.0,
+      "comments": 39.0
      },
      "keyword": null,
      "published_at": null,
      "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50648035"
+      "discussion": "https://news.ycombinator.com/item?id=50647181"
      }
     },
     {
-     "status": "new",
+     "status": "steady",
      "change": 0,
      "source": "hackernews",
      "platform": "hackernews",
-     "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
-     "rank": 9,
-     "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+     "title": "1Password Security Incident",
+     "rank": 2,
+     "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
      "metrics": {
-      "points": 32.0,
-      "comments": 10.0
+      "points": 1066.0,
+      "comments": 462.0
      },
      "keyword": null,
      "published_at": null,
      "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50647161"
+      "discussion": "https://news.ycombinator.com/item?id=50644817"
      }
     },
     {
-     "status": "new",
+     "status": "steady",
      "change": 0,
      "source": "hackernews",
      "platform": "hackernews",
-     "title": "72-Hour Fasting Can Reset Your Immune System, USC Study Shows",
-     "rank": 10,
-     "url": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/",
+     "title": "Much shorter version of GRH Lean verification from Anthropic",
+     "rank": 3,
+     "url": "https://github.com/lsernau/grh-lean",
      "metrics": {
-      "points": 28.0,
-      "comments": 5.0
+      "points": 217.0,
+      "comments": 96.0
      },
      "keyword": null,
      "published_at": null,
      "extra": {
-      "discussion": "https://news.ycombinator.com/item?id=50647158"
+      "discussion": "https://news.ycombinator.com/item?id=50648050"
      }
     }
    ]
@@ -371,30 +371,55 @@
  "topics": [
   {
    "name": "AI agents",
-   "total": 117,
-   "new": 63,
+   "total": 119,
+   "new": 13,
    "search": [],
    "hits": [
     {
      "new": true,
      "trending": false,
+     "source": "hackernews_keyword",
+     "platform": "hackernews",
+     "title": "Google mandates MCP for AI agents accessing Workspace and restricts direct API",
+     "rank": 14,
+     "url": "https://workspaceupdates.googleblog.com/2026/11/mcp-servers-cli-standardized-usage-tiers-now-available.html",
+     "metrics": {
+      "points": 5.0,
+      "comments": 3.0
+     },
+     "keyword": "AI agents",
+     "published_at": "2026-11-25T02:40:48Z",
+     "extra": {
+      "discussion": "https://news.ycombinator.com/item?id=50637725"
+     },
+     "seen": {
+      "first": "2026-11-26T00:29:13+00:00",
+      "last": "2026-11-26T00:29:13+00:00",
+      "count": 1,
+      "best": 14,
+      "worst": 14
+     }
+    },
+    {
+     "new": true,
+     "trending": false,
      "source": "news_keyword",
      "platform": "news",
-     "title": "Man's Video Call with Four AI Agents Draws Laughs",
-     "rank": 29,
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsVDVCQ2R1SU82SU1wbGtjN2Q2UjVaaUhmdzBPWmswYzR4U1NqV0dBWnBJei1wbHJ3WHFPckF5ZFBoQ3hGWEZGbXIxa0hUTkVFU0ZYUHJ5aw?oc=5",
+     "title": "Skills over MCP changes what teams approve",
+     "rank": 55,
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS0VjTnRXOWNYWjBfbXlPSnZfV1pBX1RIZnRxcU9la0I2NU1QVzdhZ0lMRExmQUlpNUgwQktub0ZYSG15czE5bzBTaVNBXy1sRGVyQnRHcVdnTXl3aW96S0NScEczQ3pFODZiV1czdm5HdExPbDhTLTlNYVpScFRyMzgzTkNhbE84blNkZTZ1Q3F6dUtMZjVnbGRGZnI5Z2ZWTHh6RWdGRy1NNG43UXN1ZlY0OEVNLTh1NTEzZUhBMXEzZnZOeUpsY2FzTkY?oc=5",
      "metrics": {},
      "keyword": "AI agents",
-     "published_at": "2026-11-25T21:52:19+00:00",
+     "published_at": "2026-11-25T23:04:19+00:00",
      "extra": {
-      "publisher": "X"
+      "publisher": "VentureBeat"
      },
      "seen": {
-      "first": "2026-11-25T22:37:20+00:00",
-      "last": "2026-11-25T22:37:20+00:00",
+      "first": "2026-11-26T00:29:13+00:00",
+      "last": "2026-11-26T00:29:13+00:00",
       "count": 1,
-      "best": 29,
-      "worst": 29
+      "best": 55,
+      "worst": 55
      }
     },
     {
@@ -402,21 +427,21 @@
      "trending": false,
      "source": "news_keyword",
      "platform": "news",
-     "title": "Agnic.AI and GoBTC Pay Bring Bitcoin to AI Agent Checkout With a Live Mainnet Purchase in ChatGPT",
-     "rank": 74,
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONmVQeWYxMEwwWGl3YWdfa241ZWxrTk1jXzdfVVhwUUZOUWV0TzNJQnoxZFNtblI0cEFmQTNvUGlQSmN3TmpLc2pmY2tKN2dKd01IN1B3a2M1WU4yNEtKaWtQZkRwUEhNbjk2d1YzVHJYQlVOMkN0Yno1SFZnTnFINVdvcDNaeE5IemdrUUZrcmxMWDdYWi0tYWlSaXVMZFJFUjZKVTl2YWRIS0lyOHJOOEMzbDZHM2ZfNnZUVmE2RjRoY2J0cDFkM2c1YzJuUlp3V0NVMEp6aS1aa2dnb0xTV1h1TkZRVzhPNVZGTUdiNGw?oc=5",
+     "title": "How a new generation of AI agents could change holiday shopping",
+     "rank": 3,
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaUZmUFVWNDJ3SVF2YTY0OUlLTjNyV0kxaHgwblBzM0dsaUdnLWF2dmk3XzV6d0NxMFpHam1HT2tKRTFveEp0MFdyTnFreWNlWmZHbXBYTWwtOFp2b1Nkcnl6MnFBRjN0Zzk5ckd0TS1ZaTlBcWtwRkg2aTFBWWpDZDhBMTZlUDktM3lZSFRJVHFRRkloWlBZRDZn?oc=5",
      "metrics": {},
      "keyword": "AI agents",
-     "published_at": "2026-11-25T21:48:24+00:00",
+     "published_at": "2026-11-25T22:39:00+00:00",
      "extra": {
-      "publisher": "TradingView"
+      "publisher": "CBS News"
      },
      "seen": {
-      "first": "2026-11-25T22:37:20+00:00",
-      "last": "2026-11-25T22:37:20+00:00",
+      "first": "2026-11-26T00:29:13+00:00",
+      "last": "2026-11-26T00:29:13+00:00",
       "count": 1,
-      "best": 74,
-      "worst": 74
+      "best": 3,
+      "worst": 3
      }
     },
     {
@@ -424,21 +449,21 @@
      "trending": false,
      "source": "news_keyword",
      "platform": "news",
-     "title": "Testudo issues $5 million policy covering law firm Crosby's AI agents",
-     "rank": 28,
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOVdNQjdDMDI1elM2RWJ5dW8wdF9tR2xoUWlQYjhtaWtuUndMZzMxN3QzaTEyOGVpbE1DZE5BTUZyZ0VlZGl2eWhDYm1SU0hYYlpxakxDeENKd2tRZlpvQ0FyaWVrbXUxYUpTR1BnUXBOcUgxbjdXeWRUVXphNnczVW4yNXBRcG9CTlJHWnh4Z3ZPN2xaZXZnSnAyVVBtcWtxX1V4OUhPa1RzRWM5NkptbElVS1hGdVN0OVZjN2szLXRlQkFmUmc?oc=5",
+     "title": "Together AI releases Hurdle to check how coding agents use APIs and documentation",
+     "rank": 92,
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONHdXMHFuRDRYQ1lRR3NFeW5kdEc1b0FDc20zNkVmeFVNeDA4dUQ0UGNmcExhaWU4am9PM21sU0NvUGJpZE15RS1jT2FGdTEtYVdOaFFNdVd3WXlnMi1iX19waEVaZ0NkTjRud2lvbEFLQmdtWjN2a0lCd2k5NkFRODZ4b0gxSUk2V2p5YlVJRHB6ZjNNeHcxSDFrWmx1V3Q0cXVYQVpCV0FnMVpKdndIRUhQa09tQQ?oc=5",
      "metrics": {},
      "keyword": "AI agents",
-     "published_at": "2026-11-25T21:46:28+00:00",
+     "published_at": "2026-11-25T22:34:54+00:00",
      "extra": {
-      "publisher": "The Insurer"
+      "publisher": "Superpower Daily"
      },
      "seen": {
-      "first": "2026-11-25T22:37:20+00:00",
-      "last": "2026-11-25T22:37:20+00:00",
+      "first": "2026-11-26T00:29:13+00:00",
+      "last": "2026-11-26T00:29:13+00:00",
       "count": 1,
-      "best": 28,
-      "worst": 28
+      "best": 92,
+      "worst": 92
      }
     },
     {
@@ -446,540 +471,18 @@
      "trending": false,
      "source": "news_keyword",
      "platform": "news",
-     "title": "Companies beefing up security to prevent AI agents from going rogue",
-     "rank": 10,
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZzhpcUVsZjBsb2lYRmlGcW9QWkpkU294UUM1QWJUeEhFZ2VaU1ZvVm8yT0Naamg1WHJYclN1M3Jxd1JzcGRlaTFUNnZJcHQxZDI0WkVfYjhOdHE4MmhYZDZrWXZYRmdFbDJ4OWxZUTZjcEh6ZUhOMkJCOEpFYi1jOHhfeFVoQ2s2b04tTmpmOA?oc=5",
-     "metrics": {},
-     "keyword": "AI agents",
-     "published_at": "2026-11-25T21:37:06+00:00",
-     "extra": {
-      "publisher": "Yahoo! Finance Canada"
-     },
-     "seen": {
-      "first": "2026-11-25T22:37:20+00:00",
-      "last": "2026-11-25T22:37:20+00:00",
-      "count": 1,
-      "best": 10,
-      "worst": 10
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "Treasury CIO's AI Agents Keep Shipping a Civilization Clone While FinCEN Systems Stay Down",
-     "rank": 35,
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RSnd3ZEFyN3hJU2tRdUQxREJaeGZ5b3lPSmNuVjZybnRkOTFnMTU1anR0a3l5SHFzbUVUT3d2VUN3cnZ6RDlVYVZZYVNscDFlZmZzTGhEVkEwMWpwNFZxN3BPT1hpeDVObklSUUVYZkV1RUxOUlE?oc=5",
-     "metrics": {},
-     "keyword": "AI agents",
-     "published_at": "2026-11-25T21:35:00+00:00",
-     "extra": {
-      "publisher": "BigGo Finance"
-     },
-     "seen": {
-      "first": "2026-11-25T22:37:20+00:00",
-      "last": "2026-11-25T22:37:20+00:00",
-      "count": 1,
-      "best": 35,
-      "worst": 35
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "SailPoint warns 2027 will bring tighter AI agent controls",
-     "rank": 76,
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYXR6ODIzUzQwc0NDNXdGS2tBVGJFZ2hNY2FubEFUNm5MTFpHcU5ON2xzMzNLRGFOaGpSTDdGM2l5SFNPZTlIZEJPRFpMb2FLeXdUZWtuU2xBR3N0WUJZWHZwX1Y5YTNTS0x4Sl9vRU5Qbnl6VFVMd01STTNZWUQtNlgzOEZJWHhCNHZGSTlseGx0ZFBtbFdJ?oc=5",
-     "metrics": {},
-     "keyword": "AI agents",
-     "published_at": "2026-11-25T21:30:00+00:00",
-     "extra": {
-      "publisher": "SecurityBrief Australia"
-     },
-     "seen": {
-      "first": "2026-11-25T22:37:20+00:00",
-      "last": "2026-11-25T22:37:20+00:00",
-      "count": 1,
-      "best": 76,
-      "worst": 76
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "Amazon and Meta May Agree Over Allowing AI Agents. The Future of Shopping Just Changed",
-     "rank": 5,
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc0ZYejBacWY4VWx4b0ZieE50SmtQRHBNa28yVW5vdlhRX05NOEtfY2hES0VvT25KSFQ5RFBnaDlJVnZmNmNiOS1wYjRfRFJNNnF2clhib2tqdHdQa3RiZ3BzUFdsU000N3BVc196QXZWbmNScnk1VjFKMDNTRUlXWTFVZDRXRnpKWVFTMmRURl8?oc=5",
-     "metrics": {},
-     "keyword": "AI agents",
-     "published_at": "2026-11-25T21:01:32+00:00",
-     "extra": {
-      "publisher": "Inc.com"
-     },
-     "seen": {
-      "first": "2026-11-25T22:37:20+00:00",
-      "last": "2026-11-25T22:37:20+00:00",
-      "count": 1,
-      "best": 5,
-      "worst": 5
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "BNY and Microsoft Let AI Agents Haggle Over Treasurys",
-     "rank": 8,
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXV6amZUeHdPN1VEYWlWSEpxV1FzNWVSMGM2eWhXVWlCSGlRSzlQTWVmMUNOQ01vYmNwY1R1RlNmLUlub0lDUUVEOVZiWHRNN2NPb24zbHJudmIxMy1WNldNWmxvOXBnVkJzTTV6ZTl5ZFlZVDBjUnVicHlWZ1B2UEtwMU5vS3JrNmJrcERzMnhQR0lMa3FtOVNyN0RzVkltVFFoZDV2WWY1VFN1SXhGQw?oc=5",
-     "metrics": {},
-     "keyword": "AI agents",
-     "published_at": "2026-11-25T21:01:04+00:00",
-     "extra": {
-      "publisher": "PYMNTS.com"
-     },
-     "seen": {
-      "first": "2026-11-25T22:37:20+00:00",
-      "last": "2026-11-25T22:37:20+00:00",
-      "count": 1,
-      "best": 8,
-      "worst": 8
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "Anthropic's Siren Tests Why AI Agents Escape Sandboxes",
-     "rank": 19,
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTkVBRTM3RkRRcEh2dHh3U1k2blRVd2RWUElzTDF4T21qMU4yclBIeXVPZC0wNWdNWDhQOUo4cHVFb3JBTUtlWlFCYXlxU1VHbVNBb3F3anMzMnpjSFNVQk5iQ2I4NEVsRVQ4UlE2LVIwcWNkUHNxNUU3angxR05NN2N4cmF0ME5FakpjeGd2U3dhWmZE?oc=5",
-     "metrics": {},
-     "keyword": "AI agents",
-     "published_at": "2026-11-25T20:58:29+00:00",
-     "extra": {
-      "publisher": "BankInfoSecurity"
-     },
-     "seen": {
-      "first": "2026-11-25T22:37:20+00:00",
-      "last": "2026-11-25T22:37:20+00:00",
-      "count": 1,
-      "best": 19,
-      "worst": 19
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "Perplexity’s Time Machine lets AI agents search the web of the past",
-     "rank": 18,
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zOXZCT0NOMXhZYWFtSV9rV2dneG5nN2ZBSG92RURFbF9kaWpjN0p6Rk5DWlhfRWs0TmFZM0NpM3dld1dzWkZiLUhpRGxBQnVVTk5sal9WVlJNSm1hMXQxSWFDTm11UmNjeEpVZ2s0TlhRcXpxY0ZHOWJ3?oc=5",
-     "metrics": {},
-     "keyword": "AI agents",
-     "published_at": "2026-11-25T20:57:38+00:00",
-     "extra": {
-      "publisher": "The Next Web"
-     },
-     "seen": {
-      "first": "2026-11-25T22:37:20+00:00",
-      "last": "2026-11-25T22:37:20+00:00",
-      "count": 1,
-      "best": 18,
-      "worst": 18
-     }
-    }
-   ]
-  },
-  {
-   "name": "Skincare",
-   "total": 84,
-   "new": 53,
-   "search": [],
-   "hits": [
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "HTS Guide Finds Most Make-Up and Skin Care Carry a Free Duty Rate",
-     "rank": 23,
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0FZY21uMkV6c3NIVWtRaE1IZ21qNU91RjhSVG5zODZRMHVVT09BNnd5cGFQVi1yb0RmR0xmeUhZekFfUTRVLTlGS294dHdibmtrZW9EV0RDQkdUMmdRYkcwOGk5LXQ5T0VBa2ZPSnJSdGVtS08xVWozRTZJTjRicU9raGtjQW9vTWpsMHhXdHpLc3VKQUNZWk5fZGszTzIxNVhzZzdUcWwxc0tmUjI1N3pFVW5VUQ?oc=5",
-     "metrics": {},
-     "keyword": "Skincare",
-     "published_at": "2026-11-25T21:48:11+00:00",
-     "extra": {
-      "publisher": "Detroit Free Press"
-     },
-     "seen": {
-      "first": "2026-11-25T22:37:20+00:00",
-      "last": "2026-11-25T22:37:20+00:00",
-      "count": 1,
-      "best": 23,
-      "worst": 23
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "How Austin's VIO Med Spa at Mueller combines personalized aesthetic treatments, advanced skin care and a commitment to confidence",
-     "rank": 37,
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQVdPYjFwTUpMNDNWcENOMWNmRDE0ZjVqZUc1XzVJRk5iTlk5SVd5NnhZNWk2Rzh5cXlheXR2aWp0U3EyNFRyQWU5Q1hmdmVIWW1BWEtrTGFya1Z5cTVwT2xnV25PSGEzVWE5eVNRSmdXSzJpY3N6UV9VaFlJT014QTVoaWJBcS1UWFMtbWo2RnJRYUx0aXBBUHVLeEVZcy1mZGRrN0ZGVXlXaDZJUXlfT1NhWnJPbDJ1UnhPT1ZpaHVNWC1GQWN4bEFjYmNNSENHRTZLWlVKWkV6UVNvazVrUXgxVDdGa3o5QTljd3FDak1LbHJzZmdSWXFOYw?oc=5",
-     "metrics": {},
-     "keyword": "Skincare",
-     "published_at": "2026-11-25T21:15:26+00:00",
-     "extra": {
-      "publisher": "Community Impact Newspaper"
-     },
-     "seen": {
-      "first": "2026-11-25T22:37:20+00:00",
-      "last": "2026-11-25T22:37:20+00:00",
-      "count": 1,
-      "best": 37,
-      "worst": 37
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "Dylan Efron on Marathon Training, His Unconventional \"8-Mile\" Philosophy, and Post-Run Skincare Staples",
-     "rank": 6,
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zcF9HN1NJY3VWbEJTWGd1aWdncXZnVjFIaHRwcEpfYUcxR19wZHhJOGRodVgxWWkwVXFmTlhuLTlrUzhDMzlmWDg0S3JhNHJUYnhCS2g2OXdpbEs0c01ValNhXzlaWVBLeWhwUmNiU2w5MDhFMHVv?oc=5",
-     "metrics": {},
-     "keyword": "Skincare",
-     "published_at": "2026-11-25T21:00:00+00:00",
-     "extra": {
-      "publisher": "Who What Wear"
-     },
-     "seen": {
-      "first": "2026-11-25T22:37:20+00:00",
-      "last": "2026-11-25T22:37:20+00:00",
-      "count": 1,
-      "best": 6,
-      "worst": 6
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "We tried Laneige’s cult-favorite products so you don’t have to gamble on what to buy",
-     "rank": 52,
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZSHdVa2tmNzk0NlZuclRaTTZGM2RiT1pRUldNWDV1Wm84bEljNlRlbUktczU5eXRNdVZBYmROaW4xbHFVRFFsOEpOblV0YTFkRWdOZ09IWHJocjN5RVU0aEJ2VTJSeHoxM1RKSTRLeDAwU2ZMQ0dtaHgwaw?oc=5",
-     "metrics": {},
-     "keyword": "Skincare",
-     "published_at": "2026-11-25T20:52:46+00:00",
-     "extra": {
-      "publisher": "NBC News"
-     },
-     "seen": {
-      "first": "2026-11-25T22:37:20+00:00",
-      "last": "2026-11-25T22:37:20+00:00",
-      "count": 1,
-      "best": 52,
-      "worst": 52
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "The 10-Minute Routine That Softens the Look of Fine Lines (No Appointment Needed)",
-     "rank": 21,
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BY2l3NzVlVVkyd3hfbVhZaGF0R0oydkZscnBucnZrY05wdncwNGJzd0NiZ0xKQWdNSDBRWE9PcV9RSE1TcERTcjlmY2xEVTFHUHFMRTRaNEZUSTV4ODdsTEdmQUNmZTREblk0WmM3VXFMeDIwaUhn?oc=5",
-     "metrics": {},
-     "keyword": "Skincare",
-     "published_at": "2026-11-25T20:16:51+00:00",
-     "extra": {
-      "publisher": "MindBodyGreen"
-     },
-     "seen": {
-      "first": "2026-11-25T22:37:20+00:00",
-      "last": "2026-11-25T22:37:20+00:00",
-      "count": 1,
-      "best": 21,
-      "worst": 21
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "5 face-washing mistakes almost everyone makes — and how to fix them",
-     "rank": 43,
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSXdwWjJHQUdMYllSUVJmcUNjT3BJTWdQN2VyRkRLdXlHN1BhNW9FU0RpZkVwT09NbGc2N1RKNFlHYXQ5ZE9oNWdVWkNTaDBLeWd6SzRjTHRXa0JWRVhQVndjSmlhcXZrWms3T2FWYUVlVnZQaGNKcjlBX3NCQmYtcnlxZ3J2bzR4NHh6dw?oc=5",
-     "metrics": {},
-     "keyword": "Skincare",
-     "published_at": "2026-11-25T20:16:32+00:00",
-     "extra": {
-      "publisher": "Good Housekeeping"
-     },
-     "seen": {
-      "first": "2026-11-25T22:37:20+00:00",
-      "last": "2026-11-25T22:37:20+00:00",
-      "count": 1,
-      "best": 43,
-      "worst": 43
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "Why Your Favorite Skincare Products Might Stop Working After 40",
-     "rank": 9,
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ3N1eXdlR01kYmwwR1VYdjJ0Y0IxWWJ4MWVxci1LSU9VOWdDaG5fWnRuNjZxdFZLbmhHek4yYThiVWpLUGNyWTdEWWlkcHhsbE1lNlphbTBLcExsZHM4a0lZV2MtNE5TLVpWNUN5UzhDOExfV2NZSHlubDVNUWwxLW1qS3lEU3huNnlFeWVyWTBJejVWZkE0UVVXT0JHT1lua0RhbEh3?oc=5",
-     "metrics": {},
-     "keyword": "Skincare",
-     "published_at": "2026-11-25T19:37:19+00:00",
-     "extra": {
-      "publisher": "Yahoo"
-     },
-     "seen": {
-      "first": "2026-11-25T22:37:20+00:00",
-      "last": "2026-11-25T22:37:20+00:00",
-      "count": 1,
-      "best": 9,
-      "worst": 9
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "New Skincare | Beauty by Blume - Kristen L. Blume MD",
-     "rank": 5,
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NT2pzM0gxOG1TbFVTZVd3STZTekpZS1BpcHFvVThoMUZNY1RNSTR1MWs1VkpJSVlmZmhManc4SjBGcHRyZDk3TUU0Z0xqQjR4bHVPdDlrc1JGWTh0eGhWeTZVR2xuNkVsY1d0MTBOZkhIZmJfakE?oc=5",
-     "metrics": {},
-     "keyword": "Skincare",
-     "published_at": "2026-11-25T19:30:20+00:00",
-     "extra": {
-      "publisher": "City Lifestyle"
-     },
-     "seen": {
-      "first": "2026-11-25T22:37:20+00:00",
-      "last": "2026-11-25T22:37:20+00:00",
-      "count": 1,
-      "best": 5,
-      "worst": 5
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "Excuse Me While I Use the Dermstore Sale to Get a Brand New Face",
-     "rank": 16,
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOEYyZGVSdm1iSVc2RGZZdUs2RjNueXNleWE1bUlhRFloVXdOQmZUZ3dPMUoxMEZsMDFaMkZGalphR1o2cGhQaEItemxUSEhpM0Z1SmRsYkQxa0NhVFNQTndFamxPdy0xZ1cxUU1iSDZjdklYX19sZ3JiUWZ5ZUlDa2E0MFRBcktPNDB6NFFIQl9QMlp3VDk3OHRVekJZdnhFOVZ4V2VB?oc=5",
-     "metrics": {},
-     "keyword": "Skincare",
-     "published_at": "2026-11-25T19:21:38+00:00",
-     "extra": {
-      "publisher": "Marie Claire"
-     },
-     "seen": {
-      "first": "2026-11-25T22:37:20+00:00",
-      "last": "2026-11-25T22:37:20+00:00",
-      "count": 1,
-      "best": 16,
-      "worst": 16
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "I found the 10 best skincare deals on Amazon for Black Friday",
-     "rank": 1,
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTU00YkptODgzVHJERy11VkN0V2F0RVk0NnRmYXhHSHZNSHBTUXhXdWNRM0VKb1BIUnBJRHVXR0U2SDJxN2ZWSDJSVUNOcVI0QW9DTnhJcnhIXzVrVWVCdXhQU3pPTWdFZXFIMURqZW5ZMk9lLTk2UVJVdG9KRWZNMjF1elQwM29yVDNYc01HckRhYkZ2SHh5QVZvTQ?oc=5",
-     "metrics": {},
-     "keyword": "Skincare",
-     "published_at": "2026-11-25T19:17:33+00:00",
-     "extra": {
-      "publisher": "Yahoo"
-     },
-     "seen": {
-      "first": "2026-11-25T22:37:20+00:00",
-      "last": "2026-11-25T22:37:20+00:00",
-      "count": 1,
-      "best": 1,
-      "worst": 1
-     }
-    }
-   ]
-  },
-  {
-   "name": "Creatine",
-   "total": 55,
-   "new": 27,
-   "search": [],
-   "hits": [
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "SuppDawg Black Friday BOGO 50% Off and Stack Deals",
-     "rank": 46,
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtRVVob1ViWUtqbGhFS3E1eU5uQ2lVd2tUZHRFX1hUUjRleTFpOGNQek5td3NZcG9za1BKd19lU2VlYVR5QnNURk1MZzlmbFpiT0RsY0o1M1RvRVZkeWlUWnlyN0d2ZzBHZFlfUWR3RktkQQ?oc=5",
-     "metrics": {},
-     "keyword": "Creatine",
-     "published_at": "2026-11-25T20:44:00+00:00",
-     "extra": {
-      "publisher": "Stack3d"
-     },
-     "seen": {
-      "first": "2026-11-25T22:37:20+00:00",
-      "last": "2026-11-25T22:37:20+00:00",
-      "count": 1,
-      "best": 46,
-      "worst": 46
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "Isoflurane Protects Cardiac Cells from Reoxygenation Injury Through MicroRNA Pathway",
-     "rank": 29,
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV1ZuNnlEZVUwQnV4eXh6cFVxLVFJRi1KYWxwdXRMLWhjY2hOUVVRVl8yNVh0MWp2b19aYUd0MjAxRWRZNnZSbzc4X0tvZWEtUHRKbkFqbFpLOXdkQWdQcGhhYlRMM3pldlBXOTNiVnF6S2V2bUhIRFcwVUxySWcwejRRWXdkcmV4cnlpYXhvREFHOEVESmNIb01LTER0Q0RaQVU3Y2lsdDBJblNfc1E?oc=5",
-     "metrics": {},
-     "keyword": "Creatine",
-     "published_at": "2026-11-25T20:42:07+00:00",
-     "extra": {
-      "publisher": "Bioengineer.org"
-     },
-     "seen": {
-      "first": "2026-11-25T22:37:20+00:00",
-      "last": "2026-11-25T22:37:20+00:00",
-      "count": 1,
-      "best": 29,
-      "worst": 29
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "Feral Gear V Sour Strawberry and Devil Fruit for Black Friday",
-     "rank": 45,
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5maU4xT2tQTFlrU2dpdHJwMmVqU3BjN29lN2FVd2l0S3BiUF9yQm9FM0dBYkJrVkotTFRUck14QlNwQ25vamFlWk5JeVA4WVFJN3dCYnhub19lQ2dRVDJxdjRDNktMYzN6?oc=5",
-     "metrics": {},
-     "keyword": "Creatine",
-     "published_at": "2026-11-25T20:11:00+00:00",
-     "extra": {
-      "publisher": "Stack3d"
-     },
-     "seen": {
-      "first": "2026-11-25T22:37:20+00:00",
-      "last": "2026-11-25T22:37:20+00:00",
-      "count": 1,
-      "best": 45,
-      "worst": 45
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "Interazioni degli integratori: esami di laboratorio che possono alterare",
-     "rank": 42,
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVlJzaW1MLXRBd1RDbzFMWGNpV21ieTZjYWVXaTg4VnhwaXAtdlZEdmk5aUR3OGlSMFozQ0ZlTnNjT0xVc0FOU0traE1fY1E5R29UY3JudkFoSVZNMUFNSjNpR25MTHJKT2YxMG9MVWI3YzU0cnRuWkVqM2ZYTkxRUFI4Q0gyOGF3ZFYtZUhoZ2Jqck9sSmZBcmNNUWk5LWVEaVlBdURzVjI0cHZD?oc=5",
-     "metrics": {},
-     "keyword": "Creatine",
-     "published_at": "2026-11-25T19:04:28+00:00",
-     "extra": {
-      "publisher": "Kantesti - AI Blood Test Analyzer"
-     },
-     "seen": {
-      "first": "2026-11-25T22:37:20+00:00",
-      "last": "2026-11-25T22:37:20+00:00",
-      "count": 1,
-      "best": 42,
-      "worst": 42
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "Myth Buster: TGCT Is Benign, So Its Clinical Impact Is Limited",
-     "rank": 24,
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWTFwWkxITnZscmMxcHNBMjdrZnJ2QkV0RklpZ3VyT203bmxaUFlkd1VGOEN3UXozQmlza2ZHS2UxT3VSUUt1VEdfMmJfYXY3T3p5TFh1eHBBNmItNlpfMl9UTVJTUlE2Q1FXdGhHcnZYdlZBTEM4TUlqUGRER2hMTm90M3VCQUFSRGRobEc2cFlJemdDYVdINVVtZFdJMExpYWtkM1Z3WVRSLTlmeHlOZA?oc=5",
-     "metrics": {},
-     "keyword": "Creatine",
-     "published_at": "2026-11-25T18:23:58+00:00",
-     "extra": {
-      "publisher": "HMP Global Learning Network"
-     },
-     "seen": {
-      "first": "2026-11-25T22:37:20+00:00",
-      "last": "2026-11-25T22:37:20+00:00",
-      "count": 1,
-      "best": 24,
-      "worst": 24
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "Supplement Interactions: Lab Tests They Can Change",
-     "rank": 12,
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbVNld2FMaV9MNjBUb0tOLTZHY1BPT0VBT0I4UVZfQkNfWTF6QTBaSnBEYXo5aWRmaUxQZTkyRzNDSHlqalRTTVozWGo0cjN1RnR0Z0RSNWxxVHVuWWdQWWZudkRtT0pKbnFaeHMwU0MtV3lyakhGSVVzR0E0ZjVXdG9uSmtzMGdrMy1lY0JFaw?oc=5",
-     "metrics": {},
-     "keyword": "Creatine",
-     "published_at": "2026-11-25T18:20:04+00:00",
-     "extra": {
-      "publisher": "Kantesti - AI Blood Test Analyzer"
-     },
-     "seen": {
-      "first": "2026-11-25T22:37:20+00:00",
-      "last": "2026-11-25T22:37:20+00:00",
-      "count": 1,
-      "best": 12,
-      "worst": 12
-     }
-    },
-    {
-     "new": true,
-     "trending": false,
-     "source": "news_keyword",
-     "platform": "news",
-     "title": "eBay Live is putting luxury watches, designer handbags and more up for auction from just £1 this Black Friday",
+     "title": "Your agents will inherit your mediation layer",
      "rank": 53,
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUmpqcXRDY05BLTU2WUdKajd5ZVJTdnNHcGdCN095Wl9qWEtMcnNaTFdBRG4wRTMwdHMwd09TaFdHT0NLV3lsN09lc1V0LVJFeWlMcFFvUzBsaElRdlN4OHVIZHd2cmY2dlQtQ2dGdEdMSHY0VzVkbGIwVzRuclZ5bDlOLUhVY0kxd2hUczFNWlBuU2t4eDVCTW0zUkRWTGpQRk5yaTdwc3p3dw?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS0NsQkJqMC1JelBqQ0dqb3loakVTMHV0SzFwZ2ZpQ1ZaMHk1OXBlTmhZc01FRGRLVEJvZF9ndHFFTXhYMjBzWHZvemt3TjhoVlFHYVVPVGdVcGV5bnpnUWtHeUhrTGlzT0ZkeHgxd3N2bGppV0ZaOURCLTB1cTJTOUdPZ3poeGo3R2FKUmNSMXA2eXlHYmJuLVlB?oc=5",
      "metrics": {},
-     "keyword": "Creatine",
-     "published_at": "2026-11-25T16:56:04+00:00",
+     "keyword": "AI agents",
+     "published_at": "2026-11-25T20:31:58+00:00",
      "extra": {
-      "publisher": "LADbible"
+      "publisher": "TM Forum Inform"
      },
      "seen": {
-      "first": "2026-11-25T22:37:20+00:00",
-      "last": "2026-11-25T22:37:20+00:00",
+      "first": "2026-11-26T00:29:13+00:00",
+      "last": "2026-11-26T00:29:13+00:00",
       "count": 1,
       "best": 53,
       "worst": 53
@@ -990,21 +493,21 @@
      "trending": false,
      "source": "news_keyword",
      "platform": "news",
-     "title": "Oura Ring 5 review: The world’s smallest smart ring is £100 off for Black Friday",
-     "rank": 38,
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOekVEa2dzeldSNEtPLXBFNElMVDdzYXJEVnBtNHhKdzlUZFNLaG96Njk5LTJrN2J4dGRSUnZ5aGhtQjF0SDl3WHVvSmJqRmVsbDRTRnZHMXo5R3N2djNpSG1NYXA0cjh0TVFaYU92c1l4NDMtZ0tKSE1xSFZsVFI2UEdIcVM?oc=5",
+     "title": "Your eDiscovery Playbook Should Account For Employees’ AI Agents",
+     "rank": 19,
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb29xZk5DcEloaG5YYWJ2RnkyOVRLUTVBSFhtVjlSOXVHSTM4LXFUZ2dfVjBRTTBGOWpCNzVqd3VCbU1FMG81NlBfU1hpNldYMTllZlJjR3lfY3pPcWVMRmJIcWJUQUt1aTUtZWIwN0NTS24yWkRNTWNnMzFwbFlJSmxtamR2N2ZtaDBuWXZuUEVNbWc5a0p0Y2JyXzRWRWVMMW5OVUlBV3FaRm4xT1hybjBGNWVaWDYxSlVLb2E3NzJiWEtO?oc=5",
      "metrics": {},
-     "keyword": "Creatine",
-     "published_at": "2026-11-25T16:51:45+00:00",
+     "keyword": "AI agents",
+     "published_at": "2026-11-25T20:20:37+00:00",
      "extra": {
-      "publisher": "Women's Health"
+      "publisher": "Legal 500"
      },
      "seen": {
-      "first": "2026-11-25T22:37:20+00:00",
-      "last": "2026-11-25T22:37:20+00:00",
+      "first": "2026-11-26T00:29:13+00:00",
+      "last": "2026-11-26T00:29:13+00:00",
       "count": 1,
-      "best": 38,
-      "worst": 38
+      "best": 19,
+      "worst": 19
      }
     },
     {
@@ -1012,21 +515,21 @@
      "trending": false,
      "source": "news_keyword",
      "platform": "news",
-     "title": "Should You Take Creatine to Maintain Muscle Strength as You Age?",
-     "rank": 7,
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXdCOExWQ2tVck12eFA2N09HX18zd2pqeHlOeENhWjBoWnRybUxUZ0pFUEpwSFhCSjFvMnZIRmVCZkxfVG1DX2NGcW1ERUNLNWNtTkl5UVNocTVjMXR2MDNTQnVvRVVQQXYzQ3Bqd1plc1d3TXV5SU1MVFdSMk1wN25OOGdnekw1?oc=5",
+     "title": "39 leaders on the AI risks companies are missing",
+     "rank": 96,
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM1JwZUtoN3RDbWszYkw1QVVkdzJrWUR5LTdncDVEckZlRXhmUk5UODI5ZGxZUzVBd3AwQlJzbDNpdjltNGhEUDJKVkZzaVV2Y1ktekpwNVI1Q0ZPWUVzNWF0MF9iOEdHVnpBSUI4MjU3aVplSllEWEI4MjJTSzlTQTVQMGdEUkdPN2NTVW9B?oc=5",
      "metrics": {},
-     "keyword": "Creatine",
-     "published_at": "2026-11-25T16:35:40+00:00",
+     "keyword": "AI agents",
+     "published_at": "2026-11-25T19:37:04+00:00",
      "extra": {
-      "publisher": "AOL.com"
+      "publisher": "Fast Company"
      },
      "seen": {
-      "first": "2026-11-25T22:37:20+00:00",
-      "last": "2026-11-25T22:37:20+00:00",
+      "first": "2026-11-26T00:29:13+00:00",
+      "last": "2026-11-26T00:29:13+00:00",
       "count": 1,
-      "best": 7,
-      "worst": 7
+      "best": 96,
+      "worst": 96
      }
     },
     {
@@ -1034,21 +537,533 @@
      "trending": false,
      "source": "news_keyword",
      "platform": "news",
-     "title": "Best Black Friday sports deals 2026: Boots, shirts, gaming & training gear",
-     "rank": 30,
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc1AwSjBfVXpSaUpxSDZqOFJaZ01ZREVlOF9BVTF6NVkySjZXcVpvRkRNVHFGUUdUZ2NGOHJFZFQtcGNmSk9ObzduaC1qOTBUTmdBcENpTVNPdzhOVmpNOW5BWTdiSnVsc2FOQk56VzJQTTl3YUhFUGFrRjFaWUpFMzN2VkE?oc=5",
+     "title": "Leash Biosciences Raises $11M to Expand Automated Lab for AI Drug Discovery -",
+     "rank": 94,
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNjNscU9BWV9aeUZZQXVrTW9yZlk5YWllNEloYmV4U3JRWXdicnlDVlpGQWpnTWgxclp6RHA4MzRoNk9lZng1VzZoa3VwRGs2em1oajNPbUdYcFFkU08wVlU5SlhhTjQxdXBHTVd5YmVmZGpIRHZIbUxTb1ZZc0VZQzJrUTdGTlZqLS0zUnJod3l2eWNXdnFLNm5wRWhHVjZpeE8xSw?oc=5",
      "metrics": {},
-     "keyword": "Creatine",
-     "published_at": "2026-11-25T16:31:23+00:00",
+     "keyword": "AI agents",
+     "published_at": "2026-11-25T19:18:18+00:00",
+     "extra": {
+      "publisher": "HIT Consultant"
+     },
+     "seen": {
+      "first": "2026-11-26T00:29:13+00:00",
+      "last": "2026-11-26T00:29:13+00:00",
+      "count": 1,
+      "best": 94,
+      "worst": 94
+     }
+    },
+    {
+     "new": true,
+     "trending": false,
+     "source": "news_keyword",
+     "platform": "news",
+     "title": "AI Agents Will Create More Bullshit Jobs | Tejas Bhakta｜MTS",
+     "rank": 93,
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UUDVCZmpCVWRjQjI0bk5zVjA2b01HSk1QUDhfeGh3XzBlbWtyLUdiTXdUT2ZBQjJDWGxpcUItdExGdnhWYW1zNXRYWGtKNWE3VkxwMDVqSFJSS0szNE9n?oc=5",
+     "metrics": {},
+     "keyword": "AI agents",
+     "published_at": "2026-11-25T19:08:26+00:00",
+     "extra": {
+      "publisher": "finance.biggo.com"
+     },
+     "seen": {
+      "first": "2026-11-26T00:29:13+00:00",
+      "last": "2026-11-26T00:29:13+00:00",
+      "count": 1,
+      "best": 93,
+      "worst": 93
+     }
+    },
+    {
+     "new": true,
+     "trending": false,
+     "source": "news_keyword",
+     "platform": "news",
+     "title": "Autonomous AI agents are giving everyday hackers ‘nation-state’ firepower, cyber expert reveals",
+     "rank": 47,
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ180aXFlaEdQTE9FcGZkbTlWX25PSUFZTEVUS1FldkdiSmQ3RTVucU1iaU1WZS1DNlRfQmFZeC1fRzdLMXZjLXU5MWh0cVFFbktWYnZ6azYwejI3U0loODRzakpOTWlCaHdIelFCc0drS1BTRTFvQi1MYTdQWWdiNXV2LUQwS0JXb0lDclRudkNIR2xWS1JtU2s2S1FJSExjaDlHdlgxWVJkcU1va2RMR3JrXzJ0UdIBuwFBVV95cUxOYUVfbkM2UVhXLXpMdkF3OTlTcV9uSDRtUUl6Y1EyVm5rZnNJLWhzUTlNUjNnSGhtajZhamtuOFFud2xkVEhwZFVSdWFwZF8wek5FZUtKb00tVDdLeFRtblBvNUczSXdWNnFtcHdUOEd2T1pYUG9fR1FCZ2l5anRZRHNxbjktRndyNk5DRld0SG1NcWkxQ1FlRGMwSk1QdHU4WDlBQlFpcVdJSWZvYTZiaFZoT0hYZHpnM1NR?oc=5",
+     "metrics": {},
+     "keyword": "AI agents",
+     "published_at": "2026-11-25T18:43:29+00:00",
+     "extra": {
+      "publisher": "Fox News"
+     },
+     "seen": {
+      "first": "2026-11-26T00:29:13+00:00",
+      "last": "2026-11-26T00:29:13+00:00",
+      "count": 1,
+      "best": 47,
+      "worst": 47
+     }
+    }
+   ]
+  },
+  {
+   "name": "Skincare",
+   "total": 98,
+   "new": 14,
+   "search": [],
+   "hits": [
+    {
+     "new": true,
+     "trending": false,
+     "source": "news_keyword",
+     "platform": "news",
+     "title": "Reality Star, 67, Loves This Luxury Face Cream—and It’s $50 Off for Black Friday",
+     "rank": 20,
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQjFORTJVVGdTTWYteDJLa3FZM1JsOXZSbkpYa1BOLXRadlNERXpMOWdKQ2tLYzFLMk15a3ZYbDRFajMyeDBsdnZ3SF9sVmJRcDhaRnA1OFdLdm9OZ2JibTVjWjBmY0NKSTNuSEdpZ3ZYdmhualU4V1ZnN3BhV2ZwNnpaMGQzdkd5c3luYw?oc=5",
+     "metrics": {},
+     "keyword": "Skincare",
+     "published_at": "2026-11-25T23:07:22+00:00",
+     "extra": {
+      "publisher": "The Daily Beast"
+     },
+     "seen": {
+      "first": "2026-11-26T00:29:13+00:00",
+      "last": "2026-11-26T00:29:13+00:00",
+      "count": 1,
+      "best": 20,
+      "worst": 20
+     }
+    },
+    {
+     "new": true,
+     "trending": false,
+     "source": "news_keyword",
+     "platform": "news",
+     "title": "HTS Guide Finds Most Make-Up and Skin Care Carry a Free Duty Rate",
+     "rank": 27,
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeGk5bzdCRnFSOWlhc2ZUaVBxLUllbmRuZ2JxMTBpQ0FrNVl1QUxPdU1Qb0ZGSU10RmVRYi1xUHRxQ04wTkZhUFN1clpmWDZWbTBZTkhKNXhnM3FMd0ttTG5Mc1NfWi1YUjMzUm5aNUxOS05McHF1Qi1RUGZGMGZHMFRKdE4yaUVmdEZWanVOdVY2MXdRR3ZmQzc0a3lCMlV2YXVrMndrSWtXMXRTOGdFVF9sVE1xTFdDX3Btb3V3?oc=5",
+     "metrics": {},
+     "keyword": "Skincare",
+     "published_at": "2026-11-25T21:44:16+00:00",
+     "extra": {
+      "publisher": "Bergen Record"
+     },
+     "seen": {
+      "first": "2026-11-26T00:29:13+00:00",
+      "last": "2026-11-26T00:29:13+00:00",
+      "count": 1,
+      "best": 27,
+      "worst": 27
+     }
+    },
+    {
+     "new": true,
+     "trending": false,
+     "source": "news_keyword",
+     "platform": "news",
+     "title": "Black Friday Boost for 'K-Beauty'... '8' of the Top 10 U.S. Amazon Skincare Bestsellers",
+     "rank": 93,
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yOVdSMTlKRlMwWldqLVRncThLUHdBRnJJZ3d3Ni1IZ3RtZXl5RW1CZ2RmSG81SWo1Z0dKcEhwa2VwVXhuRXFabnJ1bGY2TEVMT0NEaEhwVEFZUkdFOTJQUzdxYUc?oc=5",
+     "metrics": {},
+     "keyword": "Skincare",
+     "published_at": "2026-11-25T21:38:00+00:00",
+     "extra": {
+      "publisher": "아시아경제"
+     },
+     "seen": {
+      "first": "2026-11-26T00:29:13+00:00",
+      "last": "2026-11-26T00:29:13+00:00",
+      "count": 1,
+      "best": 93,
+      "worst": 93
+     }
+    },
+    {
+     "new": true,
+     "trending": false,
+     "source": "news_keyword",
+     "platform": "news",
+     "title": "Korean skin care startup ARTICLIP targets global growth with ingredient focus",
+     "rank": 92,
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZm1PT1NWZVUyVzQ3d2drWExHLWZ0QXJUQTItNUUyQm1wMTdfb3F0MWozZktpOXdvRW9MazBqZXJlaXlvWGtwUlFLVWZ6OFdvaHQ3YVA3YzJjUklEVG9VVmhYcWNtWDNaSVNKdG0yWV9GOEtTMEtQWHpDNVBNQXdEcnd30gGWAUFVX3lxTE1kVlB2NjdIQlpnZ2EweE1uUmt4NjZwbGpXQ2VMLVdWdGFLXzZGN0l2dlpPUTlxX2xDRjEwLVphTWFoNm4wTzNLRkxsQUxZNjR5SF9yNHNUTDBtbEVwa3psQVpKV3otZjlYYVBOWVZPME0xM2N6V2VNeDRadUtYT25LZFZHNThMaENxNTBLUWt0WWF1WWRpUQ?oc=5",
+     "metrics": {},
+     "keyword": "Skincare",
+     "published_at": "2026-11-25T21:00:00+00:00",
+     "extra": {
+      "publisher": "Chosunbiz"
+     },
+     "seen": {
+      "first": "2026-11-26T00:29:13+00:00",
+      "last": "2026-11-26T00:29:13+00:00",
+      "count": 1,
+      "best": 92,
+      "worst": 92
+     }
+    },
+    {
+     "new": true,
+     "trending": false,
+     "source": "news_keyword",
+     "platform": "news",
+     "title": "We tried Laneige’s cult-favorite products so you don’t have to gamble on what to buy",
+     "rank": 37,
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObVJ6cVE0ZkJtWktyNk1fNWxrNGRRQXM4dm5mSk5pQ2pMTzN2ZVozV2xHTjlkUExCT3FBWE1NeFh1c0MyaWJQY0lvMWk4SjRZZjJNSlpiVG5jSWJGSW91MFZEWnB0aEUxNXRCeVVEYnBVWXBPQjJ5MThWbHdJQno1MklUNG9DLXViT3FnRGxESXl5RF9JQjZpVzB3LTJ0U0FaR3lld0p3?oc=5",
+     "metrics": {},
+     "keyword": "Skincare",
+     "published_at": "2026-11-25T20:52:46+00:00",
      "extra": {
       "publisher": "Yahoo"
      },
      "seen": {
-      "first": "2026-11-25T22:37:20+00:00",
-      "last": "2026-11-25T22:37:20+00:00",
+      "first": "2026-11-26T00:29:13+00:00",
+      "last": "2026-11-26T00:29:13+00:00",
       "count": 1,
-      "best": 30,
-      "worst": 30
+      "best": 37,
+      "worst": 37
+     }
+    },
+    {
+     "new": true,
+     "trending": false,
+     "source": "news_keyword",
+     "platform": "news",
+     "title": "‘The Best Thing I’ve Ever Tried For My Crepey Thighs’ Is Finally 25% Off",
+     "rank": 48,
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZGsxV1JFaVhyOGFKOTNJUl9Ja1ptOXNoTnA0WEJTcEp0YlFXUHprbncxd2dxZ2dvVS15bVcxeEF0aGgxQmVCOHNfSVpHZHhab1RCVTFOdVBHTEJoN1dOV1ZyZXBNbEFmeUJqSHVMRVo5cnk0LS00US1BX1VIZmRkNkJVcjAxRmt2QmdCWU41S3Z5dWVXemc?oc=5",
+     "metrics": {},
+     "keyword": "Skincare",
+     "published_at": "2026-11-25T18:00:18+00:00",
+     "extra": {
+      "publisher": "Yahoo"
+     },
+     "seen": {
+      "first": "2026-11-26T00:29:13+00:00",
+      "last": "2026-11-26T00:29:13+00:00",
+      "count": 1,
+      "best": 48,
+      "worst": 48
+     }
+    },
+    {
+     "new": true,
+     "trending": false,
+     "source": "news_keyword",
+     "platform": "news",
+     "title": "Former La Mer chemist launches affordable skincare brand French girls are loving",
+     "rank": 97,
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcVp1R3IyME5fOUx1WHZpUzh0OXRhOTNRSFV3Z2lDdHd5YWNrcXZPVVBiWTM5dUhsWUl3cV9BN1owRXN0eENmNXB4akJXTFlSZGtqQVY5QXQ1eUppdjZCMmdnSm5HTkVzTS1pSVVuU1laTlVSdlpadVowWXVnRVdUOA?oc=5",
+     "metrics": {},
+     "keyword": "Skincare",
+     "published_at": "2026-11-25T17:29:58+00:00",
+     "extra": {
+      "publisher": "EVOKE"
+     },
+     "seen": {
+      "first": "2026-11-26T00:29:13+00:00",
+      "last": "2026-11-26T00:29:13+00:00",
+      "count": 1,
+      "best": 97,
+      "worst": 97
+     }
+    },
+    {
+     "new": true,
+     "trending": false,
+     "source": "news_keyword",
+     "platform": "news",
+     "title": "Gwyneth Paltrow’s ‘Liquid Gold’ Face Oil Keeps Fine Lines and Wrinkles at Bay, Per Shoppers (On Sale!)",
+     "rank": 79,
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPck9GYW94NWhHUTc3WWMwTW00b094TEFhLU1yS0FlUTA2bE5acktYOW5Hbi1fakhENEhsM2VSS0dKdG5EdERhNjAtWDVTcHNaTjBrbVdlWFVIdmhLMjk4MFR2U2htZkgxTlNHRUtxRGtfSnVTSnpZczRiS2dseXh4dV9n?oc=5",
+     "metrics": {},
+     "keyword": "Skincare",
+     "published_at": "2026-11-25T16:49:00+00:00",
+     "extra": {
+      "publisher": "AOL.com"
+     },
+     "seen": {
+      "first": "2026-11-26T00:29:13+00:00",
+      "last": "2026-11-26T00:29:13+00:00",
+      "count": 1,
+      "best": 79,
+      "worst": 79
+     }
+    },
+    {
+     "new": true,
+     "trending": false,
+     "source": "news_keyword",
+     "platform": "news",
+     "title": "Jennifer Rock: Beware the perils of the skincare graveyard",
+     "rank": 80,
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMDg1eE9paTlHWkNxdG9SRW5tQklBdzVmWUUwNFVhRzU3enFpdms4ck9vZXg4Wk55VGhpWk1yOEd5RWJxX29XLVFrNXpVaWlUMjJsaUhiQV9GYTFiSTRJQmpkVmItaTFxZV83UlZCMk1fQkt0WTExbTNRUjVfRUNuX3FtRFZGM01jZFluT1ZwSndONnZvSHdvcm9qX3MwZlU?oc=5",
+     "metrics": {},
+     "keyword": "Skincare",
+     "published_at": "2026-11-25T16:09:58+00:00",
+     "extra": {
+      "publisher": "Business Post"
+     },
+     "seen": {
+      "first": "2026-11-26T00:29:13+00:00",
+      "last": "2026-11-26T00:29:13+00:00",
+      "count": 1,
+      "best": 80,
+      "worst": 80
+     }
+    },
+    {
+     "new": true,
+     "trending": false,
+     "source": "news_keyword",
+     "platform": "news",
+     "title": "My Secret to Staying Fresh After Exercising—Lume Body Cleansing Bar is 53% Off for Black Friday",
+     "rank": 1,
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdEpXREFwLTdqT0pMai1CT29VVXpyQ3dwMjdmUGFmOXJKQndqTjlnQTVwdXlZMTBodGlqSTV0M09kZk1jY1h4U0VXWjlTcDZENl9iLTRkRGVsbWN5YnBkemNlMTNkeW1kazRfdDF5TjdtdnAxc2Z5R3BoTWRBME1LTU1HdWhZanItLWc?oc=5",
+     "metrics": {},
+     "keyword": "Skincare",
+     "published_at": "2026-11-25T16:03:00+00:00",
+     "extra": {
+      "publisher": "Women's Health"
+     },
+     "seen": {
+      "first": "2026-11-26T00:29:13+00:00",
+      "last": "2026-11-26T00:29:13+00:00",
+      "count": 1,
+      "best": 1,
+      "worst": 1
+     }
+    }
+   ]
+  },
+  {
+   "name": "Creatine",
+   "total": 28,
+   "new": 2,
+   "search": [],
+   "hits": [
+    {
+     "new": true,
+     "trending": false,
+     "source": "news_keyword",
+     "platform": "news",
+     "title": "Dana Fulton creatine short",
+     "rank": 3,
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRkNadmVVcm1UWkRtUHkzSUM2YWhoVmppVHladU8wUzNjNnRSdlphTDBpd2xSWDJXSC0tanZVaC1PVlhPaVU2NG14bHFqV3l1ZTRBOW9YQUFsNk9mRTl5MUU1TEVrVGFRQ19VTXNjM1ZUNTREektLMmQwUjhaMFdsZW04OVZpN0w2bkFNaDFmT0g1N0xITi01MEhR?oc=5",
+     "metrics": {},
+     "keyword": "Creatine",
+     "published_at": "2026-11-25T21:01:03+00:00",
+     "extra": {
+      "publisher": "WKOW"
+     },
+     "seen": {
+      "first": "2026-11-26T00:29:13+00:00",
+      "last": "2026-11-26T00:29:13+00:00",
+      "count": 1,
+      "best": 3,
+      "worst": 3
+     }
+    },
+    {
+     "new": true,
+     "trending": false,
+     "source": "news_keyword",
+     "platform": "news",
+     "title": "Creatine Is Moving Beyond the Weight Room, Especially Among Adults 55 and Older",
+     "rank": 5,
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOXzFZSk1XRjR2VlFFcWN0eGZXUDdrNGx4TVV0R2FBeE1FUEQ1QjZYaXZaX0tvSGhiT1ZCVmxoS2tVY3hLN1lZWFA2Qjhwck9CX1JIY3RMVG11SWI1T3FCQ3NSQmV2b1NGSEhKa1dxT2JIdUw0OXdWQ1JjTzlHRUI1WmQweC1EaTdmUWJ2MXFmNkFTbFczbHg3M3pmX2FicExnTHRvUThoTnlINVA0UGt2bGpleEY?oc=5",
+     "metrics": {},
+     "keyword": "Creatine",
+     "published_at": "2026-11-25T16:35:40+00:00",
+     "extra": {
+      "publisher": "Men's Journal"
+     },
+     "seen": {
+      "first": "2026-11-26T00:29:13+00:00",
+      "last": "2026-11-26T00:29:13+00:00",
+      "count": 1,
+      "best": 5,
+      "worst": 5
+     }
+    },
+    {
+     "new": false,
+     "trending": false,
+     "source": "hackernews_keyword",
+     "platform": "hackernews",
+     "title": "A few hours ago Google DeepMind created a math horizon repo",
+     "rank": 3,
+     "url": "https://github.com/google-deepmind/math-horizon",
+     "metrics": {
+      "points": 47.0,
+      "comments": 32.0
+     },
+     "keyword": "Creatine",
+     "published_at": "2026-11-20T21:42:21Z",
+     "extra": {
+      "discussion": "https://news.ycombinator.com/item?id=50582629"
+     },
+     "seen": {
+      "first": "2026-11-20T22:41:48+00:00",
+      "last": "2026-11-26T00:29:13+00:00",
+      "count": 19,
+      "best": 2,
+      "worst": 5
+     }
+    },
+    {
+     "new": false,
+     "trending": false,
+     "source": "hackernews_keyword",
+     "platform": "hackernews",
+     "title": "U.S. Army to Blow Up Old Ammo, Creating Toxic Cloud over Iowa",
+     "rank": 1,
+     "url": "https://www.nytimes.com/2026/11/19/climate/iowa-ammunition-explosion-lead-dust.html",
+     "metrics": {
+      "points": 8.0,
+      "comments": 1.0
+     },
+     "keyword": "Creatine",
+     "published_at": "2026-11-19T16:43:08Z",
+     "extra": {
+      "discussion": "https://news.ycombinator.com/item?id=50562453"
+     },
+     "seen": {
+      "first": "2026-11-19T21:39:43+00:00",
+      "last": "2026-11-26T00:29:13+00:00",
+      "count": 23,
+      "best": 1,
+      "worst": 2
+     }
+    },
+    {
+     "new": false,
+     "trending": false,
+     "source": "hackernews_keyword",
+     "platform": "hackernews",
+     "title": "Ask HN: Where the company's employees launch the tools that Claude created",
+     "rank": 4,
+     "url": "https://news.ycombinator.com/item?id=50598355",
+     "metrics": {
+      "points": 6.0,
+      "comments": 7.0
+     },
+     "keyword": "Creatine",
+     "published_at": "2026-11-22T10:47:34Z",
+     "extra": {
+      "discussion": "https://news.ycombinator.com/item?id=50598355"
+     },
+     "seen": {
+      "first": "2026-11-23T22:05:12+00:00",
+      "last": "2026-11-26T00:29:13+00:00",
+      "count": 9,
+      "best": 4,
+      "worst": 6
+     }
+    },
+    {
+     "new": false,
+     "trending": false,
+     "source": "hackernews_keyword",
+     "platform": "hackernews",
+     "title": "Show HN: A free creative suite, built in Rust, for AI collaboration",
+     "rank": 2,
+     "url": "https://codeyam.com/apps/cadyam",
+     "metrics": {
+      "points": 5.0,
+      "comments": 8.0
+     },
+     "keyword": "Creatine",
+     "published_at": "2026-11-23T16:17:11Z",
+     "extra": {
+      "discussion": "https://news.ycombinator.com/item?id=50614327"
+     },
+     "seen": {
+      "first": "2026-11-23T22:05:12+00:00",
+      "last": "2026-11-26T00:29:13+00:00",
+      "count": 9,
+      "best": 2,
+      "worst": 2
+     }
+    },
+    {
+     "new": false,
+     "trending": false,
+     "source": "news_keyword",
+     "platform": "news",
+     "title": "LIFE-SELF-CREATINE-FILEPIC-DMT",
+     "rank": 9,
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZUpUTnJ4TTlTYl9aN080OEZoTkFRZWxIdXR1OW44VTBWYm1kM2NXM1ZHSVJoN3VOVWdNU1d5WU9oMEhldW8xM09hSXBnQ1BCdzd5MTZ2NGFOT0YyalYyNHQtc2wzdGhkVFNfb0p0QzJ3ZjdwY04yc1d5UElwY1c5cjhWVkx2R2psWlJWcVVGTFFJTmlBMmU1VQ?oc=5",
+     "metrics": {},
+     "keyword": "Creatine",
+     "published_at": "2026-11-25T15:35:12+00:00",
+     "extra": {
+      "publisher": "TelegraphHerald.com"
+     },
+     "seen": {
+      "first": "2026-11-25T22:37:20+00:00",
+      "last": "2026-11-26T00:29:13+00:00",
+      "count": 2,
+      "best": 6,
+      "worst": 9
+     }
+    },
+    {
+     "new": false,
+     "trending": false,
+     "source": "news_keyword",
+     "platform": "news",
+     "title": "Creatine Use Among College Students Nearly Doubles",
+     "rank": 24,
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQmp1WlJLaHFmRW5wTjlYUTlrQ0p2TXp0QjVWSEdwNUx0NHd3bUl2eHNqX3JSOUl4UGc4VE9zT21DbUVDYmcyblVkd1pQMS0tTXNDYWgyRlVvLS1RRHc0eFhHZ0R4SzNaQlpKTzMyNnhMbDFBdEl5ZDc0TDVySGd2cXJiSjV2Q29HSlVtUEpJWQ?oc=5",
+     "metrics": {},
+     "keyword": "Creatine",
+     "published_at": "2026-11-25T15:33:44+00:00",
+     "extra": {
+      "publisher": "Wisevoter"
+     },
+     "seen": {
+      "first": "2026-11-25T22:37:20+00:00",
+      "last": "2026-11-26T00:29:13+00:00",
+      "count": 2,
+      "best": 24,
+      "worst": 49
+     }
+    },
+    {
+     "new": false,
+     "trending": false,
+     "source": "news_keyword",
+     "platform": "news",
+     "title": "The Best Gift You Can Give to Anyone Building Muscle Is This",
+     "rank": 4,
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZkRiWV9LVUJFeUU2UTVtNDZORWxGSXBmdEdFb0ZEMlVLamhBd0FXUTV1YUR0T1hTdGc3dlFDcno1QW1lNDNPZC1sSkM2djhLc3VBTUFtRnVzQW95RGdfWXZBSzU2NGp4SVdWMDRkcThTN0FRdzlzMmFIQ3NTcDJWOFVpbGkxby1aNEtQMHZNQ2RMb0RYZ2ZpOE42MkxBMmlJQTVMM3JKWVNkUQ?oc=5",
+     "metrics": {},
+     "keyword": "Creatine",
+     "published_at": "2026-11-25T14:30:00+00:00",
+     "extra": {
+      "publisher": "Flow Space"
+     },
+     "seen": {
+      "first": "2026-11-25T22:37:20+00:00",
+      "last": "2026-11-26T00:29:13+00:00",
+      "count": 2,
+      "best": 3,
+      "worst": 4
+     }
+    },
+    {
+     "new": false,
+     "trending": false,
+     "source": "news_keyword",
+     "platform": "news",
+     "title": "TNT Mercury infuses its extremely low-priced Atomic Mega Whey with 5g of creatine",
+     "rank": 17,
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DMFc2eFZWbm1IN2VXQnlxUVJjLWlQWFo5R01oQTFLVEZDa2J6a0RXS2ZyYnhxZ3JmS29tbVZPUU9mZnZOckRESERpZlhNTThUTEpKcWhaZEt6bnZWaTB5bUxBUzk3RU5tMHdvcnNB?oc=5",
+     "metrics": {},
+     "keyword": "Creatine",
+     "published_at": "2026-11-25T13:42:00+00:00",
+     "extra": {
+      "publisher": "Stack3d"
+     },
+     "seen": {
+      "first": "2026-11-25T14:30:34+00:00",
+      "last": "2026-11-26T00:29:13+00:00",
+      "count": 3,
+      "best": 17,
+      "worst": 20
      }
     }
    ]
